@@ -1,0 +1,692 @@
+{
+  "header": "CNR No.MHPU01­000210­2018 Pavan Vikas Ovhal Vs. State of Maharashtra ( Bibwewadi Police Station ) Order below exh. 1 in Cri. Bail application No.55/2019",
+  "background": {
+    "text": "1. This is an application U/s.439 of Cr.P.C. filed by the applicant­accused for grant of bail in connection with Crime No.333/2018, registered with Bibwewadi Police Station for the offence punishable u/s.397 r/w.s. 34 of the Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "u/s.439 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "397,34",
+          "stringMatched": "u/s.397 r/w.s. 34 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2. Prosecution case is that on 01/12/2018, informant­ Sarayya Arjunrao Allam received one unknown phone call, and he was called for giving medicines at Upper Bibwewadi, Pune, therefore, he had gone to the said place, at that time, two boys arrived there and took informant in vacant land and assaulted him, and made demand of amount, at that time colleague of the said two boys arrived there, and inflicted blow of wooden long on informant, and they have snatched one bag, ATM card, cash amount of Rs.1500/­, medicines etc. Informant rescued himself and ran away from the said place, and admitted in hospital. On the basis of report lodged by informant, a crime No.333/2018 came to be registered at Bibwewadi Police. During investigation, it is disclosed that present applicant/accused along with other accused have committed road dacoity and also caused injuries to the informant.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Prosecution case is that on 01/12/2018, informant­ Sarayya Arjunrao Allam received one unknown phone call, and he was called for giving medicines at Upper Bibwewadi, Pune, therefore, he had gone to the said place, at that time, two boys arrived there and took informant in vacant land and assaulted him, and made demand of amount, at that time colleague of the said two boys arrived there, and inflicted blow of wooden long on informant, and they have snatched one bag, ATM card, cash amount of Rs.1500/­, medicines etc.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Informant rescued himself and ran away from the said place, and admitted in hospital.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "On the basis of report lodged by informant, a crime No.333/2018 came to be registered at Bibwewadi Police.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "During investigation, it is disclosed that present applicant/accused along with other accused have committed road dacoity and also caused injuries to the informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3. Learned counsel for the applicant/accused submitted that applicant/accused has not committed any offence, he has been falsely implicated in this offence. He further submitted that applicant/accused on his accord, admitted in hospital itself shows that no grievous injuries caused to him, therefore section 397 of IPC would not be attracted. He further submitted that name of present applicant/accused is not mentioned in the FIR. There is no incriminating articles recovered from the applicant/accused. He further submitted that practically investigation is completed. Therefore, custodial interrogation of applicant/accused is now not necessary, therefore, he be released on bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Learned counsel for the applicant/accused submitted that applicant/accused has not committed any offence, he has been falsely implicated in this offence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He further submitted that applicant/accused on his accord, admitted in hospital itself shows that no grievous injuries caused to him, therefore section 397 of IPC would not be attracted.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "He further submitted that name of present applicant/accused is not mentioned in the FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "There is no incriminating articles recovered from the applicant/accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He further submitted that practically investigation is completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Therefore, custodial interrogation of applicant/accused is now not necessary, therefore, he be released on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4. On the other hand, learned APP submitted that investigation is in progress, identification parade of the accused ie yet to be completed. He further submitted that on the basis of statement given by accused­ Pavan Ovhal, one black colour bag and medicines (tablets), yellowish powder etc were seized by Investigating officer as per section 27 of the Evidence Act. He further submitted that as investigation is yet to be completed, if applicant/accused is released on bail, there is possibility of tampering the prosecution evidence.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On the other hand, learned APP submitted that investigation is in progress, identification parade of the accused ie yet to be completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He further submitted that on the basis of statement given by accused­ Pavan Ovhal, one black colour bag and medicines (tablets), yellowish powder etc were seized by Investigating officer as per section 27 of the Evidence Act.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "He further submitted that as investigation is yet to be completed, if applicant/accused is released on bail, there is possibility of tampering the prosecution evidence.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5. On perusing case diary, prima facie, it reveals that on 01/12/2018, informant­ Sarayya Arjunrao Allam lodged report at Bibwewadi Police station, alleging that on 01/12/2018 at about 07­30 p.m., he received one unknown phone call, and he was called for giving medicines at Upper Bibwewadi, Pune, therefore, he had gone to the said place, at that time, two boys arrived there and took informant in vacant land and assaulted him, and made demand of amount, at that time colleague of the said two boys arrived there, and inflicted blow of wooden long on the head of informant. Assuming that injured has not caused grievous injuries, but certainly he caused injury on his head. Moreover, it seems that prima facie offence u/s. 395 of the Indian Penal Code,which is non­bailable is attracted in this case. Moreover, it seems that investigation is in progress and identification parade of arrested accused is yet to be completed. Therefore, in my view, at this stage, if applicant/accused is released on bail, there is every possibility of tampering the prosecution evidence. Thus, applicant/accused is not entitled to 3 release on bail. Hence, I pass following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On perusing case diary, prima facie, it reveals that on 01/12/2018, informant­ Sarayya Arjunrao Allam lodged report at Bibwewadi Police station, alleging that on 01/12/2018 at about 07­30 p.m., he received one unknown phone call, and he was called for giving medicines at Upper Bibwewadi, Pune, therefore, he had gone to the said place, at that time, two boys arrived there and took informant in vacant land and assaulted him, and made demand of amount, at that time colleague of the said two boys arrived there, and inflicted blow of wooden long on the head of informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Assuming that injured has not caused grievous injuries, but certainly he caused injury on his head.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Moreover, it seems that prima facie offence u/s. 395 of the Indian Penal Code,which is non­bailable is attracted in this case.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Moreover, it seems that investigation is in progress and identification parade of arrested accused is yet to be completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Therefore, in my view, at this stage, if applicant/accused is released on bail, there is every possibility of tampering the prosecution evidence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Thus, applicant/accused is not entitled to 3 release on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Hence, I pass following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER i. Application is rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Date : 09/01/2019 (K.D.Vadane) Additional Sessions Judge, Pune. 4 “I affirm that the contents of the PDF file Order are same word to word as per original judgment.” Name of Steno : Shri S. B. Gore, Stenographer Grade­I Court Name : K.D. Vadane , Addl. Sessions Judge, Pune Date : 09/01/2019 Order signed by presiding officer on : 09/01/2019 Order uploaded on : 09/01/2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "CNR No.MHPU01­000210­2018 Pavan Vikas Ovhal Vs. State of Maharashtra ( Bibwewadi Police Station ) Order below exh. 1 in Cri. Bail application No.55/2019 \r\n---header-ends---\r\n1. This is an application U/s.439 of Cr.P.C. filed by the applicant­accused for grant of bail in connection with Crime No.333/2018, registered with Bibwewadi Police Station for the offence punishable u/s.397 r/w.s. 34 of the Indian Penal Code. \r\n---background-ends---\r\n2. Prosecution case is that on 01/12/2018, informant­ Sarayya Arjunrao Allam received one unknown phone call, and he was called for giving medicines at Upper Bibwewadi, Pune, therefore, he had gone to the said place, at that time, two boys arrived there and took informant in vacant land and assaulted him, and made demand of amount, at that time colleague of the said two boys arrived there, and inflicted blow of wooden long on informant, and they have snatched one bag, ATM card, cash amount of Rs.1500/­, medicines etc. Informant rescued himself and ran away from the said place, and admitted in hospital. On the basis of report lodged by informant, a crime No.333/2018 came to be registered at Bibwewadi Police. During investigation, it is disclosed that present applicant/accused along with other accused have committed road dacoity and also caused injuries to the informant. \r\n---argument-ends---\r\n3. Learned counsel for the applicant/accused submitted that applicant/accused has not committed any offence, he has been falsely implicated in this offence. He further submitted that applicant/accused on his accord, admitted in hospital itself shows that no grievous injuries caused to him, therefore section 397 of IPC would not be attracted. He further submitted that name of present applicant/accused is not mentioned in the FIR. There is no incriminating articles recovered from the applicant/accused. He further submitted that practically investigation is completed. Therefore, custodial interrogation of applicant/accused is now not necessary, therefore, he be released on bail. \r\n---argument-ends---\r\n4. On the other hand, learned APP submitted that investigation is in progress, identification parade of the accused ie yet to be completed. He further submitted that on the basis of statement given by accused­ Pavan Ovhal, one black colour bag and medicines (tablets), yellowish powder etc were seized by Investigating officer as per section 27 of the Evidence Act. He further submitted that as investigation is yet to be completed, if applicant/accused is released on bail, there is possibility of tampering the prosecution evidence. \r\n---argument-ends---\r\n5. On perusing case diary, prima facie, it reveals that on 01/12/2018, informant­ Sarayya Arjunrao Allam lodged report at Bibwewadi Police station, alleging that on 01/12/2018 at about 07­30 p.m., he received one unknown phone call, and he was called for giving medicines at Upper Bibwewadi, Pune, therefore, he had gone to the said place, at that time, two boys arrived there and took informant in vacant land and assaulted him, and made demand of amount, at that time colleague of the said two boys arrived there, and inflicted blow of wooden long on the head of informant. Assuming that injured has not caused grievous injuries, but certainly he caused injury on his head. Moreover, it seems that prima facie offence u/s. 395 of the Indian Penal Code,which is non­bailable is attracted in this case. Moreover, it seems that investigation is in progress and identification parade of arrested accused is yet to be completed. Therefore, in my view, at this stage, if applicant/accused is released on bail, there is every possibility of tampering the prosecution evidence. Thus, applicant/accused is not entitled to 3 release on bail. Hence, I pass following order. \r\n---argument-ends---\r\nORDER i. Application is rejected. \r\n---order-ends---\r\nDate : 09/01/2019 (K.D.Vadane) Additional Sessions Judge, Pune. 4 “I affirm that the contents of the PDF file Order are same word to word as per original judgment.” Name of Steno : Shri S. B. Gore, Stenographer Grade­I Court Name : K.D. Vadane , Addl. Sessions Judge, Pune Date : 09/01/2019 Order signed by presiding officer on : 09/01/2019 Order uploaded on : 09/01/2019"
+}

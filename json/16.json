@@ -1,0 +1,742 @@
+{
+  "header": "CNR No.MHPUO1­000042­2019 Mr. Ashroba D. Avhad Vs. The State of Maharashtra ( Dighi Police Station)",
+  "background": {
+    "text": "Order below Exh. 1 in Cri. Bail Application No.17/2019 1. The applicants­accused have filed present application for anticipatory bail u/s.438 of Cr.P.C. in connection with C.R. No.369/2018 registered with Dighi Police Station for the offences punishable u/s.324, 504, 506, 394 r/w.s.34 of the Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "438,369,2018,324,504,506,394,34",
+          "stringMatched": "u/s.438 of cr.p.c. in connection with c.r. no.369/2018 registered with dighi police station for the offences punishable u/s.324, 504, 506, 394 r/w.s.34 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "REJECT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "438",
+          "stringMatched": "u/s.438 of Cr.P.C.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "324,504,506,394,34",
+          "stringMatched": " u/s.324, 504, 506, 394 r/w.s.34 of the Indian Penal Code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2. Prosecution case is that applicant/accused No1 was mediator of settlement of marriage of complainant\u0027s sister, and some dowry is remained to be paid to father­in­law of complainant\u0027s sister. Complainant­Shivaji @ Shiraj Janardan Bangar visited Pune, in order to drop his sister at Pune, at that time, applicant/accused Nos. 1 to 4 have assaulted him with sharp weapon­Katti and tommy, and they have also thrown chilly powder in the eyes of complainant, and snatched gold chain of 6 tolas and cash amount of Rs.85,000/­.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Prosecution case is that applicant/accused No1 was mediator of settlement of marriage of complainant\u0027s sister, and some dowry is remained to be paid to father­in­law of complainant\u0027s sister.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Complainant­Shivaji @ Shiraj Janardan Bangar visited Pune, in order to drop his sister at Pune, at that time, applicant/accused Nos. 1 to 4 have assaulted him with sharp weapon­Katti and tommy, and they have also thrown chilly powder in the eyes of complainant, and snatched gold chain of 6 tolas and cash amount of Rs.85,000/­.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3. Learned counsel for applicants­accused submitted that applicants­accused have not committed any offence and they have been falsely implicated in this offence. He further submitted that section 394 of the IPC is not attracted. He further submitted that at the relevant time of incident, applicants­accused were not present at the spot of incident, but they were at village Pargaon, District­ Beed. He further submitted that custodial interrogation of the applicants­ accused are not necessary, therefore, applicants­accused be released on anticipatory.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Learned counsel for applicants­accused submitted that applicants­accused have not committed any offence and they have been falsely implicated in this offence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He further submitted that section 394 of the IPC is not attracted.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "He further submitted that at the relevant time of incident, applicants­accused were not present at the spot of incident, but they were at village Pargaon, District­ Beed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "He further submitted that custodial interrogation of the applicants­ accused are not necessary, therefore, applicants­accused be released on anticipatory.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4. Per contra, learned APP submitted that applicants­ accused in furtherance of their common intention, assaulted to complainant with deadly weapon, caused him grievous hurt and snatched his gold chain and Rs.85,000/­. He further submitted that weapons were seized from the spot of incident. He further submitted that Adhar card, driving license and PAN card of accused Ganesh Avhad were found at the spot of incident. He further submitted that custodial interrogation of applicants­accused is necessary in order to seize car, by which, applicants­accused accused arrived at the spot of incident.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Per contra, learned APP submitted that applicants­ accused in furtherance of their common intention, assaulted to complainant with deadly weapon, caused him grievous hurt and snatched his gold chain and Rs.85,000/­.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He further submitted that weapons were seized from the spot of incident.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "He further submitted that Adhar card, driving license and PAN card of accused Ganesh Avhad were found at the spot of incident.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "He further submitted that custodial interrogation of applicants­accused is necessary in order to seize car, by which, applicants­accused accused arrived at the spot of incident.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5. On perusing police papers, prima facie, it reveals that on the basis of report lodged by complainant­ Shivaji Bangar, a crime No.369/2018 came to be registered against the applicants­accused Nos. 1 to 4 at Dighi Police Station. Moreover, in the FIR, it is alleged that at the relevant time of incident, applicants­accused Nos. 1 to 4 have assaulted to complainant with Katti and tommy, and snatched gold chain and cash amount of Rs.85,000/­ from the complainant. Moreover, MLC certificate issued by YCM hospital shows that injured­ Shivaji Bangar was admitted in the hospital with a history of assault on 28/12/2018 and he has caused blunt trauma over occipital region, back, back of neck, left arm, nose, abrasion over nose around and exposure of both eyes to chilly powder. Thus, at this stage, allegations in the FIR are corroborated by MLC certificate issued by YCM hospital. Learned counsel for applicants­accused submitted that Sarpanch of Group Grampanchayat, Pargaon issued certificate to show that at the relevant time of incident, applicant/accused No.1­ Ashroba Avhad was at village­ Pargaon, therefore, it was not possible for him to remain present at the time of incident, at Pune. However, it is pertinent to note that in the FIR, names of applicants/accused as assailants with their role is specifically mentioned. Moreover, allegations in the FIR are corroborated by MLC certificate issued by YCM hospital. Therefore, in such circumstances, contention of applicants­accused that they were not present at the spot of incident, is not acceptable. Moreover, it seems that custodial interrogation of the applicants­accused is necessary for further investigation. Therefore, in such circumstances, in my view, applicants­accused are not entitled to be released on anticipatory bail. Hence, I pass following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On perusing police papers, prima facie, it reveals that on the basis of report lodged by complainant­ Shivaji Bangar, a crime No.369/2018 came to be registered against the applicants­accused Nos. 1 to 4 at Dighi Police Station.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Moreover, in the FIR, it is alleged that at the relevant time of incident, applicants­accused Nos. 1 to 4 have assaulted to complainant with Katti and tommy, and snatched gold chain and cash amount of Rs.85,000/­ from the complainant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Moreover, MLC certificate issued by YCM hospital shows that injured­ Shivaji Bangar was admitted in the hospital with a history of assault on 28/12/2018 and he has caused blunt trauma over occipital region, back, back of neck, left arm, nose, abrasion over nose around and exposure of both eyes to chilly powder.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Thus, at this stage, allegations in the FIR are corroborated by MLC certificate issued by YCM hospital.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Learned counsel for applicants­accused submitted that Sarpanch of Group Grampanchayat, Pargaon issued certificate to show that at the relevant time of incident, applicant/accused No.1­ Ashroba Avhad was at village­ Pargaon, therefore, it was not possible for him to remain present at the time of incident, at Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "However, it is pertinent to note that in the FIR, names of applicants/accused as assailants with their role is specifically mentioned.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Moreover, allegations in the FIR are corroborated by MLC certificate issued by YCM hospital.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Therefore, in such circumstances, contention of applicants­accused that they were not present at the spot of incident, is not acceptable.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Moreover, it seems that custodial interrogation of the applicants­accused is necessary for further investigation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "Therefore, in such circumstances, in my view, applicants­accused are not entitled to be released on anticipatory bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Hence, I pass following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER i. Application is rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Date :22/01/2019 (K.D.Vadane) Additional Sessions Judge, Pune. 4 “I affirm that the contents of the PDF file order are same word to word as per original judgment.” Name of Steno : Shri S. B. Gore, Stenographer Grade­I Court Name : K.D. Vadane , Addl. Sessions Judge, Pune Date : 22/01/2019 order signed by presiding officer on : 22/01/2019 Order uploaded on : 22/01/2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "CNR No.MHPUO1­000042­2019 Mr. Ashroba D. Avhad Vs. The State of Maharashtra ( Dighi Police Station) \r\n---header-ends---\r\nOrder below Exh. 1 in Cri. Bail Application No.17/2019 1. The applicants­accused have filed present application for anticipatory bail u/s.438 of Cr.P.C. in connection with C.R. No.369/2018 registered with Dighi Police Station for the offences punishable u/s.324, 504, 506, 394 r/w.s.34 of the Indian Penal Code. \r\n---background-ends---\r\n2. Prosecution case is that applicant/accused No1 was mediator of settlement of marriage of complainant\u0027s sister, and some dowry is remained to be paid to father­in­law of complainant\u0027s sister. Complainant­Shivaji @ Shiraj Janardan Bangar visited Pune, in order to drop his sister at Pune, at that time, applicant/accused Nos. 1 to 4 have assaulted him with sharp weapon­Katti and tommy, and they have also thrown chilly powder in the eyes of complainant, and snatched gold chain of 6 tolas and cash amount of Rs.85,000/­. \r\n---argument-ends---\r\n3. Learned counsel for applicants­accused submitted that applicants­accused have not committed any offence and they have been falsely implicated in this offence. He further submitted that section 394 of the IPC is not attracted. He further submitted that at the relevant time of incident, applicants­accused were not present at the spot of incident, but they were at village Pargaon, District­ Beed. He further submitted that custodial interrogation of the applicants­ accused are not necessary, therefore, applicants­accused be released on anticipatory. \r\n---argument-ends---\r\n4. Per contra, learned APP submitted that applicants­ accused in furtherance of their common intention, assaulted to complainant with deadly weapon, caused him grievous hurt and snatched his gold chain and Rs.85,000/­. He further submitted that weapons were seized from the spot of incident. He further submitted that Adhar card, driving license and PAN card of accused Ganesh Avhad were found at the spot of incident. He further submitted that custodial interrogation of applicants­accused is necessary in order to seize car, by which, applicants­accused accused arrived at the spot of incident. \r\n---argument-ends---\r\n5. On perusing police papers, prima facie, it reveals that on the basis of report lodged by complainant­ Shivaji Bangar, a crime No.369/2018 came to be registered against the applicants­accused Nos. 1 to 4 at Dighi Police Station. Moreover, in the FIR, it is alleged that at the relevant time of incident, applicants­accused Nos. 1 to 4 have assaulted to complainant with Katti and tommy, and snatched gold chain and cash amount of Rs.85,000/­ from the complainant. Moreover, MLC certificate issued by YCM hospital shows that injured­ Shivaji Bangar was admitted in the hospital with a history of assault on 28/12/2018 and he has caused blunt trauma over occipital region, back, back of neck, left arm, nose, abrasion over nose around and exposure of both eyes to chilly powder. Thus, at this stage, allegations in the FIR are corroborated by MLC certificate issued by YCM hospital. Learned counsel for applicants­accused submitted that Sarpanch of Group Grampanchayat, Pargaon issued certificate to show that at the relevant time of incident, applicant/accused No.1­ Ashroba Avhad was at village­ Pargaon, therefore, it was not possible for him to remain present at the time of incident, at Pune. However, it is pertinent to note that in the FIR, names of applicants/accused as assailants with their role is specifically mentioned. Moreover, allegations in the FIR are corroborated by MLC certificate issued by YCM hospital. Therefore, in such circumstances, contention of applicants­accused that they were not present at the spot of incident, is not acceptable. Moreover, it seems that custodial interrogation of the applicants­accused is necessary for further investigation. Therefore, in such circumstances, in my view, applicants­accused are not entitled to be released on anticipatory bail. Hence, I pass following order. \r\n---argument-ends---\r\nORDER i. Application is rejected. \r\n---order-ends---\r\nDate :22/01/2019 (K.D.Vadane) Additional Sessions Judge, Pune. 4 “I affirm that the contents of the PDF file order are same word to word as per original judgment.” Name of Steno : Shri S. B. Gore, Stenographer Grade­I Court Name : K.D. Vadane , Addl. Sessions Judge, Pune Date : 22/01/2019 order signed by presiding officer on : 22/01/2019 Order uploaded on : 22/01/2019"
+}

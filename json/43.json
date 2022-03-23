@@ -1,0 +1,1119 @@
+{
+  "header": "Cri.Bail Application no. 51/19 CNR No. MHPU01-000159-2019 ORDER BELOW EXH.1",
+  "background": {
+    "text": "1] Perused application and say. Heard Advocate for applicant and APP for the State. 2] This is first bail application filed under section 439 of Cr.P.C. by applicant in respect of his arrest in C.R. no. 378/18 registered at Bundgarden Police Station for the offence punishable under section 376,376(2)(n),506 of the Indian Penal Code and under section 4,6 of the Protection of Children from Sexual Offences Act, 2012.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "376,376,2,506",
+          "stringMatched": "under section 376,376(2)(n),506 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "REJECT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "376,506",
+          "stringMatched": "under section 376,376(2)(n),506 of the Indian Penal Code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 4,
+        "legalActFound": {
+          "actNameMatched": "The Protection of Children from Sexual Offences Act",
+          "sectionsMatched": "4,6",
+          "stringMatched": "under section 4,6 of the Protection of Children from Sexual Offences Act",
+          "legalAct": {
+            "actId": 6,
+            "actName": "The Protection of Children from Sexual Offences Act",
+            "actShortNameList": "POSCO",
+            "actYear": "2012",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "46"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "It is alleged that victim aged about 17 years lodged report stating that she was acquainted with applicant as he used to come at her sister\u0027s house which was near house of victim. They were meeting each other and talking with each other. There was love affair between them . Prior to one year applicant proposed victim for marriage and by inducement of marriage since July­2018 till September­2018 he committed forcible sexual intercourse with her repeatedly as a result of which she became pregnant.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "It is alleged that victim aged about 17 years lodged report stating that she was acquainted with applicant as he used to come at her sister\u0027s house which was near house of victim.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "They were meeting each other and talking with each other.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "There was love affair between them .",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Prior to one year applicant proposed victim for marriage and by inducement of marriage since July­2018 till September­2018 he committed forcible sexual intercourse with her repeatedly as a result of which she became pregnant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] According to applicant he is falsely implicated in this matter. It is a case of love affair. She is 17 years old therefore, she knows the consequences of the act. There was no force from the applicant. Applicant is 23 years old and doing studies for Police Constable Recruitment Examination. He is permanently residing at Wagholi, Pune. He has no criminal antecedents. He is ready to abide the conditions. Hence, he prayed to release him on bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] According to applicant he is falsely implicated in this matter.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is a case of love affair.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "She is 17 years old therefore, she knows the consequences of the act.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "There was no force from the applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Applicant is 23 years old and doing studies for Police Constable Recruitment Examination.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He is permanently residing at Wagholi, Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "He has no criminal antecedents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "He is ready to abide the conditions.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Hence, he prayed to release him on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] APP and I.O. objected this application on the ground that investigation is in progress. Applicant will pressurize victim and witnesses. There is possibility of tampering prosecution evidence. There is possibility of the absconding of applicant. So, they prayed to reject the application.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] APP and I.O. objected this application on the ground that investigation is in progress.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Applicant will pressurize victim and witnesses.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "There is possibility of tampering prosecution evidence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "There is possibility of the absconding of applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "So, they prayed to reject the application.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] Allegations against the applicant are serious. Applicant is sufficiently interrogated. From statement of victim role attributed to applicant can be gathered. It revealed that due to love affair victim and applicant were meeting each other. Applicant proposed victim and according to her he kept sexual relationship with her since July­2018 till September­ 2018 under pretext of marriage as a result of which she became pregnant. Victim is 17 years old and applicant is 20 years old. Victim has attended age of sufficient maturity and knows the consequences of act.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] Allegations against the applicant are serious.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Applicant is sufficiently interrogated.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "From statement of victim role attributed to applicant can be gathered.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It revealed that due to love affair victim and applicant were meeting each other.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Applicant proposed victim and according to her he kept sexual relationship with her since July­2018 till September­ 2018 under pretext of marriage as a result of which she became pregnant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Victim is 17 years old and applicant is 20 years old.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Victim has attended age of sufficient maturity and knows the consequences of act.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6] In this context it is necessary to rely on authority cited in Sunil Mahadev Patil Vs. State of Maharashtra reported in 2016 All MR (Cri.) 1712, in which it is observed that if statement of prosecutrix and witnesses shows that they were in love relationship with each other they eloped and went to temple and performed marriage, they started residing together in the house of relative then there are mitigating circumstances. Moreover, it is observed that factor i.e. age of prosecutrix, whether act is violent, whether there are antecedents or not, whether offender is capable of repeating the act or not, whether there is likelihood of threats or intimidation if at all the boy is released, whether chance of tampering with material witnesses and age of the applicant and his employment and plan, stabilize and secure his future are to be taken into consideration while deciding bail application, when boy and minor girl are in love with each other.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6] In this context it is necessary to rely on authority cited in Sunil Mahadev Patil Vs. State of Maharashtra reported in 2016 All MR (Cri.)",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "1712, in which it is observed that if statement of prosecutrix and witnesses shows that they were in love relationship with each other they eloped and went to temple and performed marriage, they started residing together in the house of relative then there are mitigating circumstances.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Moreover, it is observed that factor i.e. age of prosecutrix, whether act is violent, whether there are antecedents or not, whether offender is capable of repeating the act or not, whether there is likelihood of threats or intimidation if at all the boy is released, whether chance of tampering with material witnesses and age of the applicant and his employment and plan, stabilize and secure his future are to be taken into consideration while deciding bail application, when boy and minor girl are in love with each other.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7] Ratio laid down in above cited ruling is noted. Medical report shows history of love affair and history of consensual penetrative sexual intercourse three to four times prior to four to six months. Victim never complained since beginning. It prima­facie revealed that due to love affair they were meeting each other. Till pregnancy victim never stated anything to her family members. These are mitigating circumstances. Moreover, investigation is practically over. Personal custody of applicant is not required. He has no criminal antecedents. Applicant is preparing for studies of Police Constable Recruitment Examination and pursuing his career. He is permanently, residing at Wagholi, Pune. No purpose would serve by keeping the applicant behind bar for unknown period. Due to all above reasons application deserves to be allowed with following order ­",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7] Ratio laid down in above cited ruling is noted.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Medical report shows history of love affair and history of consensual penetrative sexual intercourse three to four times prior to four to six months.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Victim never complained since beginning.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It prima­facie revealed that due to love affair they were meeting each other.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Till pregnancy victim never stated anything to her family members.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "These are mitigating circumstances.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Moreover, investigation is practically over.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Personal custody of applicant is not required.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "He has no criminal antecedents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Applicant is preparing for studies of Police Constable Recruitment Examination and pursuing his career.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "He is permanently, residing at Wagholi, Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "No purpose would serve by keeping the applicant behind bar for unknown period.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "text": "Due to all above reasons application deserves to be allowed with following order ­",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1] The application is allowed. 2] The applicant Pratik Suresh Aangre be released on executing P.R. bond of Rs.30,000/­ with one or two solvent sureties in the like amount. 3] The applicant shall not tamper the prosecution evidence in any manner. 4] The applicant shall attend Bundgarden Police Station on every Monday between 11.00 a.m. to 2.00 p.m. till the charge­sheet is filed. 5] The applicant shall not harass, threat and pressurize the victim. 6] The applicant shall co­operate investigating machinery as and when required. 7] Prior to furnishing surety, the applicant shall submit his address proof, mobile number and inform about the change in address and mobile number.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "30000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "30000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "30000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "30000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "WEEKLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "Pune. (R.V.Adone) Date – 21.01.2019. Addl.Sessions Judge, Pune. “ I affirm that the contents of the P.D.F. File Judgment are same word for word as per original judgment. Name of Steno ­ S.V.Thakar, Court Name ­ Smt. R.V.Adone, Addl.Sessions Judge,Pune. Date of Order ­ 21.01.2019 Order signed by P.O. ­ 21.01.2019 Order uploaded on ­ 21.01.2019 4 Cri.Bail Application no. 51/19 CNR No. MHPU01-000159-2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Cri.Bail Application no. 51/19 CNR No. MHPU01-000159-2019 ORDER BELOW EXH.1 \r\n---header-ends---\r\n1] Perused application and say. Heard Advocate for applicant and APP for the State. 2] This is first bail application filed under section 439 of Cr.P.C. by applicant in respect of his arrest in C.R. no. 378/18 registered at Bundgarden Police Station for the offence punishable under section 376,376(2)(n),506 of the Indian Penal Code and under section 4,6 of the Protection of Children from Sexual Offences Act, 2012. \r\n---background-ends---\r\nIt is alleged that victim aged about 17 years lodged report stating that she was acquainted with applicant as he used to come at her sister\u0027s house which was near house of victim. They were meeting each other and talking with each other. There was love affair between them . Prior to one year applicant proposed victim for marriage and by inducement of marriage since July­2018 till September­2018 he committed forcible sexual intercourse with her repeatedly as a result of which she became pregnant. \r\n---argument-ends---\r\n3] According to applicant he is falsely implicated in this matter. It is a case of love affair. She is 17 years old therefore, she knows the consequences of the act. There was no force from the applicant. Applicant is 23 years old and doing studies for Police Constable Recruitment Examination. He is permanently residing at Wagholi, Pune. He has no criminal antecedents. He is ready to abide the conditions. Hence, he prayed to release him on bail. \r\n---argument-ends---\r\n4] APP and I.O. objected this application on the ground that investigation is in progress. Applicant will pressurize victim and witnesses. There is possibility of tampering prosecution evidence. There is possibility of the absconding of applicant. So, they prayed to reject the application. \r\n---argument-ends---\r\n5] Allegations against the applicant are serious. Applicant is sufficiently interrogated. From statement of victim role attributed to applicant can be gathered. It revealed that due to love affair victim and applicant were meeting each other. Applicant proposed victim and according to her he kept sexual relationship with her since July­2018 till September­ 2018 under pretext of marriage as a result of which she became pregnant. Victim is 17 years old and applicant is 20 years old. Victim has attended age of sufficient maturity and knows the consequences of act. \r\n---argument-ends---\r\n6] In this context it is necessary to rely on authority cited in Sunil Mahadev Patil Vs. State of Maharashtra reported in 2016 All MR (Cri.) 1712, in which it is observed that if statement of prosecutrix and witnesses shows that they were in love relationship with each other they eloped and went to temple and performed marriage, they started residing together in the house of relative then there are mitigating circumstances. Moreover, it is observed that factor i.e. age of prosecutrix, whether act is violent, whether there are antecedents or not, whether offender is capable of repeating the act or not, whether there is likelihood of threats or intimidation if at all the boy is released, whether chance of tampering with material witnesses and age of the applicant and his employment and plan, stabilize and secure his future are to be taken into consideration while deciding bail application, when boy and minor girl are in love with each other. \r\n---argument-ends---\r\n7] Ratio laid down in above cited ruling is noted. Medical report shows history of love affair and history of consensual penetrative sexual intercourse three to four times prior to four to six months. Victim never complained since beginning. It prima­facie revealed that due to love affair they were meeting each other. Till pregnancy victim never stated anything to her family members. These are mitigating circumstances. Moreover, investigation is practically over. Personal custody of applicant is not required. He has no criminal antecedents. Applicant is preparing for studies of Police Constable Recruitment Examination and pursuing his career. He is permanently, residing at Wagholi, Pune. No purpose would serve by keeping the applicant behind bar for unknown period. Due to all above reasons application deserves to be allowed with following order ­ \r\n---argument-ends---\r\nORDER 1] The application is allowed. 2] The applicant Pratik Suresh Aangre be released on executing P.R. bond of Rs.30,000/­ with one or two solvent sureties in the like amount. 3] The applicant shall not tamper the prosecution evidence in any manner. 4] The applicant shall attend Bundgarden Police Station on every Monday between 11.00 a.m. to 2.00 p.m. till the charge­sheet is filed. 5] The applicant shall not harass, threat and pressurize the victim. 6] The applicant shall co­operate investigating machinery as and when required. 7] Prior to furnishing surety, the applicant shall submit his address proof, mobile number and inform about the change in address and mobile number. \r\n---order-ends---\r\nPune. (R.V.Adone) Date – 21.01.2019. Addl.Sessions Judge, Pune. “ I affirm that the contents of the P.D.F. File Judgment are same word for word as per original judgment. Name of Steno ­ S.V.Thakar, Court Name ­ Smt. R.V.Adone, Addl.Sessions Judge,Pune. Date of Order ­ 21.01.2019 Order signed by P.O. ­ 21.01.2019 Order uploaded on ­ 21.01.2019 4 Cri.Bail Application no. 51/19 CNR No. MHPU01-000159-2019"
+}

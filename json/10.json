@@ -1,0 +1,884 @@
+{
+  "header": "1 Bail application nos. 11/2019 \u0026 40/2019. Common order below Exh.01 in Bail Application No.11/2019 \u0026 40/2019. (CNR NO.­MHPU01­000040­2019 \u0026 MHPU01­000143­2019)",
+  "background": {
+    "text": "1] Applicants­Laxmi Madhukar Thorat, Jayashree @ Radha Babasaheb Kamble and Heena Bapu @ Balasaheb Kamble have filed these applications for bail under section 439 of Cr.P.C. in connection with CR No.406/2018 registered with Wanwadi Police Station, Pune, under sections 302, 141, 147, 148, 149 of IPC.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "IPC",
+          "sectionsMatched": "439,406,2018,302,141,147,148,149",
+          "stringMatched": "under section 439 of cr.p.c. in connection with cr no.406/2018 registered with wanwadi police station, pune, under sections 302, 141, 147, 148, 149 of ipc",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of Cr.P.C.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] It is the case of prosecution that, Balasaheb Sonawane filed complaint that in between his son Akshay Sonawane and accused previously quarrel took place. Hence, complaint was filed with police chowky. Therefore, Akshay was having grudge and he pelted stones against the house of Laxmi Thorat. Therefore, her husband Madhukar Thorat and his 2­3 associates made attack on the house of Complainant. They had taken search of his son Akshay and thereafter they had made assault by means of sickle and iron rod with an intention to kill and caused serious injuries to him and while taking treatment in Sassoon Hospital, Pune he succumbed to the injuries. On the basis of that complaint, this offence was came to be registered. Applicants are arrested on 03/12/2018.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] It is the case of prosecution that, Balasaheb Sonawane filed complaint that in between his son Akshay Sonawane and accused previously quarrel took place.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Hence, complaint was filed with police chowky.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Therefore, Akshay was having grudge and he pelted stones against the house of Laxmi Thorat.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, her husband Madhukar Thorat and his 2­3 associates made attack on the house of Complainant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "They had taken search of his son Akshay and thereafter they had made assault by means of sickle and iron rod with an intention to kill and caused serious injuries to him and while taking treatment in Sassoon Hospital, Pune he succumbed to the injuries.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "On the basis of that complaint, this offence was came to be registered.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Applicants are arrested on 03/12/2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Advocate for the applicants in his argument stated that deceased Akshay was habitual offender and drunkard. There was 2 no motive or intention of applicants to commit his murder. The incident was happened in spur of moment. Investigation has been completed . Further detention of the applicants is not necessary. There are no criminal antecedents against them. All these three accused are housewives. Therefore, they may be released on bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Advocate for the applicants in his argument stated that deceased Akshay was habitual offender and drunkard.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "There was 2 no motive or intention of applicants to commit his murder.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The incident was happened in spur of moment.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Investigation has been completed .",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Further detention of the applicants is not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "There are no criminal antecedents against them.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "All these three accused are housewives.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Therefore, they may be released on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Ld. DGP strongly opposed this application. It is her contention that offence is serious. It is punishable upto life imprisonment. Investigation is not yet completed. At this juncture if these applicants would be released on bail, there is possibility of tampering the prosecution witnesses who are residents of same locality and evidence. Hence, this application may be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Ld. DGP strongly opposed this application.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is her contention that offence is serious.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is punishable upto life imprisonment.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Investigation is not yet completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "At this juncture if these applicants would be released on bail, there is possibility of tampering the prosecution witnesses who are residents of same locality and evidence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Hence, this application may be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] IO filed say to this application. In his say he has stated that the applicants and witnesses are residents of same locality. If this application will be allowed, there is possibility of tampering prosecution witnesses. So also possibility cannot be ruled out that applicants will call their relatives and again would pick up quarrel. CA report is awaited with muddemal property sent for analysis. Therefore, this application may be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] IO filed say to this application.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "In his say he has stated that the applicants and witnesses are residents of same locality.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "If this application will be allowed, there is possibility of tampering prosecution witnesses.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "So also possibility cannot be ruled out that applicants will call their relatives and again would pick up quarrel.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "CA report is awaited with muddemal property sent for analysis.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Therefore, this application may be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6] Major part of the investigation is already completed. All these three applicants are ladies. Nothing remained to be recovered or discovered from them. Only CA report is awaited. By imposing stringent conditions on them, they can be released on bail. Hence, I pass the following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6] Major part of the investigation is already completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "All these three applicants are ladies.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Nothing remained to be recovered or discovered from them.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Only CA report is awaited.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "By imposing stringent conditions on them, they can be released on bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Hence, I pass the following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1. Bail Application Nos.11/2019 and 40/2019 are allowed conditionally. 2. Applicants Laxmi Madhukar Thorat, Jayashree @ Radha Babasaheb Kamble and Heena Bapu @ Balasaheb Kamble be released on bail in connection with CR No.406/2018 registered with Wanwadi Police Station, Pune, under sections 302, 141, 147, 148, 149 of IPC, on furnishing PR bond of Rs. 25,000/­ (Rs. Twenty Five thousand only) with one or two sureties in like amount each. 3. They shall attend the concern the police station on every Thursday in between 10.00 a.m. to 12.00 noon till filing of the charge­sheet. 4. Till filing of the chargesheet, applicants shall not stay in the locality of Hadapsar. 5. They shall submit their detailed address with telephone numbers where they are going to reside during that period. 6. They shall not tamper the prosecution witnesses and evidence. 7. Copy of this common order be kept in Cri. Bail Appln. no.40/2019. 8. Bail before Ld. Magistrate.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "25000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "25000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "WEEKLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "Sd/­ ( S. S. Gosavi ) Date : 19­01­2019 Additional Sessions Judge, Pune. 4 C E R T I F I C A T E I affirm that the contents of this P.D.F. file judgment are same word for word as per original Judgment. Name of steno : S. Y. Shaikh, Stenographer (Grade­I) Name of the Court : S. S. Gosavi, District Court ­ 4 \u0026 Additional Sessions Judge, Pune Date of Order : 19.01.2019 Order signed by P.O. on : 21.01.2019 Order uploaded on : 21.01.2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "1 Bail application nos. 11/2019 \u0026 40/2019. Common order below Exh.01 in Bail Application No.11/2019 \u0026 40/2019. (CNR NO.­MHPU01­000040­2019 \u0026 MHPU01­000143­2019) \r\n---header-ends---\r\n1] Applicants­Laxmi Madhukar Thorat, Jayashree @ Radha Babasaheb Kamble and Heena Bapu @ Balasaheb Kamble have filed these applications for bail under section 439 of Cr.P.C. in connection with CR No.406/2018 registered with Wanwadi Police Station, Pune, under sections 302, 141, 147, 148, 149 of IPC. \r\n---background-ends---\r\n2] It is the case of prosecution that, Balasaheb Sonawane filed complaint that in between his son Akshay Sonawane and accused previously quarrel took place. Hence, complaint was filed with police chowky. Therefore, Akshay was having grudge and he pelted stones against the house of Laxmi Thorat. Therefore, her husband Madhukar Thorat and his 2­3 associates made attack on the house of Complainant. They had taken search of his son Akshay and thereafter they had made assault by means of sickle and iron rod with an intention to kill and caused serious injuries to him and while taking treatment in Sassoon Hospital, Pune he succumbed to the injuries. On the basis of that complaint, this offence was came to be registered. Applicants are arrested on 03/12/2018. \r\n---argument-ends---\r\n3] Advocate for the applicants in his argument stated that deceased Akshay was habitual offender and drunkard. There was 2 no motive or intention of applicants to commit his murder. The incident was happened in spur of moment. Investigation has been completed . Further detention of the applicants is not necessary. There are no criminal antecedents against them. All these three accused are housewives. Therefore, they may be released on bail. \r\n---argument-ends---\r\n4] Ld. DGP strongly opposed this application. It is her contention that offence is serious. It is punishable upto life imprisonment. Investigation is not yet completed. At this juncture if these applicants would be released on bail, there is possibility of tampering the prosecution witnesses who are residents of same locality and evidence. Hence, this application may be rejected. \r\n---argument-ends---\r\n5] IO filed say to this application. In his say he has stated that the applicants and witnesses are residents of same locality. If this application will be allowed, there is possibility of tampering prosecution witnesses. So also possibility cannot be ruled out that applicants will call their relatives and again would pick up quarrel. CA report is awaited with muddemal property sent for analysis. Therefore, this application may be rejected. \r\n---argument-ends---\r\n6] Major part of the investigation is already completed. All these three applicants are ladies. Nothing remained to be recovered or discovered from them. Only CA report is awaited. By imposing stringent conditions on them, they can be released on bail. Hence, I pass the following order. \r\n---argument-ends---\r\nORDER 1. Bail Application Nos.11/2019 and 40/2019 are allowed conditionally. 2. Applicants Laxmi Madhukar Thorat, Jayashree @ Radha Babasaheb Kamble and Heena Bapu @ Balasaheb Kamble be released on bail in connection with CR No.406/2018 registered with Wanwadi Police Station, Pune, under sections 302, 141, 147, 148, 149 of IPC, on furnishing PR bond of Rs. 25,000/­ (Rs. Twenty Five thousand only) with one or two sureties in like amount each. 3. They shall attend the concern the police station on every Thursday in between 10.00 a.m. to 12.00 noon till filing of the charge­sheet. 4. Till filing of the chargesheet, applicants shall not stay in the locality of Hadapsar. 5. They shall submit their detailed address with telephone numbers where they are going to reside during that period. 6. They shall not tamper the prosecution witnesses and evidence. 7. Copy of this common order be kept in Cri. Bail Appln. no.40/2019. 8. Bail before Ld. Magistrate. \r\n---order-ends---\r\nSd/­ ( S. S. Gosavi ) Date : 19­01­2019 Additional Sessions Judge, Pune. 4 C E R T I F I C A T E I affirm that the contents of this P.D.F. file judgment are same word for word as per original Judgment. Name of steno : S. Y. Shaikh, Stenographer (Grade­I) Name of the Court : S. S. Gosavi, District Court ­ 4 \u0026 Additional Sessions Judge, Pune Date of Order : 19.01.2019 Order signed by P.O. on : 21.01.2019 Order uploaded on : 21.01.2019"
+}

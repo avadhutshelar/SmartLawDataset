@@ -1,0 +1,1101 @@
+{
+  "header": "Cri. B.A. No. 6/19. Cri. Bail Application No. 6/2019 Sujata Dattatray Kamble Vs. State. (CNR – MHPU01 - 000024 -2019)",
+  "background": {
+    "text": "Order below Exh.1 (Passed on this 24th day of January, 2019) This is an application under Section 439 of the Code of Criminal Procedure, for grant of bail to the applicant/accused for the offences punishable under Sections 498-A, 306, 323 and 504 of the Indian Penal Code in Crime No.1479/2018, registered with Hadapsar Police Station, Pune.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "498,306,323,504",
+          "stringMatched": "under sections 498-a, 306, 323 and 504 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] The prosecution case, in short, is that the complainant Kusum Suresh Jagtap lodged report lodged report to the police station Hadapsar inter alia contending that the accused mother-in-law of deceased Punam alias Janhavi illtreated deceased physically and mentally on the count that proper respect was not given in marriage, gold ornaments were not given and dowry was not given and deceased has come from poor family and deceased was assaulted by hands for that reason. Punam committed suicide on 22-12-2018. Deceased has kept suicide note to that effect. On these allegations, report is lodged and offence punishable under sections 498-A, 306, 323 and 504 of the Indian Penal Code came to be registered against the accused and others vide crime No. 2 1479/18.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] The prosecution case, in short, is that the complainant Kusum Suresh Jagtap lodged report lodged report to the police station Hadapsar inter alia contending that the accused mother-in-law of deceased Punam alias Janhavi illtreated deceased physically and mentally on the count that proper respect was not given in marriage, gold ornaments were not given and dowry was not given and deceased has come from poor family and deceased was assaulted by hands for that reason.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Punam committed suicide on 22-12-2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Deceased has kept suicide note to that effect.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "On these allegations, report is lodged and offence punishable under sections 498-A, 306, 323 and 504 of the Indian Penal Code came to be registered against the accused and others vide crime No. 2 1479/18.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] The contention of the applicant/accused is that she has not committed any offence as alleged. The accused is included in FIR and she has been arrested only on the basis of skepticism and there is absolutely no material on record showing complicity of the present applicant. Section 306 of I.P.C. is not attributed to the applicant. The material investigation in the present case is complete and nothing is to be recovered or discovered at the instance of applicant. The accused will not tamper with the prosecution evidence. She is ready to abide by the terms and conditions that may be imposed by this Court. Lastly, she prayed to release her on bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] The contention of the applicant/accused is that she has not committed any offence as alleged.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The accused is included in FIR and she has been arrested only on the basis of skepticism and there is absolutely no material on record showing complicity of the present applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Section 306 of I.P.C. is not attributed to the applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The material investigation in the present case is complete and nothing is to be recovered or discovered at the instance of applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The accused will not tamper with the prosecution evidence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "She is ready to abide by the terms and conditions that may be imposed by this Court.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Lastly, she prayed to release her on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] The learned A.P.P. has opposed the application by filing say at Exh.3 on the ground that investigation is in progress. If the applicant is released on bail, she will pressurize witnesses, panchas and complainant and she will commit similar offence. Lastly, he prayed to reject the application.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] The learned A.P.P. has opposed the application by filing say at Exh.3 on the ground that investigation is in progress.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "If the applicant is released on bail, she will pressurize witnesses, panchas and complainant and she will commit similar offence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Lastly, he prayed to reject the application.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] Heard learned A.P.P. for the State. Heard learned Advocate for accused. Gone through the record.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] Heard learned A.P.P. for the State.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Heard learned Advocate for accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Gone through the record.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6] In view of these facts, following points arise for determination and findings thereon are recorded against each of them, for the reasons stated below : Points Findings 1. Whether the accused is entitled for bail ? No. 2. What order ? As per final order. REASONS Point No.1 :-",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6] In view of these facts, following points arise for determination and findings thereon are recorded against each of them, for the reasons stated below : Points Findings 1.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Whether the accused is entitled for bail ?",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "No. 2.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "What order ?",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "As per final order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "REASONS Point No.1 :-",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7] On perusal of contents of F.I.R., it clearly reveals that the deceased Punam had got married with Amit on 26-4-2015. The accused illtreated her physically and mentally and was taunting her that proper respect was not given in the marriage, dowry was not brought. Illtreatment given to the deceased was of such a nature that she firstly committed murder of her two years son Shivansh and then she committed suicide by hanging. Moreover, she has written two suicide notes in which the name of accused is specifically mentioned that the accused was illtreating her by taunting her.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7] On perusal of contents of F.I.R., it clearly reveals that the deceased Punam had got married with Amit on 26-4-2015.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The accused illtreated her physically and mentally and was taunting her that proper respect was not given in the marriage, dowry was not brought.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Illtreatment given to the deceased was of such a nature that she firstly committed murder of her two years son Shivansh and then she committed suicide by hanging.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Moreover, she has written two suicide notes in which the name of accused is specifically mentioned that the accused was illtreating her by taunting her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8] On 15-12-2018, deceased had phoned the complainant and had informed that her mother-in-law i.e. accused has assaulted her and she ahd given 4 understanding to her. The learned counsel of accused has vehemently argued that another son of applicant/accused is mentally ill and therefore, the accused has to take his care and therefore, she being lady andd she has to take care of her mentally ill son, she be released on bail. On perusal of contents of FIR and contents of suicide note, it clearly reveals that the accused has played role in the offence in question.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8] On 15-12-2018, deceased had phoned the complainant and had informed that her mother-in-law i.e. accused has assaulted her and she ahd given 4 understanding to her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The learned counsel of accused has vehemently argued that another son of applicant/accused is mentally ill and therefore, the accused has to take his care and therefore, she being lady andd she has to take care of her mentally ill son, she be released on bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "On perusal of contents of FIR and contents of suicide note, it clearly reveals that the accused has played role in the offence in question.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "9] The medical certificate clearly reveals the cause of death of deceased as asphyxia due to hanging. The investigation is in progress. Charge sheet is yet to be filed. Prima facie involvement of the accused appears in the offence in question. The apprehension of the prosecution is well founded from the act of the accused person.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "9] The medical certificate clearly reveals the cause of death of deceased as asphyxia due to hanging.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The investigation is in progress.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Charge sheet is yet to be filed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Prima facie involvement of the accused appears in the offence in question.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The apprehension of the prosecution is well founded from the act of the accused person.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 9,
+      "text": "10] Considering these facts and considering the nature and gravity of offence and the role played by the accused in the offence in question, I am of the view that this is not a fit case to exhaust judicial discretion of bail. Therefore, it is not just and desirable to release the applicant/accused on bail. Hence, following order is passed. 5 Cri. B.A. No. 6/19.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "10] Considering these facts and considering the nature and gravity of offence and the role played by the accused in the offence in question, I am of the view that this is not a fit case to exhaust judicial discretion of bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Therefore, it is not just and desirable to release the applicant/accused on bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, following order is passed.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "5 Cri.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "B.A. No. 6/19.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER Application (Exh.1) stands rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Mrs. M.M. Deshpande) Date: 24/1/2019 Additional Sessions Judge, Pune. 6 I affirm that the contents of this PDF file order are same word to word as per original order. Name of Steno : S.R. Shahane, Court Name : Mrs. M.M. Deshpande, Additional Sessions Judge, Pune. Date on which the P.O. Signed the order : 24/1/2019 Date of PDF file : 24/1/2019 Order uploaded on : 25/1/2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Cri. B.A. No. 6/19. Cri. Bail Application No. 6/2019 Sujata Dattatray Kamble Vs. State. (CNR – MHPU01 - 000024 -2019)\r\n---header-ends---\r\nOrder below Exh.1 (Passed on this 24th day of January, 2019) This is an application under Section 439 of the Code of Criminal Procedure, for grant of bail to the applicant/accused for the offences punishable under Sections 498-A, 306, 323 and 504 of the Indian Penal Code in Crime No.1479/2018, registered with Hadapsar Police Station, Pune. \r\n---background-ends---\r\n2] The prosecution case, in short, is that the complainant Kusum Suresh Jagtap lodged report lodged report to the police station Hadapsar inter alia contending that the accused mother-in-law of deceased Punam alias Janhavi illtreated deceased physically and mentally on the count that proper respect was not given in marriage, gold ornaments were not given and dowry was not given and deceased has come from poor family and deceased was assaulted by hands for that reason. Punam committed suicide on 22-12-2018. Deceased has kept suicide note to that effect. On these allegations, report is lodged and offence punishable under sections 498-A, 306, 323 and 504 of the Indian Penal Code came to be registered against the accused and others vide crime No. 2 1479/18. \r\n---argument-ends---\r\n3] The contention of the applicant/accused is that she has not committed any offence as alleged. The accused is included in FIR and she has been arrested only on the basis of skepticism and there is absolutely no material on record showing complicity of the present applicant. Section 306 of I.P.C. is not attributed to the applicant. The material investigation in the present case is complete and nothing is to be recovered or discovered at the instance of applicant. The accused will not tamper with the prosecution evidence. She is ready to abide by the terms and conditions that may be imposed by this Court. Lastly, she prayed to release her on bail. \r\n---argument-ends---\r\n4] The learned A.P.P. has opposed the application by filing say at Exh.3 on the ground that investigation is in progress. If the applicant is released on bail, she will pressurize witnesses, panchas and complainant and she will commit similar offence. Lastly, he prayed to reject the application. \r\n---argument-ends---\r\n5] Heard learned A.P.P. for the State. Heard learned Advocate for accused. Gone through the record. \r\n---argument-ends---\r\n6] In view of these facts, following points arise for determination and findings thereon are recorded against each of them, for the reasons stated below : Points Findings 1. Whether the accused is entitled for bail ? No. 2. What order ? As per final order. REASONS Point No.1 :- \r\n---argument-ends---\r\n7] On perusal of contents of F.I.R., it clearly reveals that the deceased Punam had got married with Amit on 26-4-2015. The accused illtreated her physically and mentally and was taunting her that proper respect was not given in the marriage, dowry was not brought. Illtreatment given to the deceased was of such a nature that she firstly committed murder of her two years son Shivansh and then she committed suicide by hanging. Moreover, she has written two suicide notes in which the name of accused is specifically mentioned that the accused was illtreating her by taunting her. \r\n---argument-ends---\r\n8] On 15-12-2018, deceased had phoned the complainant and had informed that her mother-in-law i.e. accused has assaulted her and she ahd given 4 understanding to her. The learned counsel of accused has vehemently argued that another son of applicant/accused is mentally ill and therefore, the accused has to take his care and therefore, she being lady andd she has to take care of her mentally ill son, she be released on bail. On perusal of contents of FIR and contents of suicide note, it clearly reveals that the accused has played role in the offence in question. \r\n---argument-ends---\r\n9] The medical certificate clearly reveals the cause of death of deceased as asphyxia due to hanging. The investigation is in progress. Charge sheet is yet to be filed. Prima facie involvement of the accused appears in the offence in question. The apprehension of the prosecution is well founded from the act of the accused person. \r\n---argument-ends---\r\n10] Considering these facts and considering the nature and gravity of offence and the role played by the accused in the offence in question, I am of the view that this is not a fit case to exhaust judicial discretion of bail. Therefore, it is not just and desirable to release the applicant/accused on bail. Hence, following order is passed. 5 Cri. B.A. No. 6/19. \r\n---argument-ends---\r\nORDER Application (Exh.1) stands rejected. \r\n---order-ends---\r\n(Mrs. M.M. Deshpande) Date: 24/1/2019 Additional Sessions Judge, Pune. 6 I affirm that the contents of this PDF file order are same word to word as per original order. Name of Steno : S.R. Shahane, Court Name : Mrs. M.M. Deshpande, Additional Sessions Judge, Pune. Date on which the P.O. Signed the order : 24/1/2019 Date of PDF file : 24/1/2019 Order uploaded on : 25/1/2019"
+}

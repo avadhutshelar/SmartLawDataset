@@ -1,0 +1,609 @@
+{
+  "header": "CNR No.MHPU01­000205­2019 Akshay Nandu Khilare Vs. State of Maharashtra (Dighi Police Police Station )",
+  "background": {
+    "text": "Order below exh. 1 in Cri. Bail application No.48/2019 1. This is an application U/s.439 of Cr.P.C. filed by the applicant­accused for grant of bail in connection with Crime No.337/2018 , registered with Dighi Police Station for the offence punishable u/s.394 r/w.34 of IPC and 37 (1) r/ws. 135 of the Bombay Police Act",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "u/s.439 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "IPC",
+          "sectionsMatched": "394,34",
+          "stringMatched": "u/s.394 r/w.34 of ipc",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Bombay Police Act",
+          "sectionsMatched": "135",
+          "stringMatched": "r/ws. 135 of the bombay police act",
+          "legalAct": {
+            "actId": 7,
+            "actName": "The Bombay Police Act",
+            "actShortNameList": "Bombay Police Act,Mumbai Police Act,Maharashtra Police Act",
+            "actYear": "1951",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "167"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2. Prosecution case is that on 04/12/2018 at about 10­30 p.m.,complainant­Haridas Surywanshi had gone for answering nature call, at that time, applicant/accused and other co­accused threatened to complainant, and forcefully took mobile phone and cash amount of complainant, and also caused injuries to his leg by sickle and thereafter fled away.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Prosecution case is that on 04/12/2018 at about 10­30 p.m.,complainant­Haridas Surywanshi had gone for answering nature call, at that time, applicant/accused and other co­accused threatened to complainant, and forcefully took mobile phone and cash amount of complainant, and also caused injuries to his leg by sickle and thereafter fled away.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3. Learned counsel for the applicant/accused submitted that applicant/accused has not committed any offence and he has been falsely implicated in this offence. He further submitted that there is no under section 394 of IPC. He further submitted that practically investigation is in respect of present applicant/accused is completed, therefore, he be released on bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Learned counsel for the applicant/accused submitted that applicant/accused has not committed any offence and he has been falsely implicated in this offence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He further submitted that there is no under section 394 of IPC.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "He further submitted that practically investigation is in respect of present applicant/accused is completed, therefore, he be released on bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4. On the other hand, learned APP submitted that in identification parade, complainant identified to the present applicant/accused. He further submitted that the accused are absconding, therefore, if applicant/accused is released on bail, he will pressurize to the complainant and witnesses, therefore, application be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On the other hand, learned APP submitted that in identification parade, complainant identified to the present applicant/accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He further submitted that the accused are absconding, therefore, if applicant/accused is released on bail, he will pressurize to the complainant and witnesses, therefore, application be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5. On perusing police papers, prima facie, it reveals that on 2 05//12/2018 at about 07­40 a.ma., complainant lodged report at Dighi Police Station, alleging in that on 04/12/2018 at about 10­30 p.m., he had gone for answering nature call, at that time, four persons came by four wheeler, threatened and beat him by sharp weapon, spread chilly powder in his eyes, looted Rs.85000/­ and his mobile phone , and fled away. Moreover, it seems that police have arrested present accused on 05/12/2018. Now he is in custody. Moreover, it reveals that in the identification parade, complainant has identified the present applicant/accused. Moreover, it reveals that custodial interrogation of present applicant/accused is now not necessary. Moreover, in police papers, there is no any criminal antecedent against present application /accused. Therefore, considering all these aspects, in my view if present applicant­accused is released on bail on certain conditions, no prejudice will be caused to the prosecution. Hence, I pass the following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On perusing police papers, prima facie, it reveals that on 2 05//12/2018 at about 07­40 a.ma., complainant lodged report at Dighi Police Station, alleging in that on 04/12/2018 at about 10­30 p.m., he had gone for answering nature call, at that time, four persons came by four wheeler, threatened and beat him by sharp weapon, spread chilly powder in his eyes, looted Rs.85000/­ and his mobile phone , and fled away.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Moreover, it seems that police have arrested present accused on 05/12/2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Now he is in custody.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Moreover, it reveals that in the identification parade, complainant has identified the present applicant/accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Moreover, it reveals that custodial interrogation of present applicant/accused is now not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Moreover, in police papers, there is no any criminal antecedent against present application /accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Therefore, considering all these aspects, in my view if present applicant­accused is released on bail on certain conditions, no prejudice will be caused to the prosecution.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Hence, I pass the following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER i. Application is allowed. ii. The applicant­accused ­Akshay Nandu Khilare be released on bail on furnishing P.R. Bond of Rs.25,000/­ (Rupees Twenty five Thousand Only) with one or two solvent sureties in like amount. iii. The applicant­accused shall not tamper with prosecution evidence. iv. The applicant­accused shall attend concerned Police Station on every Monday and Thursday in between 11.00 a.m. to 2.00 p.m. till filing of the charge­sheet. v. The applicant­accused shall not leave Pune District without prior permission of this Court, till final disposal of the case. vi. The applicant­accused shall furnish fresh residential address to concerned Police Station and to this Court in case he changed present address. 3 vii. The applicant­accused shall attend the court regularly till final disposal of the case.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "25000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "25000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "WEEKLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "2",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "2"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "2"
+      }
+    ]
+  },
+  "footer": "Date : 21/01/2019 (K.D.Vadane) Additional Sessions Judge, Pune. 4 “I affirm that the contents of the PDF file Order are same word to word as per original judgment.” Name of Steno : Shri S. B. Gore, Stenographer Grade­I Court Name : K.D. Vadane , Addl. Sessions Judge, Pune Date : 21/01/2019 Order signed by presiding officer on : 21/01/2019 Order uploaded on : 21/01/2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "CNR No.MHPU01­000205­2019 Akshay Nandu Khilare Vs. State of Maharashtra (Dighi Police Police Station ) \r\n---header-ends---\r\nOrder below exh. 1 in Cri. Bail application No.48/2019 1. This is an application U/s.439 of Cr.P.C. filed by the applicant­accused for grant of bail in connection with Crime No.337/2018 , registered with Dighi Police Station for the offence punishable u/s.394 r/w.34 of IPC and 37 (1) r/ws. 135 of the Bombay Police Act \r\n---background-ends---\r\n2. Prosecution case is that on 04/12/2018 at about 10­30 p.m.,complainant­Haridas Surywanshi had gone for answering nature call, at that time, applicant/accused and other co­accused threatened to complainant, and forcefully took mobile phone and cash amount of complainant, and also caused injuries to his leg by sickle and thereafter fled away. \r\n---argument-ends---\r\n3. Learned counsel for the applicant/accused submitted that applicant/accused has not committed any offence and he has been falsely implicated in this offence. He further submitted that there is no under section 394 of IPC. He further submitted that practically investigation is in respect of present applicant/accused is completed, therefore, he be released on bail. \r\n---argument-ends---\r\n4. On the other hand, learned APP submitted that in identification parade, complainant identified to the present applicant/accused. He further submitted that the accused are absconding, therefore, if applicant/accused is released on bail, he will pressurize to the complainant and witnesses, therefore, application be rejected. \r\n---argument-ends---\r\n5. On perusing police papers, prima facie, it reveals that on 2 05//12/2018 at about 07­40 a.ma., complainant lodged report at Dighi Police Station, alleging in that on 04/12/2018 at about 10­30 p.m., he had gone for answering nature call, at that time, four persons came by four wheeler, threatened and beat him by sharp weapon, spread chilly powder in his eyes, looted Rs.85000/­ and his mobile phone , and fled away. Moreover, it seems that police have arrested present accused on 05/12/2018. Now he is in custody. Moreover, it reveals that in the identification parade, complainant has identified the present applicant/accused. Moreover, it reveals that custodial interrogation of present applicant/accused is now not necessary. Moreover, in police papers, there is no any criminal antecedent against present application /accused. Therefore, considering all these aspects, in my view if present applicant­accused is released on bail on certain conditions, no prejudice will be caused to the prosecution. Hence, I pass the following order. \r\n---argument-ends---\r\nORDER i. Application is allowed. ii. The applicant­accused ­Akshay Nandu Khilare be released on bail on furnishing P.R. Bond of Rs.25,000/­ (Rupees Twenty five Thousand Only) with one or two solvent sureties in like amount. iii. The applicant­accused shall not tamper with prosecution evidence. iv. The applicant­accused shall attend concerned Police Station on every Monday and Thursday in between 11.00 a.m. to 2.00 p.m. till filing of the charge­sheet. v. The applicant­accused shall not leave Pune District without prior permission of this Court, till final disposal of the case. vi. The applicant­accused shall furnish fresh residential address to concerned Police Station and to this Court in case he changed present address. 3 vii. The applicant­accused shall attend the court regularly till final disposal of the case. \r\n---order-ends---\r\nDate : 21/01/2019 (K.D.Vadane) Additional Sessions Judge, Pune. 4 “I affirm that the contents of the PDF file Order are same word to word as per original judgment.” Name of Steno : Shri S. B. Gore, Stenographer Grade­I Court Name : K.D. Vadane , Addl. Sessions Judge, Pune Date : 21/01/2019 Order signed by presiding officer on : 21/01/2019 Order uploaded on : 21/01/2019"
+}

@@ -1,0 +1,715 @@
+{
+  "header": "Criminal Bail Application No.20/2019 CNR NO. MHPU01­000059­2019 Govind N. Sasane and another …. Applicants. Vs. State of Maharashtra …. Respondent.",
+  "background": {
+    "text": "ORDER BELOW EXH.1 This is the first bail application under section 439 of Criminal Procedure Code by present accused / applicants in connection with C.R.No. 960/18, registered by Nigdi police station, under section 307, 326, 143, 144, 147, 148, 149, 323, 504, 506 of Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "307,326,143,144,147,148,149,323,504,506",
+          "stringMatched": "under section 307, 326, 143, 144, 147, 148, 149, 323, 504, 506 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "[2] Perused the application and say given by respondent at Exh.4.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[2] Perused the application and say given by respondent at Exh.4.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "[3] Heard learned advocate Mr. Nagrale for the applicants / accused and learned APP Mr. Aurangabadkar for the respondent.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[3] Heard learned advocate Mr. Nagrale for the applicants / accused and learned APP Mr. Aurangabadkar for the respondent.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "[4] The learned advocate for the applicants argued that the incident is dated 14­12­2018 and the crime came to be registered on 18­12­2018, which is a delayed complaint. The FIR is filed against unknown persons and first only the offence under section 326 of IPC was applied. However, subsequently the offence under section 307 of the IPC was added by police, though it was not attracted. The allegations are that the assailants had assaulted informant and his friend Bilal and Amol. The applicants / accused have no criminal antecedents. They are ready to abide conditions if imposed.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[4] The learned advocate for the applicants argued that the incident is dated 14­12­2018 and the crime came to be registered on 18­12­2018, which is a delayed complaint.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The FIR is filed against unknown persons and first only the offence under section 326 of IPC was applied.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "However, subsequently the offence under section 307 of the IPC was added by police, though it was not attracted.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The allegations are that the assailants had assaulted informant and his friend Bilal and Amol.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The applicants / accused have no criminal antecedents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "They are ready to abide conditions if imposed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "[5] On the other hand, the learned APP for respondent argued that during investigation, the names of present accused were transpired through the statements of the witnesses and from the CCTV footage in the hotel. He submitted that there are direct allegations against the absconding accused. So far as the present accused are concerned, they were arrested in another crime and during investigation in the said crime the applicants admitted their involvement in the present crime. The accused are having criminal antecedents. The investigation is in progress. If the accused / applicants are released on bail, it is possible that they may tamper with the prosecution evidence and they may get abscond.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[5] On the other hand, the learned APP for respondent argued that during investigation, the names of present accused were transpired through the statements of the witnesses and from the CCTV footage in the hotel.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He submitted that there are direct allegations against the absconding accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "So far as the present accused are concerned, they were arrested in another crime and during investigation in the said crime the applicants admitted their involvement in the present crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The accused are having criminal antecedents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The investigation is in progress.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "If the accused / applicants are released on bail, it is possible that they may tamper with the prosecution evidence and they may get abscond.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "[6] I have gone through the FIR and the other investigation papers produced for my perusal. In the FIR, there are direct allegations against accused Sagar that he inflicted blow of steel kettle on the head of the informant and his friend Bilal and two, three persons accompanying Sagar had assaulted the informant and his two friends with kick and fist blows and also with the other articles kept in the hotel and glass of beer bottle.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[6] I have gone through the FIR and the other investigation papers produced for my perusal.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "In the FIR, there are direct allegations against accused Sagar that he inflicted blow of steel kettle on the head of the informant and his friend Bilal and two, three persons accompanying Sagar had assaulted the informant and his two friends with kick and fist blows and also with the other articles kept in the hotel and glass of beer bottle.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "[7] It is clear that there are direct allegations against co­ accused Sagar and Yogesh about their involvement in the crime. However, they are not arrested. So far as the present applicants / accused are concerned, their names are not given in the FIR and it appears that since these two applicants were arrested in another crime and during investigation in said crime, they admitted about their involvement in the present crime, they are booked in the present crime. But, there is no other material on record at this stage to connect the accused / applicants with the crime. Having regard to the role attributed to the accomplices of main accused Sagar and the fact that the present accused / applicants are arrested in the present crime on 20­12­2018 and they are behind bars for around one month in the present crime, I find that accused / applicants are entitled to be released on bail. So far as the apprehension expressed by the respondent, the care of the same can be taken by imposing necessary conditions. Hence, the following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[7] It is clear that there are direct allegations against co­ accused Sagar and Yogesh about their involvement in the crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "However, they are not arrested.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "So far as the present applicants / accused are concerned, their names are not given in the FIR and it appears that since these two applicants were arrested in another crime and during investigation in said crime, they admitted about their involvement in the present crime, they are booked in the present crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "But, there is no other material on record at this stage to connect the accused / applicants with the crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Having regard to the role attributed to the accomplices of main accused Sagar and the fact that the present accused / applicants are arrested in the present crime on 20­12­2018 and they are behind bars for around one month in the present crime, I find that accused / applicants are entitled to be released on bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "So far as the apprehension expressed by the respondent, the care of the same can be taken by imposing necessary conditions.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Hence, the following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER [1] The application is allowed. [2] The applicant no.[1] Govind Nagurao Sasane and No. [2] Anup Laxman Aanape are released on bail, on their executing PR Bond of Rs.25,000/­ each, with one or two sureties of like amount, in connection with C.R.No. 960/18, registered by Nigadi police station, on following conditions :­ [A] The applicants / accused shall not tamper with the prosecution evidence in any manner. [B] The applicants / accused shall co­operate the investigating agency during investigation and they shall not repeat any offence. [C] Both the applicants / accused shall attend Nigadi police station on every Wednesday between 10 a.m. to 12 noon, for next three months from the date of this order. [3] Bail before concerned JMFC.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "25000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "25000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "WEEKLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "Pune, Dated/­22­01­2019 ( Aniruddha Y. Thatte ) Additional Sessions Judge, Pune. Cri.B.A.No. 20/19 4 CNR No.MHPU01­000059­2019 I affirm that the contents of the PDF file Judgment are same word for word as per original Judgment. Name of Steno :­ Shri. V. V. Bannur Name of Court : Shri. A. Y. Thatte, District Judge 14 and ASJ, Pune. Judgment signed by PO on : ­ 22­1­2019 Judgment uploaded on :­ 23­1­2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Criminal Bail Application No.20/2019 CNR NO. MHPU01­000059­2019 Govind N. Sasane and another …. Applicants. Vs. State of Maharashtra …. Respondent. \r\n---header-ends---\r\nORDER BELOW EXH.1 This is the first bail application under section 439 of Criminal Procedure Code by present accused / applicants in connection with C.R.No. 960/18, registered by Nigdi police station, under section 307, 326, 143, 144, 147, 148, 149, 323, 504, 506 of Indian Penal Code. \r\n---background-ends---\r\n[2] Perused the application and say given by respondent at Exh.4. \r\n---argument-ends---\r\n[3] Heard learned advocate Mr. Nagrale for the applicants / accused and learned APP Mr. Aurangabadkar for the respondent. \r\n---argument-ends---\r\n[4] The learned advocate for the applicants argued that the incident is dated 14­12­2018 and the crime came to be registered on 18­12­2018, which is a delayed complaint. The FIR is filed against unknown persons and first only the offence under section 326 of IPC was applied. However, subsequently the offence under section 307 of the IPC was added by police, though it was not attracted. The allegations are that the assailants had assaulted informant and his friend Bilal and Amol. The applicants / accused have no criminal antecedents. They are ready to abide conditions if imposed. \r\n---argument-ends---\r\n[5] On the other hand, the learned APP for respondent argued that during investigation, the names of present accused were transpired through the statements of the witnesses and from the CCTV footage in the hotel. He submitted that there are direct allegations against the absconding accused. So far as the present accused are concerned, they were arrested in another crime and during investigation in the said crime the applicants admitted their involvement in the present crime. The accused are having criminal antecedents. The investigation is in progress. If the accused / applicants are released on bail, it is possible that they may tamper with the prosecution evidence and they may get abscond. \r\n---argument-ends---\r\n[6] I have gone through the FIR and the other investigation papers produced for my perusal. In the FIR, there are direct allegations against accused Sagar that he inflicted blow of steel kettle on the head of the informant and his friend Bilal and two, three persons accompanying Sagar had assaulted the informant and his two friends with kick and fist blows and also with the other articles kept in the hotel and glass of beer bottle. \r\n---argument-ends---\r\n[7] It is clear that there are direct allegations against co­ accused Sagar and Yogesh about their involvement in the crime. However, they are not arrested. So far as the present applicants / accused are concerned, their names are not given in the FIR and it appears that since these two applicants were arrested in another crime and during investigation in said crime, they admitted about their involvement in the present crime, they are booked in the present crime. But, there is no other material on record at this stage to connect the accused / applicants with the crime. Having regard to the role attributed to the accomplices of main accused Sagar and the fact that the present accused / applicants are arrested in the present crime on 20­12­2018 and they are behind bars for around one month in the present crime, I find that accused / applicants are entitled to be released on bail. So far as the apprehension expressed by the respondent, the care of the same can be taken by imposing necessary conditions. Hence, the following order. \r\n---argument-ends---\r\nORDER [1] The application is allowed. [2] The applicant no.[1] Govind Nagurao Sasane and No. [2] Anup Laxman Aanape are released on bail, on their executing PR Bond of Rs.25,000/­ each, with one or two sureties of like amount, in connection with C.R.No. 960/18, registered by Nigadi police station, on following conditions :­ [A] The applicants / accused shall not tamper with the prosecution evidence in any manner. [B] The applicants / accused shall co­operate the investigating agency during investigation and they shall not repeat any offence. [C] Both the applicants / accused shall attend Nigadi police station on every Wednesday between 10 a.m. to 12 noon, for next three months from the date of this order. [3] Bail before concerned JMFC. \r\n---order-ends---\r\nPune, Dated/­22­01­2019 ( Aniruddha Y. Thatte ) Additional Sessions Judge, Pune. Cri.B.A.No. 20/19 4 CNR No.MHPU01­000059­2019 I affirm that the contents of the PDF file Judgment are same word for word as per original Judgment. Name of Steno :­ Shri. V. V. Bannur Name of Court : Shri. A. Y. Thatte, District Judge 14 and ASJ, Pune. Judgment signed by PO on : ­ 22­1­2019 Judgment uploaded on :­ 23­1­2019"
+}

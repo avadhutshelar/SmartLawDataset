@@ -1,0 +1,894 @@
+{
+  "header": "Bail application no. 31/2019 Order below Exh.01 in Bail Application No.31/2019 (CNR NO.­MHPU01­000075­2019)",
+  "background": {
+    "text": "1] Applicants­Sachin Gautam Kamble and Ganesh Arjun Puri have filed this application for bail under section 439 of Cr.P.C. in connection with CR No.248/2018 registered with Vimantal Police Station, Pune, under sections 379, 413 r/w. S.34 of IPC.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "IPC",
+          "sectionsMatched": "439,248,2018,379,413,34",
+          "stringMatched": "under section 439 of cr.p.c. in connection with cr no.248/2018 registered with vimantal police station, pune, under sections 379, 413 r/w. s.34 of ipc",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "REJECT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of Cr.P.C.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "IPC",
+          "sectionsMatched": "379,413,34",
+          "stringMatched": "under sections 379, 413 r/w. S.34 of IPC",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] It is the case of prosecution that, two vehicles of Complainant and his brother were parked on Pune­Dehu road near Balaji hospital, in between 11/08/2018 to 13/08/2018. Accused persons with their common intention stolen away those parked and locked vehicles without consent or knowledge of the Complainant and his brother. Hence, the complainant lodged report. Accordingly, this offence came to be registered. Accused is unknown person. Subsequently, the applicants came to be arrested on 30/11/2018.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] It is the case of prosecution that, two vehicles of Complainant and his brother were parked on Pune­Dehu road near Balaji hospital, in between 11/08/2018 to 13/08/2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Accused persons with their common intention stolen away those parked and locked vehicles without consent or knowledge of the Complainant and his brother.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, the complainant lodged report.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Accordingly, this offence came to be registered.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Accused is unknown person.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Subsequently, the applicants came to be arrested on 30/11/2018.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Advocate for the applicants in his argument stated that name of these applicants is not mentioned in FIR. After about three months from the incident applicants were arrested. Nothing incriminating was recovered from them. Nothing remained to be recovered or discovered from them. Custodial interrogation of these applicants is already over. Their further detention in jail is not necessary. Hence, this application may be allowed.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Advocate for the applicants in his argument stated that name of these applicants is not mentioned in FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "After about three months from the incident applicants were arrested.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Nothing incriminating was recovered from them.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Nothing remained to be recovered or discovered from them.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Custodial interrogation of these applicants is already over.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Their further detention in jail is not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Hence, this application may be allowed.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Ld. DGP strongly opposed this application. It is her contention that there is gang of thieves, its modus­ operandi was that to commit theft of vehicles take them to another State, dismantle their spare parts and disposed of the stolen property. This incident is committed by such gang. This offence is committed in organized manner. Stolen property already disposed of hence could not be recovered. This gang committed theft of eight trucks in similar manner within the jurisdiction of Chandannagar, Mundhwa, Bharati Vidyapeeth and Chikhali police stations. Accused ­Mehboob Shaikh had taken the stolen trucks to Hyderabad and sold them to persons acquainted with him and police are making investigation whether thereafter those trucks again sold or their spare parts were separated. She further stated that police are going to invoke provisions of MCOC Act against this gang. The bail application filed by his co­ accused before Hon\u0027ble High Court was came to be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Ld. DGP strongly opposed this application.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is her contention that there is gang of thieves, its modus­ operandi was that to commit theft of vehicles take them to another State, dismantle their spare parts and disposed of the stolen property.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "This incident is committed by such gang.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "This offence is committed in organized manner.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Stolen property already disposed of hence could not be recovered.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "This gang committed theft of eight trucks in similar manner within the jurisdiction of Chandannagar, Mundhwa, Bharati Vidyapeeth and Chikhali police stations.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Accused ­Mehboob Shaikh had taken the stolen trucks to Hyderabad and sold them to persons acquainted with him and police are making investigation whether thereafter those trucks again sold or their spare parts were separated.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "She further stated that police are going to invoke provisions of MCOC Act against this gang.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "The bail application filed by his co­ accused before Hon\u0027ble High Court was came to be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] During investigation, it was revealed that Mustkin Ali admitted his guilt and told that with the help of these two applicants and one Lala @ Sayyed Mansoor those stolen trucks were taken away out of Pune and thereafter those trucks were handed over to Babloo @ Firoz Shaikh and he handed over them to Mehboob Gulab Shaikh at Aurad Shahajani, District Latur. Lastly, they were sold to one person at Hyderabad. Thus, these applicants have played major role in committing theft of those two parked and locked vehicles without the consent or knowledge of Complainant or his brother. Therefore, during investigation police could not recover the stolen property. During investigation it was 3 Bail application no. 31/2019 revealed that by adopting similar modus­ operandi several vehicles were stolen by them from Pune city from the jurisdiction of several police stations. Offence is serious. Investigation is not completed. There is possibility of coming into light of several other offences at the instance of these applicant and their gang. Ld. DGP informed that police are taking steps for invoking provisions of MCOC Act. Hence, application deserves to be rejected. Therefore, I pass the following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] During investigation, it was revealed that Mustkin Ali admitted his guilt and told that with the help of these two applicants and one Lala @ Sayyed Mansoor those stolen trucks were taken away out of Pune and thereafter those trucks were handed over to Babloo @ Firoz Shaikh and he handed over them to Mehboob Gulab Shaikh at Aurad Shahajani, District Latur.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Lastly, they were sold to one person at Hyderabad.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Thus, these applicants have played major role in committing theft of those two parked and locked vehicles without the consent or knowledge of Complainant or his brother.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, during investigation police could not recover the stolen property.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "During investigation it was 3 Bail application no. 31/2019 revealed that by adopting similar modus­ operandi several vehicles were stolen by them from Pune city from the jurisdiction of several police stations.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Offence is serious.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Investigation is not completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "There is possibility of coming into light of several other offences at the instance of these applicant and their gang.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Ld. DGP informed that police are taking steps for invoking provisions of MCOC Act.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Hence, application deserves to be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "Therefore, I pass the following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER Bail Application No.31/2019 is rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Sd/­ ( S. S. Gosavi ) Date : 23­01­2019 Additional Sessions Judge,Pune. C E R T I F I C A T E I affirm that the contents of this P.D.F. file judgment are same word for word as per original Judgment. Name of steno : S. Y. Shaikh, Stenographer (Grade­I) Name of the Court : S. S. Gosavi, District Judge ­ 4 \u0026 Additional Sessions Judge, Pune Date of Order : 23.01.2019 Order signed by P.O. on : 24.01.2019 Order uploaded on : 24.01.2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Bail application no. 31/2019 Order below Exh.01 in Bail Application No.31/2019 (CNR NO.­MHPU01­000075­2019) \r\n---header-ends---\r\n1] Applicants­Sachin Gautam Kamble and Ganesh Arjun Puri have filed this application for bail under section 439 of Cr.P.C. in connection with CR No.248/2018 registered with Vimantal Police Station, Pune, under sections 379, 413 r/w. S.34 of IPC. \r\n---background-ends---\r\n2] It is the case of prosecution that, two vehicles of Complainant and his brother were parked on Pune­Dehu road near Balaji hospital, in between 11/08/2018 to 13/08/2018. Accused persons with their common intention stolen away those parked and locked vehicles without consent or knowledge of the Complainant and his brother. Hence, the complainant lodged report. Accordingly, this offence came to be registered. Accused is unknown person. Subsequently, the applicants came to be arrested on 30/11/2018. \r\n---argument-ends---\r\n3] Advocate for the applicants in his argument stated that name of these applicants is not mentioned in FIR. After about three months from the incident applicants were arrested. Nothing incriminating was recovered from them. Nothing remained to be recovered or discovered from them. Custodial interrogation of these applicants is already over. Their further detention in jail is not necessary. Hence, this application may be allowed. \r\n---argument-ends---\r\n4] Ld. DGP strongly opposed this application. It is her contention that there is gang of thieves, its modus­ operandi was that to commit theft of vehicles take them to another State, dismantle their spare parts and disposed of the stolen property. This incident is committed by such gang. This offence is committed in organized manner. Stolen property already disposed of hence could not be recovered. This gang committed theft of eight trucks in similar manner within the jurisdiction of Chandannagar, Mundhwa, Bharati Vidyapeeth and Chikhali police stations. Accused ­Mehboob Shaikh had taken the stolen trucks to Hyderabad and sold them to persons acquainted with him and police are making investigation whether thereafter those trucks again sold or their spare parts were separated. She further stated that police are going to invoke provisions of MCOC Act against this gang. The bail application filed by his co­ accused before Hon\u0027ble High Court was came to be rejected. \r\n---argument-ends---\r\n5] During investigation, it was revealed that Mustkin Ali admitted his guilt and told that with the help of these two applicants and one Lala @ Sayyed Mansoor those stolen trucks were taken away out of Pune and thereafter those trucks were handed over to Babloo @ Firoz Shaikh and he handed over them to Mehboob Gulab Shaikh at Aurad Shahajani, District Latur. Lastly, they were sold to one person at Hyderabad. Thus, these applicants have played major role in committing theft of those two parked and locked vehicles without the consent or knowledge of Complainant or his brother. Therefore, during investigation police could not recover the stolen property. During investigation it was 3 Bail application no. 31/2019 revealed that by adopting similar modus­ operandi several vehicles were stolen by them from Pune city from the jurisdiction of several police stations. Offence is serious. Investigation is not completed. There is possibility of coming into light of several other offences at the instance of these applicant and their gang. Ld. DGP informed that police are taking steps for invoking provisions of MCOC Act. Hence, application deserves to be rejected. Therefore, I pass the following order. \r\n---argument-ends---\r\nORDER Bail Application No.31/2019 is rejected. \r\n---order-ends---\r\nSd/­ ( S. S. Gosavi ) Date : 23­01­2019 Additional Sessions Judge,Pune. C E R T I F I C A T E I affirm that the contents of this P.D.F. file judgment are same word for word as per original Judgment. Name of steno : S. Y. Shaikh, Stenographer (Grade­I) Name of the Court : S. S. Gosavi, District Judge ­ 4 \u0026 Additional Sessions Judge, Pune Date of Order : 23.01.2019 Order signed by P.O. on : 24.01.2019 Order uploaded on : 24.01.2019"
+}

@@ -1,0 +1,1109 @@
+{
+  "header": "Cri. Bail Appl. No. 46/2019 (CNR No. : MHPU01­000199­2019) Riya Santoshi Vs. State of Maharashtra",
+  "background": {
+    "text": "ORDER BELOW EXH. 1 1] This is an application by Riya Rajkumar Santoshi for Anticipatory Bail under Section 438 of the Code of Criminal Procedure in respect of Crime No.119/2018 registered under Sections 376(2)(C), 323, 504, 506, 109 read with Section 34 of Indian Penal Code at Police Station, Dehuroad, Pune.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "376,2,323,504,506,109,34",
+          "stringMatched": "under sections 376(2)(c), 323, 504, 506, 109 read with section 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "REJECT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "376,323,504,506,109,34",
+          "stringMatched": "under Sections 376(2)(C), 323, 504, 506, 109 read with Section 34 of Indian Penal Code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] Informant is married lady of 23 years. She performed marriage with one Jitendra Tiwari in the year 2011. After marriage, she begot one son. She alleged that, her husband and father­in­law used to abuse and beat her for domestic reasons. In May 2017, her father­in­law entered into her room and by putting her under threat to assault minor son, committed forceful sexual intercourse with her. After the incident she narrated it to her husband, but her husband disbelieved her. Present Applicant Riya is having love affair with husband of Informant. Informant alleges that, present Applicant also made her to keep physical relations with her father­in­law, threatened her for causing death of her minor son. As such, she lodged report against husband, father­in­law and present Applicant.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] Informant is married lady of 23 years.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "She performed marriage with one Jitendra Tiwari in the year 2011.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "After marriage, she begot one son.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "She alleged that, her husband and father­in­law used to abuse and beat her for domestic reasons.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "In May 2017, her father­in­law entered into her room and by putting her under threat to assault minor son, committed forceful sexual intercourse with her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "After the incident she narrated it to her husband, but her husband disbelieved her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Present Applicant Riya is having love affair with husband of Informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Informant alleges that, present Applicant also made her to keep physical relations with her father­in­law, threatened her for causing death of her minor son.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "As such, she lodged report against husband, father­in­law and present Applicant.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Applicant submits that, Informant alleges the incident during the period from May 2017 to October 2017, but she approached to police in February 2018. Therefore, there is sufficient delay in lodging the report without any explanation.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Applicant submits that, Informant alleges the incident during the period from May 2017 to October 2017, but she approached to police in February 2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Therefore, there is sufficient delay in lodging the report without any explanation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Applicant further submits that, she is a lady. She has no concern with the alleged incident of sexual assault on Informant. Only allegations are to the extent of threatening to the Informant, but for which her custody is not necessary. Police have completed investigation and charge­sheet has been filed. Therefore, also custodial interrogation of the Applicant is not necessary.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Applicant further submits that, she is a lady.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "She has no concern with the alleged incident of sexual assault on Informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Only allegations are to the extent of threatening to the Informant, but for which her custody is not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Police have completed investigation and charge­sheet has been filed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Therefore, also custodial interrogation of the Applicant is not necessary.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] Advocate for Applicant has relied upon following two citations and contended that, while considering the application of Anticipatory Bail, Court should consider the possibility of false implication of Applicant and genuineness of the allegations. [1] Sidharam Mhetre Vs. State of Maharashtra \u0026 Ors, reported in AIR 2011 SC 312. [2] Gurubaksha Singh Sibbia Vs. State of Punjab, reported in AIR 1980, SC 1632.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] Advocate for Applicant has relied upon following two citations and contended that, while considering the application of Anticipatory Bail, Court should consider the possibility of false implication of Applicant and genuineness of the allegations.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "[1] Sidharam Mhetre Vs. State of Maharashtra \u0026 Ors, reported in AIR 2011 SC 312.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "[2] Gurubaksha Singh Sibbia Vs. State of Punjab, reported in AIR 1980, SC 1632.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6] Learned APP Mr.Satpute appeared for Respondent/State and filed report investigation officer. He submits that, Informant has narrated the specific role of the present Applicant. Offence is serious in nature. Investigation with the Applicant is necessary. There are chances of tampering. Therefore, the application may be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6] Learned APP Mr.Satpute appeared for Respondent/State and filed report investigation officer.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He submits that, Informant has narrated the specific role of the present Applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Offence is serious in nature.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Investigation with the Applicant is necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "There are chances of tampering.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Therefore, the application may be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7] Heard Adv. Y. M. Gaikwad for Applicant, learned APP Mr. Satpute for the State. Perused FIR and Papers.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7] Heard Adv. Y. M. Gaikwad for Applicant, learned APP Mr. Satpute for the State.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Perused FIR and Papers.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8] Informant alleged against Applicant to the extent that, Applicant also used to make her to keep relations with her father­in­ law. When Informant requested Applicant for not to interfere in her martial life, Applicant pressurized her for giving divorce to her husband and also threatened her to cause death of her son. But as per report itself, the incident was in between May 2017 to October 2017, but the report has been lodged in February 2018. Prima facie, there is no explanation for delay. Moreover, considering the allegations against Applicant, those are seen to be omnibus in nature without any specification. In the aforesaid citations, Hon\u0027ble Supreme Court has laid down that, possibility of mala­fide accusation is to be accessed while deciding the Anticipatory Bail and also to see whether custody of the Applicant is warranted for investigation of the crime. In the present matter, police have completed investigation and filed charge­sheet. Considering the alleged role of Applicant, nothing is to be recovered from the Applicant. Applicant is a lady. Prima facie, there is delay in FIR. Accusations are prima facie vague. Therefore, immediate custody of the Applicant may not be necessary. If suitable conditions are imposed, the purpose of investigation machinery will be served. Hence, I prefer to pass following Order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8] Informant alleged against Applicant to the extent that, Applicant also used to make her to keep relations with her father­in­ law.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "When Informant requested Applicant for not to interfere in her martial life, Applicant pressurized her for giving divorce to her husband and also threatened her to cause death of her son.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "But as per report itself, the incident was in between May 2017 to October 2017, but the report has been lodged in February 2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Prima facie, there is no explanation for delay.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Moreover, considering the allegations against Applicant, those are seen to be omnibus in nature without any specification.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "In the aforesaid citations, Hon\u0027ble Supreme Court has laid down that, possibility of mala­fide accusation is to be accessed while deciding the Anticipatory Bail and also to see whether custody of the Applicant is warranted for investigation of the crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "In the present matter, police have completed investigation and filed charge­sheet.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Considering the alleged role of Applicant, nothing is to be recovered from the Applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Applicant is a lady.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Prima facie, there is delay in FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "Accusations are prima facie vague.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Therefore, immediate custody of the Applicant may not be necessary.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "text": "If suitable conditions are imposed, the purpose of investigation machinery will be served.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "text": "Hence, I prefer to pass following Order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1] Application is allowed. 2] In the event of arrest in Crime No.119/2018 registered under Sections 376(2)(C), 323, 504, 506, 109 read with Section 34 of Indian Penal Code at Police Station, Dehuroad, Pune, Applicant Riya Rajkumari Santoshi be released on bail on furnishing P.B. of Rs. 25,000/­ (Rupees Twenty Five Thousand) with one or more solvent sureties of the like amount on the following conditions : [A] Applicant shall make herself available for interrogation by Police Officer as and when required. [B] Applicant shall not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade her from disclosing such facts to the Court or to any police officer. [C] Applicant to provide her permanent address and contact details to the investigation officer and should not change it without intimation to the court. 3] Intimate to concern Police Station.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "25000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "25000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "MONTHLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "sd/­xxx Pune. [ Smt. A. V. Rotte ] Date : 29/01/2019. Additional Sessions Judge,Pune C E R T I F I C A T E I affirm that the contents of this P. D. F. file Order are same word for word as per original Order. Name of the Court :­ Smt. A. V. Rotte, District Judge – 6 and Additional Sessions Judge, Pune. Name of the Steno :­ Shri. D. L. Gudde, Stenographer (Grade­II) Date of Order :­ 29/01/2019 Order signed by presiding officer :­ 29/01/2019 Order uploaded on :­ 29/01/2019.",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Cri. Bail Appl. No. 46/2019 (CNR No. : MHPU01­000199­2019) Riya Santoshi Vs. State of Maharashtra \r\n---header-ends---\r\nORDER BELOW EXH. 1 1] This is an application by Riya Rajkumar Santoshi for Anticipatory Bail under Section 438 of the Code of Criminal Procedure in respect of Crime No.119/2018 registered under Sections 376(2)(C), 323, 504, 506, 109 read with Section 34 of Indian Penal Code at Police Station, Dehuroad, Pune. \r\n---background-ends---\r\n2] Informant is married lady of 23 years. She performed marriage with one Jitendra Tiwari in the year 2011. After marriage, she begot one son. She alleged that, her husband and father­in­law used to abuse and beat her for domestic reasons. In May 2017, her father­in­law entered into her room and by putting her under threat to assault minor son, committed forceful sexual intercourse with her. After the incident she narrated it to her husband, but her husband disbelieved her. Present Applicant Riya is having love affair with husband of Informant. Informant alleges that, present Applicant also made her to keep physical relations with her father­in­law, threatened her for causing death of her minor son. As such, she lodged report against husband, father­in­law and present Applicant. \r\n---argument-ends---\r\n3] Applicant submits that, Informant alleges the incident during the period from May 2017 to October 2017, but she approached to police in February 2018. Therefore, there is sufficient delay in lodging the report without any explanation. \r\n---argument-ends---\r\n4] Applicant further submits that, she is a lady. She has no concern with the alleged incident of sexual assault on Informant. Only allegations are to the extent of threatening to the Informant, but for which her custody is not necessary. Police have completed investigation and charge­sheet has been filed. Therefore, also custodial interrogation of the Applicant is not necessary. \r\n---argument-ends---\r\n5] Advocate for Applicant has relied upon following two citations and contended that, while considering the application of Anticipatory Bail, Court should consider the possibility of false implication of Applicant and genuineness of the allegations. [1] Sidharam Mhetre Vs. State of Maharashtra \u0026 Ors, reported in AIR 2011 SC 312. [2] Gurubaksha Singh Sibbia Vs. State of Punjab, reported in AIR 1980, SC 1632. \r\n---argument-ends---\r\n6] Learned APP Mr.Satpute appeared for Respondent/State and filed report investigation officer. He submits that, Informant has narrated the specific role of the present Applicant. Offence is serious in nature. Investigation with the Applicant is necessary. There are chances of tampering. Therefore, the application may be rejected. \r\n---argument-ends---\r\n7] Heard Adv. Y. M. Gaikwad for Applicant, learned APP Mr. Satpute for the State. Perused FIR and Papers. \r\n---argument-ends---\r\n8] Informant alleged against Applicant to the extent that, Applicant also used to make her to keep relations with her father­in­ law. When Informant requested Applicant for not to interfere in her martial life, Applicant pressurized her for giving divorce to her husband and also threatened her to cause death of her son. But as per report itself, the incident was in between May 2017 to October 2017, but the report has been lodged in February 2018. Prima facie, there is no explanation for delay. Moreover, considering the allegations against Applicant, those are seen to be omnibus in nature without any specification. In the aforesaid citations, Hon\u0027ble Supreme Court has laid down that, possibility of mala­fide accusation is to be accessed while deciding the Anticipatory Bail and also to see whether custody of the Applicant is warranted for investigation of the crime. In the present matter, police have completed investigation and filed charge­sheet. Considering the alleged role of Applicant, nothing is to be recovered from the Applicant. Applicant is a lady. Prima facie, there is delay in FIR. Accusations are prima facie vague. Therefore, immediate custody of the Applicant may not be necessary. If suitable conditions are imposed, the purpose of investigation machinery will be served. Hence, I prefer to pass following Order. \r\n---argument-ends---\r\nORDER 1] Application is allowed. 2] In the event of arrest in Crime No.119/2018 registered under Sections 376(2)(C), 323, 504, 506, 109 read with Section 34 of Indian Penal Code at Police Station, Dehuroad, Pune, Applicant Riya Rajkumari Santoshi be released on bail on furnishing P.B. of Rs. 25,000/­ (Rupees Twenty Five Thousand) with one or more solvent sureties of the like amount on the following conditions : [A] Applicant shall make herself available for interrogation by Police Officer as and when required. [B] Applicant shall not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade her from disclosing such facts to the Court or to any police officer. [C] Applicant to provide her permanent address and contact details to the investigation officer and should not change it without intimation to the court. 3] Intimate to concern Police Station. \r\n---order-ends---\r\nsd/­xxx Pune. [ Smt. A. V. Rotte ] Date : 29/01/2019. Additional Sessions Judge,Pune C E R T I F I C A T E I affirm that the contents of this P. D. F. file Order are same word for word as per original Order. Name of the Court :­ Smt. A. V. Rotte, District Judge – 6 and Additional Sessions Judge, Pune. Name of the Steno :­ Shri. D. L. Gudde, Stenographer (Grade­II) Date of Order :­ 29/01/2019 Order signed by presiding officer :­ 29/01/2019 Order uploaded on :­ 29/01/2019."
+}

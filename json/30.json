@@ -1,0 +1,804 @@
+{
+  "header": "Bail application no. 35/2019 Order below Exh.01 in Bail Application No. 35/2019 (CNR­MHPU01­000077­2019)",
+  "background": {
+    "text": "1] Applicant Ajmer Javed Shaikh has filed this application for bail under section 439 of Cr.P.C. in connection with CR No. 335/2018 registered with Khadki Police Station, Pune, under sections 307, 387, 142, 147, 148, 149, 323, 504, 506 of IPC, under section 7 of Criminal Law Amendment Act and under section 37 (1) r/w. s.135 of Maharashtra Police Act.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "IPC",
+          "sectionsMatched": "307,387,142,147,148,149,323,504,506",
+          "stringMatched": "under sections 307, 387, 142, 147, 148, 149, 323, 504, 506 of ipc",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Criminal Law Amendment Act",
+          "sectionsMatched": "7",
+          "stringMatched": "under section 7 of criminal law amendment act",
+          "legalAct": {
+            "actId": 10,
+            "actName": "The Criminal Law Amendment Act",
+            "actShortNameList": "Criminal Law Amendment Act",
+            "actYear": "1932",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "20"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 4,
+        "legalActFound": {
+          "actNameMatched": "Maharashtra Police Act",
+          "sectionsMatched": "37,1,135",
+          "stringMatched": "under section 37 (1) r/w. s.135 of maharashtra police act",
+          "legalAct": {
+            "actId": 7,
+            "actName": "The Bombay Police Act",
+            "actShortNameList": "Bombay Police Act,Mumbai Police Act,Maharashtra Police Act",
+            "actYear": "1951",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "167"
+          }
+        },
+        "legalRefAcceptRejectDecision": "REJECT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 5,
+        "legalActFound": {
+          "actNameMatched": "Maharashtra Police Act",
+          "sectionsMatched": "37,135",
+          "stringMatched": "under section 37 (1) r/w. s.135 of Maharashtra Police Act",
+          "legalAct": {
+            "actId": 7,
+            "actName": "The Bombay Police Act",
+            "actShortNameList": "Bombay Police Act,Mumbai Police Act,Maharashtra Police Act",
+            "actYear": "1951",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "167"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] It is the case of prosecution that, uncle of Complainant refused to give extortion amount of Rs.5,000/­ and to vacate the premises of said shop. Hence, on 04/10/2018 at 15.30 hours at Patil Estate Zopadpatti, Shivajinagar, Pune, Complainant and one Ayub Qureshi employee of Beef shop of uncle of Complainant while present in the Beef shop. On the say of accused­ Rahim Saudagar assault was made by accused­persons with the help of their associates by means of sickles, cement blocks, plastic pipe and wooden stump on both hands, ribs etc. with intention to kill them and created terror in that vicinity.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] It is the case of prosecution that, uncle of Complainant refused to give extortion amount of Rs.5,000/­ and to vacate the premises of said shop.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Hence, on 04/10/2018 at 15.30 hours at Patil Estate Zopadpatti, Shivajinagar, Pune, Complainant and one Ayub Qureshi employee of Beef shop of uncle of Complainant while present in the Beef shop.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "On the say of accused­ Rahim Saudagar assault was made by accused­persons with the help of their associates by means of sickles, cement blocks, plastic pipe and wooden stump on both hands, ribs etc. with intention to kill them and created terror in that vicinity.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Advocate for applicant in his argument stated that applicant has been falsely implicated in this case. The only allegation against this applicant is that he has beaten by hands and legs. The offence is not punishable with death or life imprisonment. The complainant and injured are out of danger. They are discharged from the hospital. Investigation in respect of applicant is over. Applicant is only earning member of his family. He is 21 years of age and working as labour. Therefore, he may be released on bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Advocate for applicant in his argument stated that applicant has been falsely implicated in this case.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The only allegation against this applicant is that he has beaten by hands and legs.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The offence is not punishable with death or life imprisonment.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The complainant and injured are out of danger.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "They are discharged from the hospital.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Investigation in respect of applicant is over.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Applicant is only earning member of his family.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "He is 21 years of age and working as labour.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Therefore, he may be released on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Ld. DGP in her argument stated that at the time of incident all were present with sticks and wooden stumps. The incident happened in front of shop of uncle of Complainant. First of all intimidation was given then sickle was thrown to cause injuries to complainant and that labour and thereafter by cement block blow was given. At the relevant time damage was caused to shop also. They created terror in the mind of people gathered there. Offence is serious. If this applicant will be released on bail, there is possibility of tampering the prosecution witnesses and evidence. Hence, this application may be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Ld. DGP in her argument stated that at the time of incident all were present with sticks and wooden stumps.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The incident happened in front of shop of uncle of Complainant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "First of all intimidation was given then sickle was thrown to cause injuries to complainant and that labour and thereafter by cement block blow was given.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "At the relevant time damage was caused to shop also.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "They created terror in the mind of people gathered there.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Offence is serious.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "If this applicant will be released on bail, there is possibility of tampering the prosecution witnesses and evidence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Hence, this application may be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] From last three months, this applicant is in jail. Investigation is completed. It appears that charge­sheet has been filed. Considering the nature of offence and allegations, further detention of the applicant is not necessary. Hence, I pass the following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] From last three months, this applicant is in jail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Investigation is completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It appears that charge­sheet has been filed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Considering the nature of offence and allegations, further detention of the applicant is not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, I pass the following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1. Bail Application No.35/2019 is allowed. 2. Applicant­Ajmer Javed Shaikh be released on bail in CR No.335/2018 registered with Khadki Police Station, Pune, under sections 307, 387, 142, 147, 148, 149, 323, 504, 506 of IPC, under section 7 of Criminal Law Amendment Act and under section 37 (1) r/w. s.135 of Maharashtra Police Act, on furnishing PR bond of 3 Bail application no. 35/2019 Rs. 25,000/­ (Rs. Twenty five thousands only) with one or two sureties in like amount. 3. He shall attend the concerned Police Station as and when required by the IO. 4. He shall not tamper with any prosecution witnesses and evidence. 5. Bail before Ld. Magistrate.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "25000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "25000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "MONTHLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "Sd/­ (S.S. Gosavi) Date : 24­01­2019 Additional Sessions Judge,Pune. C E R T I F I C A T E I affirm that the contents of this P.D.F. file judgment are same word for word as per original Judgment. Name of steno : S. Y. Shaikh, Stenographer (Grade­I) Name of the Court : S. S. Gosavi, District Judge ­ 4 \u0026 Additional Sessions Judge, Pune Date of Order : 24.01.2019 Order signed by P.O. on : 24.01.2019 Order uploaded on : 25.01.2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Bail application no. 35/2019 Order below Exh.01 in Bail Application No. 35/2019 (CNR­MHPU01­000077­2019) \r\n---header-ends---\r\n1] Applicant Ajmer Javed Shaikh has filed this application for bail under section 439 of Cr.P.C. in connection with CR No. 335/2018 registered with Khadki Police Station, Pune, under sections 307, 387, 142, 147, 148, 149, 323, 504, 506 of IPC, under section 7 of Criminal Law Amendment Act and under section 37 (1) r/w. s.135 of Maharashtra Police Act. \r\n---background-ends---\r\n2] It is the case of prosecution that, uncle of Complainant refused to give extortion amount of Rs.5,000/­ and to vacate the premises of said shop. Hence, on 04/10/2018 at 15.30 hours at Patil Estate Zopadpatti, Shivajinagar, Pune, Complainant and one Ayub Qureshi employee of Beef shop of uncle of Complainant while present in the Beef shop. On the say of accused­ Rahim Saudagar assault was made by accused­persons with the help of their associates by means of sickles, cement blocks, plastic pipe and wooden stump on both hands, ribs etc. with intention to kill them and created terror in that vicinity. \r\n---argument-ends---\r\n3] Advocate for applicant in his argument stated that applicant has been falsely implicated in this case. The only allegation against this applicant is that he has beaten by hands and legs. The offence is not punishable with death or life imprisonment. The complainant and injured are out of danger. They are discharged from the hospital. Investigation in respect of applicant is over. Applicant is only earning member of his family. He is 21 years of age and working as labour. Therefore, he may be released on bail. \r\n---argument-ends---\r\n4] Ld. DGP in her argument stated that at the time of incident all were present with sticks and wooden stumps. The incident happened in front of shop of uncle of Complainant. First of all intimidation was given then sickle was thrown to cause injuries to complainant and that labour and thereafter by cement block blow was given. At the relevant time damage was caused to shop also. They created terror in the mind of people gathered there. Offence is serious. If this applicant will be released on bail, there is possibility of tampering the prosecution witnesses and evidence. Hence, this application may be rejected. \r\n---argument-ends---\r\n5] From last three months, this applicant is in jail. Investigation is completed. It appears that charge­sheet has been filed. Considering the nature of offence and allegations, further detention of the applicant is not necessary. Hence, I pass the following order. \r\n---argument-ends---\r\nORDER 1. Bail Application No.35/2019 is allowed. 2. Applicant­Ajmer Javed Shaikh be released on bail in CR No.335/2018 registered with Khadki Police Station, Pune, under sections 307, 387, 142, 147, 148, 149, 323, 504, 506 of IPC, under section 7 of Criminal Law Amendment Act and under section 37 (1) r/w. s.135 of Maharashtra Police Act, on furnishing PR bond of 3 Bail application no. 35/2019 Rs. 25,000/­ (Rs. Twenty five thousands only) with one or two sureties in like amount. 3. He shall attend the concerned Police Station as and when required by the IO. 4. He shall not tamper with any prosecution witnesses and evidence. 5. Bail before Ld. Magistrate. \r\n---order-ends---\r\nSd/­ (S.S. Gosavi) Date : 24­01­2019 Additional Sessions Judge,Pune. C E R T I F I C A T E I affirm that the contents of this P.D.F. file judgment are same word for word as per original Judgment. Name of steno : S. Y. Shaikh, Stenographer (Grade­I) Name of the Court : S. S. Gosavi, District Judge ­ 4 \u0026 Additional Sessions Judge, Pune Date of Order : 24.01.2019 Order signed by P.O. on : 24.01.2019 Order uploaded on : 25.01.2019"
+}

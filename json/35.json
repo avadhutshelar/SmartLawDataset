@@ -1,0 +1,1052 @@
+{
+  "header": "Order below Exh.1 in Cri. Bail Application No. 41/2019 (CNR-MHPU01-000133-2019)",
+  "background": {
+    "text": "This is an application under section 439 of the Code of Criminal Procedure for grant of bail to the accused/applicant for the offence punishable under sections 376(2)(n), 452, 504, 506 of the Indian Penal Code in crime No.439/2018 registered with Khadak police station, Pune.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "376,2,452,504,506",
+          "stringMatched": "under sections 376(2)(n), 452, 504, 506 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "REJECT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "376,452,504,506",
+          "stringMatched": "under sections 376(2)(n), 452, 504, 506 of the Indian Penal Code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] In short, the prosecution case is that the complainant the complainant Riya Sanjay Hivarekar lodged the report to Khadak police station interalia contending that the accused threatened the complainant that he will inform about her previous love affair to her parents and will show them the messages sent by her to her first lover Darshan Nayar and by threatening such, he committed physical sexual intercourse with her in the month of January 2018 at midnight. The accused in January 18 went to the house of complainant and made her to open the door and forcibly committed sexual intercourse with her. When she refused for it, he threatened her that he will get her father known and will show messages sent by her to her first lover. The accused has also threatened her that if she discloses this fact to any one, he will defame her in friend circle and 2 accused committed sexual intercourse with her in March 2018. The accused has also threatened her that she should keep physical relations with his friends also. On these allegations, she lodged report and offence punishable under Sections 376(2)(n), 452, 504, 506 came to be registered against the accused vide Crime No. 439/2018.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] In short, the prosecution case is that the complainant the complainant Riya Sanjay Hivarekar lodged the report to Khadak police station interalia contending that the accused threatened the complainant that he will inform about her previous love affair to her parents and will show them the messages sent by her to her first lover Darshan Nayar and by threatening such, he committed physical sexual intercourse with her in the month of January 2018 at midnight.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The accused in January 18 went to the house of complainant and made her to open the door and forcibly committed sexual intercourse with her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "When she refused for it, he threatened her that he will get her father known and will show messages sent by her to her first lover.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The accused has also threatened her that if she discloses this fact to any one, he will defame her in friend circle and 2 accused committed sexual intercourse with her in March 2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The accused has also threatened her that she should keep physical relations with his friends also.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "On these allegations, she lodged report and offence punishable under Sections 376(2)(n), 452, 504, 506 came to be registered against the accused vide Crime No. 439/2018.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] The contention of the accused/applicant is that he has not committed any offence as alleged. He is a student and studying at BMCC College, Pune. He is permanent resident of Pune. The complainant and accused are the classmates and studding together in the same college. They know each other since last many years and have developed good and friendly relations between them. He has not threatened to the complainant. Complainant has made false and baseless story. He has never pressurized her. No case is made out against him for the offence punishable under Section 376 of the IPC. He is ready to abide by the terms and conditions that may be imposed. Lastly he prayed to allow the application.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] The contention of the accused/applicant is that he has not committed any offence as alleged.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He is a student and studying at BMCC College, Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He is permanent resident of Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The complainant and accused are the classmates and studding together in the same college.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "They know each other since last many years and have developed good and friendly relations between them.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He has not threatened to the complainant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Complainant has made false and baseless story.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "He has never pressurized her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "No case is made out against him for the offence punishable under Section 376 of the IPC.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "He is ready to abide by the terms and conditions that may be imposed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "Lastly he prayed to allow the application.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] The learned A.P.P. has filed his say at Exh.4 and opposed the application on the count that the offence is serious in nature. If he is released on bail he will pressurize the witnesses and will make obstacle in the 3 investigation. Lastly prayed to reject the application.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] The learned A.P.P. has filed his say at Exh.4 and opposed the application on the count that the offence is serious in nature.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "If he is released on bail he will pressurize the witnesses and will make obstacle in the 3 investigation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Lastly prayed to reject the application.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] Heard learned A.P.P for the State and learned counsel for the accused. Gone through the record.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] Heard learned A.P.P for the State and learned counsel for the accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Gone through the record.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6] In view of these facts, following points arise for determination and findings thereon are recorded against each of them, for the reasons stated below : Points Findings 1. Whether the accused is entitled for bail ? Yes. 2. What order ? As per final order. REASONS Point No.1 :-",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6] In view of these facts, following points arise for determination and findings thereon are recorded against each of them, for the reasons stated below : Points Findings 1.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Whether the accused is entitled for bail ?",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Yes.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "2.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "What order ?",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "As per final order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "REASONS Point No.1 :-",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7] On perusal of contents of FIR, it clearly reveals that the accused and complainant are taking eduction in the same college in the same class and they are acquainted with each other for last many years. The accused is in jail since 16.12.2018. There is huge delay in lodging the FIR. According to prosecution, the offence is committed in the month of January 2018 and March 2018 and report is lodged on 16.12.2018. The prosecution has also not prayed for further detention of accused for further investigation.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7] On perusal of contents of FIR, it clearly reveals that the accused and complainant are taking eduction in the same college in the same class and they are acquainted with each other for last many years.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The accused is in jail since 16.12.2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "There is huge delay in lodging the FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "According to prosecution, the offence is committed in the month of January 2018 and March 2018 and report is lodged on 16.12.2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The prosecution has also not prayed for further detention of accused for further investigation.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8] The learned counsel for the accused has vehemently argued that the accused is a student and 4 taking education in 2nd year. His examination will be commenced in the month of February, for which he is required to study. Therefore, considering the educational carrier of accused and considering the fact that accused and complainant were acquainted with each other and considering documentary evidence placed on record by the accused, I find it just and proper to release the applicant on bail. Therefore, it is expedient to pass the following order :-",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8] The learned counsel for the accused has vehemently argued that the accused is a student and 4 taking education in 2nd year.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "His examination will be commenced in the month of February, for which he is required to study.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Therefore, considering the educational carrier of accused and considering the fact that accused and complainant were acquainted with each other and considering documentary evidence placed on record by the accused, I find it just and proper to release the applicant on bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, it is expedient to pass the following order :-",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER The application (Exh.1) is allowed. The applicant/accused Aditya Vilas Sutar be released on bail for the offence punishable under sections 376(2)(n), 452, 504, 506 of the Indian Penal Code vide crime No.439/2018 registered with Khadak police station, Pune, on P.R. Bond of Rs.15,000/- with one or two solvent local sureties in like amount, on the following conditions :- a) The applicant shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court. b) The applicant shall not tamper with the evidence. c) The applicant shall remain present before the Court on each and every date till the completion of trial. 5 d) The applicant shall not leave India without permission of the Court. e) The applicant shall furnish his permanent address and temporary address, if any, and his contact details to the concerned Court. f) The applicant shall not change his residential address without prior intimation to the Investigation Officer and to the concerned Court. g) The applicant shall not talk with the complainant either in the college or at her house and shall not make any communication with her by any electronic mode. h) If the applicant disobeyed any of the above condition, the prosecution is at liberty to move the Court for cancellation of bail. Bail before lower Court.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "15000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "15000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "MONTHLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "(Mrs. M.M. Deshpande) Date: 14-1-2019. Additional Sessions Judge, Pune. 6 I affirm that the contents of this PDF file order are same word to word as per original order. Name of Steno : S.R. Shahane, Court Name : Mrs. Madhuri M. Deshpande Additional Sessions Judge, Pune. Date on which the P.O. Signed the order : 14.01.2019 Date of PDF file : 14.01.2019 Order uploaded on : 14.01.2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Order below Exh.1 in Cri. Bail Application No. 41/2019 (CNR-MHPU01-000133-2019) \r\n---header-ends---\r\nThis is an application under section 439 of the Code of Criminal Procedure for grant of bail to the accused/applicant for the offence punishable under sections 376(2)(n), 452, 504, 506 of the Indian Penal Code in crime No.439/2018 registered with Khadak police station, Pune. \r\n---background-ends---\r\n2] In short, the prosecution case is that the complainant the complainant Riya Sanjay Hivarekar lodged the report to Khadak police station interalia contending that the accused threatened the complainant that he will inform about her previous love affair to her parents and will show them the messages sent by her to her first lover Darshan Nayar and by threatening such, he committed physical sexual intercourse with her in the month of January 2018 at midnight. The accused in January 18 went to the house of complainant and made her to open the door and forcibly committed sexual intercourse with her. When she refused for it, he threatened her that he will get her father known and will show messages sent by her to her first lover. The accused has also threatened her that if she discloses this fact to any one, he will defame her in friend circle and 2 accused committed sexual intercourse with her in March 2018. The accused has also threatened her that she should keep physical relations with his friends also. On these allegations, she lodged report and offence punishable under Sections 376(2)(n), 452, 504, 506 came to be registered against the accused vide Crime No. 439/2018. \r\n---argument-ends---\r\n3] The contention of the accused/applicant is that he has not committed any offence as alleged. He is a student and studying at BMCC College, Pune. He is permanent resident of Pune. The complainant and accused are the classmates and studding together in the same college. They know each other since last many years and have developed good and friendly relations between them. He has not threatened to the complainant. Complainant has made false and baseless story. He has never pressurized her. No case is made out against him for the offence punishable under Section 376 of the IPC. He is ready to abide by the terms and conditions that may be imposed. Lastly he prayed to allow the application. \r\n---argument-ends---\r\n4] The learned A.P.P. has filed his say at Exh.4 and opposed the application on the count that the offence is serious in nature. If he is released on bail he will pressurize the witnesses and will make obstacle in the 3 investigation. Lastly prayed to reject the application. \r\n---argument-ends---\r\n5] Heard learned A.P.P for the State and learned counsel for the accused. Gone through the record. \r\n---argument-ends---\r\n6] In view of these facts, following points arise for determination and findings thereon are recorded against each of them, for the reasons stated below : Points Findings 1. Whether the accused is entitled for bail ? Yes. 2. What order ? As per final order. REASONS Point No.1 :- \r\n---argument-ends---\r\n7] On perusal of contents of FIR, it clearly reveals that the accused and complainant are taking eduction in the same college in the same class and they are acquainted with each other for last many years. The accused is in jail since 16.12.2018. There is huge delay in lodging the FIR. According to prosecution, the offence is committed in the month of January 2018 and March 2018 and report is lodged on 16.12.2018. The prosecution has also not prayed for further detention of accused for further investigation. \r\n---argument-ends---\r\n8] The learned counsel for the accused has vehemently argued that the accused is a student and 4 taking education in 2nd year. His examination will be commenced in the month of February, for which he is required to study. Therefore, considering the educational carrier of accused and considering the fact that accused and complainant were acquainted with each other and considering documentary evidence placed on record by the accused, I find it just and proper to release the applicant on bail. Therefore, it is expedient to pass the following order :- \r\n---argument-ends---\r\nORDER The application (Exh.1) is allowed. The applicant/accused Aditya Vilas Sutar be released on bail for the offence punishable under sections 376(2)(n), 452, 504, 506 of the Indian Penal Code vide crime No.439/2018 registered with Khadak police station, Pune, on P.R. Bond of Rs.15,000/- with one or two solvent local sureties in like amount, on the following conditions :- a) The applicant shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court. b) The applicant shall not tamper with the evidence. c) The applicant shall remain present before the Court on each and every date till the completion of trial. 5 d) The applicant shall not leave India without permission of the Court. e) The applicant shall furnish his permanent address and temporary address, if any, and his contact details to the concerned Court. f) The applicant shall not change his residential address without prior intimation to the Investigation Officer and to the concerned Court. g) The applicant shall not talk with the complainant either in the college or at her house and shall not make any communication with her by any electronic mode. h) If the applicant disobeyed any of the above condition, the prosecution is at liberty to move the Court for cancellation of bail. Bail before lower Court. \r\n---order-ends---\r\n(Mrs. M.M. Deshpande) Date: 14-1-2019. Additional Sessions Judge, Pune. 6 I affirm that the contents of this PDF file order are same word to word as per original order. Name of Steno : S.R. Shahane, Court Name : Mrs. Madhuri M. Deshpande Additional Sessions Judge, Pune. Date on which the P.O. Signed the order : 14.01.2019 Date of PDF file : 14.01.2019 Order uploaded on : 14.01.2019"
+}

@@ -1,0 +1,571 @@
+{
+  "header": "Cri. Bail Appl. No. 4/2019 Rohit Bhise \u0026 others. Vs. State of Maharashtra ORDER BELOW EXH. 4",
+  "background": {
+    "text": "1] This is an application by Rohit Bhise and others for grant of ad­interim anticipatory bail under Section 438 of the Code of Criminal Procedure in respect of Crime No. 372/2018 registered under Sections 498(A), 323, 504, 506 of Indian Penal Code and Section 4 of Dowry Prohibition Act at Police Station, Faraskhana, Pune.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "498,323,504,506",
+          "stringMatched": "under sections 498(a), 323, 504, 506 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Dowry Prohibition Act",
+          "sectionsMatched": "4",
+          "stringMatched": "Section 4 of Dowry Prohibition Act",
+          "legalAct": {
+            "actId": 6,
+            "actName": "Dowry Prohibition Act",
+            "actShortNameList": "",
+            "actYear": "0000",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "1"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] Informant Disha @ Reshma Rohit Bhise is wife of Applicant No.1, rest of the applicants are her in­laws. She has alleged that, after marriage with Applicant No. 1 in the year 2016 all Applicants ill­treated her for demand of Rs.5,00,000/­ to establish a shop. Ultimately on 20.11.2017 applicant No.1 deserted her and not resumed cohabitation. Therefore, she lodged the report.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] Informant Disha @ Reshma Rohit Bhise is wife of Applicant No.1, rest of the applicants are her in­laws.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "She has alleged that, after marriage with Applicant No. 1 in the year 2016 all Applicants ill­treated her for demand of Rs.5,00,000/­ to establish a shop.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Ultimately on 20.11.2017 applicant No.1 deserted her and not resumed cohabitation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, she lodged the report.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Applicants submit that, the FIR is filed to harass them. They never ill­treated informant, nor demanded any amount to her. The entire FIR is vague and general in nature without any specific details of ill­treatment. They are reputed persons, not going to flee away from course of justice. Hence, they pray for interim protection.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Applicants submit that, the FIR is filed to harass them.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "They never ill­treated informant, nor demanded any amount to her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The entire FIR is vague and general in nature without any specific details of ill­treatment.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "They are reputed persons, not going to flee away from course of justice.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, they pray for interim protection.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Heard learned Adv. M.M.Nanavare for Applicants. Perused the FIR and papers.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Heard learned Adv. M.M.Nanavare for Applicants.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Perused the FIR and papers.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] Prima facie, the allegations against Applicants are to the extent that, they demanded money to informant, as well as ill­treated her for domestic reasons. No immediate recovery is pending against Applicants. Therefore, immediate custody of the Applicants are not necessary. They are having roots in the society, therefore, their presence can be secured. Hence, I prefer to pass following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] Prima facie, the allegations against Applicants are to the extent that, they demanded money to informant, as well as ill­treated her for domestic reasons.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "No immediate recovery is pending against Applicants.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Therefore, immediate custody of the Applicants are not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "They are having roots in the society, therefore, their presence can be secured.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, I prefer to pass following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1] Application is allowed. 2] Pending herein final disposal of main application, in the event of arrest in 372/2018 registered under Sections 498(A), 323, 504, 506 of Indian Penal Code and Section 4 of Dowry Prohibition Act at Police Station, Faraskhana, Pune, Applicant No. [1] Rohit Rajendra Bhise, [2] Rajendra Shyamrao Bhise, [3] Kiran Rajendra Bhise, [4] Kunal Rajendra Bhise and [5] Shraddha Kunal Bhise be released on bail on furnishing P.B. and S.B. of Rs. 15,000/­ (Rupees Fifteen Thousand Only) each on the following conditions : [A] Applicants shall make themselves available for interrogation by a Police Officer as and when required. [B] Applicants shall not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to any police officer. 3] Issue Notice to respondent state returnable on 07.01.2019. 4] Intimate to concern Police Station.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "15000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "15000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Pune. (Smt. A. V. Rotte) Date : 01.01.2019 Additional Sessions Judge,Pune\r\nC E R T I F I C A T E I affirm that the contents of this P. D. F. file Order are same word for word as per original Order. Name of the Court :­ Smt. A. V. Rotte, Additional Sessions Judge, Pune Name of the Steno :­ Shri. P. K. Shirolkar, Stenographer (Grade­II) Date of Order :­ 01.01.2019 Order signed by presiding officer :­ 01.01.2019 Order uploaded on :­ 01.01.2019 ..3..",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Cri. Bail Appl. No. 4/2019 Rohit Bhise \u0026 others. Vs. State of Maharashtra ORDER BELOW EXH. 4 \r\n---header-ends---\r\n1] This is an application by Rohit Bhise and others for grant of ad­interim anticipatory bail under Section 438 of the Code of Criminal Procedure in respect of Crime No. 372/2018 registered under Sections 498(A), 323, 504, 506 of Indian Penal Code and Section 4 of Dowry Prohibition Act at Police Station, Faraskhana, Pune. \r\n---background-ends---\r\n2] Informant Disha @ Reshma Rohit Bhise is wife of Applicant No.1, rest of the applicants are her in­laws. She has alleged that, after marriage with Applicant No. 1 in the year 2016 all Applicants ill­treated her for demand of Rs.5,00,000/­ to establish a shop. Ultimately on 20.11.2017 applicant No.1 deserted her and not resumed cohabitation. Therefore, she lodged the report. \r\n---argument-ends---\r\n3] Applicants submit that, the FIR is filed to harass them. They never ill­treated informant, nor demanded any amount to her. The entire FIR is vague and general in nature without any specific details of ill­treatment. They are reputed persons, not going to flee away from course of justice. Hence, they pray for interim protection. \r\n---argument-ends---\r\n4] Heard learned Adv. M.M.Nanavare for Applicants. Perused the FIR and papers. \r\n---argument-ends---\r\n5] Prima facie, the allegations against Applicants are to the extent that, they demanded money to informant, as well as ill­treated her for domestic reasons. No immediate recovery is pending against Applicants. Therefore, immediate custody of the Applicants are not necessary. They are having roots in the society, therefore, their presence can be secured. Hence, I prefer to pass following order. \r\n---argument-ends---\r\nORDER 1] Application is allowed. 2] Pending herein final disposal of main application, in the event of arrest in 372/2018 registered under Sections 498(A), 323, 504, 506 of Indian Penal Code and Section 4 of Dowry Prohibition Act at Police Station, Faraskhana, Pune, Applicant No. [1] Rohit Rajendra Bhise, [2] Rajendra Shyamrao Bhise, [3] Kiran Rajendra Bhise, [4] Kunal Rajendra Bhise and [5] Shraddha Kunal Bhise be released on bail on furnishing P.B. and S.B. of Rs. 15,000/­ (Rupees Fifteen Thousand Only) each on the following conditions : [A] Applicants shall make themselves available for interrogation by a Police Officer as and when required. [B] Applicants shall not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to any police officer. 3] Issue Notice to respondent state returnable on 07.01.2019. 4] Intimate to concern Police Station. \r\n---order-ends---\r\nPune. (Smt. A. V. Rotte) Date : 01.01.2019 Additional Sessions Judge,Pune\r\nC E R T I F I C A T E I affirm that the contents of this P. D. F. file Order are same word for word as per original Order. Name of the Court :­ Smt. A. V. Rotte, Additional Sessions Judge, Pune Name of the Steno :­ Shri. P. K. Shirolkar, Stenographer (Grade­II) Date of Order :­ 01.01.2019 Order signed by presiding officer :­ 01.01.2019 Order uploaded on :­ 01.01.2019 ..3.."
+}

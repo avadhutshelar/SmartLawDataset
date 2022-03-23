@@ -1,0 +1,761 @@
+{
+  "header": "Bail application no.8/2019 Order below Exh.01 in Bail Application No.8/2019 (CNR­MHPU01­000006­2019)",
+  "background": {
+    "text": "1] Applicant­Isak Vajir Shaikh has filed this application for bail under section 439 of Cr.P.C. in connection with CR No.821/2018 of Kondhwa Police Station under sections 8 (c), 20 (b) (ii) (B), 27 (A), 29 of N.D.P.S. Act.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "THE NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES ACT",
+          "sectionsMatched": "8 (c), 20 (b) (ii) (B), 27 (A), 29",
+          "stringMatched": "under sections 8 (c), 20 (b) (ii) (B), 27 (A), 29 of N.D.P.S. Act",
+          "legalAct": {
+            "actId": 7,
+            "actName": "THE NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES ACT",
+            "actShortNameList": "",
+            "actYear": "0000",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "1"
+          }
+        },
+        "legalRefAcceptRejectDecision": "REJECT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "N.D.P.S.",
+          "sectionsMatched": "8,20,27,29",
+          "stringMatched": "under sections 8 (c), 20 (b) (ii) (B), 27 (A), 29 of N.D.P.S. Act",
+          "legalAct": {
+            "actId": 9,
+            "actName": "The Narcotic Drugs and Psychotropic Substances Act",
+            "actShortNameList": "N.D.P.S.",
+            "actYear": "1985",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "83"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of Cr.P.C.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] It is the case of prosecution that, 22/09/2018 this applicant­accused no.1 had been arrested by the police of Anti­ Narcotic Cell in Kondhwa Police Station in CR no.821/2018 along with accused no.2 for possessing 2 Kg. 174 Gram Ganja along with mobile hand set ­Samsung Make and cash amount. Hence, on the complaint of Pravin Shirke, API of Anti­Narcotic Cell, Pune, this offence was registered.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] It is the case of prosecution that, 22/09/2018 this applicant­accused no.1 had been arrested by the police of Anti­ Narcotic Cell in Kondhwa Police Station in CR no.821/2018 along with accused no.2 for possessing 2 Kg.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "174 Gram Ganja along with mobile hand set ­Samsung Make and cash amount.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, on the complaint of Pravin Shirke, API of Anti­Narcotic Cell, Pune, this offence was registered.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Advocate for the applicant in his argument stated that even as per the case of prosecution, the quantity of Ganja found in possession of applicant is less than commercial quantity. This applicant is no way concern with the accused no.2. He has not committed any offence punishable under NDPS Act. This applicant has not found in possession of other contraband articles. It is search and seizure case and investigation of the case is totally completed. Therefore, custody of the applicant is unwarranted. Therefore, this application may be released on bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Advocate for the applicant in his argument stated that even as per the case of prosecution, the quantity of Ganja found in possession of applicant is less than commercial quantity.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "This applicant is no way concern with the accused no.2.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He has not committed any offence punishable under NDPS Act.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "This applicant has not found in possession of other contraband articles.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "It is search and seizure case and investigation of the case is totally completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Therefore, custody of the applicant is unwarranted.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Therefore, this application may be released on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Ld. APP strongly opposed this application. It is his 2 contention that investigation is not yet completed. Offence is serious. That stock of Ganja was found possesed with an intention to sell it. If this applicant will be released on bail, he will flee away from justice and there is possibility of tampering the prosecution witnesses and evidence. Hence, this application may be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Ld. APP strongly opposed this application.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is his 2 contention that investigation is not yet completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Offence is serious.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "That stock of Ganja was found possesed with an intention to sell it.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "If this applicant will be released on bail, he will flee away from justice and there is possibility of tampering the prosecution witnesses and evidence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Hence, this application may be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] Advocate for the applicant in his argument placed reliance on unreported judgment of Hon\u0027ble High Court Bench at Aurangabad in Cri. Application no.1865/2017 in which in para no.2 Hon\u0027ble High Court observed that the quantity of Ganja involved in that case was 10.572 kg. It is less than commercial quantity. Therefore, there is no bar under section 37 of NDPS Act. Hence, Hon\u0027ble High Court released the applicant on bail. The ratio laid down in that case is squarely applicable to the present case as the quantity involved is less than commercial quantity. There is no bar under section 37 of NDPS Act. Custodial interrogation of the application is already over. Further detention of the application is not necessary. Hence, I pass the following order.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] Advocate for the applicant in his argument placed reliance on unreported judgment of Hon\u0027ble High Court Bench at Aurangabad in Cri.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Application no.1865/2017 in which in para no.2 Hon\u0027ble High Court observed that the quantity of Ganja involved in that case was 10.572 kg.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is less than commercial quantity.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, there is no bar under section 37 of NDPS Act.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, Hon\u0027ble High Court released the applicant on bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "The ratio laid down in that case is squarely applicable to the present case as the quantity involved is less than commercial quantity.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "There is no bar under section 37 of NDPS Act.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Custodial interrogation of the application is already over.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Further detention of the application is not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Hence, I pass the following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1. Bail Application No.8/2019 is allowed. 2. Applicant­ Isak Vajir Shaikh be released on bail in CR No.821/2018 of Kondhwa Police Station under sections 8 (c), 20 (b) (ii) (B), 27 (A), 29 of N.D.P.S. Act, on furnishing PR bond of Rs. 50,000/­ (Rs. Fifty thousands only) with one or more sureties in like amount. 3. He shall attend the concern the police station on 3rd 3 Bail application no. 8/2019 Monday of each month till filing of the charge­sheet. 4. He shall not tamper with any prosecution witnesses and evidence.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "50000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "50000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "50000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "50000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "MONTHLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "Sd/­ ( S.S. Gosavi ) Date : 19­01­2019 Additional Sessions Judge,Pune. C E R T I F I C A T E I affirm that the contents of this P.D.F. file judgment are same word for word as per original Judgment. Name of steno : S. Y. Shaikh, Stenographer (Grade­I) Name of the Court : S. S. Gosavi, District Judge ­ 4 \u0026 Additional Sessions Judge, Pune Date of Order : 19.01.2019 Order signed by P.O. on : 21.01.2019 Order uploaded on : 21.01.2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Bail application no.8/2019 Order below Exh.01 in Bail Application No.8/2019 (CNR­MHPU01­000006­2019) \r\n---header-ends---\r\n1] Applicant­Isak Vajir Shaikh has filed this application for bail under section 439 of Cr.P.C. in connection with CR No.821/2018 of Kondhwa Police Station under sections 8 (c), 20 (b) (ii) (B), 27 (A), 29 of N.D.P.S. Act. \r\n---background-ends---\r\n2] It is the case of prosecution that, 22/09/2018 this applicant­accused no.1 had been arrested by the police of Anti­ Narcotic Cell in Kondhwa Police Station in CR no.821/2018 along with accused no.2 for possessing 2 Kg. 174 Gram Ganja along with mobile hand set ­Samsung Make and cash amount. Hence, on the complaint of Pravin Shirke, API of Anti­Narcotic Cell, Pune, this offence was registered. \r\n---argument-ends---\r\n3] Advocate for the applicant in his argument stated that even as per the case of prosecution, the quantity of Ganja found in possession of applicant is less than commercial quantity. This applicant is no way concern with the accused no.2. He has not committed any offence punishable under NDPS Act. This applicant has not found in possession of other contraband articles. It is search and seizure case and investigation of the case is totally completed. Therefore, custody of the applicant is unwarranted. Therefore, this application may be released on bail. \r\n---argument-ends---\r\n4] Ld. APP strongly opposed this application. It is his 2 contention that investigation is not yet completed. Offence is serious. That stock of Ganja was found possesed with an intention to sell it. If this applicant will be released on bail, he will flee away from justice and there is possibility of tampering the prosecution witnesses and evidence. Hence, this application may be rejected. \r\n---argument-ends---\r\n5] Advocate for the applicant in his argument placed reliance on unreported judgment of Hon\u0027ble High Court Bench at Aurangabad in Cri. Application no.1865/2017 in which in para no.2 Hon\u0027ble High Court observed that the quantity of Ganja involved in that case was 10.572 kg. It is less than commercial quantity. Therefore, there is no bar under section 37 of NDPS Act. Hence, Hon\u0027ble High Court released the applicant on bail. The ratio laid down in that case is squarely applicable to the present case as the quantity involved is less than commercial quantity. There is no bar under section 37 of NDPS Act. Custodial interrogation of the application is already over. Further detention of the application is not necessary. Hence, I pass the following order. \r\n---argument-ends---\r\nORDER 1. Bail Application No.8/2019 is allowed. 2. Applicant­ Isak Vajir Shaikh be released on bail in CR No.821/2018 of Kondhwa Police Station under sections 8 (c), 20 (b) (ii) (B), 27 (A), 29 of N.D.P.S. Act, on furnishing PR bond of Rs. 50,000/­ (Rs. Fifty thousands only) with one or more sureties in like amount. 3. He shall attend the concern the police station on 3rd 3 Bail application no. 8/2019 Monday of each month till filing of the charge­sheet. 4. He shall not tamper with any prosecution witnesses and evidence. \r\n---order-ends---\r\nSd/­ ( S.S. Gosavi ) Date : 19­01­2019 Additional Sessions Judge,Pune. C E R T I F I C A T E I affirm that the contents of this P.D.F. file judgment are same word for word as per original Judgment. Name of steno : S. Y. Shaikh, Stenographer (Grade­I) Name of the Court : S. S. Gosavi, District Judge ­ 4 \u0026 Additional Sessions Judge, Pune Date of Order : 19.01.2019 Order signed by P.O. on : 21.01.2019 Order uploaded on : 21.01.2019"
+}
