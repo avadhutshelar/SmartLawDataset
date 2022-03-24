@@ -1,0 +1,521 @@
+{
+  "header": "Criminal Bail Application No. 70/2019 (CNR No. MHPU01­000299­2019) Tushar Dilip Dagade \u0026 Anr. Vs. State of Maharashtra (Through Lonikand P.S.)",
+  "background": {
+    "text": "ORDER BELOW EXH. 4 Applicants Tushar Dilip Dagade and Vaishali Vitthal Yenpure have filed this application under Section 438 of the Code of Criminal Procedure for the grant of Ad­interim Anticipatory Bail in connection with C.R.No. 1370/2018 under Section 353, 323, 504 r/w. 34 of the Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "353,323,504,34",
+          "stringMatched": "under section 353, 323, 504 r/w. 34 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "[2] Heard the Ld. Counsel for the Applicants.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[2] Heard the Ld. Counsel for the Applicants.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "[3] On 29.12.2018 at noon time, there was traffic congestion at Kesnand Phata, Wagholi. At about 17.30 hours when applicants had stopped vehicle on Pune­Kesnand road, that time, one Swift Desire tried to enter the said route. The complainant stopped the said vehicle. At that time, the driver/applicant started abusing the complainant and applicant No. 2 got down and caught hold collar of the complainant. On these allegations, the applicants prosecuted.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[3] On 29.12.2018 at noon time, there was traffic congestion at Kesnand Phata, Wagholi.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "At about 17.30 hours when applicants had stopped vehicle on Pune­Kesnand road, that time, one Swift Desire tried to enter the said route.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The complainant stopped the said vehicle.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "At that time, the driver/applicant started abusing the complainant and applicant No. 2 got down and caught hold collar of the complainant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "On these allegations, the applicants prosecuted.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "[4] The Ld. Counsel for Applicants stated that the applicants are innocent and have not committed any offence. The complainant himself damaged the car of applicant No.1 by giving : 2 : a blow by stick on the front glass. On that count, there was altercation of words. The applicant has not done any over act. The custodial interrogation of the applicants is not necessary. Hence, prayed for ad­interim protection.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[4] The Ld. Counsel for Applicants stated that the applicants are innocent and have not committed any offence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The complainant himself damaged the car of applicant No.1 by giving : 2 : a blow by stick on the front glass.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "On that count, there was altercation of words.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The applicant has not done any over act.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The custodial interrogation of the applicants is not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Hence, prayed for ad­interim protection.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "[5] After hearing the Ld. Counsel for the applicants, there is reasonable apprehension in the mind of the applicants about his arrest at the hands of non­applicant. Hence, as settled position of Law, the Applicants are entitled for ad­interim Anticipatory bail till filing of reply by the Opponent. Hence, following order :­",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[5] After hearing the Ld. Counsel for the applicants, there is reasonable apprehension in the mind of the applicants about his arrest at the hands of non­applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Hence, as settled position of Law, the Applicants are entitled for ad­interim Anticipatory bail till filing of reply by the Opponent.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, following order :­",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1] In the event of arrest of the applicants ­ Tushar Dilip Dagade and Vaishali Vitthal Yenpure in the matter of C.R.No. 1370/2018 under Section 353, 323, 504 r/w. 34 of the Indian Penal Code registered at Lonikand Police Station, Pune, they be released on their executing P.R. Bond of Rs.15,000/­ each and surety each of like amount. 2] The above mentioned interim protection of ad­interim anticipatory bail is granted till filing of reply by the Opponent. 3] Issue show cause notice to PSO PS Lonikand Police Station r/on. 11.01.2019.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "15000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "15000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Sd/­ Pune ( G.P.Agrawal ) Date : 04/01/2019 Additional Sessions Judge, Pune. CERTIFICATE I affirm that the contents of this P.D.F. file order are same word to word as per original order. Name of Steno : Smt. S.N.Kale Name of Court : G.P.Agrawal Addl. Sessions Judge,Pune. Order delivered on : 04/01/2019 Order signed on : 04/01/2019 Order uploaded on : 07/01/2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Criminal Bail Application No. 70/2019 (CNR No. MHPU01­000299­2019) Tushar Dilip Dagade \u0026 Anr. Vs. State of Maharashtra (Through Lonikand P.S.) \r\n---header-ends---\r\nORDER BELOW EXH. 4 Applicants Tushar Dilip Dagade and Vaishali Vitthal Yenpure have filed this application under Section 438 of the Code of Criminal Procedure for the grant of Ad­interim Anticipatory Bail in connection with C.R.No. 1370/2018 under Section 353, 323, 504 r/w. 34 of the Indian Penal Code. \r\n---background-ends---\r\n[2] Heard the Ld. Counsel for the Applicants. \r\n---argument-ends---\r\n[3] On 29.12.2018 at noon time, there was traffic congestion at Kesnand Phata, Wagholi. At about 17.30 hours when applicants had stopped vehicle on Pune­Kesnand road, that time, one Swift Desire tried to enter the said route. The complainant stopped the said vehicle. At that time, the driver/applicant started abusing the complainant and applicant No. 2 got down and caught hold collar of the complainant. On these allegations, the applicants prosecuted. \r\n---argument-ends---\r\n[4] The Ld. Counsel for Applicants stated that the applicants are innocent and have not committed any offence. The complainant himself damaged the car of applicant No.1 by giving : 2 : a blow by stick on the front glass. On that count, there was altercation of words. The applicant has not done any over act. The custodial interrogation of the applicants is not necessary. Hence, prayed for ad­interim protection. \r\n---argument-ends---\r\n[5] After hearing the Ld. Counsel for the applicants, there is reasonable apprehension in the mind of the applicants about his arrest at the hands of non­applicant. Hence, as settled position of Law, the Applicants are entitled for ad­interim Anticipatory bail till filing of reply by the Opponent. Hence, following order :­ \r\n---argument-ends---\r\nORDER 1] In the event of arrest of the applicants ­ Tushar Dilip Dagade and Vaishali Vitthal Yenpure in the matter of C.R.No. 1370/2018 under Section 353, 323, 504 r/w. 34 of the Indian Penal Code registered at Lonikand Police Station, Pune, they be released on their executing P.R. Bond of Rs.15,000/­ each and surety each of like amount. 2] The above mentioned interim protection of ad­interim anticipatory bail is granted till filing of reply by the Opponent. 3] Issue show cause notice to PSO PS Lonikand Police Station r/on. 11.01.2019. \r\n---order-ends---\r\nSd/­ Pune ( G.P.Agrawal ) Date : 04/01/2019 Additional Sessions Judge, Pune. CERTIFICATE I affirm that the contents of this P.D.F. file order are same word to word as per original order. Name of Steno : Smt. S.N.Kale Name of Court : G.P.Agrawal Addl. Sessions Judge,Pune. Order delivered on : 04/01/2019 Order signed on : 04/01/2019 Order uploaded on : 07/01/2019"
+}

@@ -1,0 +1,656 @@
+{
+  "header": "Criminal Bail Application No. 65/2019 (CNR No. MHPU01­000226­2019) Tushar Ananda Bhosale Vs. State of Maharashtra (Through Talegaon M.I.D.C. P.S.)",
+  "background": {
+    "text": "ORDER BELOW EXH. 4 Applicant has filed this application under Section 438 of the Code of Criminal Procedure for the grant of Ad­interim Anticipatory Bail in connection with C.R.No. 128/2018 under Sections 307, 326, 324, 323, 504, r/w. 34 of I.P.C.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "I.P.C",
+          "sectionsMatched": "307,326,324,323,504,34",
+          "stringMatched": "under sections 307, 326, 324, 323, 504, r/w. 34 of i.p.c",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "[2] Heard the Ld. Counsel for the Applicant.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[2] Heard the Ld. Counsel for the Applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "[3] The prosecution case is that on 06.12.2018 at about 06.30 p.m. the complainant and his friend in that village were standing in the corridor of Nitin Bhosale’s house and were talking with each other. At that time, the brother of the applicant i.e. Gorakh Bhosale came there and abused complainant and his friends by making allegations of theft of his motorcycle’s battery. Complainant asked Gorakh Bhosale to abuse to the theft who stolen the battery and not to the complainant. There were exchange of words in between them .",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[3] The prosecution case is that on 06.12.2018 at about 06.30 p.m. the complainant and his friend in that village were standing in the corridor of Nitin Bhosale’s house and were talking with each other.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "At that time, the brother of the applicant i.e. Gorakh Bhosale came there and abused complainant and his friends by making allegations of theft of his motorcycle’s battery.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Complainant asked Gorakh Bhosale to abuse to the theft who stolen the battery and not to the complainant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "There were exchange of words in between them .",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "[4] On 07.12.2018 at about 03.00 p.m. the complainant was at home, at that time, the another brother of applicant i.e. Nana Bhosale had called the complainant for asking about the quarrel of previous date. At that time, the complainant said to Nana Bhosale that they will meet and sort out the solution of the subject in between them. Thereafter, Nana Bhosale in anger disconnected the call. After that, Gorakh Bhosale in his hand a iron pipe for releasing walls and also the Nana Bhosale came with iron pipe and iron sword and started abusing the complainant. At that time, Gorakh Bhosale hit on the complainant’s head with iron pipe and Nana Bhosale also hited the iron pipe on complainant’s head, back, chest, stomach and was injured seriously. On these allegations, the applicant and his two brothers prosecuted.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[4] On 07.12.2018 at about 03.00 p.m. the complainant was at home, at that time, the another brother of applicant i.e. Nana Bhosale had called the complainant for asking about the quarrel of previous date.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "At that time, the complainant said to Nana Bhosale that they will meet and sort out the solution of the subject in between them.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Thereafter, Nana Bhosale in anger disconnected the call.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "After that, Gorakh Bhosale in his hand a iron pipe for releasing walls and also the Nana Bhosale came with iron pipe and iron sword and started abusing the complainant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "At that time, Gorakh Bhosale hit on the complainant’s head with iron pipe and Nana Bhosale also hited the iron pipe on complainant’s head, back, chest, stomach and was injured seriously.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "On these allegations, the applicant and his two brothers prosecuted.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "[5] The Ld. Counsel for Applicant stated that the applicant is innocent and has not committed any offence. The brother of the applicant i.e. Nana Bhosale had also lodged a complaint against the complainant and his brother Prakash Bhosale on 08.12.2018 u/s. 307, 324, 323, 504, 506 r/w. 34 of IPC and 4(25) of Arms Act vide Crime No. 129/2018. The custodial interrogation of the applicant is not necessary. Hence, prayed for ad­interim protection.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[5] The Ld. Counsel for Applicant stated that the applicant is innocent and has not committed any offence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The brother of the applicant i.e. Nana Bhosale had also lodged a complaint against the complainant and his brother Prakash Bhosale on 08.12.2018 u/s. 307, 324, 323, 504, 506 r/w. 34 of IPC and 4(25) of Arms Act vide Crime No. 129/2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The custodial interrogation of the applicant is not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Hence, prayed for ad­interim protection.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "[6] After hearing the Ld. Counsel for the applicant, there is reasonable apprehension in the mind of the applicant about his arrest at the hands of non­applicant. The allegations against the applicant are serious. The offence u/s. 307 of IPC is punishablewith imprisonment up to 10 years. There is a counter case against the complainant and his brother. In the facts and circumstances of the case, it is not desirable to grant an­interim anticipatory bail. Hence, following order :­",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[6] After hearing the Ld. Counsel for the applicant, there is reasonable apprehension in the mind of the applicant about his arrest at the hands of non­applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The allegations against the applicant are serious.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The offence u/s. 307 of IPC is punishablewith imprisonment up to 10 years.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "There is a counter case against the complainant and his brother.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "In the facts and circumstances of the case, it is not desirable to grant an­interim anticipatory bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Hence, following order :­",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1] Application (Exh. 4) is hereby rejected. 2] Issue notice to PSO of P.S. Talegaon M.I.D.C Police Station r/on 09.01.2019.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Sd/­ Pune ( G.P.Agrawal ) Date : 03/01/2019 Additional Sessions Judge, Pune. CERTIFICATE I affirm that the contents of this P.D.F. file order are same word to word as per original order. Name of Steno : Smt. S.N.Kale Name of Court : G.P.Agrawal Addl. Sessions Judge,Pune. Order delivered on : 03/01/2019 Order signed on : 03/01/2019 Order uploaded on : 04/01/2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Criminal Bail Application No. 65/2019 (CNR No. MHPU01­000226­2019) Tushar Ananda Bhosale Vs. State of Maharashtra (Through Talegaon M.I.D.C. P.S.) \r\n---header-ends---\r\nORDER BELOW EXH. 4 Applicant has filed this application under Section 438 of the Code of Criminal Procedure for the grant of Ad­interim Anticipatory Bail in connection with C.R.No. 128/2018 under Sections 307, 326, 324, 323, 504, r/w. 34 of I.P.C. \r\n---background-ends---\r\n[2] Heard the Ld. Counsel for the Applicant. \r\n---argument-ends---\r\n[3] The prosecution case is that on 06.12.2018 at about 06.30 p.m. the complainant and his friend in that village were standing in the corridor of Nitin Bhosale’s house and were talking with each other. At that time, the brother of the applicant i.e. Gorakh Bhosale came there and abused complainant and his friends by making allegations of theft of his motorcycle’s battery. Complainant asked Gorakh Bhosale to abuse to the theft who stolen the battery and not to the complainant. There were exchange of words in between them .\r\n---argument-ends---\r\n[4] On 07.12.2018 at about 03.00 p.m. the complainant was at home, at that time, the another brother of applicant i.e. Nana Bhosale had called the complainant for asking about the quarrel of previous date. At that time, the complainant said to Nana Bhosale that they will meet and sort out the solution of the subject in between them. Thereafter, Nana Bhosale in anger disconnected the call. After that, Gorakh Bhosale in his hand a iron pipe for releasing walls and also the Nana Bhosale came with iron pipe and iron sword and started abusing the complainant. At that time, Gorakh Bhosale hit on the complainant’s head with iron pipe and Nana Bhosale also hited the iron pipe on complainant’s head, back, chest, stomach and was injured seriously. On these allegations, the applicant and his two brothers prosecuted. \r\n---argument-ends---\r\n[5] The Ld. Counsel for Applicant stated that the applicant is innocent and has not committed any offence. The brother of the applicant i.e. Nana Bhosale had also lodged a complaint against the complainant and his brother Prakash Bhosale on 08.12.2018 u/s. 307, 324, 323, 504, 506 r/w. 34 of IPC and 4(25) of Arms Act vide Crime No. 129/2018. The custodial interrogation of the applicant is not necessary. Hence, prayed for ad­interim protection. \r\n---argument-ends---\r\n[6] After hearing the Ld. Counsel for the applicant, there is reasonable apprehension in the mind of the applicant about his arrest at the hands of non­applicant. The allegations against the applicant are serious. The offence u/s. 307 of IPC is punishablewith imprisonment up to 10 years. There is a counter case against the complainant and his brother. In the facts and circumstances of the case, it is not desirable to grant an­interim anticipatory bail. Hence, following order :­ \r\n---argument-ends---\r\nORDER 1] Application (Exh. 4) is hereby rejected. 2] Issue notice to PSO of P.S. Talegaon M.I.D.C Police Station r/on 09.01.2019. \r\n---order-ends---\r\nSd/­ Pune ( G.P.Agrawal ) Date : 03/01/2019 Additional Sessions Judge, Pune. CERTIFICATE I affirm that the contents of this P.D.F. file order are same word to word as per original order. Name of Steno : Smt. S.N.Kale Name of Court : G.P.Agrawal Addl. Sessions Judge,Pune. Order delivered on : 03/01/2019 Order signed on : 03/01/2019 Order uploaded on : 04/01/2019"
+}

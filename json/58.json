@@ -1,0 +1,483 @@
+{
+  "header": "CNR No.MHPU01-000257-2019 Mahesh Anand Jategaonkar Vs. State of Maharashtra (Bundgarden Police Station )",
+  "background": {
+    "text": "Order below exh. 1 in Cri. Bail application No. 68 /2019 1. This is an application U/s.439 of Cr.P.C. filed by the applicant­accused for grant of bail in connection with Crime No.03/2019, registered with Bundgarden Police Station for the offence punishable u/s.7 of the Prevention of Corruption Act, 1988.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "u/s.439 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "The Prevention of Corruption Act",
+          "sectionsMatched": "7",
+          "stringMatched": "u/s.7 of the Prevention of Corruption Act",
+          "legalAct": {
+            "actId": 11,
+            "actName": "The Prevention of Corruption Act",
+            "actShortNameList": "PCA",
+            "actYear": "1988",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "31"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2. On 02/01/2019, the applicant/accused, who is Peon of Health Department of Pune Municipal Corporation, caught by Anti­ Corruption Bureau, Pune raid handed while accepting bribe amount of Rs.500/­ from original complainant­Akshay Kamble for giving death certificate.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On 02/01/2019, the applicant/accused, who is Peon of Health Department of Pune Municipal Corporation, caught by Anti­ Corruption Bureau, Pune raid handed while accepting bribe amount of Rs.500/­ from original complainant­Akshay Kamble for giving death certificate.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3. Learned counsel for applicant­accused submitted that applicant/accused has not committed any offence, he has been falsely implicated in this offence. He further submitted that practically investigation is completed, therefore, custodial interrogation of the applicant/accused is not necessary. Therefore, he be released on bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Learned counsel for applicant­accused submitted that applicant/accused has not committed any offence, he has been falsely implicated in this offence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He further submitted that practically investigation is completed, therefore, custodial interrogation of the applicant/accused is not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, he be released on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4. On the other hand, learned APP submitted that applicant/accused was caught by ACB Pune while accepting bribe amount of Rs.500/­, and investigation is to be completed, therefore, his bail application be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On the other hand, learned APP submitted that applicant/accused was caught by ACB Pune while accepting bribe amount of Rs.500/­, and investigation is to be completed, therefore, his bail application be rejected.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5. On perusing record, prima facie, it reveals that original complainant­Akshay Kamble approached to Health Department of Pune Municipal Corporation for death certificate of his deceased father. At that time, the applicant­accused demanded bribe amount, therefore, he approached to ACB, Pune, who by following due procedure, caught the applicant/accused,while accepting bribe 2 amount of Rs.500/­. It is seems that practically investigation is completed, therefore, custodial interrogation of the applicant/accused is now not necessary, Therefore, considering all these aspects, in my view if present applicant­accused is released on bail on certain conditions, no prejudice will be caused to the prosecution. Hence, I pass the following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On perusing record, prima facie, it reveals that original complainant­Akshay Kamble approached to Health Department of Pune Municipal Corporation for death certificate of his deceased father.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "At that time, the applicant­accused demanded bribe amount, therefore, he approached to ACB, Pune, who by following due procedure, caught the applicant/accused,while accepting bribe 2 amount of Rs.500/­.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is seems that practically investigation is completed, therefore, custodial interrogation of the applicant/accused is now not necessary, Therefore, considering all these aspects, in my view if present applicant­accused is released on bail on certain conditions, no prejudice will be caused to the prosecution.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, I pass the following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER i. Application is allowed. ii. The applicant­Mahesh Anand Jategaonkar, be released on bail on furnishing P.R. Bond of Rs.25,000/­ (Rupees Twenty five Thousand Only) with one or two solvent sureties in like amount. iii. The applicant­accused shall not tamper with prosecution evidence. iv. The applicant­accused shall attend Anti­Corruption Bureau,Pune, on every Monday in between 11.00 a.m. to 2.00 p.m. till filing of the charge­sheet. v. The applicant­accused shall not leave Pune District without prior permission of this Court, till final disposal of the case. vi. The applicant­accused shall furnish fresh residential address to concerned Police Station and to this Court in case he changed present address. vii. The applicant­accused shall attend the court regularly till final disposal of the case.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "25000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "25000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "WEEKLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "Date :05/01/2019 (K.D.Vadane) Additional Sessions Judge,Pune 3 “I affirm that the contents of the PDF file order are same word to word as per original judgment.” Name of Steno : Shri S. B. Gore, Stenographer Grade­I Court Name : K.D. Vadane , Addl. Sessions Judge, Pune Date : 05/01/2019 order signed by presiding officer on : 05/01/2019 Order uploaded on : 05/01/2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "CNR No.MHPU01-000257-2019 Mahesh Anand Jategaonkar Vs. State of Maharashtra (Bundgarden Police Station ) \r\n---header-ends---\r\nOrder below exh. 1 in Cri. Bail application No. 68 /2019 1. This is an application U/s.439 of Cr.P.C. filed by the applicant­accused for grant of bail in connection with Crime No.03/2019, registered with Bundgarden Police Station for the offence punishable u/s.7 of the Prevention of Corruption Act, 1988. \r\n---background-ends---\r\n2. On 02/01/2019, the applicant/accused, who is Peon of Health Department of Pune Municipal Corporation, caught by Anti­ Corruption Bureau, Pune raid handed while accepting bribe amount of Rs.500/­ from original complainant­Akshay Kamble for giving death certificate. \r\n---argument-ends---\r\n3. Learned counsel for applicant­accused submitted that applicant/accused has not committed any offence, he has been falsely implicated in this offence. He further submitted that practically investigation is completed, therefore, custodial interrogation of the applicant/accused is not necessary. Therefore, he be released on bail. \r\n---argument-ends---\r\n4. On the other hand, learned APP submitted that applicant/accused was caught by ACB Pune while accepting bribe amount of Rs.500/­, and investigation is to be completed, therefore, his bail application be rejected. \r\n---argument-ends---\r\n5. On perusing record, prima facie, it reveals that original complainant­Akshay Kamble approached to Health Department of Pune Municipal Corporation for death certificate of his deceased father. At that time, the applicant­accused demanded bribe amount, therefore, he approached to ACB, Pune, who by following due procedure, caught the applicant/accused,while accepting bribe 2 amount of Rs.500/­. It is seems that practically investigation is completed, therefore, custodial interrogation of the applicant/accused is now not necessary, Therefore, considering all these aspects, in my view if present applicant­accused is released on bail on certain conditions, no prejudice will be caused to the prosecution. Hence, I pass the following order. \r\n---argument-ends---\r\nORDER i. Application is allowed. ii. The applicant­Mahesh Anand Jategaonkar, be released on bail on furnishing P.R. Bond of Rs.25,000/­ (Rupees Twenty five Thousand Only) with one or two solvent sureties in like amount. iii. The applicant­accused shall not tamper with prosecution evidence. iv. The applicant­accused shall attend Anti­Corruption Bureau,Pune, on every Monday in between 11.00 a.m. to 2.00 p.m. till filing of the charge­sheet. v. The applicant­accused shall not leave Pune District without prior permission of this Court, till final disposal of the case. vi. The applicant­accused shall furnish fresh residential address to concerned Police Station and to this Court in case he changed present address. vii. The applicant­accused shall attend the court regularly till final disposal of the case. \r\n---order-ends---\r\nDate :05/01/2019 (K.D.Vadane) Additional Sessions Judge,Pune 3 “I affirm that the contents of the PDF file order are same word to word as per original judgment.” Name of Steno : Shri S. B. Gore, Stenographer Grade­I Court Name : K.D. Vadane , Addl. Sessions Judge, Pune Date : 05/01/2019 order signed by presiding officer on : 05/01/2019 Order uploaded on : 05/01/2019"
+}

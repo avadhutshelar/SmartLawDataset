@@ -1,0 +1,869 @@
+{
+  "header": "Order below exh.1 in Cri. MA No. 71/2019 CNR No. MHPU01­000225­2019",
+  "background": {
+    "text": "1. Perused the application, Say exh. 7 and documentary evidence placed on record. Heard both the learned Counsel. 2. By this application, under Section 439 of Cr.P.C., the applicant /accused – Steve Myakenba Mufo aka Benjamin Ethithemiya Hart Omarge, seeks regular bail in Crime No. 65/2018, registered with Koregaonpark Police Station, Pune, under Sections 420, 406, 465, 467, 468, 471 r.w.s. 34 of Indian Penal Code. It is objected over nature of offence.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "420,406,465,467,468,471,34",
+          "stringMatched": "under sections 420, 406, 465, 467, 468, 471 r.w.s. 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "3. The learned Counsel for the applicant has submitted that the applicant has no role to play in commission offence. He was apprehended on 03.07.2018 and was remanded to PCR for 14 days, however, nothing incriminating to be discovered at his instance. Story alleged by prosecution is unbelievable. The applicant therefore, deserves bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The learned Counsel for the applicant has submitted that the applicant has no role to play in commission offence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He was apprehended on 03.07.2018 and was remanded to PCR for 14 days, however, nothing incriminating to be discovered at his instance.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Story alleged by prosecution is unbelievable.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The applicant therefore, deserves bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "4. The learned AGP has submitted that the role of the applicant in commission of offences complained of are attributed from an FIR, therefore, application may be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The learned AGP has submitted that the role of the applicant in commission of offences complained of are attributed from an FIR, therefore, application may be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "5. On going through record it is conspicuous that the informant Ganesh Tatyaba Satav was be friended by Mery Destiny Robert, a U.S. based vocational business consultant, on face­book. She introduced him to the accused , who was allegedly interested in investment in India, who allegedly cheated the informant of Rs. 60 lakhs under the garb of release of four million URO from Indian Embassy. When additional amount of Rs. 10 lakhs was claimed by the accused, on 25.06.2018, the informant suspected of getting cheated of Rs. 60 lakhs cash and lodged an FIR.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On going through record it is conspicuous that the informant Ganesh Tatyaba Satav was be friended by Mery Destiny Robert, a U.S. based vocational business consultant, on face­book.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "She introduced him to the accused , who was allegedly interested in investment in India, who allegedly cheated the informant of Rs. 60 lakhs under the garb of release of four million URO from Indian Embassy.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "When additional amount of Rs. 10 lakhs was claimed by the accused, on 25.06.2018, the informant suspected of getting cheated of Rs. 60 lakhs cash and lodged an FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "6. Final report under Section 173 of Cr.P.C. has been furnished to the Court of Magistrate. It reveals therefrom that the informant and the accused had conversation on whatsApp about certain chemical, time and again. The hard copies of said conversation is part of charge­sheet. It does not reveals therefrom that the accused ever claimed cash amount or lured the informant, as alleged in an FIR. The only incriminating circumstance is that the I.O. has seized passports from accused.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Final report under Section 173 of Cr.P.C.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "has been furnished to the Court of Magistrate.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It reveals therefrom that the informant and the accused had conversation on whatsApp about certain chemical, time and again.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The hard copies of said conversation is part of charge­sheet.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "It does not reveals therefrom that the accused ever claimed cash amount or lured the informant, as alleged in an FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "The only incriminating circumstance is that the I.O. has seized passports from accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "7. Learned AGP has submitted that the accused has fabricated passport. However, final report does not reveal such opinion whether or not disclosed by the competent authority, Though it is assumed that there is some manipulation in passport, the competent authority may initiate proceeding for cancellation, by referring the matter to issuing authority.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Learned AGP has submitted that the accused has fabricated passport.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "However, final report does not reveal such opinion whether or not disclosed by the competent authority, Though it is assumed that there is some manipulation in passport, the competent authority may initiate proceeding for cancellation, by referring the matter to issuing authority.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "8. Since 03.07.2018, the accused, Nigerian citizen is behind bar. The learned Counsel for the applicant has relied upon pronouncement of Hon\u0027ble Delhi High Court in Sartori Livio V/s. State, 2005CH (Del) 1024, wherein it is observed that only on the ground that the accused are foreign origin, bail cannot be refused, especially when prima facie no case is made out against him.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Since 03.07.2018, the accused, Nigerian citizen is behind bar.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The learned Counsel for the applicant has relied upon pronouncement of Hon\u0027ble Delhi High Court in Sartori Livio V/s. State, 2005CH (Del) 1024, wherein it is observed that only on the ground that the accused are foreign origin, bail cannot be refused, especially when prima facie no case is made out against him.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "9. Secondly, the applicant though is foreign national, admittedly resides with his family consisting of wife and daughter at Naigaon, Mumbai. The prosecution has placed on record copy of Agreement of \u0027Leave and License\u0027 in that regard. 10. In view of above, this is fit case to grant bail. Hence, the order :",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "9.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Secondly, the applicant though is foreign national, admittedly resides with his family consisting of wife and daughter at Naigaon, Mumbai.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The prosecution has placed on record copy of Agreement of \u0027Leave and License\u0027 in that regard.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "10.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "In view of above, this is fit case to grant bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Hence, the order :",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1. Application stands allowed as under:­ Applicant be released on furnishing P.R.Bond of Rs. 50,000/­ together with one or two solvent sureties of like amount on following conditions : a] He shall not tamper prosecution witnesses. b] He shall not leave India sans the permission of concern Magistrate. 2. Bail before Judicial Magistrate First Class, Court No.3, Pune.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "50000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "50000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "50000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "50000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Pune. (Vikas S. Kulkarni) January 19, 2019 Additional Sessions Judge, Pune. I affirm that the contents of this P.D.F.,file judgment are same word for word as per original Judgment. Name of Steno :­ Smt. Mohini P. Rahurkar, Stenographer Gr.I Court Name :­ Shri. Vikas S. Kulkarni, Additional Sessions Judge,Pune Date :­January 19, 2019 Judgment signed by P.O. On :­ January 19, 2019 Judgment PDF and uploaded on :­ January 21, 2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Order below exh.1 in Cri. MA No. 71/2019 CNR No. MHPU01­000225­2019 \r\n---header-ends---\r\n1. Perused the application, Say exh. 7 and documentary evidence placed on record. Heard both the learned Counsel. 2. By this application, under Section 439 of Cr.P.C., the applicant /accused – Steve Myakenba Mufo aka Benjamin Ethithemiya Hart Omarge, seeks regular bail in Crime No. 65/2018, registered with Koregaonpark Police Station, Pune, under Sections 420, 406, 465, 467, 468, 471 r.w.s. 34 of Indian Penal Code. It is objected over nature of offence. \r\n---background-ends---\r\n3. The learned Counsel for the applicant has submitted that the applicant has no role to play in commission offence. He was apprehended on 03.07.2018 and was remanded to PCR for 14 days, however, nothing incriminating to be discovered at his instance. Story alleged by prosecution is unbelievable. The applicant therefore, deserves bail. \r\n---argument-ends---\r\n4. The learned AGP has submitted that the role of the applicant in commission of offences complained of are attributed from an FIR, therefore, application may be rejected. \r\n---argument-ends---\r\n5. On going through record it is conspicuous that the informant Ganesh Tatyaba Satav was be friended by Mery Destiny Robert, a U.S. based vocational business consultant, on face­book. She introduced him to the accused , who was allegedly interested in investment in India, who allegedly cheated the informant of Rs. 60 lakhs under the garb of release of four million URO from Indian Embassy. When additional amount of Rs. 10 lakhs was claimed by the accused, on 25.06.2018, the informant suspected of getting cheated of Rs. 60 lakhs cash and lodged an FIR. \r\n---argument-ends---\r\n6. Final report under Section 173 of Cr.P.C. has been furnished to the Court of Magistrate. It reveals therefrom that the informant and the accused had conversation on whatsApp about certain chemical, time and again. The hard copies of said conversation is part of charge­sheet. It does not reveals therefrom that the accused ever claimed cash amount or lured the informant, as alleged in an FIR. The only incriminating circumstance is that the I.O. has seized passports from accused. \r\n---argument-ends---\r\n7. Learned AGP has submitted that the accused has fabricated passport. However, final report does not reveal such opinion whether or not disclosed by the competent authority, Though it is assumed that there is some manipulation in passport, the competent authority may initiate proceeding for cancellation, by referring the matter to issuing authority. \r\n---argument-ends---\r\n8. Since 03.07.2018, the accused, Nigerian citizen is behind bar. The learned Counsel for the applicant has relied upon pronouncement of Hon\u0027ble Delhi High Court in Sartori Livio V/s. State, 2005CH (Del) 1024, wherein it is observed that only on the ground that the accused are foreign origin, bail cannot be refused, especially when prima facie no case is made out against him. \r\n---argument-ends---\r\n9. Secondly, the applicant though is foreign national, admittedly resides with his family consisting of wife and daughter at Naigaon, Mumbai. The prosecution has placed on record copy of Agreement of \u0027Leave and License\u0027 in that regard. 10. In view of above, this is fit case to grant bail. Hence, the order : \r\n---argument-ends---\r\nORDER 1. Application stands allowed as under:­ Applicant be released on furnishing P.R.Bond of Rs. 50,000/­ together with one or two solvent sureties of like amount on following conditions : a] He shall not tamper prosecution witnesses. b] He shall not leave India sans the permission of concern Magistrate. 2. Bail before Judicial Magistrate First Class, Court No.3, Pune. \r\n---order-ends---\r\nPune. (Vikas S. Kulkarni) January 19, 2019 Additional Sessions Judge, Pune. I affirm that the contents of this P.D.F.,file judgment are same word for word as per original Judgment. Name of Steno :­ Smt. Mohini P. Rahurkar, Stenographer Gr.I Court Name :­ Shri. Vikas S. Kulkarni, Additional Sessions Judge,Pune Date :­January 19, 2019 Judgment signed by P.O. On :­ January 19, 2019 Judgment PDF and uploaded on :­ January 21, 2019"
+}
