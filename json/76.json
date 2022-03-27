@@ -1,0 +1,747 @@
+{
+  "header": "CNR­MHPU01­000365­2019 ORDER BELOW EXH. 1 IN CRI. BAIL APPLN. NO. 90/2019",
+  "background": {
+    "text": "1] Perused application of applicant­ Suraj Kisan Mane and say thereon. Perused case diary. Heard Ld.counsel Shri Thombare for applicant and Ld.APP Mr.Khan for State. 2] It is the case of prosecution that one Nilesh Mawale had received phone call in the month of October from mobile No.7387816991 and 9579230551, saying that they are talking from Kotak Mahindra Bank and enquired with him whether he requires personal loan. Nilesh Mawale was required loan. To obtain loan, they asked for I.D.proof, address proof, bank statement and cancelled cheque. Accordingly, on 21.10.2018, one person having mobile No.7843095753 came to him and obtained the required documents along with cancelled cheque. However, on 3.11.2018, he came to know that Rs.20,000/­ are credited in the account of one Suraj Kisan Mane. By these allegations, he has lodged report against unknown persons who were having their mobile No.7387816991, 9579230551 and 7843095753. It was registered vide C.R.No.675/2018 u/s 419,420,468,471,34 of I.P.C. and u/s 66(c) of I.T. Act.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "I.P.C",
+          "sectionsMatched": "419,420,468,471,34",
+          "stringMatched": "u/s 419,420,468,471,34 of i.p.c",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "I.T. Act.",
+          "sectionsMatched": "66",
+          "stringMatched": "u/s 66(c) of I.T. Act.",
+          "legalAct": {
+            "actId": 12,
+            "actName": "The Information Technology Act",
+            "actShortNameList": "ITA-2000,ITA,IT Act,the IT Act,I.T. Act.",
+            "actYear": "2000",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "94"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "3] Ld.counsel for applicant submitted that co­accused Swapnil is released on bail in Cri.Bail.Apln No. 5139/2018 on dt. 18.12.2018. He is commission agent. Towards commission he has received cheque of Rs. 20000/­, however, loan application of complainant came to be rejected by Kotak Mahindra Company. Accused was ready to repay the said amount of Rs. 20000/­ to the complainant but he asked for some time. Applicant is ready to return Rs. 20000/­ to the complainant and to co­operate in investigation. Custodial interrogation of the applicant is not required.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Ld.counsel for applicant submitted that co­accused Swapnil is released on bail in Cri.Bail.Apln No. 5139/2018 on dt.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "18.12.2018.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He is commission agent.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Towards commission he has received cheque of Rs. 20000/­, however, loan application of complainant came to be rejected by Kotak Mahindra Company.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Accused was ready to repay the said amount of Rs. 20000/­ to the complainant but he asked for some time.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Applicant is ready to return Rs. 20000/­ to the complainant and to co­operate in investigation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Custodial interrogation of the applicant is not required.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "4] The Ld.APP submitted that the applicant had been to the complainant saying that he is talking from Kotak Mahindra Bank and inquired whether or not he require loan. Complainant was in need of money. Thereafter, applicant has sent another person to the house of complainant for collecting necessary documents. At the same time the said person has received cheque of Rs. 20,000/­. The said amount is credited in the account of present applicant. Similar three crimes are registered with different Police Stations. Having considered the antecedents of the applicant and his modus­ operandi, the learned APP prayed for dismissal of an application.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] The Ld.APP submitted that the applicant had been to the complainant saying that he is talking from Kotak Mahindra Bank and inquired whether or not he require loan.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Complainant was in need of money.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Thereafter, applicant has sent another person to the house of complainant for collecting necessary documents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "At the same time the said person has received cheque of Rs. 20,000/­.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The said amount is credited in the account of present applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Similar three crimes are registered with different Police Stations.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Having considered the antecedents of the applicant and his modus­ operandi, the learned APP prayed for dismissal of an application.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "5] Co­accused Swapnil is released on bail by order 18.12.2018 in Criminal Bail Appln No. 5139/2018. The role 3 CNR­MHPU01­000365­2019 of swapnil is different than the role of the applicant. Applicant has ringed to the complainant posing himself as official of Kotak Mahindra Bank. Thereafter, he had sent Swapnil to collect documents along with cheque. Accordingly, complainant had issued cheque of Rs. 20,000/­. It is honoured in the account of present applicant. The applicant has received the same amount of Rs. 20,000/­. Accused no where stated that he is working in the Kotak Mahindra Bank. Another crimes of similar nature are registered against the applicant. Applicant is main accused of the crime. Without his custody offence cannot be detected. Hence, on the ground of parity applicant is not entitled for bail and hence the application of Suraj Kisan Mane is liable to be rejected. Hence, order. :",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] Co­accused Swapnil is released on bail by order 18.12.2018 in Criminal Bail Appln No. 5139/2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The role 3 CNR­MHPU01­000365­2019 of swapnil is different than the role of the applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Applicant has ringed to the complainant posing himself as official of Kotak Mahindra Bank.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Thereafter, he had sent Swapnil to collect documents along with cheque.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Accordingly, complainant had issued cheque of Rs. 20,000/­.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "It is honoured in the account of present applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "The applicant has received the same amount of Rs. 20,000/­.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Accused no where stated that he is working in the Kotak Mahindra Bank.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Another crimes of similar nature are registered against the applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Applicant is main accused of the crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "Without his custody offence cannot be detected.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Hence, on the ground of parity applicant is not entitled for bail and hence the application of Suraj Kisan Mane is liable to be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "text": "Hence, order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "text": ":",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER The anticipatory bail application of Suraj Kisan Mane is hereby rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "sd­­­ Pune ( A.S.Bhaisare ) Date:19.01.2019 Additional Sessions Judge, Pune. 4 CNR­MHPU01­000365­2019 Certificate I affirm that the contents of this P.D.F. file judgment are same word for word as per original judgment. Name of Steno : Mrs.Bankapure V.N. Steno­ Grade­I, Name of Court :Shri. A.S.Bhaisare. Additional Sessions Judge, Pune Order on Date : 19.01.2019 Order signed by PO on. ­ 19.01.2019 Order uploaded on – 19.01.2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "CNR­MHPU01­000365­2019 ORDER BELOW EXH. 1 IN CRI. BAIL APPLN. NO. 90/2019 \r\n---header-ends---\r\n1] Perused application of applicant­ Suraj Kisan Mane and say thereon. Perused case diary. Heard Ld.counsel Shri Thombare for applicant and Ld.APP Mr.Khan for State. 2] It is the case of prosecution that one Nilesh Mawale had received phone call in the month of October from mobile No.7387816991 and 9579230551, saying that they are talking from Kotak Mahindra Bank and enquired with him whether he requires personal loan. Nilesh Mawale was required loan. To obtain loan, they asked for I.D.proof, address proof, bank statement and cancelled cheque. Accordingly, on 21.10.2018, one person having mobile No.7843095753 came to him and obtained the required documents along with cancelled cheque. However, on 3.11.2018, he came to know that Rs.20,000/­ are credited in the account of one Suraj Kisan Mane. By these allegations, he has lodged report against unknown persons who were having their mobile No.7387816991, 9579230551 and 7843095753. It was registered vide C.R.No.675/2018 u/s 419,420,468,471,34 of I.P.C. and u/s 66(c) of I.T. Act. \r\n---background-ends---\r\n3] Ld.counsel for applicant submitted that co­accused Swapnil is released on bail in Cri.Bail.Apln No. 5139/2018 on dt. 18.12.2018. He is commission agent. Towards commission he has received cheque of Rs. 20000/­, however, loan application of complainant came to be rejected by Kotak Mahindra Company. Accused was ready to repay the said amount of Rs. 20000/­ to the complainant but he asked for some time. Applicant is ready to return Rs. 20000/­ to the complainant and to co­operate in investigation. Custodial interrogation of the applicant is not required. \r\n---argument-ends---\r\n4] The Ld.APP submitted that the applicant had been to the complainant saying that he is talking from Kotak Mahindra Bank and inquired whether or not he require loan. Complainant was in need of money. Thereafter, applicant has sent another person to the house of complainant for collecting necessary documents. At the same time the said person has received cheque of Rs. 20,000/­. The said amount is credited in the account of present applicant. Similar three crimes are registered with different Police Stations. Having considered the antecedents of the applicant and his modus­ operandi, the learned APP prayed for dismissal of an application. \r\n---argument-ends---\r\n5] Co­accused Swapnil is released on bail by order 18.12.2018 in Criminal Bail Appln No. 5139/2018. The role 3 CNR­MHPU01­000365­2019 of swapnil is different than the role of the applicant. Applicant has ringed to the complainant posing himself as official of Kotak Mahindra Bank. Thereafter, he had sent Swapnil to collect documents along with cheque. Accordingly, complainant had issued cheque of Rs. 20,000/­. It is honoured in the account of present applicant. The applicant has received the same amount of Rs. 20,000/­. Accused no where stated that he is working in the Kotak Mahindra Bank. Another crimes of similar nature are registered against the applicant. Applicant is main accused of the crime. Without his custody offence cannot be detected. Hence, on the ground of parity applicant is not entitled for bail and hence the application of Suraj Kisan Mane is liable to be rejected. Hence, order. : \r\n---argument-ends---\r\nORDER The anticipatory bail application of Suraj Kisan Mane is hereby rejected. \r\n---order-ends---\r\nsd­­­ Pune ( A.S.Bhaisare ) Date:19.01.2019 Additional Sessions Judge, Pune. 4 CNR­MHPU01­000365­2019 Certificate I affirm that the contents of this P.D.F. file judgment are same word for word as per original judgment. Name of Steno : Mrs.Bankapure V.N. Steno­ Grade­I, Name of Court :Shri. A.S.Bhaisare. Additional Sessions Judge, Pune Order on Date : 19.01.2019 Order signed by PO on. ­ 19.01.2019 Order uploaded on – 19.01.2019"
+}

@@ -1,0 +1,623 @@
+{
+  "header": "COMMON BAIL ORDER BELOW EXH. 1 IN CRIMINAL M.A NO. 5376/2018 AND 97/2019 Perused the bail applications of 1] Altamez @ Papa Shabbir Qureshi 2] Arbaaz @ Malang @ Tundayya Shabbir Qureshi and Shehbaz Siraj Qureshi and say thereon. Perused case diary. Heard the learned Advocate Shri. Pujari for the applicants/ accused 1] Altamez @ Papa Shabbir Qureshi2] Arbaaz @ Mlang @ Tundayya Shabbir Qureshi, and Shehbaz Siraj Qureshi and APP Shri. Salvi for the State.",
+  "background": {
+    "text": "2] It is the case of the Prosecution that on 04.12.2018 at about 11.00 p.m., Reena Tayade had parked her Moped Duo MH 12/ QX 3887 in front of her house. At about 4.00 a.m., Manohardas Vaishnav Bhaiyya had been to the house of Reena and informed that there if fire to her Moped motorcycle. Immediately she along with others rushed to the spot and extinguished the fire. Salman Nashir Shaikh had told that Papa @ Altmes Qureshi and his friend Pallya @ Omkar Parmar, Shahid Shiraz Qureshi have caused mischief to the Moped by fire and he has noticed them while running from the spot by silver coloured Tavera No. MH 12 PF 9675. They have caused mischief of Rs. 50,000/­. By these allegations Mangala Mohan Khairale had lodged her report, which registered as CR No. 411/2018 with Khadki Police 2 Station for the offence punishable under Section Sec/s. 435, 436, 143, 147 r.w 34 of Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "435,436,143,147,34",
+          "stringMatched": "under section sec/s. 435, 436, 143, 147 r.w 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "3] The learned Counsel for the applicants submitted that offence u/s. 436 does not attracted as no house is caused mischief by fire or by explosive substance. Name of Shahbaz Qureshi and Arbaz @ Malang Tundayya Shabbir Qureshi are not mentioned in FIR. There was enmity, which is double edged weapon Arbaz Shabbir Qureshi is handicapped by right hand. Altamez and Arbaz came to be arrested on 08.12.2018 and 11.12.2018 respectively whereas Shahabaz Siraz Qureshi is arrested on 02.01.2019. There was no reason behind their arrest. Since last two months they are in jail. Practically, investigation is completed.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] The learned Counsel for the applicants submitted that offence u/s. 436 does not attracted as no house is caused mischief by fire or by explosive substance.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Name of Shahbaz Qureshi and Arbaz @ Malang Tundayya Shabbir Qureshi are not mentioned in FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "There was enmity, which is double edged weapon Arbaz Shabbir Qureshi is handicapped by right hand.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Altamez and Arbaz came to be arrested on 08.12.2018 and 11.12.2018 respectively whereas Shahabaz Siraz Qureshi is arrested on 02.01.2019.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "There was no reason behind their arrest.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Since last two months they are in jail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Practically, investigation is completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "4] Learned APP Shri. Salvi submitted that accused are having antecedents on their record. Accused Altamez @ Papa is facing 8 crimes, Arbaz Shabbir Qureshi is facing 15 crimes, whereas, Shahabaz Siraz Qureshi is facing 14 crimes, registered with different Police Stations. Tavera was used in commission of crime. Still Siraz Qureshi is absconding. They have committed the crime to create terror in the vicinity. There was enmity with one Tayade. Proposal for invoking the provisions of MOCCA Act against the accused persons to CR 3 No. 411/2018 of Khadki Police Station is sent. If the applicants are released on bail, they will tamper the prosecution witnesses.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Learned APP Shri.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Salvi submitted that accused are having antecedents on their record.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accused Altamez @ Papa is facing 8 crimes, Arbaz Shabbir Qureshi is facing 15 crimes, whereas, Shahabaz Siraz Qureshi is facing 14 crimes, registered with different Police Stations.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Tavera was used in commission of crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Still Siraz Qureshi is absconding.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "They have committed the crime to create terror in the vicinity.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "There was enmity with one Tayade.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Proposal for invoking the provisions of MOCCA Act against the accused persons to CR 3 No. 411/2018 of Khadki Police Station is sent.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "If the applicants are released on bail, they will tamper the prosecution witnesses.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "5] Since the arrest of the applicant they are in jail. Practically the investigation might had completed and charge sheet is yet to be filed. Therefore, in my view further custody of the applicant is not required.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] Since the arrest of the applicant they are in jail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Practically the investigation might had completed and charge sheet is yet to be filed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Therefore, in my view further custody of the applicant is not required.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "6] If the proposal under MCOC Act is sent against accused for present CR No. 411/2018 under Section 23(1) of MCOC Act and if the prior sanction is granted by Competent Authority, then State may apply for cancellation of bail and may ask their custody for investigation as per provisions of MCOC Act. Therefore, when the applicants are entitled for bail, mere sending of proposal under MCOC Act is no ground to reject their bail application. Hence, order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6] If the proposal under MCOC Act is sent against accused for present CR No. 411/2018 under Section 23(1) of MCOC Act and if the prior sanction is granted by Competent Authority, then State may apply for cancellation of bail and may ask their custody for investigation as per provisions of MCOC Act.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Therefore, when the applicants are entitled for bail, mere sending of proposal under MCOC Act is no ground to reject their bail application.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER Accused 1] Altamez @ Papa Shabbir Qureshi 2] Arbaaz @ Malang @ Tundayya Shabbir Qureshi and Shehbaz Siraj Qureshi be enlarged on PR Bond of Rs. 20,000/­ each with one or two sureties each in like amount on following conditions­ 4 1] They shall remain present before the Court on each and every date for facing trial. 2] They shall not tamper the prosecution evidence and they shall maintain peace in the society. 3] They shall not commit any other or further offence. 4] Applicants shall visit concerned police station on each Monday during 3.00 p.m. to 5.00 p.m to Investigating Officer to help in investigation till trial is over. 5] In default any of the condition bail shall automatically forfeited to the Government without notice to the accused. 6] Bail before concerned Court. 7] Copy of this bail order be attached with Criminal Bail Appln no. 97/2019.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "20000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "20000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "20000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "20000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "WEEKLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "sd/­­­­­­­­ Pune. (A.S.Bhaisare) Date :29.01.2019 Additional Sessions Judge, Pune 5 Certificate I affirm that the contents of this P.D.F. file judgment are same word for word as per original judgment. Name of Steno : Mrs.Bankapure V.N. Steno­ Grade­I, Name of Court :Shri. A.S.Bhaisare. Additional Sessions Judge, Pune Order on Date : 29.01.2019 Order signed by PO on. ­ 29.01.2019 Order uploaded on – 29.01.2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "COMMON BAIL ORDER BELOW EXH. 1 IN CRIMINAL M.A NO. 5376/2018 AND 97/2019 Perused the bail applications of 1] Altamez @ Papa Shabbir Qureshi 2] Arbaaz @ Malang @ Tundayya Shabbir Qureshi and Shehbaz Siraj Qureshi and say thereon. Perused case diary. Heard the learned Advocate Shri. Pujari for the applicants/ accused 1] Altamez @ Papa Shabbir Qureshi2] Arbaaz @ Mlang @ Tundayya Shabbir Qureshi, and Shehbaz Siraj Qureshi and APP Shri. Salvi for the State. \r\n---header-ends---\r\n2] It is the case of the Prosecution that on 04.12.2018 at about 11.00 p.m., Reena Tayade had parked her Moped Duo MH 12/ QX 3887 in front of her house. At about 4.00 a.m., Manohardas Vaishnav Bhaiyya had been to the house of Reena and informed that there if fire to her Moped motorcycle. Immediately she along with others rushed to the spot and extinguished the fire. Salman Nashir Shaikh had told that Papa @ Altmes Qureshi and his friend Pallya @ Omkar Parmar, Shahid Shiraz Qureshi have caused mischief to the Moped by fire and he has noticed them while running from the spot by silver coloured Tavera No. MH 12 PF 9675. They have caused mischief of Rs. 50,000/­. By these allegations Mangala Mohan Khairale had lodged her report, which registered as CR No. 411/2018 with Khadki Police 2 Station for the offence punishable under Section Sec/s. 435, 436, 143, 147 r.w 34 of Indian Penal Code. \r\n---background-ends---\r\n3] The learned Counsel for the applicants submitted that offence u/s. 436 does not attracted as no house is caused mischief by fire or by explosive substance. Name of Shahbaz Qureshi and Arbaz @ Malang Tundayya Shabbir Qureshi are not mentioned in FIR. There was enmity, which is double edged weapon Arbaz Shabbir Qureshi is handicapped by right hand. Altamez and Arbaz came to be arrested on 08.12.2018 and 11.12.2018 respectively whereas Shahabaz Siraz Qureshi is arrested on 02.01.2019. There was no reason behind their arrest. Since last two months they are in jail. Practically, investigation is completed. \r\n---argument-ends---\r\n4] Learned APP Shri. Salvi submitted that accused are having antecedents on their record. Accused Altamez @ Papa is facing 8 crimes, Arbaz Shabbir Qureshi is facing 15 crimes, whereas, Shahabaz Siraz Qureshi is facing 14 crimes, registered with different Police Stations. Tavera was used in commission of crime. Still Siraz Qureshi is absconding. They have committed the crime to create terror in the vicinity. There was enmity with one Tayade. Proposal for invoking the provisions of MOCCA Act against the accused persons to CR 3 No. 411/2018 of Khadki Police Station is sent. If the applicants are released on bail, they will tamper the prosecution witnesses. \r\n---argument-ends---\r\n5] Since the arrest of the applicant they are in jail. Practically the investigation might had completed and charge sheet is yet to be filed. Therefore, in my view further custody of the applicant is not required. \r\n---argument-ends---\r\n6] If the proposal under MCOC Act is sent against accused for present CR No. 411/2018 under Section 23(1) of MCOC Act and if the prior sanction is granted by Competent Authority, then State may apply for cancellation of bail and may ask their custody for investigation as per provisions of MCOC Act. Therefore, when the applicants are entitled for bail, mere sending of proposal under MCOC Act is no ground to reject their bail application. Hence, order. \r\n---argument-ends---\r\nORDER Accused 1] Altamez @ Papa Shabbir Qureshi 2] Arbaaz @ Malang @ Tundayya Shabbir Qureshi and Shehbaz Siraj Qureshi be enlarged on PR Bond of Rs. 20,000/­ each with one or two sureties each in like amount on following conditions­ 4 1] They shall remain present before the Court on each and every date for facing trial. 2] They shall not tamper the prosecution evidence and they shall maintain peace in the society. 3] They shall not commit any other or further offence. 4] Applicants shall visit concerned police station on each Monday during 3.00 p.m. to 5.00 p.m to Investigating Officer to help in investigation till trial is over. 5] In default any of the condition bail shall automatically forfeited to the Government without notice to the accused. 6] Bail before concerned Court. 7] Copy of this bail order be attached with Criminal Bail Appln no. 97/2019. \r\n---order-ends---\r\nsd/­­­­­­­­ Pune. (A.S.Bhaisare) Date :29.01.2019 Additional Sessions Judge, Pune 5 Certificate I affirm that the contents of this P.D.F. file judgment are same word for word as per original judgment. Name of Steno : Mrs.Bankapure V.N. Steno­ Grade­I, Name of Court :Shri. A.S.Bhaisare. Additional Sessions Judge, Pune Order on Date : 29.01.2019 Order signed by PO on. ­ 29.01.2019 Order uploaded on – 29.01.2019"
+}

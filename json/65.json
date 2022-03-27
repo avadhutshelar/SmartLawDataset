@@ -1,0 +1,580 @@
+{
+  "header": "Cri. MA No. 76/2019 Order below exh.1 in Cri. MA No. 76/2019 CNR No. MHPU01­000235 ­2019",
+  "background": {
+    "text": "1. Perused the application, Say exh.4 and documentary evidence placed on record. Heard both the learned Counsel. 2. By this application, under Section 439 of Cr.P.C., the applicant / accused – Sujit Ramakant Dube seeks regular bail in Crime No. 1/2019, registered with Mundhwa Police Station, Pune, under Sections 353, 332, 504, 427 of Indian Penal Code. It is objected over nature of offence, role played by the accused in commission of offence and ongoing investigation.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "353,332,504,427",
+          "stringMatched": "under sections 353, 332, 504, 427 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "3. The learned Counsel for the applicant has submitted that since breathe analyzer was not hygiene and police were requested to make it so, the police implicated the accused, since 01.10.2019 he is behind bar. Between the period maximum investigation could have been completed.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The learned Counsel for the applicant has submitted that since breathe analyzer was not hygiene and police were requested to make it so, the police implicated the accused, since 01.10.2019 he is behind bar.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Between the period maximum investigation could have been completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "4. The learned AGP submitted that the role of the applicant in commission of offences complained of are attributed from an FIR. There is possibility of tampering of witnesses.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The learned AGP submitted that the role of the applicant in commission of offences complained of are attributed from an FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "There is possibility of tampering of witnesses.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "5. It is conspicuous from FIR that on 01.01.2019 at 1.30 a.m. the accused was offered test breathe analysis, when he was suspected to be of drunk and drive. It is alleged that the accused get furious and torned Jersey of informant, abused and slapped. Obviously, the role is attributed from an FIR. However, since then the accused is in judicial custody.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is conspicuous from FIR that on 01.01.2019 at 1.30 a.m. the accused was offered test breathe analysis, when he was suspected to be of drunk and drive.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is alleged that the accused get furious and torned Jersey of informant, abused and slapped.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Obviously, the role is attributed from an FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "However, since then the accused is in judicial custody.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "6. The learned Counsel for the applicant has submitted that there is delay about five hours in lodging FIR. However, no CCTV footage is availed by police, since it was against them disclosing a police were manhandling the accused.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The learned Counsel for the applicant has submitted that there is delay about five hours in lodging FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "However, no CCTV footage is availed by police, since it was against them disclosing a police were manhandling the accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "7. Considering nature of offence and no criminal antecedents, since ten days the applicant is behind bar and got necessary lesson, how to behave in public, maximum investigation is over, in my view, applicant deserves conditional bail. Hence, the order :",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Considering nature of offence and no criminal antecedents, since ten days the applicant is behind bar and got necessary lesson, how to behave in public, maximum investigation is over, in my view, applicant deserves conditional bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, the order :",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1.Application stands allowed as under:­ Applicant be released on furnishing P.R.Bond of Rs. 15,000/­ together with surety of like amount on following conditions. Cri. MA No. 76/2019 a] He shall not tamper prosecution witnesses. b] He shall not leave India sans the permission of this Court. C] He shall attend Mundhwa Police Station on each Monday between 11.00 a.m. to 1.00 p.m. for one month. 2. Bail before committing Court.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "15000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "15000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "WEEKLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "Pune ( Vikas S. Kulkarni) January 11, 2019 Additional Sessions Judge, Pune. Cri. MA No. 76/2019 I affirm that the contents of this P.D.F.,file judgment are same word for word as per original Judgment. Name of Steno :­ Smt. Mohini P. Rahurkar, Stenographer Gr.I Court Name :­ Shri. Vikas S. Kulkarni, Additional Sessions Judge,Pune Date :­January 11, 2019 Judgment signed by P.O. On :­ January 11, 2019 Judgment PDF and uploaded on :­ January 14, 2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Cri. MA No. 76/2019 Order below exh.1 in Cri. MA No. 76/2019 CNR No. MHPU01­000235 ­2019 \r\n---header-ends---\r\n1. Perused the application, Say exh.4 and documentary evidence placed on record. Heard both the learned Counsel. 2. By this application, under Section 439 of Cr.P.C., the applicant / accused – Sujit Ramakant Dube seeks regular bail in Crime No. 1/2019, registered with Mundhwa Police Station, Pune, under Sections 353, 332, 504, 427 of Indian Penal Code. It is objected over nature of offence, role played by the accused in commission of offence and ongoing investigation. \r\n---background-ends---\r\n3. The learned Counsel for the applicant has submitted that since breathe analyzer was not hygiene and police were requested to make it so, the police implicated the accused, since 01.10.2019 he is behind bar. Between the period maximum investigation could have been completed. \r\n---argument-ends---\r\n4. The learned AGP submitted that the role of the applicant in commission of offences complained of are attributed from an FIR. There is possibility of tampering of witnesses. \r\n---argument-ends---\r\n5. It is conspicuous from FIR that on 01.01.2019 at 1.30 a.m. the accused was offered test breathe analysis, when he was suspected to be of drunk and drive. It is alleged that the accused get furious and torned Jersey of informant, abused and slapped. Obviously, the role is attributed from an FIR. However, since then the accused is in judicial custody. \r\n---argument-ends---\r\n6. The learned Counsel for the applicant has submitted that there is delay about five hours in lodging FIR. However, no CCTV footage is availed by police, since it was against them disclosing a police were manhandling the accused. \r\n---argument-ends---\r\n7. Considering nature of offence and no criminal antecedents, since ten days the applicant is behind bar and got necessary lesson, how to behave in public, maximum investigation is over, in my view, applicant deserves conditional bail. Hence, the order : \r\n---argument-ends---\r\nORDER 1.Application stands allowed as under:­ Applicant be released on furnishing P.R.Bond of Rs. 15,000/­ together with surety of like amount on following conditions. Cri. MA No. 76/2019 a] He shall not tamper prosecution witnesses. b] He shall not leave India sans the permission of this Court. C] He shall attend Mundhwa Police Station on each Monday between 11.00 a.m. to 1.00 p.m. for one month. 2. Bail before committing Court. \r\n---order-ends---\r\nPune ( Vikas S. Kulkarni) January 11, 2019 Additional Sessions Judge, Pune. Cri. MA No. 76/2019 I affirm that the contents of this P.D.F.,file judgment are same word for word as per original Judgment. Name of Steno :­ Smt. Mohini P. Rahurkar, Stenographer Gr.I Court Name :­ Shri. Vikas S. Kulkarni, Additional Sessions Judge,Pune Date :­January 11, 2019 Judgment signed by P.O. On :­ January 11, 2019 Judgment PDF and uploaded on :­ January 14, 2019"
+}
