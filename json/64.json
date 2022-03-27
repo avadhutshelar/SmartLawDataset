@@ -1,0 +1,1080 @@
+{
+  "header": "Order below exh.1 in Cri. MA No. 75/2019 CNR No. MHPU01­000300—2019",
+  "background": {
+    "text": "1. Perused the application, say exh. 7 and documentary evidence placed on record. Heard both learned Counsel. 2. By this application, the applicants / duo accused – Neeta Vinod Adsule and Datta Balbhim Pol, seek pre­ arrest bail under Section 438 of Cr.P.C., of Crime No. 885/2018, registered on 27.12.2018 with Yerwada Police Station, Pune, under Sections 353, 188, 294 r.w.s. 34 of Indian Penal Code, under Section 140 of the Maharashtra Police Act, under Section 3 of the Maharashtra Prevention of Defacement Property Act, 1995 and under Sections 244, 245 of the Maharashtra Municipal Corporation Act, 1949. It is objected over nature of offence, role attributed from an FIR and ongoing investigation.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "353,188,294,34",
+          "stringMatched": "under sections 353, 188, 294 r.w.s. 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Maharashtra Police Act",
+          "sectionsMatched": "140",
+          "stringMatched": "under section 140 of the maharashtra police act",
+          "legalAct": {
+            "actId": 7,
+            "actName": "The Bombay Police Act",
+            "actShortNameList": "Bombay Police Act,Mumbai Police Act,Maharashtra Police Act,B. P.Act,B.P.Act",
+            "actYear": "1951",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "167"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 4,
+        "legalActFound": {
+          "actNameMatched": "the Maharashtra Prevention of Defacement Property Act",
+          "sectionsMatched": "3",
+          "stringMatched": "under Section 3 of the Maharashtra Prevention of Defacement Property Act",
+          "legalAct": {
+            "actId": 13,
+            "actName": "The Maharashtra Prevention of Defacement Property Act",
+            "actShortNameList": "MPDPA",
+            "actYear": "1995",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "9"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 5,
+        "legalActFound": {
+          "actNameMatched": "the Maharashtra Municipal Corporation Act",
+          "sectionsMatched": "244,245",
+          "stringMatched": "under Sections 244, 245 of the Maharashtra Municipal Corporation Act",
+          "legalAct": {
+            "actId": 14,
+            "actName": "The Maharashtra Municipal Corporation Act",
+            "actShortNameList": "MMCA",
+            "actYear": "1949",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "493"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "3. The learned Counsel for the applicants has submitted that the applicants are Social Workers, applied for permission for displaying banner, deposited fee thereof with Authority of PMC, still the informant obstructed them while displaying banner at public place. This conduct was complained to Superior. Being aggrieved thereby present FIR is lodged.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The learned Counsel for the applicants has submitted that the applicants are Social Workers, applied for permission for displaying banner, deposited fee thereof with Authority of PMC, still the informant obstructed them while displaying banner at public place.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "This conduct was complained to Superior.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Being aggrieved thereby present FIR is lodged.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "4. Learned AGP has submitted that both the applicants are self­proclaimed Social Workers, took the law in their hands and obstructed the informant while discharging official duty. Thus, applicants do not deserve pre­arrest bail.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Learned AGP has submitted that both the applicants are self­proclaimed Social Workers, took the law in their hands and obstructed the informant while discharging official duty.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Thus, applicants do not deserve pre­arrest bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "5. On going through copy of the FIR, it is evident that the informant, Karim Mohamad Sharif Shaikh, Police Hawaldar, was on patrolling duty, on 27.12.2018 at 00.10 a.m. was following a directions of Superior to verify and restrict authorized flex, banners, etc; accompanied with Beat Marshall, noticed that the accused were about to display the flex banner within their jurisdiction. When they were questioned, the applicant 1 / accused became furious and \u0027abused them\u0027 as “Tu Madarchod ethe kashala basala ahhe ? Aaighalya, Tula wa tumache chowkiche adhikari wa sarv karmachari yanchi aai zawate wa sarvanna choda lavate, tu mala olakhat nahi. Me khup pohachaleli ahhe.” The informant tried to convince them but accused 2 \u0027threatened him\u0027 as “Tumha Sarvanna chodach lavato. Amhi udya rasta roko karato, udya chowkich band karun takato”, Meanwhile, night round police officer More arrived at Police Chowky, to -3­ whom the informant disclosed what was happened.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On going through copy of the FIR, it is evident that the informant, Karim Mohamad Sharif Shaikh, Police Hawaldar, was on patrolling duty, on 27.12.2018 at 00.10 a.m. was following a directions of Superior to verify and restrict authorized flex, banners, etc; accompanied with Beat Marshall, noticed that the accused were about to display the flex banner within their jurisdiction.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "When they were questioned, the applicant 1 / accused became furious and \u0027abused them\u0027 as “Tu Madarchod ethe kashala basala ahhe ?",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Aaighalya, Tula wa tumache chowkiche adhikari wa sarv karmachari yanchi aai zawate wa sarvanna choda lavate, tu mala olakhat nahi.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Me khup pohachaleli ahhe.”",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "The informant tried to convince them but accused 2 \u0027threatened him\u0027 as “Tumha Sarvanna chodach lavato.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Amhi udya rasta roko karato, udya chowkich band karun takato”, Meanwhile, night round police officer More arrived at Police Chowky, to -3­ whom the informant disclosed what was happened.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "6. In view of above, the role played by both the applicants is attributed from FIR. The said conduct is defeating to alleged Social Workers, notwithstanding they deposited requisite fee, still they were not permitted to display the flex, much less they had no permission therefor.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "In view of above, the role played by both the applicants is attributed from FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The said conduct is defeating to alleged Social Workers, notwithstanding they deposited requisite fee, still they were not permitted to display the flex, much less they had no permission therefor.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "7. Learned Counsel for the applicants has vehemently submitted that it was for the Authority of PMC to verify and to deal with authorized displaying of flex. The informant was not supposed to verify even. Applicant 1 on the very day at 12.35 a.m. had dialed Police Control Room and complained about informant. Copy thereof is placed on record. At this juncture, this cannot be taken into account to negate contents of an FIR, which in fact constitute the offences complained of.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Learned Counsel for the applicants has vehemently submitted that it was for the Authority of PMC to verify and to deal with authorized displaying of flex.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The informant was not supposed to verify even.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Applicant 1 on the very day at 12.35 a.m. had dialed Police Control Room and complained about informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Copy thereof is placed on record.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "At this juncture, this cannot be taken into account to negate contents of an FIR, which in fact constitute the offences complained of.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "8. Learned AGP has submitted that the applicants have criminal antecedents.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Learned AGP has submitted that the applicants have criminal antecedents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "9. Learned Counsel for the applicant has relied upon Ramesh V/s. State of Haryana, 2014 SCC OnLine P \u0026 H 5631 and submitted that on mere criminal antecedents are not sufficient to reject the bail.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "9.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Learned Counsel for the applicant has relied upon Ramesh V/s. State of Haryana, 2014 SCC OnLine P \u0026 H 5631 and submitted that on mere criminal antecedents are not sufficient to reject the bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "10. It is duty of the Court to find out role of the accused from the report and the circumstances such as possibility of fleeing away from jurisdiction.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "10.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is duty of the Court to find out role of the accused from the report and the circumstances such as possibility of fleeing away from jurisdiction.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 9,
+      "text": "11. Considering the timing of activities going on, informant being a public officer, enquired about authority, there is nothing amiss therein. It is not expected from the police officer to ignore irregular or unauthorized display of flex or banners, whereby the main roads of the City are being defaced. Such tendency now­a­days is rising, needs to be dealt with by law. Hence, order :",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "11.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Considering the timing of activities going on, informant being a public officer, enquired about authority, there is nothing amiss therein.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is not expected from the police officer to ignore irregular or unauthorized display of flex or banners, whereby the main roads of the City are being defaced.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Such tendency now­a­days is rising, needs to be dealt with by law.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, order :",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER Application stands rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Pune. (Vikas S. Kulkarni) January 17, 2019 Additional Sessions Judge, Pune -5­ I affirm that the contents of this P.D.F.,file judgment are same word for word as per original Judgment. Name of Steno :­ Smt. Mohini P. Rahurkar, Stenographer Gr.I Court Name :­ Shri. Vikas S. Kulkarni, Additional Sessions Judge,Pune Date :­ January 17, 2019 Judgment signed by P.O. On :­ January 17, 2019 Judgment PDF on : January 18, 2019 Judgment uploaded on :­ January 18, 2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Order below exh.1 in Cri. MA No. 75/2019 CNR No. MHPU01­000300—2019 \r\n---header-ends---\r\n1. Perused the application, say exh. 7 and documentary evidence placed on record. Heard both learned Counsel. 2. By this application, the applicants / duo accused – Neeta Vinod Adsule and Datta Balbhim Pol, seek pre­ arrest bail under Section 438 of Cr.P.C., of Crime No. 885/2018, registered on 27.12.2018 with Yerwada Police Station, Pune, under Sections 353, 188, 294 r.w.s. 34 of Indian Penal Code, under Section 140 of the Maharashtra Police Act, under Section 3 of the Maharashtra Prevention of Defacement Property Act, 1995 and under Sections 244, 245 of the Maharashtra Municipal Corporation Act, 1949. It is objected over nature of offence, role attributed from an FIR and ongoing investigation. \r\n---background-ends---\r\n3. The learned Counsel for the applicants has submitted that the applicants are Social Workers, applied for permission for displaying banner, deposited fee thereof with Authority of PMC, still the informant obstructed them while displaying banner at public place. This conduct was complained to Superior. Being aggrieved thereby present FIR is lodged. \r\n---argument-ends---\r\n4. Learned AGP has submitted that both the applicants are self­proclaimed Social Workers, took the law in their hands and obstructed the informant while discharging official duty. Thus, applicants do not deserve pre­arrest bail. \r\n---argument-ends---\r\n5. On going through copy of the FIR, it is evident that the informant, Karim Mohamad Sharif Shaikh, Police Hawaldar, was on patrolling duty, on 27.12.2018 at 00.10 a.m. was following a directions of Superior to verify and restrict authorized flex, banners, etc; accompanied with Beat Marshall, noticed that the accused were about to display the flex banner within their jurisdiction. When they were questioned, the applicant 1 / accused became furious and \u0027abused them\u0027 as “Tu Madarchod ethe kashala basala ahhe ? Aaighalya, Tula wa tumache chowkiche adhikari wa sarv karmachari yanchi aai zawate wa sarvanna choda lavate, tu mala olakhat nahi. Me khup pohachaleli ahhe.” The informant tried to convince them but accused 2 \u0027threatened him\u0027 as “Tumha Sarvanna chodach lavato. Amhi udya rasta roko karato, udya chowkich band karun takato”, Meanwhile, night round police officer More arrived at Police Chowky, to -3­ whom the informant disclosed what was happened. \r\n---argument-ends---\r\n6. In view of above, the role played by both the applicants is attributed from FIR. The said conduct is defeating to alleged Social Workers, notwithstanding they deposited requisite fee, still they were not permitted to display the flex, much less they had no permission therefor. \r\n---argument-ends---\r\n7. Learned Counsel for the applicants has vehemently submitted that it was for the Authority of PMC to verify and to deal with authorized displaying of flex. The informant was not supposed to verify even. Applicant 1 on the very day at 12.35 a.m. had dialed Police Control Room and complained about informant. Copy thereof is placed on record. At this juncture, this cannot be taken into account to negate contents of an FIR, which in fact constitute the offences complained of. \r\n---argument-ends---\r\n8. Learned AGP has submitted that the applicants have criminal antecedents. \r\n---argument-ends---\r\n9. Learned Counsel for the applicant has relied upon Ramesh V/s. State of Haryana, 2014 SCC OnLine P \u0026 H 5631 and submitted that on mere criminal antecedents are not sufficient to reject the bail. \r\n---argument-ends---\r\n10. It is duty of the Court to find out role of the accused from the report and the circumstances such as possibility of fleeing away from jurisdiction. \r\n---argument-ends---\r\n11. Considering the timing of activities going on, informant being a public officer, enquired about authority, there is nothing amiss therein. It is not expected from the police officer to ignore irregular or unauthorized display of flex or banners, whereby the main roads of the City are being defaced. Such tendency now­a­days is rising, needs to be dealt with by law. Hence, order : \r\n---argument-ends---\r\nORDER Application stands rejected. \r\n---order-ends---\r\nPune. (Vikas S. Kulkarni) January 17, 2019 Additional Sessions Judge, Pune -5­ I affirm that the contents of this P.D.F.,file judgment are same word for word as per original Judgment. Name of Steno :­ Smt. Mohini P. Rahurkar, Stenographer Gr.I Court Name :­ Shri. Vikas S. Kulkarni, Additional Sessions Judge,Pune Date :­ January 17, 2019 Judgment signed by P.O. On :­ January 17, 2019 Judgment PDF on : January 18, 2019 Judgment uploaded on :­ January 18, 2019"
+}

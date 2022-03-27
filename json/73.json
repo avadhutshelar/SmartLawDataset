@@ -1,0 +1,474 @@
+{
+  "header": "O­ in BA No.85/2019 CNR­ MHPU01­000315­2019 ORDER BELOW EXH.1 IN BAIL APPLN. No.85/2019 (Passed on 21­01­2019)",
+  "background": {
+    "text": "1] The applicant/accused has filed this first bail application U/sec. 439 of Cr.P.C. for grant of bail to him in CR No.413/2018 registered with Warje Malwadi police station, U/sec.395, 452, 323, 504, 506(2), 506, 427 of Indian Penal Code, 1860. u/s.4(25) of Arms Act.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "u/sec. 439 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "395,452,323,504,506,2,506,427",
+          "stringMatched": "u/sec.395, 452, 323, 504, 506(2), 506, 427 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Arms Act",
+          "sectionsMatched": "4,25",
+          "stringMatched": "u/s.4(25) of arms act",
+          "legalAct": {
+            "actId": 8,
+            "actName": "The Arms Act",
+            "actShortNameList": "Arms Act,Indian Arms Act",
+            "actYear": "1959",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "46"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] Heard Ld. Counsel on behalf of applicant­accused Shri. N.K.Devsarkar and Ld. APP Shri.Bombatkar.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] Heard Ld. Counsel on behalf of applicant­accused Shri.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "N.K.Devsarkar and Ld. APP Shri.Bombatkar.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Prima facie from record it reveals that on 31/10/2018 at about 11.00 p.m. present applicants and others have committed dacoity in the house of informant Rekha Sudhir Gonte situated at Gosavi vasti, Karve Nagar, Pune . The applicants and other have used sward and stones while committing the dacoity. They have threatened informant, inquired about her brother Rupesh, gave kicks and blows to her and her old parents. Pelted stones on two wheelers of neighbors and informant and thereby broke glasses and head lights of bikes. They have taken away Rs.2,000/­ from the house of informant and used obscene language against her and her family members and thereby created terror in the vicinity.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Prima facie from record it reveals that on 31/10/2018 at about 11.00 p.m. present applicants and others have committed dacoity in the house of informant Rekha Sudhir Gonte situated at Gosavi vasti, Karve Nagar, Pune .",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The applicants and other have used sward and stones while committing the dacoity.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "They have threatened informant, inquired about her brother Rupesh, gave kicks and blows to her and her old parents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Pelted stones on two wheelers of neighbors and informant and thereby broke glasses and head lights of bikes.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "They have taken away Rs.2,000/­ from the house of informant and used obscene language against her and her family members and thereby created terror in the vicinity.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Prima­facie it is found that applicant has came on the spot by holding sword in his hand and he has threatened informant by showing the sword. As per the say of police other so many serious offences u/s 307, 395 of I.P. code and under section 143,147,427 of I.P.Code are registered against him, in which crime he is on bail. Therefore, considering all these circumstances, in my opinion, it would 2 O­ in BA No.85/2019 CNR­ MHPU01­000315­2019 not be just and proper to grant bail to applicant­accused. According the application is liable to be rejected. Hence, the order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Prima­facie it is found that applicant has came on the spot by holding sword in his hand and he has threatened informant by showing the sword.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "As per the say of police other so many serious offences u/s 307, 395 of I.P. code and under section 143,147,427 of I.P.Code are registered against him, in which crime he is on bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Therefore, considering all these circumstances, in my opinion, it would 2 O­ in BA No.85/2019 CNR­ MHPU01­000315­2019 not be just and proper to grant bail to applicant­accused.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "According the application is liable to be rejected.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, the order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER Application (Exh.1) is rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "( S.K.Karhale ) Dt. 21.01.2019. Additional Sessions Judge, Pune. CERTIFICATE “I affirm that the contents of this PDF file Judgment are same word to word as per original Judgment.” Court Name : Shri.S.K.Karhale Additional Sessions Judge \u0026 District Judge­10, Pune. Date or order : 21­01­2019 Judgment signed by P. O. on : 21­1­2019 Judgment uploaded on : 21­1­2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "O­ in BA No.85/2019 CNR­ MHPU01­000315­2019 ORDER BELOW EXH.1 IN BAIL APPLN. No.85/2019 (Passed on 21­01­2019) \r\n---header-ends---\r\n1] The applicant/accused has filed this first bail application U/sec. 439 of Cr.P.C. for grant of bail to him in CR No.413/2018 registered with Warje Malwadi police station, U/sec.395, 452, 323, 504, 506(2), 506, 427 of Indian Penal Code, 1860. u/s.4(25) of Arms Act. \r\n---background-ends---\r\n2] Heard Ld. Counsel on behalf of applicant­accused Shri. N.K.Devsarkar and Ld. APP Shri.Bombatkar. \r\n---argument-ends---\r\n3] Prima facie from record it reveals that on 31/10/2018 at about 11.00 p.m. present applicants and others have committed dacoity in the house of informant Rekha Sudhir Gonte situated at Gosavi vasti, Karve Nagar, Pune . The applicants and other have used sward and stones while committing the dacoity. They have threatened informant, inquired about her brother Rupesh, gave kicks and blows to her and her old parents. Pelted stones on two wheelers of neighbors and informant and thereby broke glasses and head lights of bikes. They have taken away Rs.2,000/­ from the house of informant and used obscene language against her and her family members and thereby created terror in the vicinity. \r\n---argument-ends---\r\n4] Prima­facie it is found that applicant has came on the spot by holding sword in his hand and he has threatened informant by showing the sword. As per the say of police other so many serious offences u/s 307, 395 of I.P. code and under section 143,147,427 of I.P.Code are registered against him, in which crime he is on bail. Therefore, considering all these circumstances, in my opinion, it would 2 O­ in BA No.85/2019 CNR­ MHPU01­000315­2019 not be just and proper to grant bail to applicant­accused. According the application is liable to be rejected. Hence, the order. \r\n---argument-ends---\r\nORDER Application (Exh.1) is rejected. \r\n---order-ends---\r\n( S.K.Karhale ) Dt. 21.01.2019. Additional Sessions Judge, Pune. CERTIFICATE “I affirm that the contents of this PDF file Judgment are same word to word as per original Judgment.” Court Name : Shri.S.K.Karhale Additional Sessions Judge \u0026 District Judge­10, Pune. Date or order : 21­01­2019 Judgment signed by P. O. on : 21­1­2019 Judgment uploaded on : 21­1­2019"
+}
