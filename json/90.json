@@ -1,0 +1,287 @@
+{
+  "header": "Bail Appln.No. 105/2019 CNR–MHPU01-000448-2019",
+  "background": {
+    "text": "ORDER BELOW EXH. 4 1. This is an application under Sec. 438 of Cr.P.C. for grant of ad-interim anticipatory bail. 2. Read application along with affidavit. Perused F.I.R. Heard Ld.Counsel for the applicant. It appears that on the basis of the report lodged by one Dhananjay Nensukhlal Navlakha C.R.No. 500/2018 has been registered against the applicants under Sec. 420, 465, 468, 474, 120-B of I.P.C. with Vadgaon Maval Police Station.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "438",
+          "stringMatched": "under Sec. 438 of Cr.P.C.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "I.P.C.",
+          "sectionsMatched": "420,465,468,474,120",
+          "stringMatched": "under Sec. 420, 465, 468, 474, 120-B of I.P.C.",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "According to the accused he was not doing data entry work on the day of registration of said document on 15.11.2017. He has been appointed as data entry operator in the said office from 24.10.2018 and till today he is working in the said office. In support of submission he has produced copy of appointment letter below Exh. 3. It appears that alleged document finalized on 15.11.2017 and F.I.R. came to be lodged on 17.12.2018 and prima facie applicant accused was appointed on 24.10.2018. No active role played by the applicant accused, therefore, his custodial interrogation is not required. Thus, following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "According to the accused he was not doing data entry work on the day of registration of said document on 15.11.2017.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He has been appointed as data entry operator in the said office from 24.10.2018 and till today he is working in the said office.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "In support of submission he has produced copy of appointment letter below Exh. 3.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It appears that alleged document finalized on 15.11.2017 and F.I.R. came to be lodged on 17.12.2018 and prima facie applicant accused was appointed on 24.10.2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "No active role played by the applicant accused, therefore, his custodial interrogation is not required.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Thus, following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R 1. Application Exh. 4 is hereby allowed. 2. Applicant Nitin Shivdas Sidankar be enlarged on ad-interim anticipatory bail on furnishing P.R. bond of Rs. 15,000/- with surety in the like amount, in the event of his arrest in C.R.No. 500/2018 under Sec. 420, 465, 468, 474, 120-B of I.P.C. registered with Vadgaon Maval Police Station. 3. He shall make himself available for the interrogation by the police officer, as and when required in writing. 4. He shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of this case. 5. If the applicant committed breach of any conditions, the prosecution is at liberty to approach this court for cancellation of the bail. 6. Issue show cause notice to the Senior P.I. of concerned Police Station and D.G.P., Pune together with the copy of this order calling upon them as to why interim pre-arrest bail should not be made absolute R/o. 14.01.2019",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "15000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "15000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "MONTHLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "( S. H. Gwalani ) Dt. : 07.01.2019 Additional Sessions Judge, Pune.",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Bail Appln.No. 105/2019 CNR–MHPU01-000448-2019 \r\n---header-ends---\r\nORDER BELOW EXH. 4 1. This is an application under Sec. 438 of Cr.P.C. for grant of ad-interim anticipatory bail. 2. Read application along with affidavit. Perused F.I.R. Heard Ld.Counsel for the applicant. It appears that on the basis of the report lodged by one Dhananjay Nensukhlal Navlakha C.R.No. 500/2018 has been registered against the applicants under Sec. 420, 465, 468, 474, 120-B of I.P.C. with Vadgaon Maval Police Station. \r\n---background-ends---\r\nAccording to the accused he was not doing data entry work on the day of registration of said document on 15.11.2017. He has been appointed as data entry operator in the said office from 24.10.2018 and till today he is working in the said office. In support of submission he has produced copy of appointment letter below Exh. 3. It appears that alleged document finalized on 15.11.2017 and F.I.R. came to be lodged on 17.12.2018 and prima facie applicant accused was appointed on 24.10.2018. No active role played by the applicant accused, therefore, his custodial interrogation is not required. Thus, following order. \r\n---argument-ends---\r\nO R D E R 1. Application Exh. 4 is hereby allowed. 2. Applicant Nitin Shivdas Sidankar be enlarged on ad-interim anticipatory bail on furnishing P.R. bond of Rs. 15,000/- with surety in the like amount, in the event of his arrest in C.R.No. 500/2018 under Sec. 420, 465, 468, 474, 120-B of I.P.C. registered with Vadgaon Maval Police Station. 3. He shall make himself available for the interrogation by the police officer, as and when required in writing. 4. He shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of this case. 5. If the applicant committed breach of any conditions, the prosecution is at liberty to approach this court for cancellation of the bail. 6. Issue show cause notice to the Senior P.I. of concerned Police Station and D.G.P., Pune together with the copy of this order calling upon them as to why interim pre-arrest bail should not be made absolute R/o. 14.01.2019 \r\n---order-ends---\r\n( S. H. Gwalani ) Dt. : 07.01.2019 Additional Sessions Judge, Pune."
+}

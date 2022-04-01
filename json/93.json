@@ -1,0 +1,1031 @@
+{
+  "header": "Criminal Bail Application No.109/2019 CNR NO. MHPU01­000436­2019 Ganesh A. Gunjal \u0026 another …. Applicants. Vs. State of Maharashtra …. Respondent.",
+  "background": {
+    "text": "ORDER BELOW EXH.1 This is the first bail application for regular bail under section 439 of the Cr. P. C. in connection with C.R.No.237/2018, registered by Deccan police station, for the offence under section 384, 341, 504, 506(2), 364A, 120­B, 511 r/w 34 of the Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr. P. C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of the cr. p. c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "384,341,504,506,2,364,120,511,34",
+          "stringMatched": "under section 384, 341, 504, 506(2), 364a, 120­b, 511 r/w 34 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "REJECT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "REJECT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "384,341,504,506,364,120,511,34",
+          "stringMatched": "under section 384, 341, 504, 506(2), 364A, 120­B, 511 r/w 34 of the Indian Penal Code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "[2] Perused the application and say given by prosecution at Exh.6.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[2] Perused the application and say given by prosecution at Exh.6.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "[3] Heard learned advocate Mr. Bhosale for the applicants / accused and APP Mr.Aurangabadkar for the respondent and learned advocate Mr. Suryawanshi for the informant.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[3] Heard learned advocate Mr. Bhosale for the applicants / accused and APP Mr.Aurangabadkar for the respondent and learned advocate Mr. Suryawanshi for the informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "[4] The learned advocate Mr. Bhosale for the applicants argued that the offence is alleged to be dated 19­11­2018 and FIR is filed on 28­ 11­2018. So, there is nine days delay. The informant is advocate by profession. He knew the need of prompt FIR. Thus, it is clear that afterthought false report is given to the police. The offence under section 384, 364­A of IPC are not attracted as there was no abduction or kidnapping, so also there was no demand and parting of money. It is alleged that scooter was used for commission of the offence, but in fact, the motorcycle is seized. So there was no recovery of scooter at the instance of the applicants / accused. He further argued that in view of proviso to Section 437 of Cr. P. C. need of accused for conducting test identification parade is not ground for refusal of the bail if accused are otherwise found entitled for the bail. The accused are not having any criminal antecedents and they are ready to abide conditions if imposed. The practical investigation is done and there is no need to keep accused / applicants behind bars. He prayed that the bail application may be allowed.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[4] The learned advocate Mr. Bhosale for the applicants argued that the offence is alleged to be dated 19­11­2018 and FIR is filed on 28­ 11­2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "So, there is nine days delay.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The informant is advocate by profession.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "He knew the need of prompt FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Thus, it is clear that afterthought false report is given to the police.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "The offence under section 384, 364­A of IPC are not attracted as there was no abduction or kidnapping, so also there was no demand and parting of money.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "It is alleged that scooter was used for commission of the offence, but in fact, the motorcycle is seized.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "So there was no recovery of scooter at the instance of the applicants / accused.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "He further argued that in view of proviso to Section 437 of Cr.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "P. C. need of accused for conducting test identification parade is not ground for refusal of the bail if accused are otherwise found entitled for the bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "The accused are not having any criminal antecedents and they are ready to abide conditions if imposed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "The practical investigation is done and there is no need to keep accused / applicants behind bars.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "text": "He prayed that the bail application may be allowed.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "[5] The learned APP for respondent argued that the FIR is not expected to be encyclopedia giving all minute details. The investigation is in progress. First informant gave application to the police immediately on next date and after initial inquiry, the FIR came to be registered. Therefore, it cannot be said that there is delay. He further submitted that in the FIR though involvement of less persons is alleged, during investigation it transpired that arrested accused along with two other persons hatched a criminal conspiracy and only because the informant was in car and he could manage to avoid the access of accused with him, the major crime did not occur and, therefore, police have applied Section 511 of IPC. He further argued that the investigation is in progress. It has transpired that two other accused are involved in the commission of crime. There was use of SIM cards registered in the name of other persons. There was a threat and demand. The involvement of the accused in the present crime is clear from the recording of the event by the camera installed in the car of the informant. He submitted that from the images recorded by the camera, it is clear that the vehicle used by the applicants / accused was Activa scooter and merely the investigating officer wrongly mentioned it as motorcycle, does not mean that there is difference in the vehicle, because from the recovery Panchanama under Section 27 of the Evidence Act, it is clear that Honda Activa two wheeler is recovered at the instance of the applicants  accused. He submitted that the investigation is in progress. The co­ accused are yet to be arrested. Having regard to the conspiracy hatched by the accused persons with absconding accused, if at this stage the applicants / accused are released on bail, it would adversely affect the investigation. He prayed for rejection of the application.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[5] The learned APP for respondent argued that the FIR is not expected to be encyclopedia giving all minute details.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The investigation is in progress.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "First informant gave application to the police immediately on next date and after initial inquiry, the FIR came to be registered.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, it cannot be said that there is delay.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "He further submitted that in the FIR though involvement of less persons is alleged, during investigation it transpired that arrested accused along with two other persons hatched a criminal conspiracy and only because the informant was in car and he could manage to avoid the access of accused with him, the major crime did not occur and, therefore, police have applied Section 511 of IPC.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He further argued that the investigation is in progress.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "It has transpired that two other accused are involved in the commission of crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "There was use of SIM cards registered in the name of other persons.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "There was a threat and demand.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "The involvement of the accused in the present crime is clear from the recording of the event by the camera installed in the car of the informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "He submitted that from the images recorded by the camera, it is clear that the vehicle used by the applicants / accused was Activa scooter and merely the investigating officer wrongly mentioned it as motorcycle, does not mean that there is difference in the vehicle, because from the recovery Panchanama under Section 27 of the Evidence Act, it is clear that Honda Activa two wheeler is recovered at the instance of the applicants  accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "He submitted that the investigation is in progress.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "text": "The co­ accused are yet to be arrested.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "text": "Having regard to the conspiracy hatched by the accused persons with absconding accused, if at this stage the applicants / accused are released on bail, it would adversely affect the investigation.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "text": "He prayed for rejection of the application.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "[6] I have gone through the FIR and also the investigation papers produced before me for my perusal. Though prima­facie from the FIR, it appears to be the incident where two riders on the two wheeler stopped the car of the informant and threatened him and demanded money on the count of dash alleged to have been given to their two wheeler. From the investigation papers given for my perusal, it appears that two other persons are also involved in the crime and they four have hatched the conspiracy.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[6] I have gone through the FIR and also the investigation papers produced before me for my perusal.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Though prima­facie from the FIR, it appears to be the incident where two riders on the two wheeler stopped the car of the informant and threatened him and demanded money on the count of dash alleged to have been given to their two wheeler.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "From the investigation papers given for my perusal, it appears that two other persons are also involved in the crime and they four have hatched the conspiracy.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "[7] It is clear from the averments in the FIR that only because informant was advocate by profession, he could sense the gravity of the situation, he could avoid further uncalled events. But, prima­facie it appears that accused / applicants have hatched the criminal conspiracy to kdnap the informant and to cause him hurt. The investigation is in progress. If at this stage the applicants are released on bail, it may adversely affect the progress in the investigation. Hence, I pass the following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[7] It is clear from the averments in the FIR that only because informant was advocate by profession, he could sense the gravity of the situation, he could avoid further uncalled events.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "But, prima­facie it appears that accused / applicants have hatched the criminal conspiracy to kdnap the informant and to cause him hurt.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The investigation is in progress.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "If at this stage the applicants are released on bail, it may adversely affect the progress in the investigation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, I pass the following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER The application is rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Pune, Dated/­ 22­01­2019 ( Aniruddha Y. Thatte ) Additional Sessions Judge, Pune. Cri.B.A.No. 109/19 4 CNR No.MHPU01­000436­2019 I affirm that the contents of the PDF file Judgment are same word for word as per original Judgment. Name of Steno :­ Shri. V. V. Bannur Name of Court : Shri. A. Y. Thatte, District Judge 14 and ASJ, Pune. Judgment signed by PO on : ­ 22­1­2019 Judgment uploaded on :­ 23­1­2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Criminal Bail Application No.109/2019 CNR NO. MHPU01­000436­2019 Ganesh A. Gunjal \u0026 another …. Applicants. Vs. State of Maharashtra …. Respondent. \r\n---header-ends---\r\nORDER BELOW EXH.1 This is the first bail application for regular bail under section 439 of the Cr. P. C. in connection with C.R.No.237/2018, registered by Deccan police station, for the offence under section 384, 341, 504, 506(2), 364A, 120­B, 511 r/w 34 of the Indian Penal Code. \r\n---background-ends---\r\n[2] Perused the application and say given by prosecution at Exh.6. \r\n---argument-ends---\r\n[3] Heard learned advocate Mr. Bhosale for the applicants / accused and APP Mr.Aurangabadkar for the respondent and learned advocate Mr. Suryawanshi for the informant. \r\n---argument-ends---\r\n[4] The learned advocate Mr. Bhosale for the applicants argued that the offence is alleged to be dated 19­11­2018 and FIR is filed on 28­ 11­2018. So, there is nine days delay. The informant is advocate by profession. He knew the need of prompt FIR. Thus, it is clear that afterthought false report is given to the police. The offence under section 384, 364­A of IPC are not attracted as there was no abduction or kidnapping, so also there was no demand and parting of money. It is alleged that scooter was used for commission of the offence, but in fact, the motorcycle is seized. So there was no recovery of scooter at the instance of the applicants / accused. He further argued that in view of proviso to Section 437 of Cr. P. C. need of accused for conducting test identification parade is not ground for refusal of the bail if accused are otherwise found entitled for the bail. The accused are not having any criminal antecedents and they are ready to abide conditions if imposed. The practical investigation is done and there is no need to keep accused / applicants behind bars. He prayed that the bail application may be allowed. \r\n---argument-ends---\r\n[5] The learned APP for respondent argued that the FIR is not expected to be encyclopedia giving all minute details. The investigation is in progress. First informant gave application to the police immediately on next date and after initial inquiry, the FIR came to be registered. Therefore, it cannot be said that there is delay. He further submitted that in the FIR though involvement of less persons is alleged, during investigation it transpired that arrested accused along with two other persons hatched a criminal conspiracy and only because the informant was in car and he could manage to avoid the access of accused with him, the major crime did not occur and, therefore, police have applied Section 511 of IPC. He further argued that the investigation is in progress. It has transpired that two other accused are involved in the commission of crime. There was use of SIM cards registered in the name of other persons. There was a threat and demand. The involvement of the accused in the present crime is clear from the recording of the event by the camera installed in the car of the informant. He submitted that from the images recorded by the camera, it is clear that the vehicle used by the applicants / accused was Activa scooter and merely the investigating officer wrongly mentioned it as motorcycle, does not mean that there is difference in the vehicle, because from the recovery Panchanama under Section 27 of the Evidence Act, it is clear that Honda Activa two wheeler is recovered at the instance of the applicants  accused. He submitted that the investigation is in progress. The co­ accused are yet to be arrested. Having regard to the conspiracy hatched by the accused persons with absconding accused, if at this stage the applicants / accused are released on bail, it would adversely affect the investigation. He prayed for rejection of the application. \r\n---argument-ends---\r\n[6] I have gone through the FIR and also the investigation papers produced before me for my perusal. Though prima­facie from the FIR, it appears to be the incident where two riders on the two wheeler stopped the car of the informant and threatened him and demanded money on the count of dash alleged to have been given to their two wheeler. From the investigation papers given for my perusal, it appears that two other persons are also involved in the crime and they four have hatched the conspiracy. \r\n---argument-ends---\r\n[7] It is clear from the averments in the FIR that only because informant was advocate by profession, he could sense the gravity of the situation, he could avoid further uncalled events. But, prima­facie it appears that accused / applicants have hatched the criminal conspiracy to kdnap the informant and to cause him hurt. The investigation is in progress. If at this stage the applicants are released on bail, it may adversely affect the progress in the investigation. Hence, I pass the following order. \r\n---argument-ends---\r\nORDER The application is rejected. \r\n---order-ends---\r\nPune, Dated/­ 22­01­2019 ( Aniruddha Y. Thatte ) Additional Sessions Judge, Pune. Cri.B.A.No. 109/19 4 CNR No.MHPU01­000436­2019 I affirm that the contents of the PDF file Judgment are same word for word as per original Judgment. Name of Steno :­ Shri. V. V. Bannur Name of Court : Shri. A. Y. Thatte, District Judge 14 and ASJ, Pune. Judgment signed by PO on : ­ 22­1­2019 Judgment uploaded on :­ 23­1­2019"
+}
