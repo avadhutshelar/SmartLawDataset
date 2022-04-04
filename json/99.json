@@ -1,0 +1,1283 @@
+{
+  "header": "Bail application no.115/2019 and 116/2019. Common Order below Exh.01 in Bail Application No.115/2019 and 116/2019. (CNR­MHPU01­000443­2019 \u0026 000444/2019)",
+  "background": {
+    "text": "1] Applicants­Ramesh Jyotiram Valmiki and Baliram Khanduji Kad have filed present application for grant of ad­interim anticipatory bail under section 438 of Cr.P.C. in respect of their apprehension of arrest in connection CR no.241/2017 registered with Samarth police station under section 420, 467, 471, r/w. S.34 of IPC.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "IPC",
+          "sectionsMatched": "420,467,471,34",
+          "stringMatched": "under section 420, 467, 471, r/w. s.34 of ipc",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] Applicant Ramesh Valmiki is a clerk working in Rehabilitation Department and applicant­Baliram Kad is retired Circle Inspector. It is the case of the prosecution that Complainant Shashikala Supekar was induced to make investment in a plot from the land out of gat no.1236 situated at village Kasari, Taluka Shirur, District­Pune. False representations were made to her that said property was taken for development by Shree Yash Developers and if she will make investment in it, her investment will get good appreciation. She was induced to purchase plot of 11 gunthas from out of that land. The sale­deed of that plot was registered on 20/01/2015 with the office of Sub­Registrar at Talegaon Dhamdhere and she was made to part with amount of Rs.2,60,000/­ for development of that land and plot. Accordingly, previously agreement was also executed. Thereafter, when complainant made inquiry it was transpired that land is meant for 2 rehabilitation for project affected persons. Collector Pune by his order dated 03/11/2017 set aside mutation entry nos.2286, 2298, 2360 and entered that property in the name of Collector Cum Deputy Director, Rehabilitation (Land), Pune. Inspite of knowing that said land is belonging to District Rehabilitation Office, these two applicants in collusion with other accused induced complainant to purchase plot of that land and obtained Rs.5,30,000/­ from her and by preparing false and forged documents cheated her.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] Applicant Ramesh Valmiki is a clerk working in Rehabilitation Department and applicant­Baliram Kad is retired Circle Inspector.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is the case of the prosecution that Complainant Shashikala Supekar was induced to make investment in a plot from the land out of gat no.1236 situated at village Kasari, Taluka Shirur, District­Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "False representations were made to her that said property was taken for development by Shree Yash Developers and if she will make investment in it, her investment will get good appreciation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "She was induced to purchase plot of 11 gunthas from out of that land.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The sale­deed of that plot was registered on 20/01/2015 with the office of Sub­Registrar at Talegaon Dhamdhere and she was made to part with amount of Rs.2,60,000/­ for development of that land and plot.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Accordingly, previously agreement was also executed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Thereafter, when complainant made inquiry it was transpired that land is meant for 2 rehabilitation for project affected persons.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Collector Pune by his order dated 03/11/2017 set aside mutation entry nos.2286, 2298, 2360 and entered that property in the name of Collector Cum Deputy Director, Rehabilitation (Land), Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Inspite of knowing that said land is belonging to District Rehabilitation Office, these two applicants in collusion with other accused induced complainant to purchase plot of that land and obtained Rs.5,30,000/­ from her and by preparing false and forged documents cheated her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Advocate for applicants in their argument stated that applicant Ramesh Valmiki was merely working as a Sr. clerk at the relevant time. He used to perform duties according to the instructions of Senior officers. Nature of his duties were to dispatch orders and related papers amongst sub­ordinate officers and he was / is not at all involved in the execution. At present he is working as Circle Officer in the office of Tahsildar, Taluka Shirur, District­Pune. He has not committed any offence. Co­ accused of this crime has been granted ad­interim anticipatory bail by this court. Actually he is the main culprit of this crime. During investigation objectionable false and forged orders were recovered from house of co­accused. This applicant has not played any role in passing / certifying said mutation entries. Custodial interrogation of this applicant is not necessary. Hence, he may be released on bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Advocate for applicants in their argument stated that applicant Ramesh Valmiki was merely working as a Sr. clerk at the relevant time.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He used to perform duties according to the instructions of Senior officers.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Nature of his duties were to dispatch orders and related papers amongst sub­ordinate officers and he was / is not at all involved in the execution.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "At present he is working as Circle Officer in the office of Tahsildar, Taluka Shirur, District­Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "He has not committed any offence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Co­ accused of this crime has been granted ad­interim anticipatory bail by this court.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Actually he is the main culprit of this crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "During investigation objectionable false and forged orders were recovered from house of co­accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "This applicant has not played any role in passing / certifying said mutation entries.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Custodial interrogation of this applicant is not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "Hence, he may be released on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Advocate for applicant in their argument further stated 3 Bail application no.115/2019 and 116/2019 that in between 2010 to 2013 Mr. Baliram Kad was working as Circle Officer at village Talegaon Dhamdhere, Taluka­Shirur, District­Pune. Thereafter, in between 2013 to May 2015 he was serving as Circle Officer at village Ranjangaon, District­Pune. He used to perform duties as assigned to him as per the orders and directions of Tahsildar and other senior officers. He has not committed any offence. Advocate for applicants in his argument himself shown one Circular letter dated 08/02/2012 issued by Divisional Commissioner, Pune that whenever any document purporting to be an order produced before revenue officer without mentioning the name of officer and designation and signed for any officer then as far as possible original order be seen and if original is not produced, xerox copy should not be relied upon and certified copies of those orders be demanded and only those be relied upon. He further stated that the applicant has certified the mutation entries only as per the orders of Tahsildar. He was not knowing that the said order is not legal, proper, false and forged. Therefore, his custodial interrogation is not necessary. Hence, he may be released on bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Advocate for applicant in their argument further stated 3 Bail application no.115/2019 and 116/2019 that in between 2010 to 2013 Mr. Baliram Kad was working as Circle Officer at village Talegaon Dhamdhere, Taluka­Shirur, District­Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Thereafter, in between 2013 to May 2015 he was serving as Circle Officer at village Ranjangaon, District­Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He used to perform duties as assigned to him as per the orders and directions of Tahsildar and other senior officers.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "He has not committed any offence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Advocate for applicants in his argument himself shown one Circular letter dated 08/02/2012 issued by Divisional Commissioner, Pune that whenever any document purporting to be an order produced before revenue officer without mentioning the name of officer and designation and signed for any officer then as far as possible original order be seen and if original is not produced, xerox copy should not be relied upon and certified copies of those orders be demanded and only those be relied upon.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He further stated that the applicant has certified the mutation entries only as per the orders of Tahsildar.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "He was not knowing that the said order is not legal, proper, false and forged.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Therefore, his custodial interrogation is not necessary.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Hence, he may be released on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] Ld. DGP strongly opposed this application. It is her contention that these applicants while working as Government Servant taken undue advantage of their posts and hurriedly prepared false and forged documents, certified mutation entries to show that said land is allotted to Bhiva Kangude. Actually said Bhiva Kangude in his statement stated that he never applied for 4 allotment of said land to the Government. Accused Subhash Nalkande and Sachin Kale prepared false applications in his name and put his forged thumb mark and signature on them. Thereafter, false and forged order was prepared in the name of the then Collector Madhukar Kokate that said land was allotted to Bhiva Kangude and thereafter with the help of some revenue officers and employees including applicants that land was converted into old conditions and permission for sale shown to have been granted. For that purpose hurriedly some mutation entries were certified without following due procedure of law. These two applicants played key role for preparing false and forged orders / documents and for certifying mutation entries. During investigation it was revealed that some revenue officers and government employees including these two applicants have taken undue advantage of their position and in 44 such matters false and forged orders / documents were prepared. Therefore, to dig out the truth, their custodial interrogation is necessary. Hence, these applications may be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] Ld. DGP strongly opposed this application.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is her contention that these applicants while working as Government Servant taken undue advantage of their posts and hurriedly prepared false and forged documents, certified mutation entries to show that said land is allotted to Bhiva Kangude.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Actually said Bhiva Kangude in his statement stated that he never applied for 4 allotment of said land to the Government.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Accused Subhash Nalkande and Sachin Kale prepared false applications in his name and put his forged thumb mark and signature on them.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Thereafter, false and forged order was prepared in the name of the then Collector Madhukar Kokate that said land was allotted to Bhiva Kangude and thereafter with the help of some revenue officers and employees including applicants that land was converted into old conditions and permission for sale shown to have been granted.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "For that purpose hurriedly some mutation entries were certified without following due procedure of law.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "These two applicants played key role for preparing false and forged orders / documents and for certifying mutation entries.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "During investigation it was revealed that some revenue officers and government employees including these two applicants have taken undue advantage of their position and in 44 such matters false and forged orders / documents were prepared.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Therefore, to dig out the truth, their custodial interrogation is necessary.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Hence, these applications may be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6] The offence is serious. In collusion with revenue officers and employees false and forged orders of allotment of said land were prepared. Accordingly, false and forged mutation entries were passed hurriedly without knowledge of Bhima Kangude and without following due procedure. Ld. DGP with the help of IO shown that applicant Ramesh Valmiki in his handwriting written order dated 18/03/2014 allegedly passed by Tahsildar, Shirur, Pune Smt. Garad. She further shown that applicant­Mr. Baliram Bail application no.115/2019 and 116/2019 Kad has passed mutation entry no.2286 and other entires hurriedly without following due procedure and without verifying the documents. In this matter it appears that the above said circular dated 08/02/2012 was also not observed by these two revenue officers. The offence is serious. Investigation is not yet completed. As many as 44 matters of such nature are came to light. Their investigation is in progress. Therefore, custodial interrogation of applicants is necessary to dig out the truth and give justice to the poor farmers and others like Complainant who have been cheated in collusion with some fraudsters. Therefore, applicants are not entitled to get discretionary relief of anticipatory bail. Hence, I pass the following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6] The offence is serious.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "In collusion with revenue officers and employees false and forged orders of allotment of said land were prepared.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accordingly, false and forged mutation entries were passed hurriedly without knowledge of Bhima Kangude and without following due procedure.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Ld. DGP with the help of IO shown that applicant Ramesh Valmiki in his handwriting written order dated 18/03/2014 allegedly passed by Tahsildar, Shirur, Pune Smt.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Garad.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "She further shown that applicant­Mr.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Baliram Bail application no.115/2019 and 116/2019 Kad has passed mutation entry no.2286 and other entires hurriedly without following due procedure and without verifying the documents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "In this matter it appears that the above said circular dated 08/02/2012 was also not observed by these two revenue officers.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "The offence is serious.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Investigation is not yet completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "As many as 44 matters of such nature are came to light.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Their investigation is in progress.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "text": "Therefore, custodial interrogation of applicants is necessary to dig out the truth and give justice to the poor farmers and others like Complainant who have been cheated in collusion with some fraudsters.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "text": "Therefore, applicants are not entitled to get discretionary relief of anticipatory bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "text": "Hence, I pass the following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER Bail Appln nos.115/2019 and 116/2019 are rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Sd/­ (S. S. Gosavi) Date : 23­01­2019 Additional Sessions Judge,Pune. C E R T I F I C A T E I affirm that the contents of this P.D.F. file judgment are same word for word as per original Judgment. Name of steno : S. Y. Shaikh, Stenographer (Grade­I) Name of the Court : Mr. S. S. Gosavi, District Judge ­ 4 \u0026 Additional Sessions Judge, Pune Date of Order : 23.01.2019 6 Order signed by P.O. on : 24.01.2019 Order uploaded on : 24.01.2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Bail application no.115/2019 and 116/2019. Common Order below Exh.01 in Bail Application No.115/2019 and 116/2019. (CNR­MHPU01­000443­2019 \u0026 000444/2019) \r\n---header-ends---\r\n1] Applicants­Ramesh Jyotiram Valmiki and Baliram Khanduji Kad have filed present application for grant of ad­interim anticipatory bail under section 438 of Cr.P.C. in respect of their apprehension of arrest in connection CR no.241/2017 registered with Samarth police station under section 420, 467, 471, r/w. S.34 of IPC. \r\n---background-ends---\r\n2] Applicant Ramesh Valmiki is a clerk working in Rehabilitation Department and applicant­Baliram Kad is retired Circle Inspector. It is the case of the prosecution that Complainant Shashikala Supekar was induced to make investment in a plot from the land out of gat no.1236 situated at village Kasari, Taluka Shirur, District­Pune. False representations were made to her that said property was taken for development by Shree Yash Developers and if she will make investment in it, her investment will get good appreciation. She was induced to purchase plot of 11 gunthas from out of that land. The sale­deed of that plot was registered on 20/01/2015 with the office of Sub­Registrar at Talegaon Dhamdhere and she was made to part with amount of Rs.2,60,000/­ for development of that land and plot. Accordingly, previously agreement was also executed. Thereafter, when complainant made inquiry it was transpired that land is meant for 2 rehabilitation for project affected persons. Collector Pune by his order dated 03/11/2017 set aside mutation entry nos.2286, 2298, 2360 and entered that property in the name of Collector Cum Deputy Director, Rehabilitation (Land), Pune. Inspite of knowing that said land is belonging to District Rehabilitation Office, these two applicants in collusion with other accused induced complainant to purchase plot of that land and obtained Rs.5,30,000/­ from her and by preparing false and forged documents cheated her. \r\n---argument-ends---\r\n3] Advocate for applicants in their argument stated that applicant Ramesh Valmiki was merely working as a Sr. clerk at the relevant time. He used to perform duties according to the instructions of Senior officers. Nature of his duties were to dispatch orders and related papers amongst sub­ordinate officers and he was / is not at all involved in the execution. At present he is working as Circle Officer in the office of Tahsildar, Taluka Shirur, District­Pune. He has not committed any offence. Co­ accused of this crime has been granted ad­interim anticipatory bail by this court. Actually he is the main culprit of this crime. During investigation objectionable false and forged orders were recovered from house of co­accused. This applicant has not played any role in passing / certifying said mutation entries. Custodial interrogation of this applicant is not necessary. Hence, he may be released on bail. \r\n---argument-ends---\r\n4] Advocate for applicant in their argument further stated 3 Bail application no.115/2019 and 116/2019 that in between 2010 to 2013 Mr. Baliram Kad was working as Circle Officer at village Talegaon Dhamdhere, Taluka­Shirur, District­Pune. Thereafter, in between 2013 to May 2015 he was serving as Circle Officer at village Ranjangaon, District­Pune. He used to perform duties as assigned to him as per the orders and directions of Tahsildar and other senior officers. He has not committed any offence. Advocate for applicants in his argument himself shown one Circular letter dated 08/02/2012 issued by Divisional Commissioner, Pune that whenever any document purporting to be an order produced before revenue officer without mentioning the name of officer and designation and signed for any officer then as far as possible original order be seen and if original is not produced, xerox copy should not be relied upon and certified copies of those orders be demanded and only those be relied upon. He further stated that the applicant has certified the mutation entries only as per the orders of Tahsildar. He was not knowing that the said order is not legal, proper, false and forged. Therefore, his custodial interrogation is not necessary. Hence, he may be released on bail. \r\n---argument-ends---\r\n5] Ld. DGP strongly opposed this application. It is her contention that these applicants while working as Government Servant taken undue advantage of their posts and hurriedly prepared false and forged documents, certified mutation entries to show that said land is allotted to Bhiva Kangude. Actually said Bhiva Kangude in his statement stated that he never applied for 4 allotment of said land to the Government. Accused Subhash Nalkande and Sachin Kale prepared false applications in his name and put his forged thumb mark and signature on them. Thereafter, false and forged order was prepared in the name of the then Collector Madhukar Kokate that said land was allotted to Bhiva Kangude and thereafter with the help of some revenue officers and employees including applicants that land was converted into old conditions and permission for sale shown to have been granted. For that purpose hurriedly some mutation entries were certified without following due procedure of law. These two applicants played key role for preparing false and forged orders / documents and for certifying mutation entries. During investigation it was revealed that some revenue officers and government employees including these two applicants have taken undue advantage of their position and in 44 such matters false and forged orders / documents were prepared. Therefore, to dig out the truth, their custodial interrogation is necessary. Hence, these applications may be rejected. \r\n---argument-ends---\r\n6] The offence is serious. In collusion with revenue officers and employees false and forged orders of allotment of said land were prepared. Accordingly, false and forged mutation entries were passed hurriedly without knowledge of Bhima Kangude and without following due procedure. Ld. DGP with the help of IO shown that applicant Ramesh Valmiki in his handwriting written order dated 18/03/2014 allegedly passed by Tahsildar, Shirur, Pune Smt. Garad. She further shown that applicant­Mr. Baliram Bail application no.115/2019 and 116/2019 Kad has passed mutation entry no.2286 and other entires hurriedly without following due procedure and without verifying the documents. In this matter it appears that the above said circular dated 08/02/2012 was also not observed by these two revenue officers. The offence is serious. Investigation is not yet completed. As many as 44 matters of such nature are came to light. Their investigation is in progress. Therefore, custodial interrogation of applicants is necessary to dig out the truth and give justice to the poor farmers and others like Complainant who have been cheated in collusion with some fraudsters. Therefore, applicants are not entitled to get discretionary relief of anticipatory bail. Hence, I pass the following order. \r\n---argument-ends---\r\nORDER Bail Appln nos.115/2019 and 116/2019 are rejected. \r\n---order-ends---\r\nSd/­ (S. S. Gosavi) Date : 23­01­2019 Additional Sessions Judge,Pune. C E R T I F I C A T E I affirm that the contents of this P.D.F. file judgment are same word for word as per original Judgment. Name of steno : S. Y. Shaikh, Stenographer (Grade­I) Name of the Court : Mr. S. S. Gosavi, District Judge ­ 4 \u0026 Additional Sessions Judge, Pune Date of Order : 23.01.2019 6 Order signed by P.O. on : 24.01.2019 Order uploaded on : 24.01.2019"
+}
