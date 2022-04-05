@@ -1,0 +1,424 @@
+{
+  "header": "Order below exh.4 in Cri. MA No. 130/2019 CNR No. MHPU01­000510—2019",
+  "background": {
+    "text": "1. Perused the application and documentary evidence placed on record. Heard the learned Counsel for the applicant. 2. By this application, under Section 438 of Cr.P.C., the applicant / accused – Santosh Dadabhua Bharne seeks interim protection in Crime No. 3/2019, registered with Chandannagar Police Station, Pune, dated 05.01.2019 under Sections 451, 452, 427, 506 of Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "451,452,427,506",
+          "stringMatched": "under sections 451, 452, 427, 506 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "3. The learned Counsel for the applicant has submitted that the applicant has no role to play in alleged offences. Also, the offence complained of could not establish from an FIR, since on 30.12.2018 one NC against the applicant was lodged, and thereafter afterthought present FIR came to be lodged, over professional rivalry.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The learned Counsel for the applicant has submitted that the applicant has no role to play in alleged offences.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Also, the offence complained of could not establish from an FIR, since on 30.12.2018 one NC against the applicant was lodged, and thereafter afterthought present FIR came to be lodged, over professional rivalry.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "4. On going through copy of FIR, it is evident that there was commercial transaction between the informant and the accused. The son of former on personal grounds Internet service from 28.12.2018 was assigned to Samrat Business Group. Consequently, the applicant has ­ disconnected his wires from Server and took them away. However, it was taken otherwise than commercial dispute.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On going through copy of FIR, it is evident that there was commercial transaction between the informant and the accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The son of former on personal grounds Internet service from 28.12.2018 was assigned to Samrat Business Group.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Consequently, the applicant has ­ disconnected his wires from Server and took them away.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "However, it was taken otherwise than commercial dispute.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "5. In view of above, apprehension in the mind of applicant seems to be reasonable, warranting ad­interim protection, until hearing of exh.1. Hence, the order :",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "In view of above, apprehension in the mind of applicant seems to be reasonable, warranting ad­interim protection, until hearing of exh.1.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, the order :",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1) The application stands allowed as under :­ In the event of arrest, the applicant be released on furnishing P.R and S.B of Rs.15,000/­, on following conditions:­ a) He shall not tamper prosecution witnesses. b) He shall not leave India sans the permission of this Court. 2) Issue show cause notice to respondents as to why said order should not be confirmed. Notice r/o: 14.01.2019.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "15000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "15000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Pune. (Vikas S. Kulkarni) January 08, 2019 Additional Sessions Judge, Pune. I affirm that the contents of this P.D.F.,file judgment are same word for word as per original Judgment. Name of Steno :­ Smt. Mohini P. Rahurkar, Stenographer Gr.I Court Name :­ Shri. Vikas S. Kulkarni, Additional Sessions Judge,Pune Date :­ January 08, 2019 Judgment signed by P.O. On :­ January 08, 2019 Judgment PDF on : January 09, 2019. Judgment uploaded on :­ January 09, 2019.",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Order below exh.4 in Cri. MA No. 130/2019 CNR No. MHPU01­000510—2019 \r\n---header-ends---\r\n1. Perused the application and documentary evidence placed on record. Heard the learned Counsel for the applicant. 2. By this application, under Section 438 of Cr.P.C., the applicant / accused – Santosh Dadabhua Bharne seeks interim protection in Crime No. 3/2019, registered with Chandannagar Police Station, Pune, dated 05.01.2019 under Sections 451, 452, 427, 506 of Indian Penal Code. \r\n---background-ends---\r\n3. The learned Counsel for the applicant has submitted that the applicant has no role to play in alleged offences. Also, the offence complained of could not establish from an FIR, since on 30.12.2018 one NC against the applicant was lodged, and thereafter afterthought present FIR came to be lodged, over professional rivalry. \r\n---argument-ends---\r\n4. On going through copy of FIR, it is evident that there was commercial transaction between the informant and the accused. The son of former on personal grounds Internet service from 28.12.2018 was assigned to Samrat Business Group. Consequently, the applicant has ­ disconnected his wires from Server and took them away. However, it was taken otherwise than commercial dispute. \r\n---argument-ends---\r\n5. In view of above, apprehension in the mind of applicant seems to be reasonable, warranting ad­interim protection, until hearing of exh.1. Hence, the order : \r\n---argument-ends---\r\nORDER 1) The application stands allowed as under :­ In the event of arrest, the applicant be released on furnishing P.R and S.B of Rs.15,000/­, on following conditions:­ a) He shall not tamper prosecution witnesses. b) He shall not leave India sans the permission of this Court. 2) Issue show cause notice to respondents as to why said order should not be confirmed. Notice r/o: 14.01.2019. \r\n---order-ends---\r\nPune. (Vikas S. Kulkarni) January 08, 2019 Additional Sessions Judge, Pune. I affirm that the contents of this P.D.F.,file judgment are same word for word as per original Judgment. Name of Steno :­ Smt. Mohini P. Rahurkar, Stenographer Gr.I Court Name :­ Shri. Vikas S. Kulkarni, Additional Sessions Judge,Pune Date :­ January 08, 2019 Judgment signed by P.O. On :­ January 08, 2019 Judgment PDF on : January 09, 2019. Judgment uploaded on :­ January 09, 2019."
+}
