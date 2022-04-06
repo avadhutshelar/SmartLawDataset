@@ -1,0 +1,405 @@
+{
+  "header": "Cri. Bail Appl. No. 150/2019 (CNR No. : MHPU01­000584­2019 ) Prasad Kangralkar Vs. State of Maharashtra ORDER BELOW EXH. 1",
+  "background": {
+    "text": "1] This is an application by Prasad Chandrakant Kangralkar under Section 438 of Code of Criminal Procedure for grant of Anticipatory Bail in respect of crime yet to be registered on report of wife of Applicant, namely, Komal Prasad Kangralkar at Police Station, Chinchwad, Pune. Police may register offence punishable under Sections 498­A and 406 read with Section 34 of Indian Penal Code against him",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "498,406,34",
+          "stringMatched": "under sections 498­a and 406 read with section 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] Applicant submits that, his wife approached to Chinchwad Police Station and thereby there is every likelihood that, police may register offence punishable under Sections 498­A and 406 read with Section 34 of Indian Penal Code against him. He has received phone calls from the police. Therefore, he is having genuine apprehension. Applicant further submits that, he has not committed any crime. Due to domestic issues, Informant has approached to police. Hence, he prays for grant of Anticipatory Bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] Applicant submits that, his wife approached to Chinchwad Police Station and thereby there is every likelihood that, police may register offence punishable under Sections 498­A and 406 read with Section 34 of Indian Penal Code against him.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He has received phone calls from the police.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Therefore, he is having genuine apprehension.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Applicant further submits that, he has not committed any crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Due to domestic issues, Informant has approached to police.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Hence, he prays for grant of Anticipatory Bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Heard the learned Adv. Mr. Indraprakash Arya for Applicant. Perused the papers.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Heard the learned Adv. Mr. Indraprakash Arya for Applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Perused the papers.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Presently no crime is registered against Applicant, therefore, the application cannot be entertained. However, necessary direction can be given to concern investigation officer for giving prior notice to Applicants in case of registration of crime.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Presently no crime is registered against Applicant, therefore, the application cannot be entertained.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "However, necessary direction can be given to concern investigation officer for giving prior notice to Applicants in case of registration of crime.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1] Application is rejected. 2] In case of registration of offence under Section 498­A, 406 read with Section 34 of Indian Penal Code on report of Komal Prasad Kangralkar at Police Station, Chinchwad, Pune against present Applicant, the concern investigation officer to give 72 hours prior Notice to Applicant before taking action of arrest. 3] Intimate to concern Police Station.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "sd/­xxx Pune. (Smt. A. V. Rotte) Date : 09/01/2019. Additional Sessions Judge,Pune C E R T I F I C A T E I affirm that the contents of this P. D. F. file Order are same word for word as per original Order. Name of the Court :­ Smt. A. V. Rotte, District Judge – 7 and Additional Sessions Judge, Pune Name of the Steno :­ Shri. D. L. Gudde, Stenographer (Grade­II) Date of Order :­ 09/01/2019 Order signed by presiding officer :­ 09/01/2019 Order uploaded on :­ 09/01/2019. ..2..",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Cri. Bail Appl. No. 150/2019 (CNR No. : MHPU01­000584­2019 ) Prasad Kangralkar Vs. State of Maharashtra ORDER BELOW EXH. 1 \r\n---header-ends---\r\n1] This is an application by Prasad Chandrakant Kangralkar under Section 438 of Code of Criminal Procedure for grant of Anticipatory Bail in respect of crime yet to be registered on report of wife of Applicant, namely, Komal Prasad Kangralkar at Police Station, Chinchwad, Pune. Police may register offence punishable under Sections 498­A and 406 read with Section 34 of Indian Penal Code against him\r\n---background-ends---\r\n2] Applicant submits that, his wife approached to Chinchwad Police Station and thereby there is every likelihood that, police may register offence punishable under Sections 498­A and 406 read with Section 34 of Indian Penal Code against him. He has received phone calls from the police. Therefore, he is having genuine apprehension. Applicant further submits that, he has not committed any crime. Due to domestic issues, Informant has approached to police. Hence, he prays for grant of Anticipatory Bail. \r\n---argument-ends---\r\n3] Heard the learned Adv. Mr. Indraprakash Arya for Applicant. Perused the papers. \r\n---argument-ends---\r\n4] Presently no crime is registered against Applicant, therefore, the application cannot be entertained. However, necessary direction can be given to concern investigation officer for giving prior notice to Applicants in case of registration of crime. \r\n---argument-ends---\r\nORDER 1] Application is rejected. 2] In case of registration of offence under Section 498­A, 406 read with Section 34 of Indian Penal Code on report of Komal Prasad Kangralkar at Police Station, Chinchwad, Pune against present Applicant, the concern investigation officer to give 72 hours prior Notice to Applicant before taking action of arrest. 3] Intimate to concern Police Station. \r\n---order-ends---\r\nsd/­xxx Pune. (Smt. A. V. Rotte) Date : 09/01/2019. Additional Sessions Judge,Pune C E R T I F I C A T E I affirm that the contents of this P. D. F. file Order are same word for word as per original Order. Name of the Court :­ Smt. A. V. Rotte, District Judge – 7 and Additional Sessions Judge, Pune Name of the Steno :­ Shri. D. L. Gudde, Stenographer (Grade­II) Date of Order :­ 09/01/2019 Order signed by presiding officer :­ 09/01/2019 Order uploaded on :­ 09/01/2019. ..2.."
+}

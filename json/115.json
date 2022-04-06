@@ -1,0 +1,884 @@
+{
+  "header": "ORDER BELOW EX. NO. 1 IN CRI. BAIL APPLN. NO. 139/2019. (CNR No. MHPU01­000539 ­2019) Sagar Vishwas Gavahane Vs. The State of Maharashtra (PSO Shirur P.S.)",
+  "background": {
+    "text": "[1] This is first bail application under Section 439 of Cr.P.C. for the grant of bail to Applicant ­Sagar Vishwas Gavahane for the offences punishable under Section 307, 384, 385, 324, 337, 504, 34 of the Indian Penal Code in C.R. No.2/2019 registered at Shirur Police Station, District – Pune.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "307,384,385,324,337,504,34",
+          "stringMatched": "under section 307, 384, 385, 324, 337, 504, 34 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "[2] Perused the application and say filed by I.O. I have heard both the sides and perused the material placed on the record.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[2] Perused the application and say filed by I.O. I have heard both the sides and perused the material placed on the record.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "[3] Prosecution case in short is as under:­ That on 31.12.2008 at about 09.00 p.m. the informant – Dnyaneshwar Shelar was coming from Shivratna Cinema Theatre. The accused/applicant and co­accused Pappu Chougule came near informant and told him that, ^^ rq Vsyjpk O;olk; djrks] y; iSlk deorks] eyk ikp’ks #i;s ns** Thereon informant told him that, he is unable to give money. Thereon, co­accused Pappu Chougule threatened him ^^rq iSls ns] ukghrj rqyk bFksp [kykl d#u Vkdhu**- Pappu Chougule gave a blow by means of wooden log on his head. The applicant/accused Sagar thrown the stone on the mouth of informant. The father of informant came to rescue, at that time, Pappu Chougule also gave a blow by wooden log to the father of informant and applicant assaulted by stone to : 2 : complainant’s father. The informant sustained grievous injury and his father sustained simple injury due to assault. On these allegations, the accused was prosecuted.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[3] Prosecution case in short is as under:­ That on 31.12.2008 at about 09.00 p.m. the informant – Dnyaneshwar Shelar was coming from Shivratna Cinema Theatre.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The accused/applicant and co­accused Pappu Chougule came near informant and told him that, ^^ rq Vsyjpk O;olk; djrks] y; iSlk deorks] eyk ikp’ks #i;s ns** Thereon informant told him that, he is unable to give money.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Thereon, co­accused Pappu Chougule threatened him ^^rq iSls ns] ukghrj rqyk bFksp [kykl d#u Vkdhu**- Pappu Chougule gave a blow by means of wooden log on his head.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The applicant/accused Sagar thrown the stone on the mouth of informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The father of informant came to rescue, at that time, Pappu Chougule also gave a blow by wooden log to the father of informant and applicant assaulted by stone to : 2 : complainant’s father.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "The informant sustained grievous injury and his father sustained simple injury due to assault.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "On these allegations, the accused was prosecuted.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "[4] The Ld. Counsel for the Applicant submitted that, the applicant has not committed any such offence, but he has been falsely implicated in this crime with ulterior motive. The injuries sustained to informant and his father are simple in nature. The role of the applicant is only throwing the stone upon the informant. The ingredient of Section 307 of IPC are not attracted in the present fact of the case, as the injuries sustained are not come within the purview of this section. The applicant is only aged about 24 years. If he remained in jail with hardcore criminals, then his life will be spoiled. The investigation is practically completed. The further custody of the applicant is not required for any other purpose. He is ready to co­operate with the investigating agency. He is ready to abide all the terms and conditions, which will be imposed by the Court. On these grounds, he prayed to release him on bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[4] The Ld. Counsel for the Applicant submitted that, the applicant has not committed any such offence, but he has been falsely implicated in this crime with ulterior motive.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The injuries sustained to informant and his father are simple in nature.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The role of the applicant is only throwing the stone upon the informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The ingredient of Section 307 of IPC are not attracted in the present fact of the case, as the injuries sustained are not come within the purview of this section.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The applicant is only aged about 24 years.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "If he remained in jail with hardcore criminals, then his life will be spoiled.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "The investigation is practically completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "The further custody of the applicant is not required for any other purpose.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "He is ready to co­operate with the investigating agency.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "He is ready to abide all the terms and conditions, which will be imposed by the Court.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "On these grounds, he prayed to release him on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "[5] On the other hand, the Ld. APP submitted that there is prima facie accusation against the applicant. If the applicant is released on bail, then possibility of committing of any other cognizable offence cannot be ruled out. If the applicant is released on bail, then, possibility of his absconding and tampering of prosecution evidence cannot be ruled out. The investigation is at primary stage. The co­accused is absconding. If applicant released on bail, then, he may create hurdle in arrest of co­accused. It is submitted that, looking to the gravity of the offence, the application is liable to be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[5] On the other hand, the Ld. APP submitted that there is prima facie accusation against the applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "If the applicant is released on bail, then possibility of committing of any other cognizable offence cannot be ruled out.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "If the applicant is released on bail, then, possibility of his absconding and tampering of prosecution evidence cannot be ruled out.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The investigation is at primary stage.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The co­accused is absconding.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "If applicant released on bail, then, he may create hurdle in arrest of co­accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "It is submitted that, looking to the gravity of the offence, the application is liable to be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "[6] After considering this submission of both the sides and perusing the material placed on record, it reveals that, the Investigation is at initial stage. The prime accused is still absconding. If the applicant is released on bail, then, it may create hurdle in arresting the co­accused Pappu Chougule. The injury sustained to the informant is grievous in nature. The applicant and informant are the resident of the same locality. At this juncture, looking to the accusation, it is not desirable to release the applicant on bail. Hence, I proceed to pass the following order :­",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[6] After considering this submission of both the sides and perusing the material placed on record, it reveals that, the Investigation is at initial stage.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The prime accused is still absconding.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "If the applicant is released on bail, then, it may create hurdle in arresting the co­accused Pappu Chougule.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The injury sustained to the informant is grievous in nature.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The applicant and informant are the resident of the same locality.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "At this juncture, looking to the accusation, it is not desirable to release the applicant on bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Hence, I proceed to pass the following order :­",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R Application (Exh.1) is rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Sd/­ (G.P.Agrawal) Date : 16.01.2019 Additional Sessions Judge, Pune. CERTIFICATE I affirm that the contents of this P.D.F. file order are same word to word as per original order. Name of Steno : Smt. S.N.Kale Name of Court : G.P. Agrawal Addl Sessions Judge,Pune. Order delivered on : 16.01.2019 Order signed on : 16.01.2019 Order uploaded on : 17.01.2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "ORDER BELOW EX. NO. 1 IN CRI. BAIL APPLN. NO. 139/2019. (CNR No. MHPU01­000539 ­2019) Sagar Vishwas Gavahane Vs. The State of Maharashtra (PSO Shirur P.S.) \r\n---header-ends---\r\n[1] This is first bail application under Section 439 of Cr.P.C. for the grant of bail to Applicant ­Sagar Vishwas Gavahane for the offences punishable under Section 307, 384, 385, 324, 337, 504, 34 of the Indian Penal Code in C.R. No.2/2019 registered at Shirur Police Station, District – Pune. \r\n---background-ends---\r\n[2] Perused the application and say filed by I.O. I have heard both the sides and perused the material placed on the record. \r\n---argument-ends---\r\n[3] Prosecution case in short is as under:­ That on 31.12.2008 at about 09.00 p.m. the informant – Dnyaneshwar Shelar was coming from Shivratna Cinema Theatre. The accused/applicant and co­accused Pappu Chougule came near informant and told him that, ^^ rq Vsyjpk O;olk; djrks] y; iSlk deorks] eyk ikp’ks #i;s ns** Thereon informant told him that, he is unable to give money. Thereon, co­accused Pappu Chougule threatened him ^^rq iSls ns] ukghrj rqyk bFksp [kykl d#u Vkdhu**- Pappu Chougule gave a blow by means of wooden log on his head. The applicant/accused Sagar thrown the stone on the mouth of informant. The father of informant came to rescue, at that time, Pappu Chougule also gave a blow by wooden log to the father of informant and applicant assaulted by stone to : 2 : complainant’s father. The informant sustained grievous injury and his father sustained simple injury due to assault. On these allegations, the accused was prosecuted. \r\n---argument-ends---\r\n[4] The Ld. Counsel for the Applicant submitted that, the applicant has not committed any such offence, but he has been falsely implicated in this crime with ulterior motive. The injuries sustained to informant and his father are simple in nature. The role of the applicant is only throwing the stone upon the informant. The ingredient of Section 307 of IPC are not attracted in the present fact of the case, as the injuries sustained are not come within the purview of this section. The applicant is only aged about 24 years. If he remained in jail with hardcore criminals, then his life will be spoiled. The investigation is practically completed. The further custody of the applicant is not required for any other purpose. He is ready to co­operate with the investigating agency. He is ready to abide all the terms and conditions, which will be imposed by the Court. On these grounds, he prayed to release him on bail. \r\n---argument-ends---\r\n[5] On the other hand, the Ld. APP submitted that there is prima facie accusation against the applicant. If the applicant is released on bail, then possibility of committing of any other cognizable offence cannot be ruled out. If the applicant is released on bail, then, possibility of his absconding and tampering of prosecution evidence cannot be ruled out. The investigation is at primary stage. The co­accused is absconding. If applicant released on bail, then, he may create hurdle in arrest of co­accused. It is submitted that, looking to the gravity of the offence, the application is liable to be rejected. \r\n---argument-ends---\r\n[6] After considering this submission of both the sides and perusing the material placed on record, it reveals that, the Investigation is at initial stage. The prime accused is still absconding. If the applicant is released on bail, then, it may create hurdle in arresting the co­accused Pappu Chougule. The injury sustained to the informant is grievous in nature. The applicant and informant are the resident of the same locality. At this juncture, looking to the accusation, it is not desirable to release the applicant on bail. Hence, I proceed to pass the following order :­ \r\n---argument-ends---\r\nO R D E R Application (Exh.1) is rejected. \r\n---order-ends---\r\nSd/­ (G.P.Agrawal) Date : 16.01.2019 Additional Sessions Judge, Pune. CERTIFICATE I affirm that the contents of this P.D.F. file order are same word to word as per original order. Name of Steno : Smt. S.N.Kale Name of Court : G.P. Agrawal Addl Sessions Judge,Pune. Order delivered on : 16.01.2019 Order signed on : 16.01.2019 Order uploaded on : 17.01.2019"
+}

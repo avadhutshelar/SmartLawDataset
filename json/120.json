@@ -1,0 +1,795 @@
+{
+  "header": "Criminal Bail Application No.147/2019 CNR NO. MHPU01­000618­2019 Nathu Laxman Bhagat \u0026 4 another …. Applicants. Vs. State of Maharashtra …. Respondent.",
+  "background": {
+    "text": "ORDER BELOW EXH.1 This is the first bail application filed by the applicants under Section 438 of the Criminal Procedure Code for anticipatory bail in C.R.No.03/2019 registered by Uttamnagar Police Station under Section 306 r/w 34 of the Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of the criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "306,34",
+          "stringMatched": "under section 306 r/w 34 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "[2] Perused the application and say given at Exh.10.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[2] Perused the application and say given at Exh.10.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "[3] Her learned advocate Mr. Deokar for the applicants and APP Mr. Aurangabadkar for the State.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[3] Her learned advocate Mr. Deokar for the applicants and APP Mr. Aurangabadkar for the State.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "[4] The learned advocate Mr. Deokar for the applicants argued that the accused are falsely implicated in the present crime just because initially applicant no.1 had filed one report with police against the deceased, informant and his family members for the offence under section 306 of IPC, when his daughter committed suicide. He argued that the sessions trial is pending in the Sessions Court at Pune and now after the suicide of present informant\u0027s son, false complaint is filed on the same line against the present applicants. He argued that if the allegations in FIR are perused, the offence under section 306 of IPC is not made out. There is no need of custodial interrogation of the accused. One co­accused is already arrested by the police and on the very first day of his production before Judicial Magistrate First Class, the accused was taken in MCR by holding ythat there was no need of custodial interrogation and said order is not challenged by police in the revision. He submitted that the applicants are law abiding citizens, having no criminal antecedents and they are ready to abide conditions if imposed.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[4] The learned advocate Mr. Deokar for the applicants argued that the accused are falsely implicated in the present crime just because initially applicant no.1 had filed one report with police against the deceased, informant and his family members for the offence under section 306 of IPC, when his daughter committed suicide.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He argued that the sessions trial is pending in the Sessions Court at Pune and now after the suicide of present informant\u0027s son, false complaint is filed on the same line against the present applicants.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He argued that if the allegations in FIR are perused, the offence under section 306 of IPC is not made out.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "There is no need of custodial interrogation of the accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "One co­accused is already arrested by the police and on the very first day of his production before Judicial Magistrate First Class, the accused was taken in MCR by holding ythat there was no need of custodial interrogation and said order is not challenged by police in the revision.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He submitted that the applicants are law abiding citizens, having no criminal antecedents and they are ready to abide conditions if imposed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "[5] The learned APP argued that the offence in question is serious in nature. The custodial interrogation of the applicants is needed. He prayed for rejection of the anticipatory bail application.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[5] The learned APP argued that the offence in question is serious in nature.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The custodial interrogation of the applicants is needed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He prayed for rejection of the anticipatory bail application.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "[6] I have gone through the investigation papers produced by learned APP for my perusal. Prima­facie, it is clear from the averments in the FIR that deceased Ananta and late Amruta, the daughter of present applicant No.1 were having love relations and their marriage could not be solemnized and Amruta had committed suicide. Thereafter, present applicant no.1 had filed report against the family members of informant and crime came to be registered and sessions trial is pending. The learned advocate Mr. Deokar for the accused by referring the FIR registered on the report of applicant No.1 in the year 2013 argued that in the year 2013, the present applicant no.1 had alleged that the present informant Dilip Kamble did not consent for the marriage and he insulted deceased Amruta and, therefore, Amruta committed suicide. Now, in the present FIR, informant Dilip alleged that it was applicant no.1 who refused to consent for the marriage. This is nothing but an attempt to book the applicants in false case.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[6] I have gone through the investigation papers produced by learned APP for my perusal.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Prima­facie, it is clear from the averments in the FIR that deceased Ananta and late Amruta, the daughter of present applicant No.1 were having love relations and their marriage could not be solemnized and Amruta had committed suicide.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Thereafter, present applicant no.1 had filed report against the family members of informant and crime came to be registered and sessions trial is pending.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The learned advocate Mr. Deokar for the accused by referring the FIR registered on the report of applicant No.1 in the year 2013 argued that in the year 2013, the present applicant no.1 had alleged that the present informant Dilip Kamble did not consent for the marriage and he insulted deceased Amruta and, therefore, Amruta committed suicide.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Now, in the present FIR, informant Dilip alleged that it was applicant no.1 who refused to consent for the marriage.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "This is nothing but an attempt to book the applicants in false case.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "[7] The learned advocate Mr. Deokar submitted that without admitting the allegations, even if it is assumed for a moment that applicants alleged to have taunted deceased Ananta and demanded Rs. 5 lakh for withdrawing the allegations in sessions case, it cannot be said that it was done with intention to induce Ananta to commit suicide. According to the learned advocate, prima­facie the ingredients of Section 306 of IPC are not attracted.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[7] The learned advocate Mr. Deokar submitted that without admitting the allegations, even if it is assumed for a moment that applicants alleged to have taunted deceased Ananta and demanded Rs. 5 lakh for withdrawing the allegations in sessions case, it cannot be said that it was done with intention to induce Ananta to commit suicide.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "According to the learned advocate, prima­facie the ingredients of Section 306 of IPC are not attracted.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "[8] The learned advocate for the applicants also referred the copy of first remand of arrested accused Haribhavu Bhagat and the order passed on it and argued that on very first production of the accused, the learned JMFC did not find that there is need of custodial interrogation of the applicants and remanded the arrested accused to judicial custody and the said order is not challenged, which is sufficient to indicate that the custodial interrogation of any of the accused is not required.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[8] The learned advocate for the applicants also referred the copy of first remand of arrested accused Haribhavu Bhagat and the order passed on it and argued that on very first production of the accused, the learned JMFC did not find that there is need of custodial interrogation of the applicants and remanded the arrested accused to judicial custody and the said order is not challenged, which is sufficient to indicate that the custodial interrogation of any of the accused is not required.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "[9] Having regard to the allegations made in the FIR against the accused / applicants, the fact that there was another case registered against the informant and his family members on the basis of report given by the present applicant No.1 for the offence under section 306 of IPC, the averments in that FIR, I find that the custodial interrogation of the present applicants is not necessary. Further, having regard to the allegations made in the FIR, the nature of the crime alleged, prima­facie I find that there is no specific role attributed to any of the applicants. Further, admittedly there are no criminal antecedents against the accused. Therefore, I find that the applicants in the present case are entitled for the anticipatory bail. Hence, I pass the following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[9] Having regard to the allegations made in the FIR against the accused / applicants, the fact that there was another case registered against the informant and his family members on the basis of report given by the present applicant No.1 for the offence under section 306 of IPC, the averments in that FIR, I find that the custodial interrogation of the present applicants is not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Further, having regard to the allegations made in the FIR, the nature of the crime alleged, prima­facie I find that there is no specific role attributed to any of the applicants.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Further, admittedly there are no criminal antecedents against the accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, I find that the applicants in the present case are entitled for the anticipatory bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, I pass the following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER [1] The application is allowed. [2] The anticipatory bail is granted. In the event of arrest of applicant Nos. [1] Nathu Laxman Bhagat, [2] Pushpa Nathu Bhagat, [3] Avinash Nathu Bhagat, [4] Dinkar Laxman Bhagat and [5] Maruti Laxman Bhagat in C. R.No.03/2019, registered by Uttamnagar Police Station, under Section 306 r/w 34 of the Indian Penal Code, they be released on anticipatory bail, on their executing PR Bond of Rs.20,000/­ each, with one or two sureties of like amount, on following conditions :­ [A] The applicants shall not tamper with the prosecution evidence in any manner. [B] The applicant No.1 Nathu Laxman Bhagat shall attend Uttamnagar Police Station on every Wednesday between 10 a.m. to 12 noon, for next two months, from the date of this order. [C] The applicants shall co­operate the Investigating Officer during investigation and they shall remain present before I. O. as and when required for interrogation. [D] The applicants shall not leave the jurisdiction of this court, without prior permission of this court, till filing of charge­ sheet. [3] Inform concerned police station accordingly.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "20000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "20000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "20000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "20000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "WEEKLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "Pune, Dated/­18­01­2019 ( Aniruddha Y. Thatte ) Additional Sessions Judge, Pune. Cri.B.A.No.147/19 5 CNR No.MHPU01­000618­2019 I affirm that the contents of the PDF file Judgment are same word for word as per original Judgment. Name of Steno :­ Shri. V. V. Bannur. Name of Court : Shri. A. Y. Thatte, District Judge 14 and ASJ, Pune. Judgment signed by PO on : ­ 18­01­2019 Judgment uploaded on :­19­01­2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Criminal Bail Application No.147/2019 CNR NO. MHPU01­000618­2019 Nathu Laxman Bhagat \u0026 4 another …. Applicants. Vs. State of Maharashtra …. Respondent. \r\n---header-ends---\r\nORDER BELOW EXH.1 This is the first bail application filed by the applicants under Section 438 of the Criminal Procedure Code for anticipatory bail in C.R.No.03/2019 registered by Uttamnagar Police Station under Section 306 r/w 34 of the Indian Penal Code. \r\n---background-ends---\r\n[2] Perused the application and say given at Exh.10. \r\n---argument-ends---\r\n[3] Her learned advocate Mr. Deokar for the applicants and APP Mr. Aurangabadkar for the State. \r\n---argument-ends---\r\n[4] The learned advocate Mr. Deokar for the applicants argued that the accused are falsely implicated in the present crime just because initially applicant no.1 had filed one report with police against the deceased, informant and his family members for the offence under section 306 of IPC, when his daughter committed suicide. He argued that the sessions trial is pending in the Sessions Court at Pune and now after the suicide of present informant\u0027s son, false complaint is filed on the same line against the present applicants. He argued that if the allegations in FIR are perused, the offence under section 306 of IPC is not made out. There is no need of custodial interrogation of the accused. One co­accused is already arrested by the police and on the very first day of his production before Judicial Magistrate First Class, the accused was taken in MCR by holding ythat there was no need of custodial interrogation and said order is not challenged by police in the revision. He submitted that the applicants are law abiding citizens, having no criminal antecedents and they are ready to abide conditions if imposed. \r\n---argument-ends---\r\n[5] The learned APP argued that the offence in question is serious in nature. The custodial interrogation of the applicants is needed. He prayed for rejection of the anticipatory bail application. \r\n---argument-ends---\r\n[6] I have gone through the investigation papers produced by learned APP for my perusal. Prima­facie, it is clear from the averments in the FIR that deceased Ananta and late Amruta, the daughter of present applicant No.1 were having love relations and their marriage could not be solemnized and Amruta had committed suicide. Thereafter, present applicant no.1 had filed report against the family members of informant and crime came to be registered and sessions trial is pending. The learned advocate Mr. Deokar for the accused by referring the FIR registered on the report of applicant No.1 in the year 2013 argued that in the year 2013, the present applicant no.1 had alleged that the present informant Dilip Kamble did not consent for the marriage and he insulted deceased Amruta and, therefore, Amruta committed suicide. Now, in the present FIR, informant Dilip alleged that it was applicant no.1 who refused to consent for the marriage. This is nothing but an attempt to book the applicants in false case. \r\n---argument-ends---\r\n[7] The learned advocate Mr. Deokar submitted that without admitting the allegations, even if it is assumed for a moment that applicants alleged to have taunted deceased Ananta and demanded Rs. 5 lakh for withdrawing the allegations in sessions case, it cannot be said that it was done with intention to induce Ananta to commit suicide. According to the learned advocate, prima­facie the ingredients of Section 306 of IPC are not attracted. \r\n---argument-ends---\r\n[8] The learned advocate for the applicants also referred the copy of first remand of arrested accused Haribhavu Bhagat and the order passed on it and argued that on very first production of the accused, the learned JMFC did not find that there is need of custodial interrogation of the applicants and remanded the arrested accused to judicial custody and the said order is not challenged, which is sufficient to indicate that the custodial interrogation of any of the accused is not required. \r\n---argument-ends---\r\n[9] Having regard to the allegations made in the FIR against the accused / applicants, the fact that there was another case registered against the informant and his family members on the basis of report given by the present applicant No.1 for the offence under section 306 of IPC, the averments in that FIR, I find that the custodial interrogation of the present applicants is not necessary. Further, having regard to the allegations made in the FIR, the nature of the crime alleged, prima­facie I find that there is no specific role attributed to any of the applicants. Further, admittedly there are no criminal antecedents against the accused. Therefore, I find that the applicants in the present case are entitled for the anticipatory bail. Hence, I pass the following order. \r\n---argument-ends---\r\nORDER [1] The application is allowed. [2] The anticipatory bail is granted. In the event of arrest of applicant Nos. [1] Nathu Laxman Bhagat, [2] Pushpa Nathu Bhagat, [3] Avinash Nathu Bhagat, [4] Dinkar Laxman Bhagat and [5] Maruti Laxman Bhagat in C. R.No.03/2019, registered by Uttamnagar Police Station, under Section 306 r/w 34 of the Indian Penal Code, they be released on anticipatory bail, on their executing PR Bond of Rs.20,000/­ each, with one or two sureties of like amount, on following conditions :­ [A] The applicants shall not tamper with the prosecution evidence in any manner. [B] The applicant No.1 Nathu Laxman Bhagat shall attend Uttamnagar Police Station on every Wednesday between 10 a.m. to 12 noon, for next two months, from the date of this order. [C] The applicants shall co­operate the Investigating Officer during investigation and they shall remain present before I. O. as and when required for interrogation. [D] The applicants shall not leave the jurisdiction of this court, without prior permission of this court, till filing of charge­ sheet. [3] Inform concerned police station accordingly. \r\n---order-ends---\r\nPune, Dated/­18­01­2019 ( Aniruddha Y. Thatte ) Additional Sessions Judge, Pune. Cri.B.A.No.147/19 5 CNR No.MHPU01­000618­2019 I affirm that the contents of the PDF file Judgment are same word for word as per original Judgment. Name of Steno :­ Shri. V. V. Bannur. Name of Court : Shri. A. Y. Thatte, District Judge 14 and ASJ, Pune. Judgment signed by PO on : ­ 18­01­2019 Judgment uploaded on :­19­01­2019"
+}

@@ -1,0 +1,464 @@
+{
+  "header": "O in BA No.144/19 CNR­ MHPU01-000607-2019 ORDER BELOW EXH.1 IN BAIL APPLN. No.144/2019 (Passed on 17­01­2019)",
+  "background": {
+    "text": "1] This is an application U/sec. 438 of Cr.P.C. for grant of Anticipatory bail to applicant­accused Sagar Baban Gunjal in CR No. 13/19 registered with Shirur Police Station, U/sec. 324, 323, 504, 506 r/w.34 of IPC, U/sec. 3(1)(R)(S) of Schedule Caste \u0026 Schedule Tribes (Prevention of Atrocities) Act and Sec.7(1)(d) of the Protection of Civil Rights Act.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "438",
+          "stringMatched": "u/sec. 438 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "IPC",
+          "sectionsMatched": "324,323,504,506,34",
+          "stringMatched": "u/sec. 324, 323, 504, 506 r/w.34 of ipc",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] The Ld. APP and I.O. have filed their say and resisted the application.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] The Ld. APP and I.O. have filed their say and resisted the application.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Heard Ld. Counsel on behalf of applicant­accused Shri.A. R. Bachakar and Ld.APP.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Heard Ld. Counsel on behalf of applicant­accused Shri.A.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "R. Bachakar and Ld.APP.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Prima facie from record, it reveals that on 6/1/2019, at about 1.30 p.m. present applicant and other co­accused have abused on caste to the informant Prakash Sadashiv Shendge, one of the co­ accused gave fight on the face of the informant and other accused including present applicant have given kicks and blows to the Informant. Co­accused Sagar Ghavate assaulted Informant by knife on his hand and abused him on his caste and threatened to kill him.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Prima facie from record, it reveals that on 6/1/2019, at about 1.30 p.m. present applicant and other co­accused have abused on caste to the informant Prakash Sadashiv Shendge, one of the co­ accused gave fight on the face of the informant and other accused including present applicant have given kicks and blows to the Informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Co­accused Sagar Ghavate assaulted Informant by knife on his hand and abused him on his caste and threatened to kill him.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] Prima facie, present applicant was arrested on 7/1/2019 and since then he is in the Jail. No purpose is going to be served by keeping the present applicant behind the bar. There is no recovery or discovery from present applicant. The alleged offences are not punishable death or life. Therefore, he is entitle for the bail. Hence the order. ­",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] Prima facie, present applicant was arrested on 7/1/2019 and since then he is in the Jail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "No purpose is going to be served by keeping the present applicant behind the bar.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "There is no recovery or discovery from present applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The alleged offences are not punishable death or life.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Therefore, he is entitle for the bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Hence the order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "­",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER ­ [1] Application Exh. 1 is allowed as follows :­ [2] In the event of arrest of applicant­accused Sagar Baban Gunjal in CR No.13/19 registered with Shirur Police Station, U/sec. 324, 323, 504, 506 r/w.34 of IPC, U/sec. 3(1)(R)(S) of Schedule Caste \u0026 Schedule Tribes (Prevention of Atrocities) Act and Sec.7(1)(d) of the Protection of Civil Rights Act, he be released on bail on his executing of PB \u0026 SB of Rs. 15,000/­. [3] Applicant­accused shall make himself available for investigation as and when called by the investigating officer in writing during day hours only. [4] Applicant­accused shall not directly or indirectly make an inducement, threat or promise to any person acquainted to the facts of accusation against them so as to dissuade them from disclosing such facts to the court or to any police officer. [5] Applicant­accused shall remain present before this court on each and every date henceforth, till final disposal of the application. [6] Inform concerned police station accordingly.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "15000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "15000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "MONTHLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "( S.K.Karhale ) Dt. 17.01.2019. Additional Sessions Judge, Pune. CERTIFICATE “I affirm that the contents of this PDF file Judgment are same word to word as per original Judgment.” Name of Steno : Mrs.S.M.Raut Court Name : Shri.S.K.Karhale Additional Sessions Judge \u0026 District Judge­10, Pune. Judgment signed by P. O. on : 17­1­2019 Date of PDF : 17­1­2019 Judgment uploaded on : 18­1­2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "O in BA No.144/19 CNR­ MHPU01-000607-2019 ORDER BELOW EXH.1 IN BAIL APPLN. No.144/2019 (Passed on 17­01­2019) \r\n---header-ends---\r\n1] This is an application U/sec. 438 of Cr.P.C. for grant of Anticipatory bail to applicant­accused Sagar Baban Gunjal in CR No. 13/19 registered with Shirur Police Station, U/sec. 324, 323, 504, 506 r/w.34 of IPC, U/sec. 3(1)(R)(S) of Schedule Caste \u0026 Schedule Tribes (Prevention of Atrocities) Act and Sec.7(1)(d) of the Protection of Civil Rights Act. \r\n---background-ends---\r\n2] The Ld. APP and I.O. have filed their say and resisted the application. \r\n---argument-ends---\r\n3] Heard Ld. Counsel on behalf of applicant­accused Shri.A. R. Bachakar and Ld.APP. \r\n---argument-ends---\r\n4] Prima facie from record, it reveals that on 6/1/2019, at about 1.30 p.m. present applicant and other co­accused have abused on caste to the informant Prakash Sadashiv Shendge, one of the co­ accused gave fight on the face of the informant and other accused including present applicant have given kicks and blows to the Informant. Co­accused Sagar Ghavate assaulted Informant by knife on his hand and abused him on his caste and threatened to kill him. \r\n---argument-ends---\r\n5] Prima facie, present applicant was arrested on 7/1/2019 and since then he is in the Jail. No purpose is going to be served by keeping the present applicant behind the bar. There is no recovery or discovery from present applicant. The alleged offences are not punishable death or life. Therefore, he is entitle for the bail. Hence the order. ­ \r\n---argument-ends---\r\nORDER ­ [1] Application Exh. 1 is allowed as follows :­ [2] In the event of arrest of applicant­accused Sagar Baban Gunjal in CR No.13/19 registered with Shirur Police Station, U/sec. 324, 323, 504, 506 r/w.34 of IPC, U/sec. 3(1)(R)(S) of Schedule Caste \u0026 Schedule Tribes (Prevention of Atrocities) Act and Sec.7(1)(d) of the Protection of Civil Rights Act, he be released on bail on his executing of PB \u0026 SB of Rs. 15,000/­. [3] Applicant­accused shall make himself available for investigation as and when called by the investigating officer in writing during day hours only. [4] Applicant­accused shall not directly or indirectly make an inducement, threat or promise to any person acquainted to the facts of accusation against them so as to dissuade them from disclosing such facts to the court or to any police officer. [5] Applicant­accused shall remain present before this court on each and every date henceforth, till final disposal of the application. [6] Inform concerned police station accordingly. \r\n---order-ends---\r\n( S.K.Karhale ) Dt. 17.01.2019. Additional Sessions Judge, Pune. CERTIFICATE “I affirm that the contents of this PDF file Judgment are same word to word as per original Judgment.” Name of Steno : Mrs.S.M.Raut Court Name : Shri.S.K.Karhale Additional Sessions Judge \u0026 District Judge­10, Pune. Judgment signed by P. O. on : 17­1­2019 Date of PDF : 17­1­2019 Judgment uploaded on : 18­1­2019"
+}
