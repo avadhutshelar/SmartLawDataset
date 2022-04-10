@@ -1,0 +1,507 @@
+{
+  "header": "O­ in BA No.167/19 CNR­ MHPU01-000641-2019 ORDER BELOW EXH.1 IN BAIL APPLN. No.167/2019 (Passed on 22­01­2019)",
+  "background": {
+    "text": "1] The applicant­accused Ghanshyam Balu Salunkhe has filed this bail application under sec..439 of Cr.P.C. in CR No.40/18 registered with Chikhli police station, U/sec. 395 of IPC, U/sec. 4(25) of Arms Act and U/sec. 3, 7 of Criminal Law Amendment Act.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "IPC",
+          "sectionsMatched": "395",
+          "stringMatched": "u/sec. 395 of ipc",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Arms Act",
+          "sectionsMatched": "4,25",
+          "stringMatched": "u/sec. 4(25) of arms act",
+          "legalAct": {
+            "actId": 8,
+            "actName": "The Arms Act",
+            "actShortNameList": "Arms Act,Indian Arms Act",
+            "actYear": "1959",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "46"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Criminal Law Amendment Act",
+          "sectionsMatched": "3,7",
+          "stringMatched": "u/sec. 3, 7 of criminal law amendment act",
+          "legalAct": {
+            "actId": 10,
+            "actName": "The Criminal Law Amendment Act",
+            "actShortNameList": "Criminal Law Amendment Act",
+            "actYear": "1932",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "20"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 4,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under sec..439 of Cr.P.C.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] The Investigating officer and Ld.APP have filed their say and resisted the application.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] The Investigating officer and Ld.APP have filed their say and resisted the application.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Heard Ld. Counsel R.K.Rathod on behalf of applicant­ accused and Ld.APP.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Heard Ld. Counsel R.K.Rathod on behalf of applicant­ accused and Ld.APP.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Prima facie from record, it is found that on 30­10­2018 at about 4.30 p.m. when informant / employee / manager was at Raviraj Beer Shoppe, Chinchwad, applicant­accused and others came in the shoppe by motor­cycle and threatened informant by showing sickle for extortion of money and thereby committed dacoity of Rs. 2,000/­.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Prima facie from record, it is found that on 30­10­2018 at about 4.30 p.m. when informant / employee / manager was at Raviraj Beer Shoppe, Chinchwad, applicant­accused and others came in the shoppe by motor­cycle and threatened informant by showing sickle for extortion of money and thereby committed dacoity of Rs. 2,000/­.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] The applicant was arrested on 31­10­18 and after police custody etc. he is in jail since then. Police have recovered Activa vehicle bearing No.MH­14­HC­8115, from the possession of the applicant. The applicant is in jail since last more than two and half month and the Investigating officer has completed almost entire investigation. No purpose is going to be served by keeping the applicant behind the bar. The police have stated that the applicant with other co­accused have created terror in the society, but, they have not brought specification thereof on record. Some of other accused are already released on bail in this crime. Therefore, it would be just and proper to release the 2 O­ in BA No.167/19 CNR­ MHPU01-000641-2019 applicant on bail. Hence, the order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] The applicant was arrested on 31­10­18 and after police custody etc. he is in jail since then.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Police have recovered Activa vehicle bearing No.MH­14­HC­8115, from the possession of the applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The applicant is in jail since last more than two and half month and the Investigating officer has completed almost entire investigation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "No purpose is going to be served by keeping the applicant behind the bar.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The police have stated that the applicant with other co­accused have created terror in the society, but, they have not brought specification thereof on record.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Some of other accused are already released on bail in this crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Therefore, it would be just and proper to release the 2 O­ in BA No.167/19 CNR­ MHPU01-000641-2019 applicant on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Hence, the order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER [I] The application is allowed. [II] Applicant­accused Ghanshyam Balu Salunkhe is hereby released on bail in CR No.40/18 registered with Chikhli police station, U/sec. 395 of IPC, U/sec. 4/25 of Arms Act and U/sec. 3, 7 of Criminal Law Amendment Act on his executing of PB \u0026 SB of Rs. 15,000/­. [III] Applicant­accused shall not tamper with the prosecution witnesses. [IV] Bail in concerned JMFC Court.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "15000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "15000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "( S.K.Karhale ) Dt. 22.01.2019. Additional Sessions Judge, Pune. CERTIFICATE “I affirm that the contents of this PDF file Judgment are same word to word as per original Judgment.” Name of Steno : Mrs.S.M.Raut Court Name : Shri.S.K.Karhale Additional Sessions Judge \u0026 District Judge­10, Pune. Judgment signed by P. O. on : 22­1­2019 Date of PDF : 22­1­2019 Judgment uploaded on : 22­1­2019 3 O­ in BA No.167/19 CNR­ MHPU01-000641-2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "O­ in BA No.167/19 CNR­ MHPU01-000641-2019 ORDER BELOW EXH.1 IN BAIL APPLN. No.167/2019 (Passed on 22­01­2019) \r\n---header-ends---\r\n1] The applicant­accused Ghanshyam Balu Salunkhe has filed this bail application under sec..439 of Cr.P.C. in CR No.40/18 registered with Chikhli police station, U/sec. 395 of IPC, U/sec. 4(25) of Arms Act and U/sec. 3, 7 of Criminal Law Amendment Act. \r\n---background-ends---\r\n2] The Investigating officer and Ld.APP have filed their say and resisted the application. \r\n---argument-ends---\r\n3] Heard Ld. Counsel R.K.Rathod on behalf of applicant­ accused and Ld.APP. \r\n---argument-ends---\r\n4] Prima facie from record, it is found that on 30­10­2018 at about 4.30 p.m. when informant / employee / manager was at Raviraj Beer Shoppe, Chinchwad, applicant­accused and others came in the shoppe by motor­cycle and threatened informant by showing sickle for extortion of money and thereby committed dacoity of Rs. 2,000/­. \r\n---argument-ends---\r\n5] The applicant was arrested on 31­10­18 and after police custody etc. he is in jail since then. Police have recovered Activa vehicle bearing No.MH­14­HC­8115, from the possession of the applicant. The applicant is in jail since last more than two and half month and the Investigating officer has completed almost entire investigation. No purpose is going to be served by keeping the applicant behind the bar. The police have stated that the applicant with other co­accused have created terror in the society, but, they have not brought specification thereof on record. Some of other accused are already released on bail in this crime. Therefore, it would be just and proper to release the 2 O­ in BA No.167/19 CNR­ MHPU01-000641-2019 applicant on bail. Hence, the order. \r\n---argument-ends---\r\nORDER [I] The application is allowed. [II] Applicant­accused Ghanshyam Balu Salunkhe is hereby released on bail in CR No.40/18 registered with Chikhli police station, U/sec. 395 of IPC, U/sec. 4/25 of Arms Act and U/sec. 3, 7 of Criminal Law Amendment Act on his executing of PB \u0026 SB of Rs. 15,000/­. [III] Applicant­accused shall not tamper with the prosecution witnesses. [IV] Bail in concerned JMFC Court. \r\n---order-ends---\r\n( S.K.Karhale ) Dt. 22.01.2019. Additional Sessions Judge, Pune. CERTIFICATE “I affirm that the contents of this PDF file Judgment are same word to word as per original Judgment.” Name of Steno : Mrs.S.M.Raut Court Name : Shri.S.K.Karhale Additional Sessions Judge \u0026 District Judge­10, Pune. Judgment signed by P. O. on : 22­1­2019 Date of PDF : 22­1­2019 Judgment uploaded on : 22­1­2019 3 O­ in BA No.167/19 CNR­ MHPU01-000641-2019"
+}

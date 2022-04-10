@@ -1,0 +1,1112 @@
+{
+  "header": "Criminal Bail Application No.156/2019 CNR NO. MHPU01­000608­2019 Sanjay B. Sonwane \u0026 another …. Applicants. Vs. State of Maharashtra …. Respondent.",
+  "background": {
+    "text": "ORDER BELOW EXH.1 This is the first bail application filed by the applicants for anticipatory bail under Section 438 of the Criminal Procedure Code in C.R.No.17/2019 registered by Nigdi Police Station under Section 304, 323, 341, 504 r/w 34 of the Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of the criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "304,323,341,504,34",
+          "stringMatched": "under section 304, 323, 341, 504 r/w 34 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "[2] Perused the application and say given by respondent at Exh.6. Also, perused the written say and submissions filed by original complainant at Exh.12.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[2] Perused the application and say given by respondent at Exh.6.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Also, perused the written say and submissions filed by original complainant at Exh.12.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "[3] The learned advocate Shri.Amodkumar for the applicants argued that accused are falsely implicated in the present crime. From the documents filed on record, it is clear that initially N.C. was filed against only two accused and subsequently delayed FIR is filed involving present accused / applicants. There is delay in filing FIR. These facts go to show that accused are falsely implicated in the present crime. The death of Dinkar was on 15.9.2018, but the FIR came to be filed on 4­1­2019 with extraordinary delay of three and half months and no proper explanation is coming on record. The conduct of the complainant also shows that the FIR is filed just to harass the informant. If the police did not take cognizance immediately, then the informant could have moved to superior officers or could have filed the complaint in the court. In the complaint, Priyanka is unnecessary made party. Admittedly, there was matrimonial dispute. Therefore, possibility cannot be ruled out that accused are falsely implicated in the present crime by taking disadvantage of death of Dinkar. The deceased had fallen on his own and the uncle and father of Priyanka had visited the hospital. This shows their bonafides. He further argued that even if the allegations are taken to be true at this stage, the allegations are only against applicant Sanjay and applicant Chetan. He further submitted that accused have no criminal antecedents. The offence under section 304 of IPC is not attracted and, therefore, the bail application maybe allowed and accused are ready to abide any condition.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[3] The learned advocate Shri.Amodkumar for the applicants argued that accused are falsely implicated in the present crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "From the documents filed on record, it is clear that initially N.C. was filed against only two accused and subsequently delayed FIR is filed involving present accused / applicants.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "There is delay in filing FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "These facts go to show that accused are falsely implicated in the present crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The death of Dinkar was on 15.9.2018, but the FIR came to be filed on 4­1­2019 with extraordinary delay of three and half months and no proper explanation is coming on record.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "The conduct of the complainant also shows that the FIR is filed just to harass the informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "If the police did not take cognizance immediately, then the informant could have moved to superior officers or could have filed the complaint in the court.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "In the complaint, Priyanka is unnecessary made party.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Admittedly, there was matrimonial dispute.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Therefore, possibility cannot be ruled out that accused are falsely implicated in the present crime by taking disadvantage of death of Dinkar.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "The deceased had fallen on his own and the uncle and father of Priyanka had visited the hospital.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "This shows their bonafides.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "text": "He further argued that even if the allegations are taken to be true at this stage, the allegations are only against applicant Sanjay and applicant Chetan.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "text": "He further submitted that accused have no criminal antecedents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "text": "The offence under section 304 of IPC is not attracted and, therefore, the bail application maybe allowed and accused are ready to abide any condition.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "[4] While countering the argument, the learned advocate for the informant submitted that there is no delay in the FIR. Initially N. C. was given against four persons and not against two persons as it is argued by the advocate of the applicants / accused. He further submitted that the detailed application was given to police on 05­09­2018, but police took no action. Then another application was given on 09­09­2018, but action was not taken by police. The third application was given on 25­10­2018 and finally the application was given on 28­10­2018. He has filed on record the copies of those applications. He submitted that informant has continuously made efforts that police should take action on her application. Finally, after death of Dinkar and after getting opinion from the doctor regarding the cause of death, police took cognizance and registered FIR and for this delay, the informant cannot be blamed. He submitted that if we go through the allegations in the FIR, it is clear that accused / applicants had visited the house with intention to assault the husband of the informant and her son. Prima­facie, there is sufficient material to show the involvement of the applicants in the crime. The offence in question is serious. He prayed for rejection of the application.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[4] While countering the argument, the learned advocate for the informant submitted that there is no delay in the FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Initially N. C. was given against four persons and not against two persons as it is argued by the advocate of the applicants / accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He further submitted that the detailed application was given to police on 05­09­2018, but police took no action.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Then another application was given on 09­09­2018, but action was not taken by police.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The third application was given on 25­10­2018 and finally the application was given on 28­10­2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He has filed on record the copies of those applications.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "He submitted that informant has continuously made efforts that police should take action on her application.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Finally, after death of Dinkar and after getting opinion from the doctor regarding the cause of death, police took cognizance and registered FIR and for this delay, the informant cannot be blamed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "He submitted that if we go through the allegations in the FIR, it is clear that accused / applicants had visited the house with intention to assault the husband of the informant and her son.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Prima­facie, there is sufficient material to show the involvement of the applicants in the crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "The offence in question is serious.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "He prayed for rejection of the application.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "[5] The learned APP for police by adopting the arguments of Mr. Sinalkar, further argued that from the material on record, it is clear that accused had intention to assault the deceased and his son. On gathering all the circumstances, it can be inferred that accused / applicants had intention of assaulting the deceased and his son and not to settle the matter. He prayed for rejection of the application.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[5] The learned APP for police by adopting the arguments of Mr. Sinalkar, further argued that from the material on record, it is clear that accused had intention to assault the deceased and his son.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On gathering all the circumstances, it can be inferred that accused / applicants had intention of assaulting the deceased and his son and not to settle the matter.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He prayed for rejection of the application.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "[6] It was one of the arguments that offence under section 304 of the Indian Penal Code is not attracted. May be in the heat of moment, there was push and the deceased had fallen and the offence under section 304­A of the IPC is attracted. I have gone through the FIR and the allegations made therein. It is specifically alleged that applicant No.2 Arun and applicant No.4 Manoj rushed towards informant\u0027s son Dhanraj and assaulted him with kick and fist blows. When he shouted for help, deceased Dinkar tried to intervene. That time accused / applicant Chetan gave kick blow on the abdomen of Dinkar and Dinkar had fallen on iron Sofa. He started vomiting and felt giddiness. That time accused / applicant No.1 Sanjay and accused / applicant No.3 Chetan again pushed deceased Dinkar on Sofa and Dinkar had fallen on iron handle of the Sofa and received injury to his head and became unconscious. Having regard to these allegations in the FIR and role attributed to each accused, prima­facie it is clear that accused / applicants had visited the house of informant with a plan. It is clear that it was not a single isolated push resulting into fall of deceased Dinkar, but in fact, Dinkar was assaulted and was pushed on iron Sofa. Dinkar was old person and because of the fall on iron rod, he received injury to his head and it is clear that subsequently he died due to head injury. Having regard to the role attributed to the each accused in the FIR, the nature of the crime and the gravity of the offence, I find that accused / applicants are not entitled for anticipatory bail. Hence, I pass the following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[6] It was one of the arguments that offence under section 304 of the Indian Penal Code is not attracted.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "May be in the heat of moment, there was push and the deceased had fallen and the offence under section 304­A of the IPC is attracted.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "I have gone through the FIR and the allegations made therein.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is specifically alleged that applicant No.2 Arun and applicant No.4 Manoj rushed towards informant\u0027s son Dhanraj and assaulted him with kick and fist blows.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "When he shouted for help, deceased Dinkar tried to intervene.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "That time accused / applicant Chetan gave kick blow on the abdomen of Dinkar and Dinkar had fallen on iron Sofa.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "He started vomiting and felt giddiness.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "That time accused / applicant No.1 Sanjay and accused / applicant No.3 Chetan again pushed deceased Dinkar on Sofa and Dinkar had fallen on iron handle of the Sofa and received injury to his head and became unconscious.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Having regard to these allegations in the FIR and role attributed to each accused, prima­facie it is clear that accused / applicants had visited the house of informant with a plan.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "It is clear that it was not a single isolated push resulting into fall of deceased Dinkar, but in fact, Dinkar was assaulted and was pushed on iron Sofa.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "Dinkar was old person and because of the fall on iron rod, he received injury to his head and it is clear that subsequently he died due to head injury.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Having regard to the role attributed to the each accused in the FIR, the nature of the crime and the gravity of the offence, I find that accused / applicants are not entitled for anticipatory bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "text": "Hence, I pass the following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER The application is rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Pune, Dated/­ 21­01­2019 ( Aniruddha Y. Thatte ) Additional Sessions Judge, Pune. Cri.B.A.No. 156/19 5 CNR No.MHPU01­000608­2019 I affirm that the contents of the PDF file Judgment are same word for word as per original Judgment. Name of Steno :­ Shri. V. V. Bannur Name of Court : Shri. A. Y. Thatte, District Judge 14 and ASJ, Pune. Judgment signed by PO on : ­ 22­1­2019 Judgment uploaded on :­ 22­1­2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Criminal Bail Application No.156/2019 CNR NO. MHPU01­000608­2019 Sanjay B. Sonwane \u0026 another …. Applicants. Vs. State of Maharashtra …. Respondent. \r\n---header-ends---\r\nORDER BELOW EXH.1 This is the first bail application filed by the applicants for anticipatory bail under Section 438 of the Criminal Procedure Code in C.R.No.17/2019 registered by Nigdi Police Station under Section 304, 323, 341, 504 r/w 34 of the Indian Penal Code. \r\n---background-ends---\r\n[2] Perused the application and say given by respondent at Exh.6. Also, perused the written say and submissions filed by original complainant at Exh.12. \r\n---argument-ends---\r\n[3] The learned advocate Shri.Amodkumar for the applicants argued that accused are falsely implicated in the present crime. From the documents filed on record, it is clear that initially N.C. was filed against only two accused and subsequently delayed FIR is filed involving present accused / applicants. There is delay in filing FIR. These facts go to show that accused are falsely implicated in the present crime. The death of Dinkar was on 15.9.2018, but the FIR came to be filed on 4­1­2019 with extraordinary delay of three and half months and no proper explanation is coming on record. The conduct of the complainant also shows that the FIR is filed just to harass the informant. If the police did not take cognizance immediately, then the informant could have moved to superior officers or could have filed the complaint in the court. In the complaint, Priyanka is unnecessary made party. Admittedly, there was matrimonial dispute. Therefore, possibility cannot be ruled out that accused are falsely implicated in the present crime by taking disadvantage of death of Dinkar. The deceased had fallen on his own and the uncle and father of Priyanka had visited the hospital. This shows their bonafides. He further argued that even if the allegations are taken to be true at this stage, the allegations are only against applicant Sanjay and applicant Chetan. He further submitted that accused have no criminal antecedents. The offence under section 304 of IPC is not attracted and, therefore, the bail application maybe allowed and accused are ready to abide any condition. \r\n---argument-ends---\r\n[4] While countering the argument, the learned advocate for the informant submitted that there is no delay in the FIR. Initially N. C. was given against four persons and not against two persons as it is argued by the advocate of the applicants / accused. He further submitted that the detailed application was given to police on 05­09­2018, but police took no action. Then another application was given on 09­09­2018, but action was not taken by police. The third application was given on 25­10­2018 and finally the application was given on 28­10­2018. He has filed on record the copies of those applications. He submitted that informant has continuously made efforts that police should take action on her application. Finally, after death of Dinkar and after getting opinion from the doctor regarding the cause of death, police took cognizance and registered FIR and for this delay, the informant cannot be blamed. He submitted that if we go through the allegations in the FIR, it is clear that accused / applicants had visited the house with intention to assault the husband of the informant and her son. Prima­facie, there is sufficient material to show the involvement of the applicants in the crime. The offence in question is serious. He prayed for rejection of the application. \r\n---argument-ends---\r\n[5] The learned APP for police by adopting the arguments of Mr. Sinalkar, further argued that from the material on record, it is clear that accused had intention to assault the deceased and his son. On gathering all the circumstances, it can be inferred that accused / applicants had intention of assaulting the deceased and his son and not to settle the matter. He prayed for rejection of the application. \r\n---argument-ends---\r\n[6] It was one of the arguments that offence under section 304 of the Indian Penal Code is not attracted. May be in the heat of moment, there was push and the deceased had fallen and the offence under section 304­A of the IPC is attracted. I have gone through the FIR and the allegations made therein. It is specifically alleged that applicant No.2 Arun and applicant No.4 Manoj rushed towards informant\u0027s son Dhanraj and assaulted him with kick and fist blows. When he shouted for help, deceased Dinkar tried to intervene. That time accused / applicant Chetan gave kick blow on the abdomen of Dinkar and Dinkar had fallen on iron Sofa. He started vomiting and felt giddiness. That time accused / applicant No.1 Sanjay and accused / applicant No.3 Chetan again pushed deceased Dinkar on Sofa and Dinkar had fallen on iron handle of the Sofa and received injury to his head and became unconscious. Having regard to these allegations in the FIR and role attributed to each accused, prima­facie it is clear that accused / applicants had visited the house of informant with a plan. It is clear that it was not a single isolated push resulting into fall of deceased Dinkar, but in fact, Dinkar was assaulted and was pushed on iron Sofa. Dinkar was old person and because of the fall on iron rod, he received injury to his head and it is clear that subsequently he died due to head injury. Having regard to the role attributed to the each accused in the FIR, the nature of the crime and the gravity of the offence, I find that accused / applicants are not entitled for anticipatory bail. Hence, I pass the following order. \r\n---argument-ends---\r\nORDER The application is rejected. \r\n---order-ends---\r\nPune, Dated/­ 21­01­2019 ( Aniruddha Y. Thatte ) Additional Sessions Judge, Pune. Cri.B.A.No. 156/19 5 CNR No.MHPU01­000608­2019 I affirm that the contents of the PDF file Judgment are same word for word as per original Judgment. Name of Steno :­ Shri. V. V. Bannur Name of Court : Shri. A. Y. Thatte, District Judge 14 and ASJ, Pune. Judgment signed by PO on : ­ 22­1­2019 Judgment uploaded on :­ 22­1­2019"
+}
