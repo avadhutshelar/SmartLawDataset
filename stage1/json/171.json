@@ -1,0 +1,585 @@
+{
+  "header": "ORDER BELOW EX. NO. 4 IN CRI. BAIL APPLN. NO. 218/2019. (CNR No. MHPU01­000828 ­2019) Ashok Sadashiv Raut Vs. The State of Maharashtra (PSO Saswad P.S.)",
+  "background": {
+    "text": "[1] This is anticipatory bail application under Section 438 of Cr.P.C. for the grant of ad­interim bail to Applicant ­Ashok Sadashiv Raut for the offences punishable under Section 307, 504 and 506 of the Indian Penal Code in C.R. No.684/2018 registered at Saswad Police Station, District – Pune.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "438,307,504,506",
+          "stringMatched": "under section 438 of cr.p.c. for the grant of ad­interim bail to applicant ­ashok sadashiv raut for the offences punishable under section 307, 504 and 506 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "[2] Heard the Ld. Counsel for the Applicant.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[2] Heard the Ld. Counsel for the Applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "[3] Prosecution case in short is as under:­ On 12.12.2018 at about 10.30 p.m. the informant Umesh Raut and his wife Sangita Raut took meal after closing their vegetable shop. Thereafter, the informant started wood cutting. Thereon, Ashok Raut and his wife Kalpana Raut came outside the house and told them not to cut wood and due to noise, they could not sleep. On that account, the son of Ashok Raut namely Nikhil (Applicant) came at there and abused to informant and his wife. The Applicant assaulted the complainant and his wife with koyta on account of noise of wood cutting machine. The wife of informant Sangita intervened the altercation of words. The applicant also assaulted to Sangita Raut. Due to that, the informant Umesh Raut and his wife Sangita sustained injuries. On these allegations, the accused was prosecuted.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[3] Prosecution case in short is as under:­ On 12.12.2018 at about 10.30 p.m. the informant Umesh Raut and his wife Sangita Raut took meal after closing their vegetable shop.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Thereafter, the informant started wood cutting.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Thereon, Ashok Raut and his wife Kalpana Raut came outside the house and told them not to cut wood and due to noise, they could not sleep.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "On that account, the son of Ashok Raut namely Nikhil (Applicant) came at there and abused to informant and his wife.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The Applicant assaulted the complainant and his wife with koyta on account of noise of wood cutting machine.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "The wife of informant Sangita intervened the altercation of words.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "The applicant also assaulted to Sangita Raut.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Due to that, the informant Umesh Raut and his wife Sangita sustained injuries.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "On these allegations, the accused was prosecuted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "[4] The Ld. Counsel for the Applicant submitted that, the applicant has not committed any offence, but he has been falsely implicated in this crime with ulterior motive. The injuries sustained to informant Umesh Raut and his wife Sangita are simple in nature. The ingredient of Section 307 of IPC are not attracted in the present fact of the case, as the injuries sustained are not come within the purview of this section. There is only allegation against the applicant of hurling of abuses. No discovery or recovery is required on his behalf. He is ready to abide all the terms and conditions, which will be imposed by the Court. Hence, prayed for ad­interim protection.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[4] The Ld. Counsel for the Applicant submitted that, the applicant has not committed any offence, but he has been falsely implicated in this crime with ulterior motive.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The injuries sustained to informant Umesh Raut and his wife Sangita are simple in nature.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The ingredient of Section 307 of IPC are not attracted in the present fact of the case, as the injuries sustained are not come within the purview of this section.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "There is only allegation against the applicant of hurling of abuses.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "No discovery or recovery is required on his behalf.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He is ready to abide all the terms and conditions, which will be imposed by the Court.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Hence, prayed for ad­interim protection.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "[5] After hearing the Ld. Counsel for the applicant, there is reasonable apprehension in the mind of the applicant about his arrest at the hands of non­applicant. Hence, as settled position of Law, the Applicant is entitled for ad­interim Anticipatory bail till filing of reply by the Opponent. Hence, following order :­",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[5] After hearing the Ld. Counsel for the applicant, there is reasonable apprehension in the mind of the applicant about his arrest at the hands of non­applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Hence, as settled position of Law, the Applicant is entitled for ad­interim Anticipatory bail till filing of reply by the Opponent.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, following order :­",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R 1] In the event of arrest of the applicant ­ Ashok Sadashiv Raut in the matter of C.R.No. 684/2018 under Section 307, 504 and 506 of the Indian Penal Code registered at Saswad Police Station, Pune, he be released on his executing P.R. Bond of Rs.15,000/­ and surety of like amount. 2] The above mentioned interim protection of ad­interim anticipatory bail is granted, till filing of reply by the Opponent. 3] Issue show cause notice to PSO PS Saswad Police Station r/on 25/01/2019.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Sd/­ (G.P.Agrawal) Date : 14.01.2019 Additional Sessions Judge, Pune. CERTIFICATE I affirm that the contents of this P.D.F. file order are same word to word as per original order. Name of Steno : Smt. S.N.Kale Name of Court : G.P. Agrawal Addl Sessions Judge,Pune. Order delivered on : 14.01.2019 Order signed on : 14.01.2019 Order uploaded on : 16.01.2019",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EX. NO. 4 IN CRI. BAIL APPLN. NO. 218/2019. (CNR No. MHPU01­000828 ­2019) Ashok Sadashiv Raut Vs. The State of Maharashtra (PSO Saswad P.S.) \r\n---header-ends---\r\n[1] This is anticipatory bail application under Section 438 of Cr.P.C. for the grant of ad­interim bail to Applicant ­Ashok Sadashiv Raut for the offences punishable under Section 307, 504 and 506 of the Indian Penal Code in C.R. No.684/2018 registered at Saswad Police Station, District – Pune. \r\n---background-ends---\r\n[2] Heard the Ld. Counsel for the Applicant. \r\n---argument-ends---\r\n[3] Prosecution case in short is as under:­ On 12.12.2018 at about 10.30 p.m. the informant Umesh Raut and his wife Sangita Raut took meal after closing their vegetable shop. Thereafter, the informant started wood cutting. Thereon, Ashok Raut and his wife Kalpana Raut came outside the house and told them not to cut wood and due to noise, they could not sleep. On that account, the son of Ashok Raut namely Nikhil (Applicant) came at there and abused to informant and his wife. The Applicant assaulted the complainant and his wife with koyta on account of noise of wood cutting machine. The wife of informant Sangita intervened the altercation of words. The applicant also assaulted to Sangita Raut. Due to that, the informant Umesh Raut and his wife Sangita sustained injuries. On these allegations, the accused was prosecuted. \r\n---argument-ends---\r\n[4] The Ld. Counsel for the Applicant submitted that, the applicant has not committed any offence, but he has been falsely implicated in this crime with ulterior motive. The injuries sustained to informant Umesh Raut and his wife Sangita are simple in nature. The ingredient of Section 307 of IPC are not attracted in the present fact of the case, as the injuries sustained are not come within the purview of this section. There is only allegation against the applicant of hurling of abuses. No discovery or recovery is required on his behalf. He is ready to abide all the terms and conditions, which will be imposed by the Court. Hence, prayed for ad­interim protection. \r\n---argument-ends---\r\n[5] After hearing the Ld. Counsel for the applicant, there is reasonable apprehension in the mind of the applicant about his arrest at the hands of non­applicant. Hence, as settled position of Law, the Applicant is entitled for ad­interim Anticipatory bail till filing of reply by the Opponent. Hence, following order :­ \r\n---argument-ends---\r\nO R D E R 1] In the event of arrest of the applicant ­ Ashok Sadashiv Raut in the matter of C.R.No. 684/2018 under Section 307, 504 and 506 of the Indian Penal Code registered at Saswad Police Station, Pune, he be released on his executing P.R. Bond of Rs.15,000/­ and surety of like amount. 2] The above mentioned interim protection of ad­interim anticipatory bail is granted, till filing of reply by the Opponent. 3] Issue show cause notice to PSO PS Saswad Police Station r/on 25/01/2019. \r\n---order-ends---\r\nSd/­ (G.P.Agrawal) Date : 14.01.2019 Additional Sessions Judge, Pune. CERTIFICATE I affirm that the contents of this P.D.F. file order are same word to word as per original order. Name of Steno : Smt. S.N.Kale Name of Court : G.P. Agrawal Addl Sessions Judge,Pune. Order delivered on : 14.01.2019 Order signed on : 14.01.2019 Order uploaded on : 16.01.2019"
+}

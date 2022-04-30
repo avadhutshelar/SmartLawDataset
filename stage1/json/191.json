@@ -1,0 +1,773 @@
+{
+  "header": "Bail Appln.No. 265/2019 CNR-MHPU01-000906-2019",
+  "background": {
+    "text": "ORDER BELOW EXH. 1 1. This is an application under Sec. 438 of Cr.P.C. for grant of anticipatory bail. 2. Applicant apprehends his arrest at the hands of police in C.R.No. 842/2018 under Sec. 406, 420, 506 r/w 34 of I.P.C. registered with Lonikand Police Station, in which informant alleged that on 29.04.2011 and between the period from 2012 to 2014 in furtherance of common intention accused had shown the plots at Wagholi, Gat No. 1492 which were not owned by them. They had illegally sold the plot in Gat No. 1493 owned by Shikha Mukesh Malhotra to the informant and 15 to 20 plot holders and thereby cheated complainant and his friends. They refused to return the consideration amount and to hand over the plots, on the contrary they have threatened the informant.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "I.P.C",
+          "sectionsMatched": "34",
+          "stringMatched": "r/w 34 of i.p.c",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "3. By this application applicant contends that there is no whisper of the date of knowledge. There is delay of 7 yrs. to lodge the complaint. The dispute is of civil nature. In the sale deed No. 3503 of 2011 dated 24.04.2011 there is no mention of Gat No. 1493. There is no whisper that the applicant has misappropriated, converted the property to applicant\u0027s own use or have disposed of the property of the complainant. There are no criminal antecedents against the applicant. Civil suit bearing No. 1717/2014 is pending. Co-accused has been enlarged on anticipatory bail. He is ready to abide the terms and conditions imposed by the court. Thus, applicant prayed for anticipatory bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "By this application applicant contends that there is no whisper of the date of knowledge.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "There is delay of 7 yrs.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "to lodge the complaint.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The dispute is of civil nature.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "In the sale deed No. 3503 of 2011 dated 24.04.2011 there is no mention of Gat No. 1493.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "There is no whisper that the applicant has misappropriated, converted the property to applicant\u0027s own use or have disposed of the property of the complainant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "There are no criminal antecedents against the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Civil suit bearing No. 1717/2014 is pending.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Co-accused has been enlarged on anticipatory bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "He is ready to abide the terms and conditions imposed by the court.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Thus, applicant prayed for anticipatory bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "4. In response to the show cause notice prosecution has filed its say vide Exh. 6 thereby interalia denied all adverse allegations and reiterated its case. It is contended that in the said crime accused had misappropriated an amount of Rs. 18,87,000/-. The documents are yet to be seized. Investigation is in progress. On these lines prosecution has prayed for rejection of the application.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "In response to the show cause notice prosecution has filed its say vide Exh. 6 thereby interalia denied all adverse allegations and reiterated its case.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is contended that in the said crime accused had misappropriated an amount of Rs. 18,87,000/-.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The documents are yet to be seized.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Investigation is in progress.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "On these lines prosecution has prayed for rejection of the application.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "5. Heard Ld.Counsel for the applicant and Ld.A.P.P. for the State. Perused case papers. It appears that as per sale deed co- accused sold the suit property of Gat No. 1492 to the complainant and others and thereafter, the said property has been mutated in the name of complainant and others. As per allegations of the informant sale deed has been executed in the year 2011. The present report has been filed on 01.08.2018. There is no explanation as to why delay has been occurred. Furthermore, applicant is only the attested witness to the sale deed in question. Considering the nature of the dispute, it appears that dispute between the parties is of civil nature. Nothing is to be recovered or discovered at the instance of the applicant. Police has also not claimed custodial interrogation of the applicant, therefore, I am of the opinion that applicant is entitled for anticipatory bail by imposing certain terms and conditions. Thus, I pass the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Heard Ld.Counsel for the applicant and Ld.A.P.P.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "for the State.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Perused case papers.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "It appears that as per sale deed co- accused sold the suit property of Gat No. 1492 to the complainant and others and thereafter, the said property has been mutated in the name of complainant and others.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "As per allegations of the informant sale deed has been executed in the year 2011.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "The present report has been filed on 01.08.2018.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "There is no explanation as to why delay has been occurred.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Furthermore, applicant is only the attested witness to the sale deed in question.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Considering the nature of the dispute, it appears that dispute between the parties is of civil nature.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "Nothing is to be recovered or discovered at the instance of the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Police has also not claimed custodial interrogation of the applicant, therefore, I am of the opinion that applicant is entitled for anticipatory bail by imposing certain terms and conditions.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "text": "Thus, I pass the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R 1. Application No. 265/2019 is hereby allowed. 2. Applicant Narendra Sohinder Singh Nigha be enlarged on pre-arrest bail in the event of his arrest in C.R.No. 842/2018 registered with Lonikand Police Station on furnishing P.R.Bond of Rs. 15,000/- with surety in like amount. 3. He shall attend the concerned police station whenever directed by the investigating officer in writing and co-operate the in further investigation. 4. He shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of this case. 5. If the applicant committed breach of any conditions, the prosecution is at liberty to approach this court for cancellation of the bail. 6. Inform the concern police station accordingly.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "( S. H. Gwalani ) Dt. : 21.01.2019 Additional Sessions Judge, Pune.",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "Bail Appln.No. 265/2019 CNR-MHPU01-000906-2019 \r\n---header-ends---\r\nORDER BELOW EXH. 1 1. This is an application under Sec. 438 of Cr.P.C. for grant of anticipatory bail. 2. Applicant apprehends his arrest at the hands of police in C.R.No. 842/2018 under Sec. 406, 420, 506 r/w 34 of I.P.C. registered with Lonikand Police Station, in which informant alleged that on 29.04.2011 and between the period from 2012 to 2014 in furtherance of common intention accused had shown the plots at Wagholi, Gat No. 1492 which were not owned by them. They had illegally sold the plot in Gat No. 1493 owned by Shikha Mukesh Malhotra to the informant and 15 to 20 plot holders and thereby cheated complainant and his friends. They refused to return the consideration amount and to hand over the plots, on the contrary they have threatened the informant. \r\n---background-ends---\r\n3. By this application applicant contends that there is no whisper of the date of knowledge. There is delay of 7 yrs. to lodge the complaint. The dispute is of civil nature. In the sale deed No. 3503 of 2011 dated 24.04.2011 there is no mention of Gat No. 1493. There is no whisper that the applicant has misappropriated, converted the property to applicant\u0027s own use or have disposed of the property of the complainant. There are no criminal antecedents against the applicant. Civil suit bearing No. 1717/2014 is pending. Co-accused has been enlarged on anticipatory bail. He is ready to abide the terms and conditions imposed by the court. Thus, applicant prayed for anticipatory bail. \r\n---argument-ends---\r\n4. In response to the show cause notice prosecution has filed its say vide Exh. 6 thereby interalia denied all adverse allegations and reiterated its case. It is contended that in the said crime accused had misappropriated an amount of Rs. 18,87,000/-. The documents are yet to be seized. Investigation is in progress. On these lines prosecution has prayed for rejection of the application. \r\n---argument-ends---\r\n5. Heard Ld.Counsel for the applicant and Ld.A.P.P. for the State. Perused case papers. It appears that as per sale deed co- accused sold the suit property of Gat No. 1492 to the complainant and others and thereafter, the said property has been mutated in the name of complainant and others. As per allegations of the informant sale deed has been executed in the year 2011. The present report has been filed on 01.08.2018. There is no explanation as to why delay has been occurred. Furthermore, applicant is only the attested witness to the sale deed in question. Considering the nature of the dispute, it appears that dispute between the parties is of civil nature. Nothing is to be recovered or discovered at the instance of the applicant. Police has also not claimed custodial interrogation of the applicant, therefore, I am of the opinion that applicant is entitled for anticipatory bail by imposing certain terms and conditions. Thus, I pass the following order. \r\n---argument-ends---\r\nO R D E R 1. Application No. 265/2019 is hereby allowed. 2. Applicant Narendra Sohinder Singh Nigha be enlarged on pre-arrest bail in the event of his arrest in C.R.No. 842/2018 registered with Lonikand Police Station on furnishing P.R.Bond of Rs. 15,000/- with surety in like amount. 3. He shall attend the concerned police station whenever directed by the investigating officer in writing and co-operate the in further investigation. 4. He shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of this case. 5. If the applicant committed breach of any conditions, the prosecution is at liberty to approach this court for cancellation of the bail. 6. Inform the concern police station accordingly. \r\n---order-ends---\r\n( S. H. Gwalani ) Dt. : 21.01.2019 Additional Sessions Judge, Pune."
+}

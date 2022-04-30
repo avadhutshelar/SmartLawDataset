@@ -1,0 +1,490 @@
+{
+  "header": "Order below exh.1 in Cri. MA No. 279/2019 CNR No. MHPU01­000924—2019",
+  "background": {
+    "text": "1. Perused the application, say exh. 7 and documentary evidence placed on record. Heard both learned Counsel. 2. By this application, under Section 438 of Cr.P.C., the applicants / accused – Laxmi Budhaji Gawari and Budhaji Pandurang Gawari, seek pre­arrest protection in Crime No. 29/2019 registered with Bundgarden Police Station, Pune, dated 10.01.2019 under Sections 353, 332, 506 r.w.s. 34 of Indian Penal Code. It is objected over ongoing investigation.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "438,29,2019,10,01,2019,353,332,506,34",
+          "stringMatched": "under section 438 of cr.p.c., the applicants / accused – laxmi budhaji gawari and budhaji pandurang gawari, seek pre­arrest protection in crime no. 29/2019 registered with bundgarden police station, pune, dated 10.01.2019 under sections 353, 332, 506 r.w.s. 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "3. The learned Counsel for the applicants has submitted that applicant 1 is Government servant, No.2 is surpanch, public servant. The former had prosecuted informant complainant vide CR No.0321 registered with same Police station under Section 354(D) on 24.10.2018, since time and again the informant had summoned applicant 1 and outraged her modesty. In that crime, the informant is granted pre­arrest protection. To take revenge, the applicants are falsely implicated.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The learned Counsel for the applicants has submitted that applicant 1 is Government servant, No.2 is surpanch, public servant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The former had prosecuted informant complainant vide CR No.0321 registered with same Police station under Section 354(D) on 24.10.2018, since time and again the informant had summoned applicant 1 and outraged her modesty.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "In that crime, the informant is granted pre­arrest protection.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "To take revenge, the applicants are falsely implicated.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "4. On the contrary, learned AGP has submitted that helmet used in commission of offence is to be recovered, warranting personal interrogation. Thus, application be rejected.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On the contrary, learned AGP has submitted that helmet used in commission of offence is to be recovered, warranting personal interrogation.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Thus, application be rejected.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "5. On going through copy of FIR, it is evident that the alleged offence came to be reported belatedly after 80 days. Alleged offence was committed on 24.10.2018 at 2.00 p.m. at Dhole­Patil road, while allegedly the informant was showing the project Garbage Project to Simlanagar members. However, FIR came to be registered on 10.01.2019.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On going through copy of FIR, it is evident that the alleged offence came to be reported belatedly after 80 days.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Alleged offence was committed on 24.10.2018 at 2.00 p.m. at Dhole­Patil road, while allegedly the informant was showing the project Garbage Project to Simlanagar members.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "However, FIR came to be registered on 10.01.2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "6. In view of above, apprehension in the mind of applicant seems to be reasonable, warranting pre­arrest protection, until hearing of exh.1. Hence, the order :",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "In view of above, apprehension in the mind of applicant seems to be reasonable, warranting pre­arrest protection, until hearing of exh.1.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, the order :",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1. Application stands allowed as under : 2. Interim order below exh.4 dated January 16, 2019 stands confirmed.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Pune. (Vikas S. Kulkarni) January 28, 2019 Additional Sessions Judge, Pune. -3­ I affirm that the contents of this P.D.F.,file judgment are same word for word as per original Judgment. Name of Steno :­ Smt. Mohini P. Rahurkar, Stenographer Gr.I Court Name :­ Shri. Vikas S. Kulkarni, Additional Sessions Judge,Pune Date :­ January 28, 2019 Judgment signed by P.O. On :­ January 28, 2019 Judgment PDF on : January 29, 2019 Judgment uploaded on :­ January 29, 2019",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "Order below exh.1 in Cri. MA No. 279/2019 CNR No. MHPU01­000924—2019 \r\n---header-ends---\r\n1. Perused the application, say exh. 7 and documentary evidence placed on record. Heard both learned Counsel. 2. By this application, under Section 438 of Cr.P.C., the applicants / accused – Laxmi Budhaji Gawari and Budhaji Pandurang Gawari, seek pre­arrest protection in Crime No. 29/2019 registered with Bundgarden Police Station, Pune, dated 10.01.2019 under Sections 353, 332, 506 r.w.s. 34 of Indian Penal Code. It is objected over ongoing investigation. \r\n---background-ends---\r\n3. The learned Counsel for the applicants has submitted that applicant 1 is Government servant, No.2 is surpanch, public servant. The former had prosecuted informant complainant vide CR No.0321 registered with same Police station under Section 354(D) on 24.10.2018, since time and again the informant had summoned applicant 1 and outraged her modesty. In that crime, the informant is granted pre­arrest protection. To take revenge, the applicants are falsely implicated. \r\n---argument-ends---\r\n4. On the contrary, learned AGP has submitted that helmet used in commission of offence is to be recovered, warranting personal interrogation. Thus, application be rejected. \r\n---argument-ends---\r\n5. On going through copy of FIR, it is evident that the alleged offence came to be reported belatedly after 80 days. Alleged offence was committed on 24.10.2018 at 2.00 p.m. at Dhole­Patil road, while allegedly the informant was showing the project Garbage Project to Simlanagar members. However, FIR came to be registered on 10.01.2019. \r\n---argument-ends---\r\n6. In view of above, apprehension in the mind of applicant seems to be reasonable, warranting pre­arrest protection, until hearing of exh.1. Hence, the order : \r\n---argument-ends---\r\nORDER 1. Application stands allowed as under : 2. Interim order below exh.4 dated January 16, 2019 stands confirmed. \r\n---order-ends---\r\nPune. (Vikas S. Kulkarni) January 28, 2019 Additional Sessions Judge, Pune. -3­ I affirm that the contents of this P.D.F.,file judgment are same word for word as per original Judgment. Name of Steno :­ Smt. Mohini P. Rahurkar, Stenographer Gr.I Court Name :­ Shri. Vikas S. Kulkarni, Additional Sessions Judge,Pune Date :­ January 28, 2019 Judgment signed by P.O. On :­ January 28, 2019 Judgment PDF on : January 29, 2019 Judgment uploaded on :­ January 29, 2019"
+}

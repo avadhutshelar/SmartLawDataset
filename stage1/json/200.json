@@ -1,0 +1,641 @@
+{
+  "header": "Order below Exh. 4 in Cri. Bail Application No.280/2019 :-",
+  "background": {
+    "text": "This is an application for grant of ad interim anticipatory bail under section 438 of the Code of Criminal Procedure, for the offence punishable under sections 306 read with section 34 of the Indian Penal Code in crime No. 13/19 registered with Sinhagad Road police station, Pune.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "306,34",
+          "stringMatched": "under sections 306 read with section 34 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] The prosecution case in short is that the accused persons have abetted deceased Rohini Deepak Shirsat to commit suicide. Deceased is wife of accused No.1. The deceased came to know that accused No.1 is going to marry with accused No.2. Accused No.1 illtreated deceased physically and mentally and due to that, the deceased has committed suicide.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] The prosecution case in short is that the accused persons have abetted deceased Rohini Deepak Shirsat to commit suicide.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Deceased is wife of accused No.1.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The deceased came to know that accused No.1 is going to marry with accused No.2.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Accused No.1 illtreated deceased physically and mentally and due to that, the deceased has committed suicide.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Heard Advocate Shri. Patil for the applicant. Perused documentary evidence placed on record.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Heard Advocate Shri.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Patil for the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Perused documentary evidence placed on record.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] The learned counsel of applicant vehemently argued that the present accused has not committed any offence as alleged and she has been falsely implicated on suspicion. There is no iota of evidence against the applicant. The custody of the applicant is not at all required for investigation.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] The learned counsel of applicant vehemently argued that the present accused has not committed any offence as alleged and she has been falsely implicated on suspicion.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "There is no iota of evidence against the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The custody of the applicant is not at all required for investigation.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] It is specifically argued by learned counsel of applicant that she is innocent and she has not committed any offence as alleged and therefore she is entitled for the relief of ad interim anticipatory bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] It is specifically argued by learned counsel of applicant that she is innocent and she has not committed any offence as alleged and therefore she is entitled for the relief of ad interim anticipatory bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6] On perusal of the copy of F.I.R., it appears that the complainant has made specific allegations that present applicant and husband of deceased. There were illicit relations between the present applicant and husband of deceased i.e. accused No.1. Accused No.1 was illtreating deceased on that count. Prima facie involvement of the applicant in the offence in question appears.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6] On perusal of the copy of F.I.R., it appears that the complainant has made specific allegations that present applicant and husband of deceased.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "There were illicit relations between the present applicant and husband of deceased i.e. accused No.1.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accused No.1 was illtreating deceased on that count.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Prima facie involvement of the applicant in the offence in question appears.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7] Considering the allegations made in the F.I.R. and considering the gravity of the offence, it cannot be said that custodial interrogation of the applicant is not necessary.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7] Considering the allegations made in the F.I.R. and considering the gravity of the offence, it cannot be said that custodial interrogation of the applicant is not necessary.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8] Considering these facts together, considering the allegations made in the F.I.R. and considering the nature and gravity of the offences alleged to have been committed by the applicant, I am of the view that this is not a fit case to grant ad interim anticipatory bail to the applicant. Hence, the following order :-",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8] Considering these facts together, considering the allegations made in the F.I.R. and considering the nature and gravity of the offences alleged to have been committed by the applicant, I am of the view that this is not a fit case to grant ad interim anticipatory bail to the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Hence, the following order :-",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER The application is rejected.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "( Mrs. M.M. Deshpande) Date: 17-1-2019. Additional Sessions Judge, Pune. Order below Exh. 1 in Cri. Bail Application No. 280/2019 :- In view of rejection of application Exh.4, this application does not survive. Hence, application Exh.1 stands rejected and disposed of accordingly. ( Mrs. M.M. Deshpande) Date: 17-1-2019. Additional Sessions Judge, Pune. I affirm that the contents of this PDF file order are same word to word as per original order. Name of Steno : S.R. Shahane, Court Name : Mrs. Madhuri M. Deshpande Additional Sessions Judge, Pune. Date on which the P.O. Signed the order : 17-1-2019. Date of PDF file : 17-1-2019. Order uploaded on : 17-1-2019.",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "Order below Exh. 4 in Cri. Bail Application No.280/2019 :- \r\n---header-ends---\r\nThis is an application for grant of ad interim anticipatory bail under section 438 of the Code of Criminal Procedure, for the offence punishable under sections 306 read with section 34 of the Indian Penal Code in crime No. 13/19 registered with Sinhagad Road police station, Pune. \r\n---background-ends---\r\n2] The prosecution case in short is that the accused persons have abetted deceased Rohini Deepak Shirsat to commit suicide. Deceased is wife of accused No.1. The deceased came to know that accused No.1 is going to marry with accused No.2. Accused No.1 illtreated deceased physically and mentally and due to that, the deceased has committed suicide. \r\n---argument-ends---\r\n3] Heard Advocate Shri. Patil for the applicant. Perused documentary evidence placed on record. \r\n---argument-ends---\r\n4] The learned counsel of applicant vehemently argued that the present accused has not committed any offence as alleged and she has been falsely implicated on suspicion. There is no iota of evidence against the applicant. The custody of the applicant is not at all required for investigation. \r\n---argument-ends---\r\n5] It is specifically argued by learned counsel of applicant that she is innocent and she has not committed any offence as alleged and therefore she is entitled for the relief of ad interim anticipatory bail. \r\n---argument-ends---\r\n6] On perusal of the copy of F.I.R., it appears that the complainant has made specific allegations that present applicant and husband of deceased. There were illicit relations between the present applicant and husband of deceased i.e. accused No.1. Accused No.1 was illtreating deceased on that count. Prima facie involvement of the applicant in the offence in question appears. \r\n---argument-ends---\r\n7] Considering the allegations made in the F.I.R. and considering the gravity of the offence, it cannot be said that custodial interrogation of the applicant is not necessary. \r\n---argument-ends---\r\n8] Considering these facts together, considering the allegations made in the F.I.R. and considering the nature and gravity of the offences alleged to have been committed by the applicant, I am of the view that this is not a fit case to grant ad interim anticipatory bail to the applicant. Hence, the following order :- \r\n---argument-ends---\r\nORDER The application is rejected. \r\n---order-ends---\r\n( Mrs. M.M. Deshpande) Date: 17-1-2019. Additional Sessions Judge, Pune. Order below Exh. 1 in Cri. Bail Application No. 280/2019 :- In view of rejection of application Exh.4, this application does not survive. Hence, application Exh.1 stands rejected and disposed of accordingly. ( Mrs. M.M. Deshpande) Date: 17-1-2019. Additional Sessions Judge, Pune. I affirm that the contents of this PDF file order are same word to word as per original order. Name of Steno : S.R. Shahane, Court Name : Mrs. Madhuri M. Deshpande Additional Sessions Judge, Pune. Date on which the P.O. Signed the order : 17-1-2019. Date of PDF file : 17-1-2019. Order uploaded on : 17-1-2019."
+}

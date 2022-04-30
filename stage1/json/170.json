@@ -1,0 +1,540 @@
+{
+  "header": "Cri. Bail Appl. No. 217/2019 ( CNR NO.MHPU01­000826­2019 ) Santosh Suryavanshi \u0026 Ors. Vs. State of Maharashtra",
+  "background": {
+    "text": "ORDER BELOW EXH. 4 1] This is an application for grant of Ad­interim Anticipatory Bail under Section 438 of the Code of Criminal Procedure in respect of Crime No.1477/2018 registered under Sections 498(A), 406, 323, 504, 506, 509 read with Section 34 of Indian Penal Code at Police Station, Hadapsar, Pune.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "498,406,323,504,506,509,34",
+          "stringMatched": "under sections 498(a), 406, 323, 504, 506, 509 read with section 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] Informant Supriya Santosh Suryavanshi is wife of Applicant No.1 and daughter­in­law of Applicant No.2 and 3. She married with Applicant No.1 on 26/04/2012. She alleged that, present Applicants ill­treated her by suspecting on her character. Hence, she lodged the report.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] Informant Supriya Santosh Suryavanshi is wife of Applicant No.1 and daughter­in­law of Applicant No.2 and 3.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "She married with Applicant No.1 on 26/04/2012.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "She alleged that, present Applicants ill­treated her by suspecting on her character.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Hence, she lodged the report.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Applicants submit that, they have not committed any crime. Applicant No.1 is Chemical Engineer and doing a reputed job. Applicant No.2 and 3 are resident of Latur district. Therefore, there is no question of ill­treatment by Applicant No.2 and 3. As such, Applicants submit that, their immediate custody is not necessary and they may be granted interim protection.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Applicants submit that, they have not committed any crime.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Applicant No.1 is Chemical Engineer and doing a reputed job.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Applicant No.2 and 3 are resident of Latur district.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, there is no question of ill­treatment by Applicant No.2 and 3.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "As such, Applicants submit that, their immediate custody is not necessary and they may be granted interim protection.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Heard learned Adv. P. T. Gundre for Applicants. Perused the FIR and Papers.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Heard learned Adv. P. T. Gundre for Applicants.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Perused the FIR and Papers.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] Prima facie, nature of allegations against Applicants is such that, they suspected on character of Informant and ill­treated her. Considering it, no immediate recovery is pending against Applicants. Applicants are having roots in the society. Their presence can be secured. Hence, I prefer to pass following Order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] Prima facie, nature of allegations against Applicants is such that, they suspected on character of Informant and ill­treated her.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Considering it, no immediate recovery is pending against Applicants.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Applicants are having roots in the society.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Their presence can be secured.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, I prefer to pass following Order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1] Application is allowed. 2] Pending herein final disposal of main application, in the event of arrest in Crime No. 1477/2018 registered under Sections 498(A), 406, 323, 504, 506, 509 read with Section 34 of Indian Penal Code at Police Station, Hadapsar, Pune, Applicants 1] Santosh Govindrao Suryavanshi, 2] Govindrao Nivruttirao Suryavanshi and 3] Nirmalabai Govindrao Suryavanshi be released on bail on furnishing P.B. and S.B. of Rs. 15,000/­ (Rupees Fifteen Thousand Only) each on the following conditions : [A] Applicants shall make themselves available for interrogation by a Police Officer as and when required. [B] Applicants shall not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to any police officer. 3] Issue Notice to respondent state, returnable on 23/01/2019. 4] Intimate to concern Police Station.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "sd/­xxx Pune. (Smt. A. V. Rotte) Date : 17/01/2019. Additional Sessions Judge,Pune C E R T I F I C A T E ..2.. I affirm that the contents of this P. D. F. file Order are same word for word as per original Order. Name of the Court :­ Smt. A. V. Rotte, District Judge – 6 and Additional Sessions Judge, Pune Name of the Steno :­ Shri. D. L. Gudde, Stenographer (Grade­II) Date of Order :­ 17/01/2019 Order signed by presiding officer :­ 17/01/2019 Order uploaded on :­ 17/01/2019. ..3..",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "Cri. Bail Appl. No. 217/2019 ( CNR NO.MHPU01­000826­2019 ) Santosh Suryavanshi \u0026 Ors. Vs. State of Maharashtra \r\n---header-ends---\r\nORDER BELOW EXH. 4 1] This is an application for grant of Ad­interim Anticipatory Bail under Section 438 of the Code of Criminal Procedure in respect of Crime No.1477/2018 registered under Sections 498(A), 406, 323, 504, 506, 509 read with Section 34 of Indian Penal Code at Police Station, Hadapsar, Pune. \r\n---background-ends---\r\n2] Informant Supriya Santosh Suryavanshi is wife of Applicant No.1 and daughter­in­law of Applicant No.2 and 3. She married with Applicant No.1 on 26/04/2012. She alleged that, present Applicants ill­treated her by suspecting on her character. Hence, she lodged the report. \r\n---argument-ends---\r\n3] Applicants submit that, they have not committed any crime. Applicant No.1 is Chemical Engineer and doing a reputed job. Applicant No.2 and 3 are resident of Latur district. Therefore, there is no question of ill­treatment by Applicant No.2 and 3. As such, Applicants submit that, their immediate custody is not necessary and they may be granted interim protection. \r\n---argument-ends---\r\n4] Heard learned Adv. P. T. Gundre for Applicants. Perused the FIR and Papers. \r\n---argument-ends---\r\n5] Prima facie, nature of allegations against Applicants is such that, they suspected on character of Informant and ill­treated her. Considering it, no immediate recovery is pending against Applicants. Applicants are having roots in the society. Their presence can be secured. Hence, I prefer to pass following Order. \r\n---argument-ends---\r\nORDER 1] Application is allowed. 2] Pending herein final disposal of main application, in the event of arrest in Crime No. 1477/2018 registered under Sections 498(A), 406, 323, 504, 506, 509 read with Section 34 of Indian Penal Code at Police Station, Hadapsar, Pune, Applicants 1] Santosh Govindrao Suryavanshi, 2] Govindrao Nivruttirao Suryavanshi and 3] Nirmalabai Govindrao Suryavanshi be released on bail on furnishing P.B. and S.B. of Rs. 15,000/­ (Rupees Fifteen Thousand Only) each on the following conditions : [A] Applicants shall make themselves available for interrogation by a Police Officer as and when required. [B] Applicants shall not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to any police officer. 3] Issue Notice to respondent state, returnable on 23/01/2019. 4] Intimate to concern Police Station. \r\n---order-ends---\r\nsd/­xxx Pune. (Smt. A. V. Rotte) Date : 17/01/2019. Additional Sessions Judge,Pune C E R T I F I C A T E ..2.. I affirm that the contents of this P. D. F. file Order are same word for word as per original Order. Name of the Court :­ Smt. A. V. Rotte, District Judge – 6 and Additional Sessions Judge, Pune Name of the Steno :­ Shri. D. L. Gudde, Stenographer (Grade­II) Date of Order :­ 17/01/2019 Order signed by presiding officer :­ 17/01/2019 Order uploaded on :­ 17/01/2019. ..3.."
+}
