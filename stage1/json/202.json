@@ -1,0 +1,930 @@
+{
+  "header": "ORDER BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 02/2019 (Karan Shashikant Bankar Vs. State of Maharashtra) CNR : MHST01­000008­2019",
+  "background": {
+    "text": "1) Present application is filed by applicant Karan Shashikant Bankar under section 438 of Criminal Procedure Code, 1973 apprehending his arrest under C.R. no. 356/2018, registered at Koregaon police station, for alleged commission of offences punishable under sections 326, 504 and 506 of Indian Penal Code, 1860 and hence has approached to the Court seeking pre­arrest bail.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "326,504,506",
+          "stringMatched": "under sections 326, 504 and 506 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) Applicant\u0027s advocate contended that, present applicant is falsely shown in the FIR, inspite of no such incident occurring as alleged. Applicant\u0027s advocate submitted that, informant\u0027s recording of evidence has not started against this applicant, rather evidence is started against the juvenile before the Juvenil Justice Board. It is contended that, in such circumstances that evidence against this applicant has not started this applicant can have no motive to assault the informant. It is further contended that, as per the informant himself, he has given some evidence on 25/09/2018 whereas allegations of threatenings or assaults are dated 27/12/2018, more than three months thereafter. Thus, it can be seen that, FIR is falsely lodged merely to harass the applicant. Applicant has sustained injuries as a result of accidental fall from motorcycle.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) Applicant\u0027s advocate contended that, present applicant is falsely shown in the FIR, inspite of no such incident occurring as alleged.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Applicant\u0027s advocate submitted that, informant\u0027s recording of evidence has not started against this applicant, rather evidence is started against the juvenile before the Juvenil Justice Board.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is contended that, in such circumstances that evidence against this applicant has not started this applicant can have no motive to assault the informant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is further contended that, as per the informant himself, he has given some evidence on 25/09/2018 whereas allegations of threatenings or assaults are dated 27/12/2018, more than three months thereafter.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Thus, it can be seen that, FIR is falsely lodged merely to harass the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Applicant has sustained injuries as a result of accidental fall from motorcycle.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is also contended that, FIR can be seen to be false and frivolous as the informant contends of being hit by a pointed weapon, but does not disclose the actual weapon. It is contended that, if at all, the informant was assaulted by any weapon, it would be impossible for the informant for having not seen that weapon. Accordingly, FIR is falsely aggravated.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is also contended that, FIR can be seen to be false and frivolous as the informant contends of being hit by a pointed weapon, but does not disclose the actual weapon.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, if at all, the informant was assaulted by any weapon, it would be impossible for the informant for having not seen that weapon.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accordingly, FIR is falsely aggravated.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) FIR is also contended to be false even on the grounds that if at all the informant was assaulted with weapon, it would be impossible for him to easily go home and then go to the hospital.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) FIR is also contended to be false even on the grounds that if at all the informant was assaulted with weapon, it would be impossible for him to easily go home and then go to the hospital.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) It is further contended that, no injury certificate is placed on record, as issued by any Government Hospital. At the same time, the purported injury certificate submitted on record also does not reveal any grievous or life threatening injury. FIR also does not disclose any deadly weapon to have been used. Therefore, section 326 of Indian Penal Code, 1860 cannot be attracted at all. It is contended that, at the most, the case would be covered under section 323 of Indian Penal Code, 1860 and nothing more.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) It is further contended that, no injury certificate is placed on record, as issued by any Government Hospital.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "At the same time, the purported injury certificate submitted on record also does not reveal any grievous or life threatening injury.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "FIR also does not disclose any deadly weapon to have been used.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, section 326 of Indian Penal Code, 1860 cannot be attracted at all.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "It is contended that, at the most, the case would be covered under section 323 of Indian Penal Code, 1860 and nothing more.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6) It is also contended that, substantial investigation in the matter is completed and therefore applicant\u0027s custodial presence is not required. FIR being false and investigation being completed, applicant is contended to be protected by grant of pre­ arrest bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) It is also contended that, substantial investigation in the matter is completed and therefore applicant\u0027s custodial presence is not required.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "FIR being false and investigation being completed, applicant is contended to be protected by grant of pre­ arrest bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7) Bail application is resisted by the A.P.P. by filing his say at Exh. 4 on the grounds that, incident took place on 27/12/2018 at about 9:30 p.m. and the FIR is reported immediately. Accused has been absconding since the merging of FIR. Accused has threatened and assaulted the informant by fist and kick blows and a pointed weapon, as the informant has given evidence in the Court against the accused on 25/09/2018. There are eye­witnesses to the incidence, hence FIR is contended to be genuine.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7) Bail application is resisted by the A.P.P. by filing his say at Exh. 4 on the grounds that, incident took place on 27/12/2018 at about 9:30 p.m. and the FIR is reported immediately.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Accused has been absconding since the merging of FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accused has threatened and assaulted the informant by fist and kick blows and a pointed weapon, as the informant has given evidence in the Court against the accused on 25/09/2018.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "There are eye­witnesses to the incidence, hence FIR is contended to be genuine.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8) It is contended that, accused is habitual criminal having murder case bearing C.R. no. 224/2017 registered at Koregaon police station. Another offence being C.R. no. 230/2016 is registered against this accused under section 326 of Indian Penal Code, 1860.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8) It is contended that, accused is habitual criminal having murder case bearing C.R. no. 224/2017 registered at Koregaon police station.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Another offence being C.R. no. 230/2016 is registered against this accused under section 326 of Indian Penal Code, 1860.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "9) It is contended that, investigation in the matter is continuing, and the weapon used by the accused is to be seized. Hence, accused\u0027s custodial presence is required. Accordingly, pre­ arrest bail is resisted.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "9) It is contended that, investigation in the matter is continuing, and the weapon used by the accused is to be seized.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Hence, accused\u0027s custodial presence is required.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accordingly, pre­ arrest bail is resisted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 9,
+      "text": "10) Upon hearing the APP and the applicant\u0027s advocate, perusing the FIR, it transpires that, allegations against the applicant/accused are of having obstructed the informant, of abusing and assaulting him, as informant had given evidence in a criminal trial, in respect of offences involving this applicant. FIR discloses eye­witnesses to the incidence. It transpires of the informant having given evidence on 25/09/2018, whereas assaults are allegedly dated 27/12/2018. The real motive ought to be investigated, weapon requires to be seized. Thus, thorough investigation requires to be done, hence the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "10) Upon hearing the APP and the applicant\u0027s advocate, perusing the FIR, it transpires that, allegations against the applicant/accused are of having obstructed the informant, of abusing and assaulting him, as informant had given evidence in a criminal trial, in respect of offences involving this applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "FIR discloses eye­witnesses to the incidence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It transpires of the informant having given evidence on 25/09/2018, whereas assaults are allegedly dated 27/12/2018.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The real motive ought to be investigated, weapon requires to be seized.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Thus, thorough investigation requires to be done, hence the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R Criminal Bail Application no. 02/2019, is rejected.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Y. H. Ameta) Place : Satara Addl. Sessions Judge Date :­ 05th January, 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 02/2019 (Karan Shashikant Bankar Vs. State of Maharashtra) CNR : MHST01­000008­2019 \r\n---header-ends---\r\n1) Present application is filed by applicant Karan Shashikant Bankar under section 438 of Criminal Procedure Code, 1973 apprehending his arrest under C.R. no. 356/2018, registered at Koregaon police station, for alleged commission of offences punishable under sections 326, 504 and 506 of Indian Penal Code, 1860 and hence has approached to the Court seeking pre­arrest bail. \r\n---background-ends---\r\n2) Applicant\u0027s advocate contended that, present applicant is falsely shown in the FIR, inspite of no such incident occurring as alleged. Applicant\u0027s advocate submitted that, informant\u0027s recording of evidence has not started against this applicant, rather evidence is started against the juvenile before the Juvenil Justice Board. It is contended that, in such circumstances that evidence against this applicant has not started this applicant can have no motive to assault the informant. It is further contended that, as per the informant himself, he has given some evidence on 25/09/2018 whereas allegations of threatenings or assaults are dated 27/12/2018, more than three months thereafter. Thus, it can be seen that, FIR is falsely lodged merely to harass the applicant. Applicant has sustained injuries as a result of accidental fall from motorcycle. \r\n---argument-ends---\r\n3) It is also contended that, FIR can be seen to be false and frivolous as the informant contends of being hit by a pointed weapon, but does not disclose the actual weapon. It is contended that, if at all, the informant was assaulted by any weapon, it would be impossible for the informant for having not seen that weapon. Accordingly, FIR is falsely aggravated.\r\n---argument-ends---\r\n4) FIR is also contended to be false even on the grounds that if at all the informant was assaulted with weapon, it would be impossible for him to easily go home and then go to the hospital. \r\n---argument-ends---\r\n5) It is further contended that, no injury certificate is placed on record, as issued by any Government Hospital. At the same time, the purported injury certificate submitted on record also does not reveal any grievous or life threatening injury. FIR also does not disclose any deadly weapon to have been used. Therefore, section 326 of Indian Penal Code, 1860 cannot be attracted at all. It is contended that, at the most, the case would be covered under section 323 of Indian Penal Code, 1860 and nothing more. \r\n---argument-ends---\r\n6) It is also contended that, substantial investigation in the matter is completed and therefore applicant\u0027s custodial presence is not required. FIR being false and investigation being completed, applicant is contended to be protected by grant of pre­ arrest bail. \r\n---argument-ends---\r\n7) Bail application is resisted by the A.P.P. by filing his say at Exh. 4 on the grounds that, incident took place on 27/12/2018 at about 9:30 p.m. and the FIR is reported immediately. Accused has been absconding since the merging of FIR. Accused has threatened and assaulted the informant by fist and kick blows and a pointed weapon, as the informant has given evidence in the Court against the accused on 25/09/2018. There are eye­witnesses to the incidence, hence FIR is contended to be genuine. \r\n---argument-ends---\r\n8) It is contended that, accused is habitual criminal having murder case bearing C.R. no. 224/2017 registered at Koregaon police station. Another offence being C.R. no. 230/2016 is registered against this accused under section 326 of Indian Penal Code, 1860. \r\n---argument-ends---\r\n9) It is contended that, investigation in the matter is continuing, and the weapon used by the accused is to be seized. Hence, accused\u0027s custodial presence is required. Accordingly, pre­ arrest bail is resisted. \r\n---argument-ends---\r\n10) Upon hearing the APP and the applicant\u0027s advocate, perusing the FIR, it transpires that, allegations against the applicant/accused are of having obstructed the informant, of abusing and assaulting him, as informant had given evidence in a criminal trial, in respect of offences involving this applicant. FIR discloses eye­witnesses to the incidence. It transpires of the informant having given evidence on 25/09/2018, whereas assaults are allegedly dated 27/12/2018. The real motive ought to be investigated, weapon requires to be seized. Thus, thorough investigation requires to be done, hence the following order. \r\n---argument-ends---\r\nO R D E R Criminal Bail Application no. 02/2019, is rejected. \r\n---order-ends---\r\n(Y. H. Ameta) Place : Satara Addl. Sessions Judge Date :­ 05th January, 2019. Satara"
+}

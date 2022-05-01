@@ -1,0 +1,479 @@
+{
+  "header": "1/3 Criminal Misc. Application No. 22/2019 Sonali Jitendra Shinde Vs. State of Maharashtra ORDER BELOW EXH.04 IN CRI. MISC. APPLN. NO.22/2019",
+  "background": {
+    "text": "This is an application for ad­interim anticipatory bail as per section 438 of the Code of Criminal Procedure, 1973. Perused application and the documents placed on record. Heard advocate Mrs. Jadhav­Patil for applicant. She submitted that Crime No.25/2019 is registered against this applicant with Satara City Police Station for the offence punishable under section 376 etc. of the Indian Penal Code. She is having strong apprehension of his arrest in this crime.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "438",
+          "stringMatched": "section 438 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "376",
+          "stringMatched": "under section 376 etc. of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2. She invited my attention to the FIR lodged by informant/prosecutrix and submitted that present applicant has not at all committed any role in the commission of alleged offences. She is falsely implicated by the informant/prosecutrix. Applicant is social worker and has nothing to do with the present crime. If she is arrested on false allegations then her reputation would be maligned. Therefore she prayed that ad­interim pre­ arrest protection may be granted to this applicant.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "She invited my attention to the FIR lodged by informant/prosecutrix and submitted that present applicant has not at all committed any role in the commission of alleged offences.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "She is falsely implicated by the informant/prosecutrix.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Applicant is social worker and has nothing to do with the present crime.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "If she is arrested on false allegations then her reputation would be maligned.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Therefore she prayed that ad­interim pre­ arrest protection may be granted to this applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "4. After going through the FIR lodged by informant/ prosecutrix, it is seen that main allegations in respect of offences punishable under sections 376, 313, 318 etc. are against her husband. So far as present applicant is concerned, there are allegations that present applicant asked her to accept some amount from her husband and settle the matter. Allegations against the present applicant are not too serious. Her custodial interrogation is not at all warranted as there is nothing which is to be seized from her. She happens to be a social worker. If she is arrested then her reputation is likely to be maligned. As such applicant has made out prima­facie case to grant ad­interim pre­ arrest protection till filing of say by the prosecution. Hence the order follows :­",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "After going through the FIR lodged by informant/ prosecutrix, it is seen that main allegations in respect of offences punishable under sections 376, 313, 318 etc. are against her husband.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "So far as present applicant is concerned, there are allegations that present applicant asked her to accept some amount from her husband and settle the matter.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Allegations against the present applicant are not too serious.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Her custodial interrogation is not at all warranted as there is nothing which is to be seized from her.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "She happens to be a social worker.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "If she is arrested then her reputation is likely to be maligned.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "As such applicant has made out prima­facie case to grant ad­interim pre­ arrest protection till filing of say by the prosecution.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Hence the order follows :­",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1 Application is allowed. 2 In the event of her arrest in Crime No. 25/2019 registered with Satara City Police Station for the offence punishable under section 376 etc. of the Indian Penal Code, applicant Sonali Jitendra Shinde be released on ad­interim anticipatory bail, till filing of say by the prosecution, upon his executing P. R. Bond of Rs.15,000/­ (fifteen thousands) with one surety in the like amount, on following conditions : i. that she shall attend Satara City Police Station on every Sunday in between 11.00 a.m. to 12.00 noon without fail until further orders. ii. that she shall not directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the accusation against him so as to dissuade them from disclosing such facts to the Court or to any police officer. iii. that she shall not threaten informant or witnesses of the prosecution in any way. iv. she shall not make any contact with the informant in any manner. 3 Failure to obey any of the conditions above, would be liable to cancellation of ad­interim anticipatory bail granted to applicant. 4 Inform Satara City Police Station accordingly.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Order is dictated and pronounced in the open Court) Satara (R.D.Deshpande) Dt.11/01/2019. Additional Sessions Judge, Satara.",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "1/3 Criminal Misc. Application No. 22/2019 Sonali Jitendra Shinde Vs. State of Maharashtra ORDER BELOW EXH.04 IN CRI. MISC. APPLN. NO.22/2019 \r\n---header-ends---\r\nThis is an application for ad­interim anticipatory bail as per section 438 of the Code of Criminal Procedure, 1973. Perused application and the documents placed on record. Heard advocate Mrs. Jadhav­Patil for applicant. She submitted that Crime No.25/2019 is registered against this applicant with Satara City Police Station for the offence punishable under section 376 etc. of the Indian Penal Code. She is having strong apprehension of his arrest in this crime. \r\n---background-ends---\r\n2. She invited my attention to the FIR lodged by informant/prosecutrix and submitted that present applicant has not at all committed any role in the commission of alleged offences. She is falsely implicated by the informant/prosecutrix. Applicant is social worker and has nothing to do with the present crime. If she is arrested on false allegations then her reputation would be maligned. Therefore she prayed that ad­interim pre­ arrest protection may be granted to this applicant. \r\n---argument-ends---\r\n4. After going through the FIR lodged by informant/ prosecutrix, it is seen that main allegations in respect of offences punishable under sections 376, 313, 318 etc. are against her husband. So far as present applicant is concerned, there are allegations that present applicant asked her to accept some amount from her husband and settle the matter. Allegations against the present applicant are not too serious. Her custodial interrogation is not at all warranted as there is nothing which is to be seized from her. She happens to be a social worker. If she is arrested then her reputation is likely to be maligned. As such applicant has made out prima­facie case to grant ad­interim pre­ arrest protection till filing of say by the prosecution. Hence the order follows :­ \r\n---argument-ends---\r\nORDER 1 Application is allowed. 2 In the event of her arrest in Crime No. 25/2019 registered with Satara City Police Station for the offence punishable under section 376 etc. of the Indian Penal Code, applicant Sonali Jitendra Shinde be released on ad­interim anticipatory bail, till filing of say by the prosecution, upon his executing P. R. Bond of Rs.15,000/­ (fifteen thousands) with one surety in the like amount, on following conditions : i. that she shall attend Satara City Police Station on every Sunday in between 11.00 a.m. to 12.00 noon without fail until further orders. ii. that she shall not directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the accusation against him so as to dissuade them from disclosing such facts to the Court or to any police officer. iii. that she shall not threaten informant or witnesses of the prosecution in any way. iv. she shall not make any contact with the informant in any manner. 3 Failure to obey any of the conditions above, would be liable to cancellation of ad­interim anticipatory bail granted to applicant. 4 Inform Satara City Police Station accordingly. \r\n---order-ends---\r\n(Order is dictated and pronounced in the open Court) Satara (R.D.Deshpande) Dt.11/01/2019. Additional Sessions Judge, Satara."
+}
