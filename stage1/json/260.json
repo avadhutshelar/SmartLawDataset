@@ -1,0 +1,433 @@
+{
+  "header": "\u003d1\u003d ORDER BELOW EXH. 1 IN CRI. MISC. APPLICATION No. 65/2019 (Vijay Dinkar Jadhav Vs. State of Maharashtra) CNR : MHST01-000376-2019",
+  "background": {
+    "text": "1) Application is filed by the applicant under section 438 of Criminal Procedure Code, 1973 apprehending his arrest in C.R.No. 49 of 2019 under Sec. 303, 387, 120­B, 143, 147, 148, 149 of Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) Accusation is that, complainant had witnessed the assault on the deceased near Sanhyadri Steel, near petrol pump by accused Mayur Jadhav, Sourabh Kharat, Dhiraj Shelke and others by means of deadly weapons i.e. sickle, sattur, bat etc. Present applicant is one of the said accused persons.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) Accusation is that, complainant had witnessed the assault on the deceased near Sanhyadri Steel, near petrol pump by accused Mayur Jadhav, Sourabh Kharat, Dhiraj Shelke and others by means of deadly weapons i.e. sickle, sattur, bat etc.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Present applicant is one of the said accused persons.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is stated that, applicant is resident of village Kodoli and retired from police department on 30.11.2018 with clean history, he is law abiding person, he is innocent and falselty implicated in this crime. It is also contended that, at the time of incident he was at his residence and there is no reasonable ground to believe that applicant ha committed said offence by any stretch of imagination. It is further contended that, he is co­operating the investigating machinery in investigating the crime and he is ready to abide the conditions imposed by the Court if he is released on anticipatory bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is stated that, applicant is resident of village Kodoli and retired from police department on 30.11.2018 with clean history, he is law abiding person, he is innocent and falselty implicated in this crime.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is also contended that, at the time of incident he was at his residence and there is no reasonable ground to believe that applicant ha committed said offence by any stretch of imagination.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is further contended that, he is co­operating the investigating machinery in investigating the crime and he is ready to abide the conditions imposed by the Court if he is released on anticipatory bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) Learned A.P.P has filed letter of S.D.P.O. Satara dated 11.02.2019 at Exh.8. It is contended that, Special I.G.P. Kolhapur has sanctioned the proposal sent by S.P. Satara to initiate action against the applicant and his associates under MCOCA as they have been found to be involved in associated crime. So also other accused Mayur, Saurabh, Dheeraj and Sangram are habitual criminals, therefore, Special I.G.P. Kolhapur has directed to include Section \u003d2\u003d 3(1)(i)(ii), 3(2), 3(4) of MCOCA against the applicants. Hence, this court has no jurisdiction to try present application, it be rejected.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) Learned A.P.P has filed letter of S.D.P.O. Satara dated 11.02.2019 at Exh.8.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, Special I.G.P. Kolhapur has sanctioned the proposal sent by S.P. Satara to initiate action against the applicant and his associates under MCOCA as they have been found to be involved in associated crime.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "So also other accused Mayur, Saurabh, Dheeraj and Sangram are habitual criminals, therefore, Special I.G.P. Kolhapur has directed to include Section \u003d2\u003d 3(1)(i)(ii), 3(2), 3(4) of MCOCA against the applicants.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Hence, this court has no jurisdiction to try present application, it be rejected.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) As Special I.G.P. Kolhapur has sanctioned the proposal sent by S.P. Satara to initiate action against the applicant under MCOCA, hence, this Court ceased to have power to grant bail. By accepting the contention in say, application is required to be rejected. Hence, the order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) As Special I.G.P. Kolhapur has sanctioned the proposal sent by S.P. Satara to initiate action against the applicant under MCOCA, hence, this Court ceased to have power to grant bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "By accepting the contention in say, application is required to be rejected.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, the order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1) Cr.Misc. Application No. 65 of 2019 is rejected.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 8th March, 2019 Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "\u003d1\u003d ORDER BELOW EXH. 1 IN CRI. MISC. APPLICATION No. 65/2019 (Vijay Dinkar Jadhav Vs. State of Maharashtra) CNR : MHST01-000376-2019 \r\n---header-ends---\r\n1) Application is filed by the applicant under section 438 of Criminal Procedure Code, 1973 apprehending his arrest in C.R.No. 49 of 2019 under Sec. 303, 387, 120­B, 143, 147, 148, 149 of Indian Penal Code. \r\n---background-ends---\r\n2) Accusation is that, complainant had witnessed the assault on the deceased near Sanhyadri Steel, near petrol pump by accused Mayur Jadhav, Sourabh Kharat, Dhiraj Shelke and others by means of deadly weapons i.e. sickle, sattur, bat etc. Present applicant is one of the said accused persons. \r\n---argument-ends---\r\n3) It is stated that, applicant is resident of village Kodoli and retired from police department on 30.11.2018 with clean history, he is law abiding person, he is innocent and falselty implicated in this crime. It is also contended that, at the time of incident he was at his residence and there is no reasonable ground to believe that applicant ha committed said offence by any stretch of imagination. It is further contended that, he is co­operating the investigating machinery in investigating the crime and he is ready to abide the conditions imposed by the Court if he is released on anticipatory bail. \r\n---argument-ends---\r\n4) Learned A.P.P has filed letter of S.D.P.O. Satara dated 11.02.2019 at Exh.8. It is contended that, Special I.G.P. Kolhapur has sanctioned the proposal sent by S.P. Satara to initiate action against the applicant and his associates under MCOCA as they have been found to be involved in associated crime. So also other accused Mayur, Saurabh, Dheeraj and Sangram are habitual criminals, therefore, Special I.G.P. Kolhapur has directed to include Section \u003d2\u003d 3(1)(i)(ii), 3(2), 3(4) of MCOCA against the applicants. Hence, this court has no jurisdiction to try present application, it be rejected. \r\n---argument-ends---\r\n5) As Special I.G.P. Kolhapur has sanctioned the proposal sent by S.P. Satara to initiate action against the applicant under MCOCA, hence, this Court ceased to have power to grant bail. By accepting the contention in say, application is required to be rejected. Hence, the order. \r\n---argument-ends---\r\nORDER 1) Cr.Misc. Application No. 65 of 2019 is rejected. \r\n---order-ends---\r\n(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 8th March, 2019 Satara"
+}

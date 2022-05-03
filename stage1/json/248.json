@@ -1,0 +1,962 @@
+{
+  "header": "1 Cri.M.A.No.51 of 2019 (Exh.1) Order passed below Exh.1 in Cri.M.A.No.51 of 2019. (CNR No.MHST01­000287­2019)",
+  "background": {
+    "text": "01. The applicant, namely, Ganesh Mahadeo Telkhade apprehending his arrest in C.R.No.9 of 2019 for the offence punishable under Section 328 r/w 34 of the Indian Penal Code and Section 65(f) of the Bombay Prohibition Act, registered with Phaltan City Police Station, has filed this application under Section 438 of the Code of Criminal Procedure for anticipatory bail.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "328,34",
+          "stringMatched": "under section 328 r/w 34 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "65,438",
+          "stringMatched": "section 65(f) of the bombay prohibition act, registered with phaltan city police station, has filed this application under section 438 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "02. Perused application. From the contents of complaint of Nitin Dilip Chature dated 12.01.2019 in C.R.No.9 of 2019, it reveals that, on 12.01.2019, at about 05.00 p.m., when complainant and other police staff were present at Phaltan City Police Station, PI D.G.Nale received secret information that, some persons are selling illicit liquor within the area of Choudharwadi at Nageshwarnagar near the canal. When police staff and panchas reached for raid they noticed that, two persons were manufacturing illicit liquor. Police Constable Mengavde was knowing Sunny Manik Jadhav who was manufacturing illicit liquor. The name of another person is not mentioned in complaint. It is alleged in complaint that, Sunny Manik Jadhav and one unknown person was manufacturing illicit liquor on the date, time and place of incident.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "02.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Perused application.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "From the contents of complaint of Nitin Dilip Chature dated 12.01.2019 in C.R.No.9 of 2019, it reveals that, on 12.01.2019, at about 05.00 p.m., when complainant and other police staff were present at Phaltan City Police Station, PI D.G.Nale received secret information that, some persons are selling illicit liquor within the area of Choudharwadi at Nageshwarnagar near the canal.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "When police staff and panchas reached for raid they noticed that, two persons were manufacturing illicit liquor.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Police Constable Mengavde was knowing Sunny Manik Jadhav who was manufacturing illicit liquor.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "The name of another person is not mentioned in complaint.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "It is alleged in complaint that, Sunny Manik Jadhav and one unknown person was manufacturing illicit liquor on the date, time and place of incident.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "03. Heard learned Advocate for applicant and learned A.P.P. It is argued by learned Advocate for applicant that, the custodial interrogation of applicant is not necessary. Name of 2 Cri.M.A.No.51 of 2019 (Exh.1) present applicant is not mentioned in complaint. Further it was argued that, the regular bail is granted to Sunny Manik Jadhav in present crime i.e. C.R.No.9 of 2019. Per contra, it is vehemently argued by learned A.P.P. that, considering the nature and seriousness of the offence it is necessary to reject the application.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "03.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Heard learned Advocate for applicant and learned A.P.P.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is argued by learned Advocate for applicant that, the custodial interrogation of applicant is not necessary.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Name of 2 Cri.M.A.No.51 of 2019 (Exh.1) present applicant is not mentioned in complaint.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Further it was argued that, the regular bail is granted to Sunny Manik Jadhav in present crime i.e. C.R.No.9 of 2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Per contra, it is vehemently argued by learned A.P.P. that, considering the nature and seriousness of the offence it is necessary to reject the application.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "04. From the say of learned A.P.P. at Exh.9, it reveals that, the allegations against applicant are serious. Applicant was succeeded to run away from the spot. Accused No.1 and applicant were found manufacturing illicit liquor. Remand report shows the name of applicant. The custody of applicant is essential for thorough investigation. If applicant is released on bail he may repeat such type of crime and possibility of his absconding cannot be ruled out. Investigation is in progress. If applicant is released he will pressurise the witnesses. Learned A.P.P. prayed to reject the application.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "04.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "From the say of learned A.P.P. at Exh.9, it reveals that, the allegations against applicant are serious.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Applicant was succeeded to run away from the spot.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Accused No.1 and applicant were found manufacturing illicit liquor.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Remand report shows the name of applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "The custody of applicant is essential for thorough investigation.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "If applicant is released on bail he may repeat such type of crime and possibility of his absconding cannot be ruled out.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Investigation is in progress.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "If applicant is released he will pressurise the witnesses.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Learned A.P.P. prayed to reject the application.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "05. First of all it is necessary to mention here that, according to prosecution the alleged incident had taken place within the area of Choudharwadi at Nageshwarnagar near the canal. Accused No.1 and present applicant ran away from the spot of incident and were found manufacturing illicit liquor.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "05.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "First of all it is necessary to mention here that, according to prosecution the alleged incident had taken place within the area of Choudharwadi at Nageshwarnagar near the canal.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accused No.1 and present applicant ran away from the spot of incident and were found manufacturing illicit liquor.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "06. Allegations of present FIR indicate that, accused No.1 and applicant was found manufacturing illicit liquor and at the time of raid both of them were succeeded to run away. It is also necessary to mention here that, the name of present 3 Cri.M.A.No.51 of 2019 (Exh.1) applicant is not mentioned in complaint. Moreover, alleged incident had been taken place on 12.01.2019 at about 05.30 p.m. and illicit liquor and material used for manufacturing illicit liquor has been seized and destroyed.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "06.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Allegations of present FIR indicate that, accused No.1 and applicant was found manufacturing illicit liquor and at the time of raid both of them were succeeded to run away.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is also necessary to mention here that, the name of present 3 Cri.M.A.No.51 of 2019 (Exh.1) applicant is not mentioned in complaint.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Moreover, alleged incident had been taken place on 12.01.2019 at about 05.30 p.m. and illicit liquor and material used for manufacturing illicit liquor has been seized and destroyed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "07. On perusal of order passed below Exh.1 in Cri.M.A.No.34 of 2019, it reveals that, accused No.1 by name Sunny Manik Jadhav is released on regular bail on 30.01.2019 in present crime. 08. Considering the role of present applicant, it can be said that, his custodial interrogation is not at all necessary. Though it is mentioned by learned A.P.P. in his say that, the investigation is in progress, applicant will repeat similar type of crime, will abscond and pressurise the witnesses, in my mind, on that count the application cannot be rejected. Considering the nature of offence, punishment provided for it, keeping in mind that name of applicant is not mentioned in FIR, further keeping in mind that, accused No.1 has been already released on bail, I proceed to pass the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "07.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On perusal of order passed below Exh.1 in Cri.M.A.No.34 of 2019, it reveals that, accused No.1 by name Sunny Manik Jadhav is released on regular bail on 30.01.2019 in present crime.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "08.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Considering the role of present applicant, it can be said that, his custodial interrogation is not at all necessary.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Though it is mentioned by learned A.P.P. in his say that, the investigation is in progress, applicant will repeat similar type of crime, will abscond and pressurise the witnesses, in my mind, on that count the application cannot be rejected.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Considering the nature of offence, punishment provided for it, keeping in mind that name of applicant is not mentioned in FIR, further keeping in mind that, accused No.1 has been already released on bail, I proceed to pass the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R 1. Anticipatory bail application of applicant, namely, Ganesh Mahadeo Telkhade is hereby allowed. 2. In the event of arrest in C.R.No.9 of 2019 punishable under Section 328 r/w 34 of the Indian Penal Code and Section 65(f) of the Bombay Prohibition Act registered with Phaltan City Police Station, District Satara, the applicant be released on executing PR of Rs.15,000/­ with 4 Cri.M.A.No.51 of 2019 (Exh.1) one solvent surety of like amount. 3. The applicant is directed to attend Phaltan City Police Station on every Sunday between 11.00 a.m. to 2.00 p.m. till filing of the charge­sheet. 4. The applicant shall not influence the prosecution witnesses or tamper with the evidence. 5. The applicant shall co­operate with the investigating agency. 6. In case it is noticed that, the applicant is involved in similar type of offence, it shall be open for the prosecution to move for cancellation of their bail.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Satara. Date : 14.02.2019. (N.D.Khose) Additional Sessions Judge, Satara.",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "1 Cri.M.A.No.51 of 2019 (Exh.1) Order passed below Exh.1 in Cri.M.A.No.51 of 2019. (CNR No.MHST01­000287­2019) \r\n---header-ends---\r\n01. The applicant, namely, Ganesh Mahadeo Telkhade apprehending his arrest in C.R.No.9 of 2019 for the offence punishable under Section 328 r/w 34 of the Indian Penal Code and Section 65(f) of the Bombay Prohibition Act, registered with Phaltan City Police Station, has filed this application under Section 438 of the Code of Criminal Procedure for anticipatory bail. \r\n---background-ends---\r\n02. Perused application. From the contents of complaint of Nitin Dilip Chature dated 12.01.2019 in C.R.No.9 of 2019, it reveals that, on 12.01.2019, at about 05.00 p.m., when complainant and other police staff were present at Phaltan City Police Station, PI D.G.Nale received secret information that, some persons are selling illicit liquor within the area of Choudharwadi at Nageshwarnagar near the canal. When police staff and panchas reached for raid they noticed that, two persons were manufacturing illicit liquor. Police Constable Mengavde was knowing Sunny Manik Jadhav who was manufacturing illicit liquor. The name of another person is not mentioned in complaint. It is alleged in complaint that, Sunny Manik Jadhav and one unknown person was manufacturing illicit liquor on the date, time and place of incident. \r\n---argument-ends---\r\n03. Heard learned Advocate for applicant and learned A.P.P. It is argued by learned Advocate for applicant that, the custodial interrogation of applicant is not necessary. Name of 2 Cri.M.A.No.51 of 2019 (Exh.1) present applicant is not mentioned in complaint. Further it was argued that, the regular bail is granted to Sunny Manik Jadhav in present crime i.e. C.R.No.9 of 2019. Per contra, it is vehemently argued by learned A.P.P. that, considering the nature and seriousness of the offence it is necessary to reject the application. \r\n---argument-ends---\r\n04. From the say of learned A.P.P. at Exh.9, it reveals that, the allegations against applicant are serious. Applicant was succeeded to run away from the spot. Accused No.1 and applicant were found manufacturing illicit liquor. Remand report shows the name of applicant. The custody of applicant is essential for thorough investigation. If applicant is released on bail he may repeat such type of crime and possibility of his absconding cannot be ruled out. Investigation is in progress. If applicant is released he will pressurise the witnesses. Learned A.P.P. prayed to reject the application. \r\n---argument-ends---\r\n05. First of all it is necessary to mention here that, according to prosecution the alleged incident had taken place within the area of Choudharwadi at Nageshwarnagar near the canal. Accused No.1 and present applicant ran away from the spot of incident and were found manufacturing illicit liquor. \r\n---argument-ends---\r\n06. Allegations of present FIR indicate that, accused No.1 and applicant was found manufacturing illicit liquor and at the time of raid both of them were succeeded to run away. It is also necessary to mention here that, the name of present 3 Cri.M.A.No.51 of 2019 (Exh.1) applicant is not mentioned in complaint. Moreover, alleged incident had been taken place on 12.01.2019 at about 05.30 p.m. and illicit liquor and material used for manufacturing illicit liquor has been seized and destroyed. \r\n---argument-ends---\r\n07. On perusal of order passed below Exh.1 in Cri.M.A.No.34 of 2019, it reveals that, accused No.1 by name Sunny Manik Jadhav is released on regular bail on 30.01.2019 in present crime. 08. Considering the role of present applicant, it can be said that, his custodial interrogation is not at all necessary. Though it is mentioned by learned A.P.P. in his say that, the investigation is in progress, applicant will repeat similar type of crime, will abscond and pressurise the witnesses, in my mind, on that count the application cannot be rejected. Considering the nature of offence, punishment provided for it, keeping in mind that name of applicant is not mentioned in FIR, further keeping in mind that, accused No.1 has been already released on bail, I proceed to pass the following order. \r\n---argument-ends---\r\nO R D E R 1. Anticipatory bail application of applicant, namely, Ganesh Mahadeo Telkhade is hereby allowed. 2. In the event of arrest in C.R.No.9 of 2019 punishable under Section 328 r/w 34 of the Indian Penal Code and Section 65(f) of the Bombay Prohibition Act registered with Phaltan City Police Station, District Satara, the applicant be released on executing PR of Rs.15,000/­ with 4 Cri.M.A.No.51 of 2019 (Exh.1) one solvent surety of like amount. 3. The applicant is directed to attend Phaltan City Police Station on every Sunday between 11.00 a.m. to 2.00 p.m. till filing of the charge­sheet. 4. The applicant shall not influence the prosecution witnesses or tamper with the evidence. 5. The applicant shall co­operate with the investigating agency. 6. In case it is noticed that, the applicant is involved in similar type of offence, it shall be open for the prosecution to move for cancellation of their bail. \r\n---order-ends---\r\nSatara. Date : 14.02.2019. (N.D.Khose) Additional Sessions Judge, Satara."
+}

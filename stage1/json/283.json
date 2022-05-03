@@ -1,0 +1,1436 @@
+{
+  "header": "\u003d1\u003d ORDER BELOW EXH. 1 IN CRI.BAIL APPLN. No. 91/2019 (Umesh Shambhu Zirpe Vs. State of Maharashtra) CNR : MHST01­000483­2019",
+  "background": {
+    "text": "1) Present application is filed by the applicant Umesh Shambhu Zirpe, under section 438 of Criminal Procedure Code, 1973 apprehending his arrest under C.R. no. 34/2019, registered at Satara taluka police station, at the instance of Aniket Janardan Badekar, for alleged commission of offence punishable under section 323, 504 and 506 of Indian Penal Code and section 3(1) (4)(s) and 3(2) V(a) of the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "323,504,506",
+          "stringMatched": "under section 323, 504 and 506 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) It is contended by the applicant\u0027s advocate that, the bone of contention between both the parties is civil dispute pertaining to the said property and the same also reflexing the civil suit being R.C.S. no. 322/2000 decided by Civil Judge Sr. Dn. Satara, vide its judgment and order dated 12/11/2018 in favour of applicant herein. It is contended that, in such circumstances, civil dispute between both the parties have been adjudicated on merits. Present applicant is not only in legal possession of the said property, but also have the title in his favour. Investigation Officer ought to have considered said elements in the course of his investigation before registering FIR unilaterally against this applicant. Investigation Officer has failed to consider the factum that informant has removed the notice board displayed on suit property by this applicant. Investigation Officer has also failed to consider the way notice board put up by the informant near the suit property. Applicant\u0027s police complaint dated 04/02/2019 is also ignored by the Investigation Officer before recording the complaint.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) It is contended by the applicant\u0027s advocate that, the bone of contention between both the parties is civil dispute pertaining to the said property and the same also reflexing the civil suit being R.C.S. no. 322/2000 decided by Civil Judge Sr.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Dn.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Satara, vide its judgment and order dated 12/11/2018 in favour of applicant herein.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is contended that, in such circumstances, civil dispute between both the parties have been adjudicated on merits.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Present applicant is not only in legal possession of the said property, but also have the title in his favour.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Investigation Officer ought to have considered said elements in the course of his investigation before registering FIR unilaterally against this applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Investigation Officer has failed to consider the factum that informant has removed the notice board displayed on suit property by this applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Investigation Officer has also failed to consider the way notice board put up by the informant near the suit property.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Applicant\u0027s police complaint dated 04/02/2019 is also ignored by the Investigation Officer before recording the complaint.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) Applicant\u0027s advocate also placed reliance on the affidavit of one Mr. Alim Gavandi\u0027s affidavit stating about the locks put up on the applicant\u0027s structure by two persons. It is contended that, said criminal proceedings are initiated by the informant merely to scuttle the decree adjudicated in this applicant\u0027s favour by the Civil Court in respect of same property.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) Applicant\u0027s advocate also placed reliance on the affidavit of one Mr. Alim Gavandi\u0027s affidavit stating about the locks put up on the applicant\u0027s structure by two persons.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, said criminal proceedings are initiated by the informant merely to scuttle the decree adjudicated in this applicant\u0027s favour by the Civil Court in respect of same property.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) Applicant\u0027s advocate accordingly contended that, in such circumstances, dispute between both the parties being civil in nature and considering the pronouncements of various Hon\u0027ble High Courts, bar of section 18­A of the Special Act, would not get attracted to the case in hand. Applicant\u0027s advocate in support of his contentions has placed reliance on :­ i) Sattar Khan Jabbar Khan Pathan \u0026 Anr. Vs. The State of Maharashtra \u0026 Anr. 2018 ALL MR (Cri) 5050; ii) Jayant Narishn Bahulikar \u0026 Ors. Vs. The State of Maharashtra 2018 ALL MR (Cri) 3793; iii) Order dated 09th January 2019 passed by the Hon\u0027ble High Court Bombay in Criminal Appeal no. 965 of 2017 in the matter of Sapna Korde Nee Ketaki A Ghodinde Vs. The State of Maharashtra and another; iv) Order dated 31st October 2018 passed by the Hon\u0027ble High Court Bombay in Criminal Appeal no. 1173 of 2018 in the matter of Sunil Namdevrao Thombre Vs. State of Maharashtra and another; v) Order dated 11th October 2018 passed by the Hon\u0027ble High Court Madhya Pradesh in Cr. A. no. 7295 of 2018 in the matter of Atendra Singh Rawat Vs. The State of Madhya Pradesh; vi) Order dated 21st December 2018 passed by the Hon\u0027ble High Court Calcutta in C.R.M. no. 8302 of 2018 in the matter of Debjyoti Bhattacharyya Vs. The State of West Bengal;",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) Applicant\u0027s advocate accordingly contended that, in such circumstances, dispute between both the parties being civil in nature and considering the pronouncements of various Hon\u0027ble High Courts, bar of section 18­A of the Special Act, would not get attracted to the case in hand.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Applicant\u0027s advocate in support of his contentions has placed reliance on :­ i) Sattar Khan Jabbar Khan Pathan \u0026 Anr.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Vs. The State of Maharashtra \u0026 Anr.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "2018 ALL MR (Cri) 5050; ii) Jayant Narishn Bahulikar \u0026 Ors.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Vs. The State of Maharashtra 2018 ALL MR (Cri) 3793; iii) Order dated 09th January 2019 passed by the Hon\u0027ble High Court Bombay in Criminal Appeal no. 965 of 2017 in the matter of Sapna Korde Nee Ketaki A Ghodinde Vs. The State of Maharashtra and another; iv) Order dated 31st October 2018 passed by the Hon\u0027ble High Court Bombay in Criminal Appeal no. 1173 of 2018 in the matter of Sunil Namdevrao Thombre Vs. State of Maharashtra and another; v) Order dated 11th October 2018 passed by the Hon\u0027ble High Court Madhya Pradesh in Cr.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "A. no. 7295 of 2018 in the matter of Atendra Singh Rawat Vs. The State of Madhya Pradesh; vi) Order dated 21st December 2018 passed by the Hon\u0027ble High Court Calcutta in C.R.M. no. 8302 of 2018 in the matter of Debjyoti Bhattacharyya Vs. The State of West Bengal;",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) Informant\u0027s father\u0027s medical certificate placed on record is also disputed on the grounds that, informant\u0027s father is about 70 years of age having ailing medical history and even he might have got hyper tension, even due to the conduct of his informant son. It is also contended that, applicant\u0027s custodial presence is not required for any investigation in the matter. It is accordingly contended that, in view of the cited rulings, applicant be protected by grant of pre­arrest bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) Informant\u0027s father\u0027s medical certificate placed on record is also disputed on the grounds that, informant\u0027s father is about 70 years of age having ailing medical history and even he might have got hyper tension, even due to the conduct of his informant son.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is also contended that, applicant\u0027s custodial presence is not required for any investigation in the matter.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is accordingly contended that, in view of the cited rulings, applicant be protected by grant of pre­arrest bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6) Bail application is resisted by the APP by filing say at Exh. 9 on the grounds that, section 18(A)(2) of the Special Act, bars any pre­arrest bail application under section 438 of Criminal Procedure Code, 1973. It is further contended that, the informant belongs to \u0027Hindu­Mang\u0027 community recognized as \u0027Schedule Caste\u0027 and the accused humiliated the informant at a public place, on his caste, threatened, abused and scuffled with the informant. It is contended that, FIR is genuine as the civil dispute between both the parties were pending since the year 2000, however FIR is lodged on 04/02/2019 and never before it.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) Bail application is resisted by the APP by filing say at Exh. 9 on the grounds that, section 18(A)(2) of the Special Act, bars any pre­arrest bail application under section 438 of Criminal Procedure Code, 1973.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is further contended that, the informant belongs to \u0027Hindu­Mang\u0027 community recognized as \u0027Schedule Caste\u0027 and the accused humiliated the informant at a public place, on his caste, threatened, abused and scuffled with the informant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is contended that, FIR is genuine as the civil dispute between both the parties were pending since the year 2000, however FIR is lodged on 04/02/2019 and never before it.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7) APP also contended that, accused\u0027s custodial interrogation is necessary for seizure of the motorcycle mentioned in the FIR and also to make investigations from the eye­witness to the incidence. APP also contended that, the case at hand, being different from the facts of cited rulings, the cited rulings shall not have application to this case. Accordingly, bail application is resisted.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7) APP also contended that, accused\u0027s custodial interrogation is necessary for seizure of the motorcycle mentioned in the FIR and also to make investigations from the eye­witness to the incidence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "APP also contended that, the case at hand, being different from the facts of cited rulings, the cited rulings shall not have application to this case.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accordingly, bail application is resisted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8) Bail application is also resisted by the informant by filing say at Exh. 10 on the grounds similar as that raised by the APP. It is further contended that, the incidence has occurred and hence FIR was required to be filed. It is contended that, as a reason of incidence, informant\u0027s father suffered hyper tension requiring to be admitted since 04/02/2019 till 09/02/2019. It is contended that, accused had abused the informant, as to his caste and even used filthy language for the women of informant\u0027s family. It is also contended that, Civil Appeal bearing R.C.A. no. 37/2019 is preferred against judgment and order dated 12/11/2018 passed in R.C.S. no. 322/2000. Informant\u0027s title and possession are under dispute and have not attained finality. Accordingly, pre­arrest bail is resisted.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8) Bail application is also resisted by the informant by filing say at Exh. 10 on the grounds similar as that raised by the APP.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is further contended that, the incidence has occurred and hence FIR was required to be filed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is contended that, as a reason of incidence, informant\u0027s father suffered hyper tension requiring to be admitted since 04/02/2019 till 09/02/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is contended that, accused had abused the informant, as to his caste and even used filthy language for the women of informant\u0027s family.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "It is also contended that, Civil Appeal bearing R.C.A. no. 37/2019 is preferred against judgment and order dated 12/11/2018 passed in R.C.S. no. 322/2000.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Informant\u0027s title and possession are under dispute and have not attained finality.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Accordingly, pre­arrest bail is resisted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "9) Upon hearing the applicant\u0027s advocate, the APP, the informant\u0027s advocate, perusing the say filed on record and also the other investigation papers produced on record, it appears that, dispute between both the parties arise out of the landed properties in respect of which civil suits are pending since the year 2000. The recently added section 18­A of the Special Act, had barred, application under section 438 of Criminal Procedure Code, 1973. However, taking into consideration the rulings cited at the behest of applicant, again it has to be considered whether prima­facie case is made out against the applicant or not, instances as to being in public place or in public view, are also to be considered. Accusations as to caste cannot be ignored.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "9) Upon hearing the applicant\u0027s advocate, the APP, the informant\u0027s advocate, perusing the say filed on record and also the other investigation papers produced on record, it appears that, dispute between both the parties arise out of the landed properties in respect of which civil suits are pending since the year 2000.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The recently added section 18­A of the Special Act, had barred, application under section 438 of Criminal Procedure Code, 1973.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "However, taking into consideration the rulings cited at the behest of applicant, again it has to be considered whether prima­facie case is made out against the applicant or not, instances as to being in public place or in public view, are also to be considered.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Accusations as to caste cannot be ignored.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 9,
+      "text": "10) In the matter of Sunil Thombre (Supra), Hon\u0027ble Bombay High Court was pleased to protect the applicant/accused by grant of pre­arrest bail in respect of incidence dated 20/08/2018 i.e. after the introduction of section 18­A in the Special Act, on the grounds that the informant\u0027s caste was not disclosed in the FIR.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "10) In the matter of Sunil Thombre (Supra), Hon\u0027ble Bombay High Court was pleased to protect the applicant/accused by grant of pre­arrest bail in respect of incidence dated 20/08/2018 i.e. after the introduction of section 18­A in the Special Act, on the grounds that the informant\u0027s caste was not disclosed in the FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 10,
+      "text": "11) In the matter of Debjyoti (Supra), Hon\u0027ble High Court inspite of discussing at length the provisions of section18­A of the Special Act, did not protect the said applicant/accused by grant of pre­arrest bail observing that, “... it cannot be said that the accusation does not disclose the ingredients of an offence under the said Act. Once so much is seen, in the light of Section 18 of the said Act read with Section 18­A thereof – without going \u003d5\u003d into the question of the validity of such provision – this petition cannot be considered any further.”",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "11) In the matter of Debjyoti (Supra), Hon\u0027ble High Court inspite of discussing at length the provisions of section18­A of the Special Act, did not protect the said applicant/accused by grant of pre­arrest bail observing that, “... it cannot be said that the accusation does not disclose the ingredients of an offence under the said Act.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Once so much is seen, in the light of Section 18 of the said Act read with Section 18­A thereof – without going \u003d5\u003d into the question of the validity of such provision – this petition cannot be considered any further.”",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 11,
+      "text": "12) In the matter of Sapna Korde (Supra), Hon\u0027ble High Court Bombay, considering the complainant\u0027s objection under section 18­A of the Special Act, was pleased to protect the applicant accused by grant of pre­arrest bail observing that, “...there is absolutely no case of offence of atrocities against ...Sapna Korde...”.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "12) In the matter of Sapna Korde (Supra), Hon\u0027ble High Court Bombay, considering the complainant\u0027s objection under section 18­A of the Special Act, was pleased to protect the applicant accused by grant of pre­arrest bail observing that, “...there is absolutely no case of offence of atrocities against ...Sapna Korde...”.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 12,
+      "text": "13) In the matter of Atendra (Supra), Hon\u0027ble Madhya Pradesh High Court was pleased to protect the said applicant/accused, observing that the allegations in the FIR did not match with the ingredients of section 3(1)(w)(i) of the Special Act. While granting the pre­arrest bail, the Hon\u0027ble High Court had even taken into consideration the provisions of section 18­A (2) of the Special Act.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "13) In the matter of Atendra (Supra), Hon\u0027ble Madhya Pradesh High Court was pleased to protect the said applicant/accused, observing that the allegations in the FIR did not match with the ingredients of section 3(1)(w)(i) of the Special Act.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "While granting the pre­arrest bail, the Hon\u0027ble High Court had even taken into consideration the provisions of section 18­A (2) of the Special Act.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 13,
+      "text": "14) In the matter of Sattar (Supra), pre­arrest bail was granted on the grounds that, the FIR prima­facie was observed to be false and motivated and the evidences of witnesses appeared to be inconsistent with each other on the same facts.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "14) In the matter of Sattar (Supra), pre­arrest bail was granted on the grounds that, the FIR prima­facie was observed to be false and motivated and the evidences of witnesses appeared to be inconsistent with each other on the same facts.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 14,
+      "text": "15) In the matter of Jayant (Supra), pre­arrest bail was granted on the grounds that, allegations of the complainant\u0027s removal of service, were only against the company and no specific role overt act is attributed to any of the applicant/accused.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "15) In the matter of Jayant (Supra), pre­arrest bail was granted on the grounds that, allegations of the complainant\u0027s removal of service, were only against the company and no specific role overt act is attributed to any of the applicant/accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 15,
+      "text": "14) Perusal of FIR in the case in hand, reveals allegations against the applicant of having abused the informant as to his caste and also of having used filthy language in respect of the women from informant\u0027s family. Incident is alleged to have occurred in the fields. Without going into the aspect whether the motorcycle indeed is required to be seized or not; the allegations in the FIR leads to the fact that there are prima­facie allegations against accused in the FIR. In such circumstances, the cited rulings do not assist the applicant/accused, atleast at this juncture of pre­ arrest bail application, for reason of facts deferring. In such circumstances, it appears that, applicant has not made out any case to be protected by grant of pre­arrest bail. Hence, the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "14) Perusal of FIR in the case in hand, reveals allegations against the applicant of having abused the informant as to his caste and also of having used filthy language in respect of the women from informant\u0027s family.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Incident is alleged to have occurred in the fields.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Without going into the aspect whether the motorcycle indeed is required to be seized or not; the allegations in the FIR leads to the fact that there are prima­facie allegations against accused in the FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "In such circumstances, the cited rulings do not assist the applicant/accused, atleast at this juncture of pre­ arrest bail application, for reason of facts deferring.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "In such circumstances, it appears that, applicant has not made out any case to be protected by grant of pre­arrest bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Hence, the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R Criminal Bail Application no. 91/2019, is rejected.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Y. H. Ameta) Place : Satara Special Judge Date : 13th February, 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "\u003d1\u003d ORDER BELOW EXH. 1 IN CRI.BAIL APPLN. No. 91/2019 (Umesh Shambhu Zirpe Vs. State of Maharashtra) CNR : MHST01­000483­2019 \r\n---header-ends---\r\n1) Present application is filed by the applicant Umesh Shambhu Zirpe, under section 438 of Criminal Procedure Code, 1973 apprehending his arrest under C.R. no. 34/2019, registered at Satara taluka police station, at the instance of Aniket Janardan Badekar, for alleged commission of offence punishable under section 323, 504 and 506 of Indian Penal Code and section 3(1) (4)(s) and 3(2) V(a) of the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act. \r\n---background-ends---\r\n2) It is contended by the applicant\u0027s advocate that, the bone of contention between both the parties is civil dispute pertaining to the said property and the same also reflexing the civil suit being R.C.S. no. 322/2000 decided by Civil Judge Sr. Dn. Satara, vide its judgment and order dated 12/11/2018 in favour of applicant herein. It is contended that, in such circumstances, civil dispute between both the parties have been adjudicated on merits. Present applicant is not only in legal possession of the said property, but also have the title in his favour. Investigation Officer ought to have considered said elements in the course of his investigation before registering FIR unilaterally against this applicant. Investigation Officer has failed to consider the factum that informant has removed the notice board displayed on suit property by this applicant. Investigation Officer has also failed to consider the way notice board put up by the informant near the suit property. Applicant\u0027s police complaint dated 04/02/2019 is also ignored by the Investigation Officer before recording the complaint. \r\n---argument-ends---\r\n3) Applicant\u0027s advocate also placed reliance on the affidavit of one Mr. Alim Gavandi\u0027s affidavit stating about the locks put up on the applicant\u0027s structure by two persons. It is contended that, said criminal proceedings are initiated by the informant merely to scuttle the decree adjudicated in this applicant\u0027s favour by the Civil Court in respect of same property. \r\n---argument-ends---\r\n4) Applicant\u0027s advocate accordingly contended that, in such circumstances, dispute between both the parties being civil in nature and considering the pronouncements of various Hon\u0027ble High Courts, bar of section 18­A of the Special Act, would not get attracted to the case in hand. Applicant\u0027s advocate in support of his contentions has placed reliance on :­ i) Sattar Khan Jabbar Khan Pathan \u0026 Anr. Vs. The State of Maharashtra \u0026 Anr. 2018 ALL MR (Cri) 5050; ii) Jayant Narishn Bahulikar \u0026 Ors. Vs. The State of Maharashtra 2018 ALL MR (Cri) 3793; iii) Order dated 09th January 2019 passed by the Hon\u0027ble High Court Bombay in Criminal Appeal no. 965 of 2017 in the matter of Sapna Korde Nee Ketaki A Ghodinde Vs. The State of Maharashtra and another; iv) Order dated 31st October 2018 passed by the Hon\u0027ble High Court Bombay in Criminal Appeal no. 1173 of 2018 in the matter of Sunil Namdevrao Thombre Vs. State of Maharashtra and another; v) Order dated 11th October 2018 passed by the Hon\u0027ble High Court Madhya Pradesh in Cr. A. no. 7295 of 2018 in the matter of Atendra Singh Rawat Vs. The State of Madhya Pradesh; vi) Order dated 21st December 2018 passed by the Hon\u0027ble High Court Calcutta in C.R.M. no. 8302 of 2018 in the matter of Debjyoti Bhattacharyya Vs. The State of West Bengal; \r\n---argument-ends---\r\n5) Informant\u0027s father\u0027s medical certificate placed on record is also disputed on the grounds that, informant\u0027s father is about 70 years of age having ailing medical history and even he might have got hyper tension, even due to the conduct of his informant son. It is also contended that, applicant\u0027s custodial presence is not required for any investigation in the matter. It is accordingly contended that, in view of the cited rulings, applicant be protected by grant of pre­arrest bail. \r\n---argument-ends---\r\n6) Bail application is resisted by the APP by filing say at Exh. 9 on the grounds that, section 18(A)(2) of the Special Act, bars any pre­arrest bail application under section 438 of Criminal Procedure Code, 1973. It is further contended that, the informant belongs to \u0027Hindu­Mang\u0027 community recognized as \u0027Schedule Caste\u0027 and the accused humiliated the informant at a public place, on his caste, threatened, abused and scuffled with the informant. It is contended that, FIR is genuine as the civil dispute between both the parties were pending since the year 2000, however FIR is lodged on 04/02/2019 and never before it. \r\n---argument-ends---\r\n7) APP also contended that, accused\u0027s custodial interrogation is necessary for seizure of the motorcycle mentioned in the FIR and also to make investigations from the eye­witness to the incidence. APP also contended that, the case at hand, being different from the facts of cited rulings, the cited rulings shall not have application to this case. Accordingly, bail application is resisted. \r\n---argument-ends---\r\n8) Bail application is also resisted by the informant by filing say at Exh. 10 on the grounds similar as that raised by the APP. It is further contended that, the incidence has occurred and hence FIR was required to be filed. It is contended that, as a reason of incidence, informant\u0027s father suffered hyper tension requiring to be admitted since 04/02/2019 till 09/02/2019. It is contended that, accused had abused the informant, as to his caste and even used filthy language for the women of informant\u0027s family. It is also contended that, Civil Appeal bearing R.C.A. no. 37/2019 is preferred against judgment and order dated 12/11/2018 passed in R.C.S. no. 322/2000. Informant\u0027s title and possession are under dispute and have not attained finality. Accordingly, pre­arrest bail is resisted. \r\n---argument-ends---\r\n9) Upon hearing the applicant\u0027s advocate, the APP, the informant\u0027s advocate, perusing the say filed on record and also the other investigation papers produced on record, it appears that, dispute between both the parties arise out of the landed properties in respect of which civil suits are pending since the year 2000. The recently added section 18­A of the Special Act, had barred, application under section 438 of Criminal Procedure Code, 1973. However, taking into consideration the rulings cited at the behest of applicant, again it has to be considered whether prima­facie case is made out against the applicant or not, instances as to being in public place or in public view, are also to be considered. Accusations as to caste cannot be ignored. \r\n---argument-ends---\r\n10) In the matter of Sunil Thombre (Supra), Hon\u0027ble Bombay High Court was pleased to protect the applicant/accused by grant of pre­arrest bail in respect of incidence dated 20/08/2018 i.e. after the introduction of section 18­A in the Special Act, on the grounds that the informant\u0027s caste was not disclosed in the FIR. \r\n---argument-ends---\r\n11) In the matter of Debjyoti (Supra), Hon\u0027ble High Court inspite of discussing at length the provisions of section18­A of the Special Act, did not protect the said applicant/accused by grant of pre­arrest bail observing that, “... it cannot be said that the accusation does not disclose the ingredients of an offence under the said Act. Once so much is seen, in the light of Section 18 of the said Act read with Section 18­A thereof – without going \u003d5\u003d into the question of the validity of such provision – this petition cannot be considered any further.” \r\n---argument-ends---\r\n12) In the matter of Sapna Korde (Supra), Hon\u0027ble High Court Bombay, considering the complainant\u0027s objection under section 18­A of the Special Act, was pleased to protect the applicant accused by grant of pre­arrest bail observing that, “...there is absolutely no case of offence of atrocities against ...Sapna Korde...”. \r\n---argument-ends---\r\n13) In the matter of Atendra (Supra), Hon\u0027ble Madhya Pradesh High Court was pleased to protect the said applicant/accused, observing that the allegations in the FIR did not match with the ingredients of section 3(1)(w)(i) of the Special Act. While granting the pre­arrest bail, the Hon\u0027ble High Court had even taken into consideration the provisions of section 18­A (2) of the Special Act. \r\n---argument-ends---\r\n14) In the matter of Sattar (Supra), pre­arrest bail was granted on the grounds that, the FIR prima­facie was observed to be false and motivated and the evidences of witnesses appeared to be inconsistent with each other on the same facts. \r\n---argument-ends---\r\n15) In the matter of Jayant (Supra), pre­arrest bail was granted on the grounds that, allegations of the complainant\u0027s removal of service, were only against the company and no specific role overt act is attributed to any of the applicant/accused. \r\n---argument-ends---\r\n14) Perusal of FIR in the case in hand, reveals allegations against the applicant of having abused the informant as to his caste and also of having used filthy language in respect of the women from informant\u0027s family. Incident is alleged to have occurred in the fields. Without going into the aspect whether the motorcycle indeed is required to be seized or not; the allegations in the FIR leads to the fact that there are prima­facie allegations against accused in the FIR. In such circumstances, the cited rulings do not assist the applicant/accused, atleast at this juncture of pre­ arrest bail application, for reason of facts deferring. In such circumstances, it appears that, applicant has not made out any case to be protected by grant of pre­arrest bail. Hence, the following order. \r\n---argument-ends---\r\nO R D E R Criminal Bail Application no. 91/2019, is rejected. \r\n---order-ends---\r\n(Y. H. Ameta) Place : Satara Special Judge Date : 13th February, 2019. Satara"
+}

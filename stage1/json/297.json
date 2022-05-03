@@ -1,0 +1,1255 @@
+{
+  "header": "\u003d1\u003d ORDER BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 105/2019 (Chand @ Suraj Jelya @ Jalindar Pawar Vs. State of Maharashtra) CNR : MHST01­000524­2019",
+  "background": {
+    "text": "1) Present bail application is preferred by the accused under section 439 of Criminal Procedure Code, 1973 seeking his release from arrest, under C.R. no. 313/2018, registered at Lonand Police Station, at the instance of Santosh Jaywant Kharat, for alleged commission of offence punishable under section 302 of Indian Penal Code, 1860. Section 396 of Indian Penal Code, 1860 is thereafter added in the FIR.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "302",
+          "stringMatched": "under section 302 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) It is contended by applicant\u0027s advocate that, alleged incident is dated 29/10/2018 and accused has been falsely arrested on 21/01/2019 and is in MCR since 24/01/2019. Nothing material has been seized at the instance of this accused except motorcycle. It is further contended that, FIR in no circumstances reveals any motorcycle being used in the commission of alleged offence. It is accordingly contended that, the seizure of motorcycle in no circumstances proves this applicant\u0027s involvement in the offence.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) It is contended by applicant\u0027s advocate that, alleged incident is dated 29/10/2018 and accused has been falsely arrested on 21/01/2019 and is in MCR since 24/01/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Nothing material has been seized at the instance of this accused except motorcycle.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is further contended that, FIR in no circumstances reveals any motorcycle being used in the commission of alleged offence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is accordingly contended that, the seizure of motorcycle in no circumstances proves this applicant\u0027s involvement in the offence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is also contended that, section 396 of Indian Penal Code, 1860, is thereafter added merely to aggravate the circumstances inspite of it appearing it to be a case of mere murder. If at all, accused intended to commit dacoity or loot anything, the deceased earnings and nose rings, both being of gold would also have been snatched by the accused, but the fact that the earnings and the nose rings being found on the deceased\u0027s body, it in no case is a murder done while committing dacoity.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is also contended that, section 396 of Indian Penal Code, 1860, is thereafter added merely to aggravate the circumstances inspite of it appearing it to be a case of mere murder.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "If at all, accused intended to commit dacoity or loot anything, the deceased earnings and nose rings, both being of gold would also have been snatched by the accused, but the fact that the earnings and the nose rings being found on the deceased\u0027s body, it in no case is a murder done while committing dacoity.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) It is also contended that, FIR reveals only two injuries on the back of the deceased. If at all, there would have been 5 assailants, there ought to have been many more injuries on the deceased\u0027s body. The fact that there were only two injuries, reveals that there would have been at the most one or two assailants. Accordingly, it is contended of the charge being aggravated.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) It is also contended that, FIR reveals only two injuries on the back of the deceased.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "If at all, there would have been 5 assailants, there ought to have been many more injuries on the deceased\u0027s body.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The fact that there were only two injuries, reveals that there would have been at the most one or two assailants.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Accordingly, it is contended of the charge being aggravated.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) It is further contended that, FIR itself is unbelievable as it reveals of the informant waking up upon hearing the sounds of the door chains. If at all, the informant\u0027s mother was out of the house there won\u0027t be any reason for the informant\u0027s father to open the door chain and noise of it to be created. It is accordingly contended that, the informant is not narrating the true facts in the FIR.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) It is further contended that, FIR itself is unbelievable as it reveals of the informant waking up upon hearing the sounds of the door chains.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "If at all, the informant\u0027s mother was out of the house there won\u0027t be any reason for the informant\u0027s father to open the door chain and noise of it to be created.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is accordingly contended that, the informant is not narrating the true facts in the FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6) It is further contended that, applicant/accused is falsely roped in the offence, inspite of material recoveries like the weapon, being at the instance of other accused. Applicant is merely arrayed as accused in the offence, as this applicant/accused has lodged complaint against the police.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) It is further contended that, applicant/accused is falsely roped in the offence, inspite of material recoveries like the weapon, being at the instance of other accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Applicant is merely arrayed as accused in the offence, as this applicant/accused has lodged complaint against the police.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7) It is contended that, accused is in arrest since 21/01/2019, offence is registered on 29/10/2018. Sufficient time has passed for investigation. Accused charged with other offences is already enlarged on bail. It is also contended that, accused cannot be denied bail on the grounds of other accused yet to be arrested. Accordingly, it is contended that, accused be released on bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7) It is contended that, accused is in arrest since 21/01/2019, offence is registered on 29/10/2018.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Sufficient time has passed for investigation.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accused charged with other offences is already enlarged on bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is also contended that, accused cannot be denied bail on the grounds of other accused yet to be arrested.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Accordingly, it is contended that, accused be released on bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8) Bail application is resisted by the APP by filing say at Exh. 5 on the grounds that, offence is committed at about 4:00 a.m., while the informant\u0027s mother went out to answer the natures call. Unknown accused had committed her murder in the process of committing dacoity. It is contended that, the fact that necklace beads being found scattered near the body, it reveals of the accused snatched her necklace and upon being resisted assaulted her with scythe. Accused no.1 being Rohit had inflicted the assaults. It is further contended that, it may always not be necessary that all the persons committed dacoity may assault the victim. It is further contended that, the factum of recoveries of victim\u0027s golden necklace cups, pursuant to memorandum reveal of the accused\u0027s initial objective of committing dacoity and upon being resisted, assaulting and murdering her.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8) Bail application is resisted by the APP by filing say at Exh. 5 on the grounds that, offence is committed at about 4:00 a.m., while the informant\u0027s mother went out to answer the natures call.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Unknown accused had committed her murder in the process of committing dacoity.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is contended that, the fact that necklace beads being found scattered near the body, it reveals of the accused snatched her necklace and upon being resisted assaulted her with scythe.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Accused no.1 being Rohit had inflicted the assaults.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "It is further contended that, it may always not be necessary that all the persons committed dacoity may assault the victim.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "It is further contended that, the factum of recoveries of victim\u0027s golden necklace cups, pursuant to memorandum reveal of the accused\u0027s initial objective of committing dacoity and upon being resisted, assaulting and murdering her.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "9) It is also contended that, offence was initially registered against unknown accused, however investigation revealed the complicity of all the accused named in remand list.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "9) It is also contended that, offence was initially registered against unknown accused, however investigation revealed the complicity of all the accused named in remand list.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 9,
+      "text": "10) It is contended that, complicity of these accused is confirmed by the recoveries from both the accused. Investigation in the matter is continuing, other accused are yet to be traced and arrested. In case of releasing the accused on bail, pressurizing the witnesses and tampering of evidences, etc. cannot be ruled out, tracing and arresting the other accused would also be hampered. Accordingly, bail application is sought to be rejected.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "10) It is contended that, complicity of these accused is confirmed by the recoveries from both the accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Investigation in the matter is continuing, other accused are yet to be traced and arrested.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "In case of releasing the accused on bail, pressurizing the witnesses and tampering of evidences, etc. cannot be ruled out, tracing and arresting the other accused would also be hampered.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Accordingly, bail application is sought to be rejected.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 10,
+      "text": "11) Upon perusing FIR, the investigation papers and other documents submitted on record, hearing the APP and the accused\u0027s advocate, it appears that, the deceased has suffered two injuries on her back. Her earings and nose rings may be seen on her body. At the same time, golden cups from her necklace are reported to be missing. The necklace beads appears scattered near the dead body. Thus, it appears that, the necklace was attempted to be snatched leading to scuffle and injuries. Recoveries of golden cups and sythe are shown at the instance of co­accused. Vehicle is recovered at the instance of present applicant/accused. FIR might have been against the unknown accused; However, remand list reveal clear names of 5 accused. Offence inspite being of 29/10/2018, 3 accused are yet at large. Present accused also could be arrested only on 21/01/2019. In such circumstances, it cannot be said that investigation in the offence is completed. Further, it is on record that, two other offences of similar nature are lodged against the present applicant/accused, may be, he would be on bail. However, present offence is serious in nature leading to death of victim lady. In such circumstances, releasing accused on bail, may not negate the APP\u0027s apprehensions. Thus, it appears that, applicant has not made out any case for being released on bail, atleast at this stage of investigation being pending. Hence, the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "11) Upon perusing FIR, the investigation papers and other documents submitted on record, hearing the APP and the accused\u0027s advocate, it appears that, the deceased has suffered two injuries on her back.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Her earings and nose rings may be seen on her body.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "At the same time, golden cups from her necklace are reported to be missing.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The necklace beads appears scattered near the dead body.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Thus, it appears that, the necklace was attempted to be snatched leading to scuffle and injuries.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Recoveries of golden cups and sythe are shown at the instance of co­accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Vehicle is recovered at the instance of present applicant/accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "FIR might have been against the unknown accused; However, remand list reveal clear names of 5 accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Offence inspite being of 29/10/2018, 3 accused are yet at large.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Present accused also could be arrested only on 21/01/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "In such circumstances, it cannot be said that investigation in the offence is completed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Further, it is on record that, two other offences of similar nature are lodged against the present applicant/accused, may be, he would be on bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "text": "However, present offence is serious in nature leading to death of victim lady.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "text": "In such circumstances, releasing accused on bail, may not negate the APP\u0027s apprehensions.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "text": "Thus, it appears that, applicant has not made out any case for being released on bail, atleast at this stage of investigation being pending.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 16,
+          "text": "Hence, the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER Criminal Bail Application no. 105/2019, is rejected.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Y. H. Ameta) Place : Satara Addl. Sessions Judge Date : 27th February 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "\u003d1\u003d ORDER BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 105/2019 (Chand @ Suraj Jelya @ Jalindar Pawar Vs. State of Maharashtra) CNR : MHST01­000524­2019 \r\n---header-ends---\r\n1) Present bail application is preferred by the accused under section 439 of Criminal Procedure Code, 1973 seeking his release from arrest, under C.R. no. 313/2018, registered at Lonand Police Station, at the instance of Santosh Jaywant Kharat, for alleged commission of offence punishable under section 302 of Indian Penal Code, 1860. Section 396 of Indian Penal Code, 1860 is thereafter added in the FIR. \r\n---background-ends---\r\n2) It is contended by applicant\u0027s advocate that, alleged incident is dated 29/10/2018 and accused has been falsely arrested on 21/01/2019 and is in MCR since 24/01/2019. Nothing material has been seized at the instance of this accused except motorcycle. It is further contended that, FIR in no circumstances reveals any motorcycle being used in the commission of alleged offence. It is accordingly contended that, the seizure of motorcycle in no circumstances proves this applicant\u0027s involvement in the offence. \r\n---argument-ends---\r\n3) It is also contended that, section 396 of Indian Penal Code, 1860, is thereafter added merely to aggravate the circumstances inspite of it appearing it to be a case of mere murder. If at all, accused intended to commit dacoity or loot anything, the deceased earnings and nose rings, both being of gold would also have been snatched by the accused, but the fact that the earnings and the nose rings being found on the deceased\u0027s body, it in no case is a murder done while committing dacoity. \r\n---argument-ends---\r\n4) It is also contended that, FIR reveals only two injuries on the back of the deceased. If at all, there would have been 5 assailants, there ought to have been many more injuries on the deceased\u0027s body. The fact that there were only two injuries, reveals that there would have been at the most one or two assailants. Accordingly, it is contended of the charge being aggravated. \r\n---argument-ends---\r\n5) It is further contended that, FIR itself is unbelievable as it reveals of the informant waking up upon hearing the sounds of the door chains. If at all, the informant\u0027s mother was out of the house there won\u0027t be any reason for the informant\u0027s father to open the door chain and noise of it to be created. It is accordingly contended that, the informant is not narrating the true facts in the FIR. \r\n---argument-ends---\r\n6) It is further contended that, applicant/accused is falsely roped in the offence, inspite of material recoveries like the weapon, being at the instance of other accused. Applicant is merely arrayed as accused in the offence, as this applicant/accused has lodged complaint against the police. \r\n---argument-ends---\r\n7) It is contended that, accused is in arrest since 21/01/2019, offence is registered on 29/10/2018. Sufficient time has passed for investigation. Accused charged with other offences is already enlarged on bail. It is also contended that, accused cannot be denied bail on the grounds of other accused yet to be arrested. Accordingly, it is contended that, accused be released on bail. \r\n---argument-ends---\r\n8) Bail application is resisted by the APP by filing say at Exh. 5 on the grounds that, offence is committed at about 4:00 a.m., while the informant\u0027s mother went out to answer the natures call. Unknown accused had committed her murder in the process of committing dacoity. It is contended that, the fact that necklace beads being found scattered near the body, it reveals of the accused snatched her necklace and upon being resisted assaulted her with scythe. Accused no.1 being Rohit had inflicted the assaults. It is further contended that, it may always not be necessary that all the persons committed dacoity may assault the victim. It is further contended that, the factum of recoveries of victim\u0027s golden necklace cups, pursuant to memorandum reveal of the accused\u0027s initial objective of committing dacoity and upon being resisted, assaulting and murdering her. \r\n---argument-ends---\r\n9) It is also contended that, offence was initially registered against unknown accused, however investigation revealed the complicity of all the accused named in remand list. \r\n---argument-ends---\r\n10) It is contended that, complicity of these accused is confirmed by the recoveries from both the accused. Investigation in the matter is continuing, other accused are yet to be traced and arrested. In case of releasing the accused on bail, pressurizing the witnesses and tampering of evidences, etc. cannot be ruled out, tracing and arresting the other accused would also be hampered. Accordingly, bail application is sought to be rejected. \r\n---argument-ends---\r\n11) Upon perusing FIR, the investigation papers and other documents submitted on record, hearing the APP and the accused\u0027s advocate, it appears that, the deceased has suffered two injuries on her back. Her earings and nose rings may be seen on her body. At the same time, golden cups from her necklace are reported to be missing. The necklace beads appears scattered near the dead body. Thus, it appears that, the necklace was attempted to be snatched leading to scuffle and injuries. Recoveries of golden cups and sythe are shown at the instance of co­accused. Vehicle is recovered at the instance of present applicant/accused. FIR might have been against the unknown accused; However, remand list reveal clear names of 5 accused. Offence inspite being of 29/10/2018, 3 accused are yet at large. Present accused also could be arrested only on 21/01/2019. In such circumstances, it cannot be said that investigation in the offence is completed. Further, it is on record that, two other offences of similar nature are lodged against the present applicant/accused, may be, he would be on bail. However, present offence is serious in nature leading to death of victim lady. In such circumstances, releasing accused on bail, may not negate the APP\u0027s apprehensions. Thus, it appears that, applicant has not made out any case for being released on bail, atleast at this stage of investigation being pending. Hence, the following order. \r\n---argument-ends---\r\nORDER Criminal Bail Application no. 105/2019, is rejected. \r\n---order-ends---\r\n(Y. H. Ameta) Place : Satara Addl. Sessions Judge Date : 27th February 2019. Satara"
+}

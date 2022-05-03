@@ -1,0 +1,840 @@
+{
+  "header": "ORDER PASSED BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 79/2019 (Sandip Gulabrao Hake Vs. State of Maharashtra) CNR : MHST01­000399­2019",
+  "background": {
+    "text": "1) This is an application for grant of pre­arrest bail in connection with C.R.No. 196/2016 registered with Shahupuri police station, Satara for the offences punishable under sections 406, 409 \u0026 477­A r/w. 34 of Indian Penal Code, 1860.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "406,409,477,34",
+          "stringMatched": "under sections 406, 409 \u0026 477­a r/w. 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) According to the prosecution, the Assistant Channel Manager of M/s. Electronic Payment and Services Pvt. Ltd. Company (Hereinafter referred as “Said Company) lodged report that, M/s. RCI Cash Management Services Pvt. Ltd. Company Mumbai by agreement dated 20/03/2013 entrusted the job to their company of collection of cash from their client banks for replenishment of ATM machines. However, dispute cropped up between the company and its employee. Therefore, due to deficiency noticed in services of said company by the Principal Company, it was decided to revoke the agreement with said company. Accordingly, said company was directed to hand over ATM machines and its operation to its New Agency M/s. Secure Value. While handing over the charge to new agency following cash found short in the ATM machines i) Rs. 7,56,000/­ of State Bank of India Shahupuri branch; ii) Rs. 28,000/­ of Punjab and National Bank Raviwar Peth, Satara; iii) Rs. 49,500/­ of IDBI Bank Bhavani Peth, Satara; iv) Rs. 10,100/­ of Bank of Badoda, Shahupuri Satara.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) According to the prosecution, the Assistant Channel Manager of M/s. Electronic Payment and Services Pvt. Ltd.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Company (Hereinafter referred as “Said Company) lodged report that, M/s. RCI Cash Management Services Pvt. Ltd.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Company Mumbai by agreement dated 20/03/2013 entrusted the job to their company of collection of cash from their client banks for replenishment of ATM machines.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "However, dispute cropped up between the company and its employee.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Therefore, due to deficiency noticed in services of said company by the Principal Company, it was decided to revoke the agreement with said company.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Accordingly, said company was directed to hand over ATM machines and its operation to its New Agency M/s. Secure Value.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "While handing over the charge to new agency following cash found short in the ATM machines i) Rs. 7,56,000/­ of State Bank of India Shahupuri branch; ii) Rs. 28,000/­ of Punjab and National Bank Raviwar Peth, Satara; iii) Rs. 49,500/­ of IDBI Bank Bhavani Peth, Satara; iv) Rs. 10,100/­ of Bank of Badoda, Shahupuri Satara.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "5) The informant, being Assistant Channel Manager of said company has lodged report with the police against Director and the employee of the said company for having been committed the offences of breach of trust, cheating and misappropriation of funds with intent to defraud the employer.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) The informant, being Assistant Channel Manager of said company has lodged report with the police against Director and the employee of the said company for having been committed the offences of breach of trust, cheating and misappropriation of funds with intent to defraud the employer.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "6) It is contention of applicant that, he is innocent, he has no concern with the alleged offence. He was working as a employee with the said company and he was not responsible for collecting the money and replenishment of ATM machines of respective banks. Accused namely Swapnil Prakash Thorat, Abhijit Ramesh Mane and Mahesh Suryakant Chavan have been released on anticipatory bail by this Court in Cri.M.A No.663/2018. Therefore, applicant is entitled for grant of anticipatory bail on the ground of parity.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) It is contention of applicant that, he is innocent, he has no concern with the alleged offence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He was working as a employee with the said company and he was not responsible for collecting the money and replenishment of ATM machines of respective banks.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accused namely Swapnil Prakash Thorat, Abhijit Ramesh Mane and Mahesh Suryakant Chavan have been released on anticipatory bail by this Court in Cri.M.A No.663/2018.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, applicant is entitled for grant of anticipatory bail on the ground of parity.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "7) The offence had been registered against the Directors of the company in the year 2016, but the Investigating Officer of this case started giving harassment to the present applicant only because their names are appearing in the FIR.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7) The offence had been registered against the Directors of the company in the year 2016, but the Investigating Officer of this case started giving harassment to the present applicant only because their names are appearing in the FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "8) Heard Ld. Advocate Mr.R.N. Galande for the applicant and Ld. APP Mr. L. K. Khade for the prosecution.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8) Heard Ld. Advocate Mr.R.N.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Galande for the applicant and Ld. APP Mr. L. K. Khade for the prosecution.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "9) Prosecution by filing reply contested the application on the grounds that, detail investigation in the matter is required and prayed that applications be rejected.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "9) Prosecution by filing reply contested the application on the grounds that, detail investigation in the matter is required and prayed that applications be rejected.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "10) Perused FIR. The accusation are made in the FIR is that, one Swapnil Prakash Thorat was the custodian of said Company at Satara. The FIR does not disclose or assign specific role to the present applicant. Prima­facie, there is no material to show what role attributed to the present applicant. Prosecution even not able to indicate that, the said company had authorized the present applicant to collect the cash for replenishment in ATM machines upon receiving indent from Principal Company. Therefore, in my humble judgment, prima­facie there is direct material to connect this applicant with the charges of misappropriation of funds. The principal company had entrusted the job for collection of cash from various banks to the said company in which the applicant had performed his duty as per the instruction of his superiors. In absence of prima­facie document to indicate role of present applicant in the commission of crime, upon his arrest, he would face unnecessary harassment at the hands of police.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "10) Perused FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The accusation are made in the FIR is that, one Swapnil Prakash Thorat was the custodian of said Company at Satara.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The FIR does not disclose or assign specific role to the present applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Prima­facie, there is no material to show what role attributed to the present applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Prosecution even not able to indicate that, the said company had authorized the present applicant to collect the cash for replenishment in ATM machines upon receiving indent from Principal Company.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Therefore, in my humble judgment, prima­facie there is direct material to connect this applicant with the charges of misappropriation of funds.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "The principal company had entrusted the job for collection of cash from various banks to the said company in which the applicant had performed his duty as per the instruction of his superiors.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "In absence of prima­facie document to indicate role of present applicant in the commission of crime, upon his arrest, he would face unnecessary harassment at the hands of police.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "11) Investigating Officer has availed sufficient opportunity for investigation in the case. No complaint of Investigating Officer that, present applicant has not complied the terms and conditions imposed on him while granting ad­interim protection. In the circumstances, I find the personal interrogation of the present applicant is not necessary. Therefore, I am incline to confirm ad­interim protection order already granted in favour of applicant. Hence, order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "11) Investigating Officer has availed sufficient opportunity for investigation in the case.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "No complaint of Investigating Officer that, present applicant has not complied the terms and conditions imposed on him while granting ad­interim protection.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "In the circumstances, I find the personal interrogation of the present applicant is not necessary.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, I am incline to confirm ad­interim protection order already granted in favour of applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1) Criminal Bail Applications No.79/2019 is hereby allowed as under :­ 2) Ad­interim order granted in favour of Ganesh Gulabrao Hake dated 02/02/2019 is hereby confirmed. 5) Application is disposed­of accordingly.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(N.L. More) Place : Satara Addl. Sessions Judge Date : 27th June, 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER PASSED BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 79/2019 (Sandip Gulabrao Hake Vs. State of Maharashtra) CNR : MHST01­000399­2019 \r\n---header-ends---\r\n1) This is an application for grant of pre­arrest bail in connection with C.R.No. 196/2016 registered with Shahupuri police station, Satara for the offences punishable under sections 406, 409 \u0026 477­A r/w. 34 of Indian Penal Code, 1860. \r\n---background-ends---\r\n2) According to the prosecution, the Assistant Channel Manager of M/s. Electronic Payment and Services Pvt. Ltd. Company (Hereinafter referred as “Said Company) lodged report that, M/s. RCI Cash Management Services Pvt. Ltd. Company Mumbai by agreement dated 20/03/2013 entrusted the job to their company of collection of cash from their client banks for replenishment of ATM machines. However, dispute cropped up between the company and its employee. Therefore, due to deficiency noticed in services of said company by the Principal Company, it was decided to revoke the agreement with said company. Accordingly, said company was directed to hand over ATM machines and its operation to its New Agency M/s. Secure Value. While handing over the charge to new agency following cash found short in the ATM machines i) Rs. 7,56,000/­ of State Bank of India Shahupuri branch; ii) Rs. 28,000/­ of Punjab and National Bank Raviwar Peth, Satara; iii) Rs. 49,500/­ of IDBI Bank Bhavani Peth, Satara; iv) Rs. 10,100/­ of Bank of Badoda, Shahupuri Satara. \r\n---argument-ends---\r\n5) The informant, being Assistant Channel Manager of said company has lodged report with the police against Director and the employee of the said company for having been committed the offences of breach of trust, cheating and misappropriation of funds with intent to defraud the employer. \r\n---argument-ends---\r\n6) It is contention of applicant that, he is innocent, he has no concern with the alleged offence. He was working as a employee with the said company and he was not responsible for collecting the money and replenishment of ATM machines of respective banks. Accused namely Swapnil Prakash Thorat, Abhijit Ramesh Mane and Mahesh Suryakant Chavan have been released on anticipatory bail by this Court in Cri.M.A No.663/2018. Therefore, applicant is entitled for grant of anticipatory bail on the ground of parity. \r\n---argument-ends---\r\n7) The offence had been registered against the Directors of the company in the year 2016, but the Investigating Officer of this case started giving harassment to the present applicant only because their names are appearing in the FIR. \r\n---argument-ends---\r\n8) Heard Ld. Advocate Mr.R.N. Galande for the applicant and Ld. APP Mr. L. K. Khade for the prosecution. \r\n---argument-ends---\r\n9) Prosecution by filing reply contested the application on the grounds that, detail investigation in the matter is required and prayed that applications be rejected. \r\n---argument-ends---\r\n10) Perused FIR. The accusation are made in the FIR is that, one Swapnil Prakash Thorat was the custodian of said Company at Satara. The FIR does not disclose or assign specific role to the present applicant. Prima­facie, there is no material to show what role attributed to the present applicant. Prosecution even not able to indicate that, the said company had authorized the present applicant to collect the cash for replenishment in ATM machines upon receiving indent from Principal Company. Therefore, in my humble judgment, prima­facie there is direct material to connect this applicant with the charges of misappropriation of funds. The principal company had entrusted the job for collection of cash from various banks to the said company in which the applicant had performed his duty as per the instruction of his superiors. In absence of prima­facie document to indicate role of present applicant in the commission of crime, upon his arrest, he would face unnecessary harassment at the hands of police. \r\n---argument-ends---\r\n11) Investigating Officer has availed sufficient opportunity for investigation in the case. No complaint of Investigating Officer that, present applicant has not complied the terms and conditions imposed on him while granting ad­interim protection. In the circumstances, I find the personal interrogation of the present applicant is not necessary. Therefore, I am incline to confirm ad­interim protection order already granted in favour of applicant. Hence, order. \r\n---argument-ends---\r\nORDER 1) Criminal Bail Applications No.79/2019 is hereby allowed as under :­ 2) Ad­interim order granted in favour of Ganesh Gulabrao Hake dated 02/02/2019 is hereby confirmed. 5) Application is disposed­of accordingly. \r\n---order-ends---\r\n(N.L. More) Place : Satara Addl. Sessions Judge Date : 27th June, 2019. Satara"
+}

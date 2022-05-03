@@ -1,0 +1,580 @@
+{
+  "header": "\u003d1\u003d ORDER BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 89/2019 (Hajisaheb Mosin Inamdar Vs. State of Maharashtra) CNR : MHST01­000462­2019",
+  "background": {
+    "text": "1) Present application is filed by the applicant under section 438 of Criminal Procedure Code, 1973 apprehending his arrest as a result of C.R.No. 351/2017 suspecting applicant\u0027s involvement in the offence of pun/u/Sec. 395, 385, 420, 34 of Indian Penal Code and Sec. 39, 45 of Money Lender\u0027s Act 1946.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "395,385,420,34",
+          "stringMatched": "u/sec. 395, 385, 420, 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) It is alleged that, present applicant is involved in a crime alongwith the other accused for the offences of dacoity, extortion, cheating, in which complainant Hanmant Shripati Aware who allegedly lost his money and property. It is contended that, one Dasharath Bhosale known to the complainant and his brother­in­law requested to raise loan by mortgaging his land with accused persons to help Dinkar Jadhav. Accordingly, all the accused in furtherance of their common intention cheated the complainant by executing the sale­deed of the property of the complainant instead of mortgage.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) It is alleged that, present applicant is involved in a crime alongwith the other accused for the offences of dacoity, extortion, cheating, in which complainant Hanmant Shripati Aware who allegedly lost his money and property.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, one Dasharath Bhosale known to the complainant and his brother­in­law requested to raise loan by mortgaging his land with accused persons to help Dinkar Jadhav.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accordingly, all the accused in furtherance of their common intention cheated the complainant by executing the sale­deed of the property of the complainant instead of mortgage.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is contended that, the accusation against the applicant is totally false, he is innocent person and nothing to do with the offence, he has no previous criminal record, there is no nexus between the said crime, investigation of the crime has been already completed and charge­sheet has also been filed bearing R.C.C.No.79/2018, therefore, there will be no custodial interrogation of this applicant. Hence, he prayed for anticipatory bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is contended that, the accusation against the applicant is totally false, he is innocent person and nothing to do with the offence, he has no previous criminal record, there is no nexus between the said crime, investigation of the crime has been already completed and charge­sheet has also been filed bearing R.C.C.No.79/2018, therefore, there will be no custodial interrogation of this applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Hence, he prayed for anticipatory bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) It is submitted on behalf of applicant­ accused that, charge­ sheet is already filed, nothing is to be recovered from accused, prosecution story is not believable, if at all there is cheating, it is by Dasharath Bhosale and Dinkar Jadhav, for no purpose accused is required.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) It is submitted on behalf of applicant­ accused that, charge­ sheet is already filed, nothing is to be recovered from accused, prosecution story is not believable, if at all there is cheating, it is by Dasharath Bhosale and Dinkar Jadhav, for no purpose accused is required.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) It is submitted by learned A.P.P. that, FIR is disclosing involvement of accused, there are agreements between Dinkar Jadhav and informant, Dinkar Jadhav had issued two cheques for Rs.12,50,000/­ each in the name of informant and said cheques were dishonoured. The allegations in the FIR are not false or incorrect. Informant and his brother are the illiterate farmers and all the accused committed the offence by taking disadvantage of simple nature of informant and his brother.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) It is submitted by learned A.P.P. that, FIR is disclosing involvement of accused, there are agreements between Dinkar Jadhav and informant, Dinkar Jadhav had issued two cheques for Rs.12,50,000/­ each in the name of informant and said cheques were dishonoured.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The allegations in the FIR are not false or incorrect.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Informant and his brother are the illiterate farmers and all the accused committed the offence by taking disadvantage of simple nature of informant and his brother.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6) I have gone through the papers. I feel it proper to mention that, already this accused is granted anticipatory bail in three other crimes registered with Satara City Police Station on the ground that, there was no direct involvement of accused in said crime. However, FIR in this case disclosing the fact that, accused applicant had been to informant for collecting interest amount and he had threatened the informant and forcibly took away the sugarcane crop. This accused may not be involved in execution of sale­deeds and other documents, but in entire episode, he was with main culprit. It seems that, this accused is involved in various crimes with Pramod @ Khandya Dharashivkar and this accused is working for him. Though charge­sheet is filed, it is filed against other accused and this accused must have been shown absconding, therefore, custodial interrogation of this accused is necessary while filing supplementary charge­sheet. Considering all these facts, I am not inclined to grant anticipatory bail to the applicant. Hence, following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) I have gone through the papers.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "I feel it proper to mention that, already this accused is granted anticipatory bail in three other crimes registered with Satara City Police Station on the ground that, there was no direct involvement of accused in said crime.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "However, FIR in this case disclosing the fact that, accused applicant had been to informant for collecting interest amount and he had threatened the informant and forcibly took away the sugarcane crop.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "This accused may not be involved in execution of sale­deeds and other documents, but in entire episode, he was with main culprit.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "It seems that, this accused is involved in various crimes with Pramod @ Khandya Dharashivkar and this accused is working for him.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Though charge­sheet is filed, it is filed against other accused and this accused must have been shown absconding, therefore, custodial interrogation of this accused is necessary while filing supplementary charge­sheet.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Considering all these facts, I am not inclined to grant anticipatory bail to the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Hence, following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R 1) Criminal Bail Application no. 89 of 2019 is rejected.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 5th March, 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "\u003d1\u003d ORDER BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 89/2019 (Hajisaheb Mosin Inamdar Vs. State of Maharashtra) CNR : MHST01­000462­2019 \r\n---header-ends---\r\n1) Present application is filed by the applicant under section 438 of Criminal Procedure Code, 1973 apprehending his arrest as a result of C.R.No. 351/2017 suspecting applicant\u0027s involvement in the offence of pun/u/Sec. 395, 385, 420, 34 of Indian Penal Code and Sec. 39, 45 of Money Lender\u0027s Act 1946. \r\n---background-ends---\r\n2) It is alleged that, present applicant is involved in a crime alongwith the other accused for the offences of dacoity, extortion, cheating, in which complainant Hanmant Shripati Aware who allegedly lost his money and property. It is contended that, one Dasharath Bhosale known to the complainant and his brother­in­law requested to raise loan by mortgaging his land with accused persons to help Dinkar Jadhav. Accordingly, all the accused in furtherance of their common intention cheated the complainant by executing the sale­deed of the property of the complainant instead of mortgage. \r\n---argument-ends---\r\n3) It is contended that, the accusation against the applicant is totally false, he is innocent person and nothing to do with the offence, he has no previous criminal record, there is no nexus between the said crime, investigation of the crime has been already completed and charge­sheet has also been filed bearing R.C.C.No.79/2018, therefore, there will be no custodial interrogation of this applicant. Hence, he prayed for anticipatory bail. \r\n---argument-ends---\r\n4) It is submitted on behalf of applicant­ accused that, charge­ sheet is already filed, nothing is to be recovered from accused, prosecution story is not believable, if at all there is cheating, it is by Dasharath Bhosale and Dinkar Jadhav, for no purpose accused is required. \r\n---argument-ends---\r\n5) It is submitted by learned A.P.P. that, FIR is disclosing involvement of accused, there are agreements between Dinkar Jadhav and informant, Dinkar Jadhav had issued two cheques for Rs.12,50,000/­ each in the name of informant and said cheques were dishonoured. The allegations in the FIR are not false or incorrect. Informant and his brother are the illiterate farmers and all the accused committed the offence by taking disadvantage of simple nature of informant and his brother. \r\n---argument-ends---\r\n6) I have gone through the papers. I feel it proper to mention that, already this accused is granted anticipatory bail in three other crimes registered with Satara City Police Station on the ground that, there was no direct involvement of accused in said crime. However, FIR in this case disclosing the fact that, accused applicant had been to informant for collecting interest amount and he had threatened the informant and forcibly took away the sugarcane crop. This accused may not be involved in execution of sale­deeds and other documents, but in entire episode, he was with main culprit. It seems that, this accused is involved in various crimes with Pramod @ Khandya Dharashivkar and this accused is working for him. Though charge­sheet is filed, it is filed against other accused and this accused must have been shown absconding, therefore, custodial interrogation of this accused is necessary while filing supplementary charge­sheet. Considering all these facts, I am not inclined to grant anticipatory bail to the applicant. Hence, following order. \r\n---argument-ends---\r\nO R D E R 1) Criminal Bail Application no. 89 of 2019 is rejected. \r\n---order-ends---\r\n(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 5th March, 2019. Satara"
+}

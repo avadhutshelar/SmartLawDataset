@@ -1,0 +1,614 @@
+{
+  "header": "ORDER BELOW EXH.01 IN CRI. BAIL APPLN. NO. 59/2019 Chetan alias Akash Sambhaji Jadhav Vs. State of Maharashtra",
+  "background": {
+    "text": "This is an application for regular bail as per section 439 of the Code of Criminal Procedure, 1973. Heard advocate Mr. Inamdar for applicant. He submitted that in Crime No.143/2018 registered with Medha Police Station for the offence punishable under section 392 read with section 34 of the Indian Penal Code, applicant is behind the bars since 19/12/2018. He was remanded in police custody till 25 12/2018 and thereafter as prayed by the police, he is taken in Magisterial custody. Part of his custodial interrogation is over. His further presence is no more required for investigation. FIR lodged by the informant is against unknown person. Applicant is falsely implicated by the police. He is of young age and the sole earning member in the family. He is local resident. He is ready to furnish surety to the satisfaction of this Court and is also ready to obey with all the conditions those may be imposed upon him. Therefore he submitted that by imposing certain conditions, applicant may be released on bail.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "439",
+          "stringMatched": "section 439 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "392,34",
+          "stringMatched": "under section 392 read with section 34 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2. APP Mr. Muke by filing his say at Exh.4 strongly resisted the application. He submitted that though the FIR is against unknown person, on the basis of description given in the FIR, applicant came to be arrested. Looted articles and the vehicles used in the commission of offence are to be seized. Applicant is having antecedents as similar offence is registered against him with Bhuinj Police Station. Investigation is in progress. If he is released on bail then he is likely to tamper with the evidence of prosecution. Therefore he submitted that application may be rejected.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "APP Mr. Muke by filing his say at Exh.4 strongly resisted the application.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He submitted that though the FIR is against unknown person, on the basis of description given in the FIR, applicant came to be arrested.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Looted articles and the vehicles used in the commission of offence are to be seized.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Applicant is having antecedents as similar offence is registered against him with Bhuinj Police Station.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Investigation is in progress.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "If he is released on bail then he is likely to tamper with the evidence of prosecution.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Therefore he submitted that application may be rejected.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3. After going through the FIR, it is seen that it is against unknown person. Applicant seems to have been arrested on the basis of some identification marks as mentioned in the FIR. However, he has already undergone custodial interrogation for six days. But nothing could be recovered at his instance. He is in Magisterial custody and behind the bars since last more than one and half month. One more accused in this crime is already released on bail by this Court. Therefore on the ground of parity also, this applicant deserves to be released on bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "After going through the FIR, it is seen that it is against unknown person.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Applicant seems to have been arrested on the basis of some identification marks as mentioned in the FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "However, he has already undergone custodial interrogation for six days.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "But nothing could be recovered at his instance.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He is in Magisterial custody and behind the bars since last more than one and half month.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "One more accused in this crime is already released on bail by this Court.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Therefore on the ground of parity also, this applicant deserves to be released on bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4. Informant is resident of Yodogopal Peth, Satara and applicant is resident of Dhagewadi, Post – Limb, Taluka–Satara. Therefore question of tampering with the evidence of prosecution does not arise. If some conditions are imposed then it would serve the purpose of prosecution. As such accused deserves to be released on bail by imposing certain conditions, Hence the order follows :­",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Informant is resident of Yodogopal Peth, Satara and applicant is resident of Dhagewadi, Post – Limb, Taluka–Satara.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Therefore question of tampering with the evidence of prosecution does not arise.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "If some conditions are imposed then it would serve the purpose of prosecution.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "As such accused deserves to be released on bail by imposing certain conditions, Hence the order follows :­",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1 Application is allowed. 3/3 Criminal Bail Application No. 58/2019 2 In Crime No. 143/2018 registered with Medha Police Station for the offences punishable under sections 392 read with section 34 of the Indian Penal Code, applicant Chetan alias Akash Sambhaji Jadhav, be released on bail upon his executing P.R. Bond of Rs.15,000/­ (Rs. fifteen thousands) with one surety in the like amount on following conditions : i) that he shall attend Medha Police Station on every Thursday and Monday in between 11.00 a.m. to 12.00 noon till filing of the charge­sheet. ii) that he shall not directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the accusation against him so as to dissuade him from disclosing such facts to the Court or to any police officer. iii) that he shall not tamper with the evidence of prosecution in any manner. 3 Failure to obey any of the conditions above, would be liable to cancellation of bail granted to applicant. 4 Bail before the lower Court. (Order is dictated and pronounced in the open Court).",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Satara (R.D.Deshpande) Dt. 12/02/2019. Additional Sessions Judge, Satara.",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH.01 IN CRI. BAIL APPLN. NO. 59/2019 Chetan alias Akash Sambhaji Jadhav Vs. State of Maharashtra \r\n---header-ends---\r\nThis is an application for regular bail as per section 439 of the Code of Criminal Procedure, 1973. Heard advocate Mr. Inamdar for applicant. He submitted that in Crime No.143/2018 registered with Medha Police Station for the offence punishable under section 392 read with section 34 of the Indian Penal Code, applicant is behind the bars since 19/12/2018. He was remanded in police custody till 25 12/2018 and thereafter as prayed by the police, he is taken in Magisterial custody. Part of his custodial interrogation is over. His further presence is no more required for investigation. FIR lodged by the informant is against unknown person. Applicant is falsely implicated by the police. He is of young age and the sole earning member in the family. He is local resident. He is ready to furnish surety to the satisfaction of this Court and is also ready to obey with all the conditions those may be imposed upon him. Therefore he submitted that by imposing certain conditions, applicant may be released on bail. \r\n---background-ends---\r\n2. APP Mr. Muke by filing his say at Exh.4 strongly resisted the application. He submitted that though the FIR is against unknown person, on the basis of description given in the FIR, applicant came to be arrested. Looted articles and the vehicles used in the commission of offence are to be seized. Applicant is having antecedents as similar offence is registered against him with Bhuinj Police Station. Investigation is in progress. If he is released on bail then he is likely to tamper with the evidence of prosecution. Therefore he submitted that application may be rejected. \r\n---argument-ends---\r\n3. After going through the FIR, it is seen that it is against unknown person. Applicant seems to have been arrested on the basis of some identification marks as mentioned in the FIR. However, he has already undergone custodial interrogation for six days. But nothing could be recovered at his instance. He is in Magisterial custody and behind the bars since last more than one and half month. One more accused in this crime is already released on bail by this Court. Therefore on the ground of parity also, this applicant deserves to be released on bail. \r\n---argument-ends---\r\n4. Informant is resident of Yodogopal Peth, Satara and applicant is resident of Dhagewadi, Post – Limb, Taluka–Satara. Therefore question of tampering with the evidence of prosecution does not arise. If some conditions are imposed then it would serve the purpose of prosecution. As such accused deserves to be released on bail by imposing certain conditions, Hence the order follows :­ \r\n---argument-ends---\r\nORDER 1 Application is allowed. 3/3 Criminal Bail Application No. 58/2019 2 In Crime No. 143/2018 registered with Medha Police Station for the offences punishable under sections 392 read with section 34 of the Indian Penal Code, applicant Chetan alias Akash Sambhaji Jadhav, be released on bail upon his executing P.R. Bond of Rs.15,000/­ (Rs. fifteen thousands) with one surety in the like amount on following conditions : i) that he shall attend Medha Police Station on every Thursday and Monday in between 11.00 a.m. to 12.00 noon till filing of the charge­sheet. ii) that he shall not directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the accusation against him so as to dissuade him from disclosing such facts to the Court or to any police officer. iii) that he shall not tamper with the evidence of prosecution in any manner. 3 Failure to obey any of the conditions above, would be liable to cancellation of bail granted to applicant. 4 Bail before the lower Court. (Order is dictated and pronounced in the open Court). \r\n---order-ends---\r\nSatara (R.D.Deshpande) Dt. 12/02/2019. Additional Sessions Judge, Satara."
+}

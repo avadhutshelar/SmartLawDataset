@@ -1,0 +1,1139 @@
+{
+  "header": "ORDER BELOW EXH. 1 IN Cri. Bail Appln. No. 62/2019 (Chandrashekhar Vasantrao Jagtap 2 Ors. Vs. State of Maharashtra) CNR : MHST01­000338­2019",
+  "background": {
+    "text": "1) Present application is filed by the applicants under section 438 of Criminal Procedure Code, 1973 apprehending their arrest under C.R. no. 36/2019, registered at Phaltan city police station, at the instance of Tarabai Narayan Gaikwad, for alleged commission of offence punishable under section 420 r/w. 34 of Indian Penal Code, 1860 and section 3(1)(f) of the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "420,34",
+          "stringMatched": "under section 420 r/w. 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) It is contended by the applicant\u0027s advocate that, FIR is false and frivolously filed against these applicants in respect of the properties purchased by them in the year 2007, 2008 and 2014. It is contended that, infact, the said lands were initially sold out by the informant\u0027s brother way back in the year 1992. It is contended that, if at all, the applicants consent were required necessary objections ought to have been raised immediately after the properties were sold in 1992. Informant has conveniently choose to remain silent for so many years and has now lodged complaint, merely to harass these innocent purchasers.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) It is contended by the applicant\u0027s advocate that, FIR is false and frivolously filed against these applicants in respect of the properties purchased by them in the year 2007, 2008 and 2014.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, infact, the said lands were initially sold out by the informant\u0027s brother way back in the year 1992.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is contended that, if at all, the applicants consent were required necessary objections ought to have been raised immediately after the properties were sold in 1992.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Informant has conveniently choose to remain silent for so many years and has now lodged complaint, merely to harass these innocent purchasers.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is contended that, the initial sale transaction in the year 1992 was done by the informant\u0027s brother as the joint family manager, hence he would responsible for the alienation of the property.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is contended that, the initial sale transaction in the year 1992 was done by the informant\u0027s brother as the joint family manager, hence he would responsible for the alienation of the property.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) It is also contended that, the recent 7x12 extracts of the said properties undisputedly shows the informant and her mother\u0027s name as having encumbrance over the property. Applicants have never attempted to deny a dispute the informant\u0027s charge over the property. Applicants are ready to conduct themselves in accordance to the informant\u0027s charge on theh property and honourably respect it. In support of the same, purshis Exh. 11 is filed.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) It is also contended that, the recent 7x12 extracts of the said properties undisputedly shows the informant and her mother\u0027s name as having encumbrance over the property.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Applicants have never attempted to deny a dispute the informant\u0027s charge over the property.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Applicants are ready to conduct themselves in accordance to the informant\u0027s charge on theh property and honourably respect it.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "In support of the same, purshis Exh. 11 is filed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) It is also contended that, in no circumstances have the applicants cheated the informant or her mother, therefore section 420 of Indian Penal Code, 1860 does not get attracted. It is also contended that, the 7x12 extracts filed alongwith the record show the said properties to be unattended and not cultivated since the year 2015 till date, therefore, section 3(1)(f) of the Special Act, cannot get attracted to the case in hand. It is accordingly contended that, bar of section 18 or 18­A of the Special Act, would not get attracted, as no such case is made out at all. It is also contended that, the FIR also does not disclose whether the present applicants i.e. the accused do not belong to Schedule Caste or schedule Tribes, hence also, provisions of Special Act, cannot be attracted. In support order dated 22/10/2018 passed by Hon\u0027ble High Court Bombay in Criminal Appeal no. 926/2018 in the matter of Bharatbhai Amlabhai Patel and others Vs. State of Maharashtra and another.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) It is also contended that, in no circumstances have the applicants cheated the informant or her mother, therefore section 420 of Indian Penal Code, 1860 does not get attracted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is also contended that, the 7x12 extracts filed alongwith the record show the said properties to be unattended and not cultivated since the year 2015 till date, therefore, section 3(1)(f) of the Special Act, cannot get attracted to the case in hand.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is accordingly contended that, bar of section 18 or 18­A of the Special Act, would not get attracted, as no such case is made out at all.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is also contended that, the FIR also does not disclose whether the present applicants i.e. the accused do not belong to Schedule Caste or schedule Tribes, hence also, provisions of Special Act, cannot be attracted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "In support order dated 22/10/2018 passed by Hon\u0027ble High Court Bombay in Criminal Appeal no. 926/2018 in the matter of Bharatbhai Amlabhai Patel and others Vs. State of Maharashtra and another.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6) It is contended that, prior to registering this FIR, inquiries were already done in respect of the informant\u0027s complaint and police have recorded the applicants statements and finding no case, had closed the informant\u0027s earlier complaint. It is also contended that, the FIR is a result of the informant\u0027s pressure tactics of threatening the police of going on fast unto death.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) It is contended that, prior to registering this FIR, inquiries were already done in respect of the informant\u0027s complaint and police have recorded the applicants statements and finding no case, had closed the informant\u0027s earlier complaint.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is also contended that, the FIR is a result of the informant\u0027s pressure tactics of threatening the police of going on fast unto death.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7) Applicant\u0027s advocate contended that, applicants are ready to produce the sale­deeds, if required and also undertake to co­operate in the investigation. Accordingly, pre­arrest bail is contended.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7) Applicant\u0027s advocate contended that, applicants are ready to produce the sale­deeds, if required and also undertake to co­operate in the investigation.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Accordingly, pre­arrest bail is contended.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8) Bail application is resisted by the APP by filing say at Exh. 10 on the grounds that, section 18(A)(2) of the Special Act, bars any pre­arrest bail application under section 438 of Criminal Procedure Code, 1973. It is further contended that, informant\u0027s property was sold without seeking their consent. The 7x12 extracts and the sale­deeds are to be seized, investigation is continuing. In case of grant of pre­arrest bail, tampering or destroying the documents cannot be ruled out. Accordingly, pre­ arrest bail is resisted.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8) Bail application is resisted by the APP by filing say at Exh. 10 on the grounds that, section 18(A)(2) of the Special Act, bars any pre­arrest bail application under section 438 of Criminal Procedure Code, 1973.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is further contended that, informant\u0027s property was sold without seeking their consent.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The 7x12 extracts and the sale­deeds are to be seized, investigation is continuing.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "In case of grant of pre­arrest bail, tampering or destroying the documents cannot be ruled out.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Accordingly, pre­ arrest bail is resisted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "9) Bail application is also resisted by the informant by filing say at Exh. 9 on the grounds similar as that raised by the APP. It is also contended that, the applicants being politically and financially sound, in case of grant of pre­arrest bail, pressurizing the informant and the witnesses as well as evicting the informant from the property cannot be ruled out. It is also contended that, the informant and the family members fears to their life. Informant\u0027s advocate while arguing contended that the applicants have objected the informant from cultivating the land. Hence, the FIR. It is contended that, the main concern of the informant is of cultivating the land and the same grievance only the reasons for objecting the bail application. Purshis is filed at Exh. 12 submitting that the applicants may not abuse or prevent the informant from cultivating their lands.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "9) Bail application is also resisted by the informant by filing say at Exh. 9 on the grounds similar as that raised by the APP.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is also contended that, the applicants being politically and financially sound, in case of grant of pre­arrest bail, pressurizing the informant and the witnesses as well as evicting the informant from the property cannot be ruled out.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is also contended that, the informant and the family members fears to their life.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Informant\u0027s advocate while arguing contended that the applicants have objected the informant from cultivating the land.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, the FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "It is contended that, the main concern of the informant is of cultivating the land and the same grievance only the reasons for objecting the bail application.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Purshis is filed at Exh. 12 submitting that the applicants may not abuse or prevent the informant from cultivating their lands.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 9,
+      "text": "10) Upon hearing the applicant\u0027s advocate, the APP, the informant\u0027s advocate, perusing the say filed on record and also the other investigation papers produced on record, it appears that, allegations against these accused are of having purchase the land, without having consent of the informant and her mother. It is also matter of record that, the sale transactions disputed are of the year 2007, 2008 and 2014. The vendors of these applicants have purchased the said properties from the informant\u0027s brother in the year 1992. No sufficient reason is brought on record for objecting the sale since 1992. Further, the 7x12 extracts submitted on record reveals that the properties are not cultivated atleast since the year 2015. FIR does not bear any allegations of castiest abuse. FIR is also silent about the aspect of present applicants not belonging to Schedule Caste or Schedule Tribe. The 7x12 extracts can be collected from the concerned local revenue authority. In such circumstances it appears that the dispute, if at all, is purely civil in nature. Further taking into consideration the cited ruling of Patel (Supra), it appears that, applicants custodial presence for any investigation is not required. However, securing the original sale­deeds in favour of the applicants is equally necessary. Hence, the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "10) Upon hearing the applicant\u0027s advocate, the APP, the informant\u0027s advocate, perusing the say filed on record and also the other investigation papers produced on record, it appears that, allegations against these accused are of having purchase the land, without having consent of the informant and her mother.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is also matter of record that, the sale transactions disputed are of the year 2007, 2008 and 2014.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The vendors of these applicants have purchased the said properties from the informant\u0027s brother in the year 1992.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "No sufficient reason is brought on record for objecting the sale since 1992.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Further, the 7x12 extracts submitted on record reveals that the properties are not cultivated atleast since the year 2015.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "FIR does not bear any allegations of castiest abuse.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "FIR is also silent about the aspect of present applicants not belonging to Schedule Caste or Schedule Tribe.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "The 7x12 extracts can be collected from the concerned local revenue authority.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "In such circumstances it appears that the dispute, if at all, is purely civil in nature.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Further taking into consideration the cited ruling of Patel (Supra), it appears that, applicants custodial presence for any investigation is not required.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "However, securing the original sale­deeds in favour of the applicants is equally necessary.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Hence, the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1) Criminal Bail Application no. 62/2019, is allowed. 2) In the event of arrest of applicant no. 1 Chandrashekhar Vasantrao Jagtap, no. 2 Vijay Shamrao Jambhale and no. 3 Tanay Ganpatrao Dhumal, they be released on bail under C.R. no. 36/2019, registered at Phaltan city police station, on their furnishing P.B. \u0026 S.B. of Rs. 15,000/­ each (Rs. Fifteen Thousand each), on the following terms and conditions :­ a) Applicants shall attend the concerned police station once in a week preferably on every Thursday in between 11:00 a.m. to 2.00 p.m. till further orders by the Court. b) Applicants shall not tamper with any evidence. c) Applicants shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. d) Accused shall make available themselves and co­ operate for interrogation by Police Officer as and when required. e) Applicants shall provide the original sale­deeds to the Investigation Officer as and when demanded. f) Any default of above conditions shall render the bail to be cancelled automatically.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Y. H. Ameta) Place : Satara Special Judge Date : 11th February, 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH. 1 IN Cri. Bail Appln. No. 62/2019 (Chandrashekhar Vasantrao Jagtap 2 Ors. Vs. State of Maharashtra) CNR : MHST01­000338­2019 \r\n---header-ends---\r\n1) Present application is filed by the applicants under section 438 of Criminal Procedure Code, 1973 apprehending their arrest under C.R. no. 36/2019, registered at Phaltan city police station, at the instance of Tarabai Narayan Gaikwad, for alleged commission of offence punishable under section 420 r/w. 34 of Indian Penal Code, 1860 and section 3(1)(f) of the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act. \r\n---background-ends---\r\n2) It is contended by the applicant\u0027s advocate that, FIR is false and frivolously filed against these applicants in respect of the properties purchased by them in the year 2007, 2008 and 2014. It is contended that, infact, the said lands were initially sold out by the informant\u0027s brother way back in the year 1992. It is contended that, if at all, the applicants consent were required necessary objections ought to have been raised immediately after the properties were sold in 1992. Informant has conveniently choose to remain silent for so many years and has now lodged complaint, merely to harass these innocent purchasers. \r\n---argument-ends---\r\n3) It is contended that, the initial sale transaction in the year 1992 was done by the informant\u0027s brother as the joint family manager, hence he would responsible for the alienation of the property. \r\n---argument-ends---\r\n4) It is also contended that, the recent 7x12 extracts of the said properties undisputedly shows the informant and her mother\u0027s name as having encumbrance over the property. Applicants have never attempted to deny a dispute the informant\u0027s charge over the property. Applicants are ready to conduct themselves in accordance to the informant\u0027s charge on theh property and honourably respect it. In support of the same, purshis Exh. 11 is filed. \r\n---argument-ends---\r\n5) It is also contended that, in no circumstances have the applicants cheated the informant or her mother, therefore section 420 of Indian Penal Code, 1860 does not get attracted. It is also contended that, the 7x12 extracts filed alongwith the record show the said properties to be unattended and not cultivated since the year 2015 till date, therefore, section 3(1)(f) of the Special Act, cannot get attracted to the case in hand. It is accordingly contended that, bar of section 18 or 18­A of the Special Act, would not get attracted, as no such case is made out at all. It is also contended that, the FIR also does not disclose whether the present applicants i.e. the accused do not belong to Schedule Caste or schedule Tribes, hence also, provisions of Special Act, cannot be attracted. In support order dated 22/10/2018 passed by Hon\u0027ble High Court Bombay in Criminal Appeal no. 926/2018 in the matter of Bharatbhai Amlabhai Patel and others Vs. State of Maharashtra and another.\r\n---argument-ends---\r\n6) It is contended that, prior to registering this FIR, inquiries were already done in respect of the informant\u0027s complaint and police have recorded the applicants statements and finding no case, had closed the informant\u0027s earlier complaint. It is also contended that, the FIR is a result of the informant\u0027s pressure tactics of threatening the police of going on fast unto death. \r\n---argument-ends---\r\n7) Applicant\u0027s advocate contended that, applicants are ready to produce the sale­deeds, if required and also undertake to co­operate in the investigation. Accordingly, pre­arrest bail is contended. \r\n---argument-ends---\r\n8) Bail application is resisted by the APP by filing say at Exh. 10 on the grounds that, section 18(A)(2) of the Special Act, bars any pre­arrest bail application under section 438 of Criminal Procedure Code, 1973. It is further contended that, informant\u0027s property was sold without seeking their consent. The 7x12 extracts and the sale­deeds are to be seized, investigation is continuing. In case of grant of pre­arrest bail, tampering or destroying the documents cannot be ruled out. Accordingly, pre­ arrest bail is resisted. \r\n---argument-ends---\r\n9) Bail application is also resisted by the informant by filing say at Exh. 9 on the grounds similar as that raised by the APP. It is also contended that, the applicants being politically and financially sound, in case of grant of pre­arrest bail, pressurizing the informant and the witnesses as well as evicting the informant from the property cannot be ruled out. It is also contended that, the informant and the family members fears to their life. Informant\u0027s advocate while arguing contended that the applicants have objected the informant from cultivating the land. Hence, the FIR. It is contended that, the main concern of the informant is of cultivating the land and the same grievance only the reasons for objecting the bail application. Purshis is filed at Exh. 12 submitting that the applicants may not abuse or prevent the informant from cultivating their lands. \r\n---argument-ends---\r\n10) Upon hearing the applicant\u0027s advocate, the APP, the informant\u0027s advocate, perusing the say filed on record and also the other investigation papers produced on record, it appears that, allegations against these accused are of having purchase the land, without having consent of the informant and her mother. It is also matter of record that, the sale transactions disputed are of the year 2007, 2008 and 2014. The vendors of these applicants have purchased the said properties from the informant\u0027s brother in the year 1992. No sufficient reason is brought on record for objecting the sale since 1992. Further, the 7x12 extracts submitted on record reveals that the properties are not cultivated atleast since the year 2015. FIR does not bear any allegations of castiest abuse. FIR is also silent about the aspect of present applicants not belonging to Schedule Caste or Schedule Tribe. The 7x12 extracts can be collected from the concerned local revenue authority. In such circumstances it appears that the dispute, if at all, is purely civil in nature. Further taking into consideration the cited ruling of Patel (Supra), it appears that, applicants custodial presence for any investigation is not required. However, securing the original sale­deeds in favour of the applicants is equally necessary. Hence, the following order. \r\n---argument-ends---\r\nORDER 1) Criminal Bail Application no. 62/2019, is allowed. 2) In the event of arrest of applicant no. 1 Chandrashekhar Vasantrao Jagtap, no. 2 Vijay Shamrao Jambhale and no. 3 Tanay Ganpatrao Dhumal, they be released on bail under C.R. no. 36/2019, registered at Phaltan city police station, on their furnishing P.B. \u0026 S.B. of Rs. 15,000/­ each (Rs. Fifteen Thousand each), on the following terms and conditions :­ a) Applicants shall attend the concerned police station once in a week preferably on every Thursday in between 11:00 a.m. to 2.00 p.m. till further orders by the Court. b) Applicants shall not tamper with any evidence. c) Applicants shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. d) Accused shall make available themselves and co­ operate for interrogation by Police Officer as and when required. e) Applicants shall provide the original sale­deeds to the Investigation Officer as and when demanded. f) Any default of above conditions shall render the bail to be cancelled automatically. \r\n---order-ends---\r\n(Y. H. Ameta) Place : Satara Special Judge Date : 11th February, 2019. Satara"
+}

@@ -1,0 +1,614 @@
+{
+  "header": "\u003d1\u003d ORDER BELOW EXH. 1 IN CRI. MISC. APPLICATION No. 103/2019 (Sangram Pandurang Shingate Vs. State of Maharashtra) CNR : MHST01-000514-2019",
+  "background": {
+    "text": "1) Present application is filed by the applicant under section 438 of Criminal Procedure Code, 1973 apprehending his arrest in C.R.No. 12/2019 registered at Bhuinj Police Station on 30­01­2019, at the instance of Chittaranjan Balwant Gaikwad, for alleged commission of offences punishable under Sections 307, 337, 323, 504, 506 of Indian Penal Code,1860.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "307,337,323,504,506",
+          "stringMatched": "under sections 307, 337, 323, 504, 506 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) Advocate for applicant argued that, no incident is happened as alleged. Present applicant has been falsely roped in the FIR, inspite of this applicant himself sustaining fracture injuries and being admitted in hospital since 22­01­2019. It is further contended that, the FIR is false, as informant had injuries on his left eye, even prior to 22­01­2019 and has added in the FIR merely to aggravate the circumstances. Informant did not sustain any injuries which could be even remotely considered as life threatening. Hence, applicant is required to be protected and submitted to confirm the ad­interim order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) Advocate for applicant argued that, no incident is happened as alleged.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Present applicant has been falsely roped in the FIR, inspite of this applicant himself sustaining fracture injuries and being admitted in hospital since 22­01­2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is further contended that, the FIR is false, as informant had injuries on his left eye, even prior to 22­01­2019 and has added in the FIR merely to aggravate the circumstances.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Informant did not sustain any injuries which could be even remotely considered as life threatening.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, applicant is required to be protected and submitted to confirm the ad­interim order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) Application is opposed by prosecution by filing say at exh. 11, stating that, applicant has assaulted the informant by means of stone, there was previous enmity between applicant’s father and informant. He has sustained fracture injury and lost vision of right eye. Applicant and informant both are residing in same village. Therefore, possibility of repetition of crime as well as pressurizing of witnesses can not be ruled out. Applicant is absconding since registration of crime. Custody of applicant is necessary to seize the clothes.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) Application is opposed by prosecution by filing say at exh. 11, stating that, applicant has assaulted the informant by means of stone, there was previous enmity between applicant’s father and informant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He has sustained fracture injury and lost vision of right eye.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Applicant and informant both are residing in same village.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, possibility of repetition of crime as well as pressurizing of witnesses can not be ruled out.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Applicant is absconding since registration of crime.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Custody of applicant is necessary to seize the clothes.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) Informant filed written argument at exh. 14 and reiterated the contents in FIR. Advocate for applicant pointed out patient history mentioned medical papers in its correct to say that, in both hospital\u0027s informant has not made complaint and alleged assault on the contrary the history shows that, informant sustained injury as failed on ground. It is also seems that, doctors at Yashwant hospital have informed police and police had been to hospital but informant not made in allegation at that time. It seems that, informant has not sustained injury to his eye in the alleged incident. As per the police papers police have collected medical evidence. Police effected panchnama, seized the clothes on the person and informant. Therefore, custodial interrogation of applicant is not required. Applicant complied the conditions to attend the police station. Considering, these facts the ad­interim pre­arrest bail granting the applicant may be confirmed. Hence, I proceed to pass following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) Informant filed written argument at exh. 14 and reiterated the contents in FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Advocate for applicant pointed out patient history mentioned medical papers in its correct to say that, in both hospital\u0027s informant has not made complaint and alleged assault on the contrary the history shows that, informant sustained injury as failed on ground.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is also seems that, doctors at Yashwant hospital have informed police and police had been to hospital but informant not made in allegation at that time.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It seems that, informant has not sustained injury to his eye in the alleged incident.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "As per the police papers police have collected medical evidence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Police effected panchnama, seized the clothes on the person and informant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Therefore, custodial interrogation of applicant is not required.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Applicant complied the conditions to attend the police station.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Considering, these facts the ad­interim pre­arrest bail granting the applicant may be confirmed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Hence, I proceed to pass following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1) Criminal Bail Application no. 103/2019, is allowed. 2) Interim pre­arrest bail order dated 11/02/2019 passed below Exh. 4, stands confirmed. 3) Applicant to attend to concerned police station as and when called.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 27th June, 2019 Satara.",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "\u003d1\u003d ORDER BELOW EXH. 1 IN CRI. MISC. APPLICATION No. 103/2019 (Sangram Pandurang Shingate Vs. State of Maharashtra) CNR : MHST01-000514-2019 \r\n---header-ends---\r\n1) Present application is filed by the applicant under section 438 of Criminal Procedure Code, 1973 apprehending his arrest in C.R.No. 12/2019 registered at Bhuinj Police Station on 30­01­2019, at the instance of Chittaranjan Balwant Gaikwad, for alleged commission of offences punishable under Sections 307, 337, 323, 504, 506 of Indian Penal Code,1860. \r\n---background-ends---\r\n2) Advocate for applicant argued that, no incident is happened as alleged. Present applicant has been falsely roped in the FIR, inspite of this applicant himself sustaining fracture injuries and being admitted in hospital since 22­01­2019. It is further contended that, the FIR is false, as informant had injuries on his left eye, even prior to 22­01­2019 and has added in the FIR merely to aggravate the circumstances. Informant did not sustain any injuries which could be even remotely considered as life threatening. Hence, applicant is required to be protected and submitted to confirm the ad­interim order. \r\n---argument-ends---\r\n3) Application is opposed by prosecution by filing say at exh. 11, stating that, applicant has assaulted the informant by means of stone, there was previous enmity between applicant’s father and informant. He has sustained fracture injury and lost vision of right eye. Applicant and informant both are residing in same village. Therefore, possibility of repetition of crime as well as pressurizing of witnesses can not be ruled out. Applicant is absconding since registration of crime. Custody of applicant is necessary to seize the clothes. \r\n---argument-ends---\r\n4) Informant filed written argument at exh. 14 and reiterated the contents in FIR. Advocate for applicant pointed out patient history mentioned medical papers in its correct to say that, in both hospital\u0027s informant has not made complaint and alleged assault on the contrary the history shows that, informant sustained injury as failed on ground. It is also seems that, doctors at Yashwant hospital have informed police and police had been to hospital but informant not made in allegation at that time. It seems that, informant has not sustained injury to his eye in the alleged incident. As per the police papers police have collected medical evidence. Police effected panchnama, seized the clothes on the person and informant. Therefore, custodial interrogation of applicant is not required. Applicant complied the conditions to attend the police station. Considering, these facts the ad­interim pre­arrest bail granting the applicant may be confirmed. Hence, I proceed to pass following order. \r\n---argument-ends---\r\nORDER 1) Criminal Bail Application no. 103/2019, is allowed. 2) Interim pre­arrest bail order dated 11/02/2019 passed below Exh. 4, stands confirmed. 3) Applicant to attend to concerned police station as and when called. \r\n---order-ends---\r\n(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 27th June, 2019 Satara."
+}

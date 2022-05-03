@@ -1,0 +1,464 @@
+{
+  "header": "ORDER BELOW EXH.1 IN CRIMINAL BAIL APPLICATION No. 86 of 2019 (Dhananjay Vishwanath Yadav Vs. State of Maharashtra) CNR : MHST01­000407­2019",
+  "background": {
+    "text": "1) Present application is filed by the applicant under section 439 of Criminal Procedure Code, 1973 on his arrest as a result of complaint dated 17.01.2019 filed by Sagar Ashok Shende, suspecting applicant\u0027s involvement in the C.R.No. 54/2019 for the offence pun/u/S. 307, 364, 392, 397, 298, 452, 143, 147, 149, 427, 510, 323 and u/Sec. 3/25, 30 of Arms Act.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Arms Act",
+          "sectionsMatched": "307,364,392,397,298,452,143,147,149,427,510,323,3,25,30",
+          "stringMatched": "u/s. 307, 364, 392, 397, 298, 452, 143, 147, 149, 427, 510, 323 and u/sec. 3/25, 30 of arms act",
+          "legalAct": {
+            "actId": 8,
+            "actName": "The Arms Act",
+            "actShortNameList": "Arms Act,Indian Arms Act",
+            "actYear": "1959",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "46"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) Applicant was arrested in above mentioned crime on 29.01.2019. He is in Magisterial Custody from 02.02.2019. It is stated that, applicant is falsely implicated in the present case, he has not committed the alleged offence, no role of the applicant is attributed, other accused are released on the bail. It is further contended that, applicant undertakes to make himself available for interrogation by police as and when required, hence, prayed for releasing him on bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) Applicant was arrested in above mentioned crime on 29.01.2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He is in Magisterial Custody from 02.02.2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is stated that, applicant is falsely implicated in the present case, he has not committed the alleged offence, no role of the applicant is attributed, other accused are released on the bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is further contended that, applicant undertakes to make himself available for interrogation by police as and when required, hence, prayed for releasing him on bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) In spite of sufficient opportunity, prosecution has not filed its say.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) In spite of sufficient opportunity, prosecution has not filed its say.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) It is submitted that, accused is not at all concern with the alleged crime, no allegations are there against this accused in FIR. Accused was in Police Custody for 2 days, hence, part of interrogation seems to be completed with this accused and his further custody is no more required to the investigating machinery, accused is ready to abide the conditions imposed.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) It is submitted that, accused is not at all concern with the alleged crime, no allegations are there against this accused in FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Accused was in Police Custody for 2 days, hence, part of interrogation seems to be completed with this accused and his further custody is no more required to the investigating machinery, accused is ready to abide the conditions imposed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) On perusal of FIR, it doesn\u0027t reflect role of this applicant in the crime, he was apprehended on suspicion. Whether he is involved or not has not been clarified. As the accused was in police custody for 2 days, there was sufficient opportunity to the police to make interrogation with the accused. Further more, other accused persons have been already released on bail. Hence, on the ground of parity also accused may be released on bail by imposing conditions.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) On perusal of FIR, it doesn\u0027t reflect role of this applicant in the crime, he was apprehended on suspicion.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Whether he is involved or not has not been clarified.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "As the accused was in police custody for 2 days, there was sufficient opportunity to the police to make interrogation with the accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Further more, other accused persons have been already released on bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, on the ground of parity also accused may be released on bail by imposing conditions.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1) Crim. Misc. Application 86 of 2019 is allowed. 2) Applicant Dhananjay Vishwanath Yadav be released bail on his furnishing personal bond of Rs.25,000/­ (Rs. Twenty Five Thousand) with one or more surety/ies, on following terms \u0026 conditions : a) Applicant shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. b) Applicant shall make available himself and co­ operate for interrogation by Police Officer as and when required and shall co­operate in the investigation of the present C.R. c) Applicant shall not leave Satara City without prior permission of the I.O. d) Bail in Lower Court.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 16th February, 2019 Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH.1 IN CRIMINAL BAIL APPLICATION No. 86 of 2019 (Dhananjay Vishwanath Yadav Vs. State of Maharashtra) CNR : MHST01­000407­2019 \r\n---header-ends---\r\n1) Present application is filed by the applicant under section 439 of Criminal Procedure Code, 1973 on his arrest as a result of complaint dated 17.01.2019 filed by Sagar Ashok Shende, suspecting applicant\u0027s involvement in the C.R.No. 54/2019 for the offence pun/u/S. 307, 364, 392, 397, 298, 452, 143, 147, 149, 427, 510, 323 and u/Sec. 3/25, 30 of Arms Act. \r\n---background-ends---\r\n2) Applicant was arrested in above mentioned crime on 29.01.2019. He is in Magisterial Custody from 02.02.2019. It is stated that, applicant is falsely implicated in the present case, he has not committed the alleged offence, no role of the applicant is attributed, other accused are released on the bail. It is further contended that, applicant undertakes to make himself available for interrogation by police as and when required, hence, prayed for releasing him on bail. \r\n---argument-ends---\r\n3) In spite of sufficient opportunity, prosecution has not filed its say. \r\n---argument-ends---\r\n4) It is submitted that, accused is not at all concern with the alleged crime, no allegations are there against this accused in FIR. Accused was in Police Custody for 2 days, hence, part of interrogation seems to be completed with this accused and his further custody is no more required to the investigating machinery, accused is ready to abide the conditions imposed. \r\n---argument-ends---\r\n5) On perusal of FIR, it doesn\u0027t reflect role of this applicant in the crime, he was apprehended on suspicion. Whether he is involved or not has not been clarified. As the accused was in police custody for 2 days, there was sufficient opportunity to the police to make interrogation with the accused. Further more, other accused persons have been already released on bail. Hence, on the ground of parity also accused may be released on bail by imposing conditions. \r\n---argument-ends---\r\nORDER 1) Crim. Misc. Application 86 of 2019 is allowed. 2) Applicant Dhananjay Vishwanath Yadav be released bail on his furnishing personal bond of Rs.25,000/­ (Rs. Twenty Five Thousand) with one or more surety/ies, on following terms \u0026 conditions : a) Applicant shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. b) Applicant shall make available himself and co­ operate for interrogation by Police Officer as and when required and shall co­operate in the investigation of the present C.R. c) Applicant shall not leave Satara City without prior permission of the I.O. d) Bail in Lower Court. \r\n---order-ends---\r\n(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 16th February, 2019 Satara"
+}

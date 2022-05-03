@@ -1,0 +1,393 @@
+{
+  "header": "\u003d1\u003d ORDER BELOW EXH.1 IN CRIMINAL BAIL APPLICATION No.80 of 2019 (Raju Naragouda Dodala Vs. State of Maharashtra) CNR : MHST01­000400­2019",
+  "background": {
+    "text": "1) This the bail application under Sec. 439 of Code of Criminal Procedure is filed by applicants­accused in C.R.No. 30 of 2019 registered with Satara Taluka Police Station. \r\n2) Accused were arrested in above mentioned crime on 01.02.2019. The said crime is registered in respect of the offene punishable under Section 328 of Indian Penal Code and under Sec. 65(d),83, 86 of Bombay Prohibition Act. Accused are at present in Magisterial Custody. It is stated that, applicants are residing on the address given in the application with their families, so there is no possibility of their fleeing, applicants are only earning members of their families, they undertake to abide by the conditions imposed on them while granting the bail.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "328",
+          "stringMatched": "under section 328 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "3) The prosecution has filed its say at Exh. 5. It is contended that, crime is in respect of keeping illegal stock of adulterated Tadi (liquor) for the purpose of selling the same, applicant alongwith other accused persons have manufactured the same. During the investigation it has transpired that, accused have brought chemical powder for manufacturing tadi and accused no.4 Kishor Goud of Telangana was providing the material for the same, he is still absconding. It is contended that, if accused are released on bail, there is likelihood of their absconding, hence, prayed for rejection of the application. 4) Heard learned Advocate for the applicants­accused. He submitted that, applicants are innocent persons and have no connection with the crime, applicants are the only earning members of their families and if they remained in jail, their family will suffer much therefore prayed for bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) The prosecution has filed its say at Exh. 5.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, crime is in respect of keeping illegal stock of adulterated Tadi (liquor) for the purpose of selling the same, applicant alongwith other accused persons have manufactured the same.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "During the investigation it has transpired that, accused have brought chemical powder for manufacturing tadi and accused no.4 Kishor Goud of Telangana was providing the material for the same, he is still absconding.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is contended that, if accused are released on bail, there is likelihood of their absconding, hence, prayed for rejection of the application.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "4) Heard learned Advocate for the applicants­accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He submitted that, applicants are innocent persons and have no connection with the crime, applicants are the only earning members of their families and if they remained in jail, their family will suffer much therefore prayed for bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "5) It is submitted on behalf of prosecution that, if the \u003d2\u003d applicants are released on bail, they may repeat such type of crime, there is also likelihood of their absconding as they are resident of Telangana State, investigation is in progress, accused no. 4 is absconding since raid. Hence, considering the anti­social nature of the offence, application may be rejected.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) It is submitted on behalf of prosecution that, if the \u003d2\u003d applicants are released on bail, they may repeat such type of crime, there is also likelihood of their absconding as they are resident of Telangana State, investigation is in progress, accused no. 4 is absconding since raid.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Hence, considering the anti­social nature of the offence, application may be rejected.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "5) Considering the nature of offence submissions of both the parties, it is clear that, applicants are in jail since 01.02.2019, hence, no purpose will be served by keeping the applicant in jail. Considering these facts, applicants­accused may be released on bail. Hence, following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) Considering the nature of offence submissions of both the parties, it is clear that, applicants are in jail since 01.02.2019, hence, no purpose will be served by keeping the applicant in jail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Considering these facts, applicants­accused may be released on bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R 1) Criminal Bail Application no. 80 of 2019, is allowed. 2) Applicant­accused Raju Naragouda Dodala, Mallesha Shankar Goudala, Tirupati Rajgoud Ramaipetha be released on bail on their furnishing P.R.Bond of Rs.15,000/­ (Rs. Fifteen Thousand) each alongwith one local surety of like amount with following conditions. a) Accused shall not tamper with any evidence. b) Accused shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. c) Accused shall make available themselves and co­operate for interrogation by Police Officer as and when required. d) Any default of above conditions shall render the bail to be cancelled automatically. e) Compliance before lower Court.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(B.S.Wavre) Place : Satara Addl. Sessions Judge Date :12th February, 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "\u003d1\u003d ORDER BELOW EXH.1 IN CRIMINAL BAIL APPLICATION No.80 of 2019 (Raju Naragouda Dodala Vs. State of Maharashtra) CNR : MHST01­000400­2019 \r\n---header-ends---\r\n1) This the bail application under Sec. 439 of Code of Criminal Procedure is filed by applicants­accused in C.R.No. 30 of 2019 registered with Satara Taluka Police Station. \r\n2) Accused were arrested in above mentioned crime on 01.02.2019. The said crime is registered in respect of the offene punishable under Section 328 of Indian Penal Code and under Sec. 65(d),83, 86 of Bombay Prohibition Act. Accused are at present in Magisterial Custody. It is stated that, applicants are residing on the address given in the application with their families, so there is no possibility of their fleeing, applicants are only earning members of their families, they undertake to abide by the conditions imposed on them while granting the bail. \r\n---background-ends---\r\n3) The prosecution has filed its say at Exh. 5. It is contended that, crime is in respect of keeping illegal stock of adulterated Tadi (liquor) for the purpose of selling the same, applicant alongwith other accused persons have manufactured the same. During the investigation it has transpired that, accused have brought chemical powder for manufacturing tadi and accused no.4 Kishor Goud of Telangana was providing the material for the same, he is still absconding. It is contended that, if accused are released on bail, there is likelihood of their absconding, hence, prayed for rejection of the application. 4) Heard learned Advocate for the applicants­accused. He submitted that, applicants are innocent persons and have no connection with the crime, applicants are the only earning members of their families and if they remained in jail, their family will suffer much therefore prayed for bail. \r\n---argument-ends---\r\n5) It is submitted on behalf of prosecution that, if the \u003d2\u003d applicants are released on bail, they may repeat such type of crime, there is also likelihood of their absconding as they are resident of Telangana State, investigation is in progress, accused no. 4 is absconding since raid. Hence, considering the anti­social nature of the offence, application may be rejected. \r\n---argument-ends---\r\n5) Considering the nature of offence submissions of both the parties, it is clear that, applicants are in jail since 01.02.2019, hence, no purpose will be served by keeping the applicant in jail. Considering these facts, applicants­accused may be released on bail. Hence, following order. \r\n---argument-ends---\r\nO R D E R 1) Criminal Bail Application no. 80 of 2019, is allowed. 2) Applicant­accused Raju Naragouda Dodala, Mallesha Shankar Goudala, Tirupati Rajgoud Ramaipetha be released on bail on their furnishing P.R.Bond of Rs.15,000/­ (Rs. Fifteen Thousand) each alongwith one local surety of like amount with following conditions. a) Accused shall not tamper with any evidence. b) Accused shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. c) Accused shall make available themselves and co­operate for interrogation by Police Officer as and when required. d) Any default of above conditions shall render the bail to be cancelled automatically. e) Compliance before lower Court. \r\n---order-ends---\r\n(B.S.Wavre) Place : Satara Addl. Sessions Judge Date :12th February, 2019. Satara"
+}
