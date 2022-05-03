@@ -1,0 +1,989 @@
+{
+  "header": "ORDER BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 32/2019 (Shivnath S/o. Vishnu Wagh Vs. State of Maharashtra) MHST01­000220­2019",
+  "background": {
+    "text": "1) Present application is filed by applicant under section 438 of Criminal Procedure Code, 1973 apprehending his arrest under C.R. no. 110/2018, registered at Bhuinj police station, at the instance of Ashok Bhargav Jadhav, for alleged commission of offence punishable under section 420 of Indian Penal Code, 1860 and hence has approached Court seeking pre­arrest bail.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "420",
+          "stringMatched": "under section 420 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) Advocate for applicant argued that, in no circumstances offence under section 420 of Indian Penal Code, 1860, can be made out. It is contended that, at the most, case would be made out under section 138 of Negotiable Instruments Act. Otherwise also, it is purely civil dispute, even contractual liabilities.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) Advocate for applicant argued that, in no circumstances offence under section 420 of Indian Penal Code, 1860, can be made out.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, at the most, case would be made out under section 138 of Negotiable Instruments Act.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Otherwise also, it is purely civil dispute, even contractual liabilities.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is further contended that, accused in no circumstances had any intention of cheating the complainant company, else, accused would not have given cheque in repayment of the said amounts.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is further contended that, accused in no circumstances had any intention of cheating the complainant company, else, accused would not have given cheque in repayment of the said amounts.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) It is also contended that, accused is a mere truck owner and supplier. The labours working on his truck didn\u0027t turn up to do the harvesting work, hence sugarcanes could not be supplied to the complainant company. It is contended that, due to labours avoiding the work, this accused cannot be blamed for it.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) It is also contended that, accused is a mere truck owner and supplier.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The labours working on his truck didn\u0027t turn up to do the harvesting work, hence sugarcanes could not be supplied to the complainant company.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is contended that, due to labours avoiding the work, this accused cannot be blamed for it.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) It is further contended that, FIR alleges the sugarcanes not supplied for harvesting period during July 2018. However, FIR is lodged on 16/03/2018 after delay of about more than 8 months. It is contended that, FIR is lodged after 8 months, as an afterthought and is calculated move from the complainant company to harass the applicant being mere agriculturist and truck supplier.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) It is further contended that, FIR alleges the sugarcanes not supplied for harvesting period during July 2018.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "However, FIR is lodged on 16/03/2018 after delay of about more than 8 months.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is contended that, FIR is lodged after 8 months, as an afterthought and is calculated move from the complainant company to harass the applicant being mere agriculturist and truck supplier.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6) It is contended that, even if FIR is accepted on the face of it, it doesn\u0027t require any custodial investigation. The factum of cheque given by the accused being dishonoured and the agreements between accused and the complainant company are documentary elements in nature and for that purpose accused custodial interrogation is not required. It is contended that, accused undertakes to co­operate in the investigation and accordingly seeks pre­arrest bail protection.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) It is contended that, even if FIR is accepted on the face of it, it doesn\u0027t require any custodial investigation.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The factum of cheque given by the accused being dishonoured and the agreements between accused and the complainant company are documentary elements in nature and for that purpose accused custodial interrogation is not required.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is contended that, accused undertakes to co­operate in the investigation and accordingly seeks pre­arrest bail protection.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7) Bail application is resisted by APP by filing say at Exh.8 on the grounds that, accused contracted with the complainant company to provide sugarcane harvesting labourers and in consideration thereof took advance of Rs. 15,00,000/­, accused did not provide the labourers for harvesting period July 2018. Accordingly, accused was liable to return back amount of Rs. 15,00,000/­ to the complainant company. Upon the said amount being demanded back, accused in repayment of it, issued cheque to the complainant company. The cheque upon being presented for realisation, got dishonoured for want of funds. Upon the accused being asked to repay said amounts, accused quarreled with the complainant company\u0027s person as well as the police and other local persons, who tried to convince the accused for making the payments. APP contended that, accordingly accused\u0027s intention of cheating the complainant company gets revealed.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7) Bail application is resisted by APP by filing say at Exh.8 on the grounds that, accused contracted with the complainant company to provide sugarcane harvesting labourers and in consideration thereof took advance of Rs. 15,00,000/­, accused did not provide the labourers for harvesting period July 2018.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Accordingly, accused was liable to return back amount of Rs. 15,00,000/­ to the complainant company.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Upon the said amount being demanded back, accused in repayment of it, issued cheque to the complainant company.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The cheque upon being presented for realisation, got dishonoured for want of funds.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Upon the accused being asked to repay said amounts, accused quarreled with the complainant company\u0027s person as well as the police and other local persons, who tried to convince the accused for making the payments.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "APP contended that, accordingly accused\u0027s intention of cheating the complainant company gets revealed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8) APP further contended that, the reason cited by the accused for not supplying the sugarcanes to the factory are not acceptable as accused has got 3 trucks and there are labours attached to each truck.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8) APP further contended that, the reason cited by the accused for not supplying the sugarcanes to the factory are not acceptable as accused has got 3 trucks and there are labours attached to each truck.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "9) APP further contended that, it is the accused\u0027s modus to cheat the company/ies in similar manner and C.R. no. 271/2018 is registered against the accused Ambad police station for alleged commission of offence punishable under section 143, 147, 353, 323, 325, 427, 504 and 506 of Indian Penal Code, 1860. Accused is resident of district Jalna and in case of being protected by grant of pre­arrest bail, securing his presence for investigation may become impossible leading to the investigation being stalled. Accordingly, pre­arrest bail is resisted.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "9) APP further contended that, it is the accused\u0027s modus to cheat the company/ies in similar manner and C.R. no. 271/2018 is registered against the accused Ambad police station for alleged commission of offence punishable under section 143, 147, 353, 323, 325, 427, 504 and 506 of Indian Penal Code, 1860.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Accused is resident of district Jalna and in case of being protected by grant of pre­arrest bail, securing his presence for investigation may become impossible leading to the investigation being stalled.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accordingly, pre­arrest bail is resisted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 9,
+      "text": "10) Upon perusing FIR, hearing the applicant\u0027s advocate and the APP, it appears that, accused had contractual privy with the complainant company for providing harvesting labourers in lieu of the advance amount of Rs. 15,00,000/­ being taken by the complainant company. As the labours were not provided, it would be incumbent for accused to repay those amounts to the company. It appears that, the cheque given in discharge of such liabilities is dishonoured for want of funds. Allegations are of accused having quarreled with the persons from complainant company, the police and also with local persons convincing the accused to sort out the dispute. Applicant\u0027s antecedents revealed a crime registered against him at Ambad police station for commission of offences punishable under Indian Penal Code. It is further settled position of law that, just because an incident or liability may appear to be civil in nature, there is no bar for criminal proceedings to be initiated in respect of it, if it can be so.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "10) Upon perusing FIR, hearing the applicant\u0027s advocate and the APP, it appears that, accused had contractual privy with the complainant company for providing harvesting labourers in lieu of the advance amount of Rs. 15,00,000/­ being taken by the complainant company.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "As the labours were not provided, it would be incumbent for accused to repay those amounts to the company.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It appears that, the cheque given in discharge of such liabilities is dishonoured for want of funds.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Allegations are of accused having quarreled with the persons from complainant company, the police and also with local persons convincing the accused to sort out the dispute.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Applicant\u0027s antecedents revealed a crime registered against him at Ambad police station for commission of offences punishable under Indian Penal Code.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "It is further settled position of law that, just because an incident or liability may appear to be civil in nature, there is no bar for criminal proceedings to be initiated in respect of it, if it can be so.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 10,
+      "text": "11) Amount involved is Rs. 15,00,000/­. Thus, taking into consideration totality of circumstances of the huge amount being involved, accused being resident of another district, other offences being registered against him, FIR being preceded with, quarrels between both the parties, it appears that, thorough investigation in the matter is required. In such circumstances, it does not appear that, applicant has not made out any case for being protected by grant of pre­arrest bail. Hence, the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "11) Amount involved is Rs. 15,00,000/­.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Thus, taking into consideration totality of circumstances of the huge amount being involved, accused being resident of another district, other offences being registered against him, FIR being preceded with, quarrels between both the parties, it appears that, thorough investigation in the matter is required.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "In such circumstances, it does not appear that, applicant has not made out any case for being protected by grant of pre­arrest bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Hence, the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER Criminal Bail Application no. 32/2019, is rejected.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Y. H. Ameta) Place : Satara Addl. Sessions Judge Date :­ 13th February, 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 32/2019 (Shivnath S/o. Vishnu Wagh Vs. State of Maharashtra) MHST01­000220­2019 \r\n---header-ends---\r\n1) Present application is filed by applicant under section 438 of Criminal Procedure Code, 1973 apprehending his arrest under C.R. no. 110/2018, registered at Bhuinj police station, at the instance of Ashok Bhargav Jadhav, for alleged commission of offence punishable under section 420 of Indian Penal Code, 1860 and hence has approached Court seeking pre­arrest bail. \r\n---background-ends---\r\n2) Advocate for applicant argued that, in no circumstances offence under section 420 of Indian Penal Code, 1860, can be made out. It is contended that, at the most, case would be made out under section 138 of Negotiable Instruments Act. Otherwise also, it is purely civil dispute, even contractual liabilities. \r\n---argument-ends---\r\n3) It is further contended that, accused in no circumstances had any intention of cheating the complainant company, else, accused would not have given cheque in repayment of the said amounts. \r\n---argument-ends---\r\n4) It is also contended that, accused is a mere truck owner and supplier. The labours working on his truck didn\u0027t turn up to do the harvesting work, hence sugarcanes could not be supplied to the complainant company. It is contended that, due to labours avoiding the work, this accused cannot be blamed for it. \r\n---argument-ends---\r\n5) It is further contended that, FIR alleges the sugarcanes not supplied for harvesting period during July 2018. However, FIR is lodged on 16/03/2018 after delay of about more than 8 months. It is contended that, FIR is lodged after 8 months, as an afterthought and is calculated move from the complainant company to harass the applicant being mere agriculturist and truck supplier. \r\n---argument-ends---\r\n6) It is contended that, even if FIR is accepted on the face of it, it doesn\u0027t require any custodial investigation. The factum of cheque given by the accused being dishonoured and the agreements between accused and the complainant company are documentary elements in nature and for that purpose accused custodial interrogation is not required. It is contended that, accused undertakes to co­operate in the investigation and accordingly seeks pre­arrest bail protection. \r\n---argument-ends---\r\n7) Bail application is resisted by APP by filing say at Exh.8 on the grounds that, accused contracted with the complainant company to provide sugarcane harvesting labourers and in consideration thereof took advance of Rs. 15,00,000/­, accused did not provide the labourers for harvesting period July 2018. Accordingly, accused was liable to return back amount of Rs. 15,00,000/­ to the complainant company. Upon the said amount being demanded back, accused in repayment of it, issued cheque to the complainant company. The cheque upon being presented for realisation, got dishonoured for want of funds. Upon the accused being asked to repay said amounts, accused quarreled with the complainant company\u0027s person as well as the police and other local persons, who tried to convince the accused for making the payments. APP contended that, accordingly accused\u0027s intention of cheating the complainant company gets revealed. \r\n---argument-ends---\r\n8) APP further contended that, the reason cited by the accused for not supplying the sugarcanes to the factory are not acceptable as accused has got 3 trucks and there are labours attached to each truck. \r\n---argument-ends---\r\n9) APP further contended that, it is the accused\u0027s modus to cheat the company/ies in similar manner and C.R. no. 271/2018 is registered against the accused Ambad police station for alleged commission of offence punishable under section 143, 147, 353, 323, 325, 427, 504 and 506 of Indian Penal Code, 1860. Accused is resident of district Jalna and in case of being protected by grant of pre­arrest bail, securing his presence for investigation may become impossible leading to the investigation being stalled. Accordingly, pre­arrest bail is resisted. \r\n---argument-ends---\r\n10) Upon perusing FIR, hearing the applicant\u0027s advocate and the APP, it appears that, accused had contractual privy with the complainant company for providing harvesting labourers in lieu of the advance amount of Rs. 15,00,000/­ being taken by the complainant company. As the labours were not provided, it would be incumbent for accused to repay those amounts to the company. It appears that, the cheque given in discharge of such liabilities is dishonoured for want of funds. Allegations are of accused having quarreled with the persons from complainant company, the police and also with local persons convincing the accused to sort out the dispute. Applicant\u0027s antecedents revealed a crime registered against him at Ambad police station for commission of offences punishable under Indian Penal Code. It is further settled position of law that, just because an incident or liability may appear to be civil in nature, there is no bar for criminal proceedings to be initiated in respect of it, if it can be so. \r\n---argument-ends---\r\n11) Amount involved is Rs. 15,00,000/­. Thus, taking into consideration totality of circumstances of the huge amount being involved, accused being resident of another district, other offences being registered against him, FIR being preceded with, quarrels between both the parties, it appears that, thorough investigation in the matter is required. In such circumstances, it does not appear that, applicant has not made out any case for being protected by grant of pre­arrest bail. Hence, the following order. \r\n---argument-ends---\r\nORDER Criminal Bail Application no. 32/2019, is rejected. \r\n---order-ends---\r\n(Y. H. Ameta) Place : Satara Addl. Sessions Judge Date :­ 13th February, 2019. Satara"
+}
