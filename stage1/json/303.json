@@ -1,0 +1,507 @@
+{
+  "header": "ORDER BELOW EXH.1 IN CRIMINAL BAIL APPLICATION No. 111/2019 (Sachin Jalindar Chavan Vs. State of Maharashtra) CNR : MHST01­000582­2019",
+  "background": {
+    "text": "1) Present bail application is preferred by the applicant under section 439 of Criminal Procedure Code, 1973 seeking his release from having being arrested under execution of non bailable warrant issued by Ld. J.M.F.C. Khandala in S.C.C. no. 543/2017.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) It is contended by applicant\u0027s advocate that, accused is arrested under execution of NBW. Application for cancellation of the said warrant, preferred before the Ld. JMFC Court is rejected. It is contended that, offence is bailable in nature, however, Ld. J.M.F.C. refused to grant bail to the applicant/accused. It is contended that, plea is not recorded till today. Bail application is rejected by the Ld. J.M.F.C. only on the grounds of the apprehension of the accused fleeing away again. It is contended that, accused undertakes to attend every date of hearing expedite the trial. Accordingly, bail is contended.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) It is contended by applicant\u0027s advocate that, accused is arrested under execution of NBW.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Application for cancellation of the said warrant, preferred before the Ld. JMFC Court is rejected.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is contended that, offence is bailable in nature, however, Ld. J.M.F.C. refused to grant bail to the applicant/accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is contended that, plea is not recorded till today.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Bail application is rejected by the Ld. J.M.F.C. only on the grounds of the apprehension of the accused fleeing away again.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "It is contended that, accused undertakes to attend every date of hearing expedite the trial.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Accordingly, bail is contended.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) Bail application is resisted by the APP by filing say at Exh. 5 on the grounds that, accused is arrested in breach of conditions as per section 436(2) of Criminal Procedure Code, 1973, hence are not entitled for bail. It is contended that, in case of released on bail, they may abscond and protract the trial. Accordingly, bail is resisted.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) Bail application is resisted by the APP by filing say at Exh. 5 on the grounds that, accused is arrested in breach of conditions as per section 436(2) of Criminal Procedure Code, 1973, hence are not entitled for bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, in case of released on bail, they may abscond and protract the trial.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accordingly, bail is resisted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) Upon hearing the APP and applicant\u0027s advocate and perusing the papers, it appears that, applicants/accused are arrested under execution of NBW issued by the Ld. JMFC Khandala. Perusal of the bail rejection order reveals that, plea is yet to be recorded. However, it is uncertain as to the time to be consumed for completion of trial. In such circumstances, keeping the accused arrested pending the trial, would amount to punishment before trial, which is not justifiable. At the same time, APP\u0027s apprehensions shall also have to be considered for ensuring accused\u0027s presence at the hearing and facing the trial. The same can be secured by subjecting the accused to certain conditions. Hence, the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) Upon hearing the APP and applicant\u0027s advocate and perusing the papers, it appears that, applicants/accused are arrested under execution of NBW issued by the Ld. JMFC Khandala.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Perusal of the bail rejection order reveals that, plea is yet to be recorded.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "However, it is uncertain as to the time to be consumed for completion of trial.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "In such circumstances, keeping the accused arrested pending the trial, would amount to punishment before trial, which is not justifiable.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "At the same time, APP\u0027s apprehensions shall also have to be considered for ensuring accused\u0027s presence at the hearing and facing the trial.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "The same can be secured by subjecting the accused to certain conditions.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Hence, the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R 1) Criminal Bail Application no. 111/2019, is allowed; 2) Applicant Sachin Jalindar Chavan, be released on bail from arrest under execution of NBW issued in S.C.C. no. 543/2017, upon paying penalty of Rs. 5,000/­ (Rs. Five Thousand only); and executing personal bond of Rs. 25,000/­ (Rs. Twenty Five Thousand) with atleast one or more local surety/ies, to make up the bail amount and also to execute cash bail of Rs. 10,000/­ (Rs. Ten Thousand); on following terms \u0026 conditions; a) Applicant shall not tamper with evidence. b) Applicant shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. c) Applicant shall attend each and every date of hearing, failing which the bail granted herein shall automatically stand cancelled. d) Applicant shall provide his address of availability and operative mobile numbers to the concern police station. Accused shall always be available through their given mobile numbers. e) Compliance before lower Court.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Y. H. Ameta) Place : Satara Addl. Sessions Judge Date :­ 18th February, 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH.1 IN CRIMINAL BAIL APPLICATION No. 111/2019 (Sachin Jalindar Chavan Vs. State of Maharashtra) CNR : MHST01­000582­2019 \r\n---header-ends---\r\n1) Present bail application is preferred by the applicant under section 439 of Criminal Procedure Code, 1973 seeking his release from having being arrested under execution of non bailable warrant issued by Ld. J.M.F.C. Khandala in S.C.C. no. 543/2017. \r\n---background-ends---\r\n2) It is contended by applicant\u0027s advocate that, accused is arrested under execution of NBW. Application for cancellation of the said warrant, preferred before the Ld. JMFC Court is rejected. It is contended that, offence is bailable in nature, however, Ld. J.M.F.C. refused to grant bail to the applicant/accused. It is contended that, plea is not recorded till today. Bail application is rejected by the Ld. J.M.F.C. only on the grounds of the apprehension of the accused fleeing away again. It is contended that, accused undertakes to attend every date of hearing expedite the trial. Accordingly, bail is contended. \r\n---argument-ends---\r\n3) Bail application is resisted by the APP by filing say at Exh. 5 on the grounds that, accused is arrested in breach of conditions as per section 436(2) of Criminal Procedure Code, 1973, hence are not entitled for bail. It is contended that, in case of released on bail, they may abscond and protract the trial. Accordingly, bail is resisted. \r\n---argument-ends---\r\n4) Upon hearing the APP and applicant\u0027s advocate and perusing the papers, it appears that, applicants/accused are arrested under execution of NBW issued by the Ld. JMFC Khandala. Perusal of the bail rejection order reveals that, plea is yet to be recorded. However, it is uncertain as to the time to be consumed for completion of trial. In such circumstances, keeping the accused arrested pending the trial, would amount to punishment before trial, which is not justifiable. At the same time, APP\u0027s apprehensions shall also have to be considered for ensuring accused\u0027s presence at the hearing and facing the trial. The same can be secured by subjecting the accused to certain conditions. Hence, the following order. \r\n---argument-ends---\r\nO R D E R 1) Criminal Bail Application no. 111/2019, is allowed; 2) Applicant Sachin Jalindar Chavan, be released on bail from arrest under execution of NBW issued in S.C.C. no. 543/2017, upon paying penalty of Rs. 5,000/­ (Rs. Five Thousand only); and executing personal bond of Rs. 25,000/­ (Rs. Twenty Five Thousand) with atleast one or more local surety/ies, to make up the bail amount and also to execute cash bail of Rs. 10,000/­ (Rs. Ten Thousand); on following terms \u0026 conditions; a) Applicant shall not tamper with evidence. b) Applicant shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. c) Applicant shall attend each and every date of hearing, failing which the bail granted herein shall automatically stand cancelled. d) Applicant shall provide his address of availability and operative mobile numbers to the concern police station. Accused shall always be available through their given mobile numbers. e) Compliance before lower Court. \r\n---order-ends---\r\n(Y. H. Ameta) Place : Satara Addl. Sessions Judge Date :­ 18th February, 2019. Satara"
+}

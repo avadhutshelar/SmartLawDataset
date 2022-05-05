@@ -1,0 +1,937 @@
+{
+  "header": "ORDER BELOW EXH. 4 IN CRI. MISC. APPLICATION No. 132/2019 (Mangala V Lahoti Vs. State of Maharashtra) CNR : MHST01-000667-2019",
+  "background": {
+    "text": "1) Present application is filed by the applicant under section 438 of Criminal Procedure Code, 1973 apprehending her arrest as a result of complaint dated 20.02.2019 filed by Gangaram Mahadeo Ghadge, in C.R.No. 122/2019 in Satara City Police Station for the offence punishable under Sec. 420, 406, 34 of Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) Alongwith said pre­arrest bail application, the applicant has also preferred ad­interim pre­arrest bail application at Exh. 4.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) Alongwith said pre­arrest bail application, the applicant has also preferred ad­interim pre­arrest bail application at Exh. 4.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is alleged that, the applicant i.e. accused no.2 in above mentioned Cr.No. 122/2019 alongwith accused no.1 Marutrao Sahebrao Rajgude deceived the complainant. Prosecution case is that, Marutrao Rajgude sold the property i.e. shop situated at C.S.No. 39 Sadashiv Peth to the complainant for an amount of Rs.32,00,000/­ on 09.02.2016 at that time, he had assured that after expiration of leave and license agreement between accused no.1 and present applicant he can receive the possession of said property. Complainant also send a notice on 28.05.2018 to applicant to handover possession of the property to him, that time, he came to know that, the leave and license agreement has been extended further without his permission. Therefore, he lodged FIR.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is alleged that, the applicant i.e. accused no.2 in above mentioned Cr.No.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "122/2019 alongwith accused no.1 Marutrao Sahebrao Rajgude deceived the complainant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Prosecution case is that, Marutrao Rajgude sold the property i.e. shop situated at C.S.No.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "39 Sadashiv Peth to the complainant for an amount of Rs.32,00,000/­ on 09.02.2016 at that time, he had assured that after expiration of leave and license agreement between accused no.1 and present applicant he can receive the possession of said property.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Complainant also send a notice on 28.05.2018 to applicant to handover possession of the property to him, that time, he came to know that, the leave and license agreement has been extended further without his permission.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Therefore, he lodged FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) It is the case of applicant that, she is running business of readymade garments at C.S.No. 39, Shop No. UG­1 Sadashiv Peth Satara which was taken from Marutrao Sahebrao Rajgude by registered leave and license agreement dated 22.07.2008 for period of 5 years on license fees of Rs.10,000/­ per month and security of Rs.20,00,000/­, which was thereafter continued till 31.08.2018. In the month of January 2014, said Marutrao demanded Rs.2,00,000/­ as additional security by agreeing to extend the leave and license for further five years. Said Marutrao executed supplementary agreement dated 13.06.2017 for further 5 years after expiry of lease period i.e. 31.08.2018 and applicant paid him additional amount of Rs.10,50,000/­. Thus, the total security deposit against the said premises which is paid to Raijgude is Rs.32,50,000/­ said period for leave and license expires on 31.08.2023.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) It is the case of applicant that, she is running business of readymade garments at C.S.No.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "39, Shop No.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "UG­1 Sadashiv Peth Satara which was taken from Marutrao Sahebrao Rajgude by registered leave and license agreement dated 22.07.2008 for period of 5 years on license fees of Rs.10,000/­ per month and security of Rs.20,00,000/­, which was thereafter continued till 31.08.2018.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "In the month of January 2014, said Marutrao demanded Rs.2,00,000/­ as additional security by agreeing to extend the leave and license for further five years.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Said Marutrao executed supplementary agreement dated 13.06.2017 for further 5 years after expiry of lease period i.e. 31.08.2018 and applicant paid him additional amount of Rs.10,50,000/­.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Thus, the total security deposit against the said premises which is paid to Raijgude is Rs.32,50,000/­ said period for leave and license expires on 31.08.2023.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) It is further contended that, during existence of said agreement, Marutrao sold the premises to Gangaram Ghadage and Suvarna Ghadage on 09.02.2016, thereafter, they started threatening the applicant to vacate the said premises. On 04.09.2018, applicant filed complaint against Gangaram Ghadage and Naresh Jambhale who tried to forcefully enter in the premises. As leave and license agreement is in subsistence, applicant has right to enjoy the said premises for period of 5 years till 31.08.2023. Applicant has also filed suit No. 385/2018 for specific performance of contract.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) It is further contended that, during existence of said agreement, Marutrao sold the premises to Gangaram Ghadage and Suvarna Ghadage on 09.02.2016, thereafter, they started threatening the applicant to vacate the said premises.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On 04.09.2018, applicant filed complaint against Gangaram Ghadage and Naresh Jambhale who tried to forcefully enter in the premises.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "As leave and license agreement is in subsistence, applicant has right to enjoy the said premises for period of 5 years till 31.08.2023.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Applicant has also filed suit No. 385/2018 for specific performance of contract.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6) It is stated that, applicant and her son were called at Dy.S.P. office where informant alongwith two others have threatened applicant\u0027s son, hence applicant\u0027s son lodged N.C. against them. Today, applicant came to know a news published in Sakal regarding crime registered against the applicant.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) It is stated that, applicant and her son were called at Dy.S.P.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "office where informant alongwith two others have threatened applicant\u0027s son, hence applicant\u0027s son lodged N.C. against them.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Today, applicant came to know a news published in Sakal regarding crime registered against the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7) There is no iota of evidence against the applicant, she is being involved in the offence with malafide intention, applicant is respectable citizen having landed property at Satara, she undertakes to co­operate with investigation machinery and ready to furnish \u003d3\u003d security. Hence, the application.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7) There is no iota of evidence against the applicant, she is being involved in the offence with malafide intention, applicant is respectable citizen having landed property at Satara, she undertakes to co­operate with investigation machinery and ready to furnish \u003d3\u003d security.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Hence, the application.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8) It is submitted that, the applicant is in possession of premises on the basis of leave and license agreements executed in her favour time to time and the last leave and license agreement is executed in her favour is for the period till 31.08.2023. It is submitted that, in agreement which was ending in 2018, there is mention about the assurance to extend further period of leave and license, due to the reason tht, already the accused no.2 who is the landlord of the property had accepted the huge amount from this application i.e. Rs.32,50,000/­.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8) It is submitted that, the applicant is in possession of premises on the basis of leave and license agreements executed in her favour time to time and the last leave and license agreement is executed in her favour is for the period till 31.08.2023.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is submitted that, in agreement which was ending in 2018, there is mention about the assurance to extend further period of leave and license, due to the reason tht, already the accused no.2 who is the landlord of the property had accepted the huge amount from this application i.e. Rs.32,50,000/­.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "9) It is submitted that, already the applicant has filed civil suit in which the complainant and others have filed written statement, the dispute is purely of civil nature, there is no intention of deceiving the complainant of this applicant. On the contrary, this applicant is being deceived by accused no.1 and she has sought relief of civil suit about the same. It is pointed out that, if at all there is deceiving, it may be by other accused and therefore, this applicant is not concerned with the entire episode narrated in the FIR. It is pointed out that, applicant is running her garment business from this premises and the complainant was well aware about the fact that, she was in possession of premises since long. It is also pointed out that, applicant is senior citizen and she had no intention to deceive the complainant. Whatever documents are executed, those are executed by accused no.1. For no reason custodial interrogation is required and hence, she be granted interim protection under Sec. 438 of Cr.P.C.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "9) It is submitted that, already the applicant has filed civil suit in which the complainant and others have filed written statement, the dispute is purely of civil nature, there is no intention of deceiving the complainant of this applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On the contrary, this applicant is being deceived by accused no.1 and she has sought relief of civil suit about the same.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is pointed out that, if at all there is deceiving, it may be by other accused and therefore, this applicant is not concerned with the entire episode narrated in the FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is pointed out that, applicant is running her garment business from this premises and the complainant was well aware about the fact that, she was in possession of premises since long.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "It is also pointed out that, applicant is senior citizen and she had no intention to deceive the complainant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Whatever documents are executed, those are executed by accused no.1.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "For no reason custodial interrogation is required and hence, she be granted interim protection under Sec. 438 of Cr.P.C.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 9,
+      "text": "10) Considering facts and the papers I find that, the prima facie dispute seems to be of civil nature, already the dispute is pending before Civil Court, the allegation in FIR can be said after thought and hence, interim protection may be granted to the applicant till filing say. Hence, I pass following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "10) Considering facts and the papers I find that, the prima facie dispute seems to be of civil nature, already the dispute is pending before Civil Court, the allegation in FIR can be said after thought and hence, interim protection may be granted to the applicant till filing say.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Hence, I pass following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1) Application Exh. 4 is granted. 2) In the event of arrest of applicant Mangal Vishnudas Lahoti she be released on interim pre­arrest bail, in respect of the C.R.No. 122/2019 of Satara City Police Station, on her furnishing personal bond of Rs. 25,000/­ (Rs. Twenty Five Thousand), with one or more surety/ies, till filing of say by prosecution/I.O. on following terms \u0026 conditions : a) Applicant shall attend the concern police station once in a week preferably on every Saturday in between 11:00 a.m. to 12.00 noon. b) Applicant shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade them from disclosing such facts to the court or to any Police Officer. c) Applicant shall make available himself and co­operate for interrogation by Police Officer as and when required and shall co­operate in the investigation of the present C.R. d) Applicant shall not tamper any of the documents connected to the present C.R. under investigation. e) Applicant shall also produce the documents called by the I.O. during the course of his investigation. f) Issue notice to Public Prosecutor as to why interim pre­arrest bail granted to the applicants shall not be confirmed. Notice r/o.04th March, 2019.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 21st February, 2019 Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH. 4 IN CRI. MISC. APPLICATION No. 132/2019 (Mangala V Lahoti Vs. State of Maharashtra) CNR : MHST01-000667-2019 \r\n---header-ends---\r\n1) Present application is filed by the applicant under section 438 of Criminal Procedure Code, 1973 apprehending her arrest as a result of complaint dated 20.02.2019 filed by Gangaram Mahadeo Ghadge, in C.R.No. 122/2019 in Satara City Police Station for the offence punishable under Sec. 420, 406, 34 of Indian Penal Code. \r\n---background-ends---\r\n2) Alongwith said pre­arrest bail application, the applicant has also preferred ad­interim pre­arrest bail application at Exh. 4. \r\n---argument-ends---\r\n3) It is alleged that, the applicant i.e. accused no.2 in above mentioned Cr.No. 122/2019 alongwith accused no.1 Marutrao Sahebrao Rajgude deceived the complainant. Prosecution case is that, Marutrao Rajgude sold the property i.e. shop situated at C.S.No. 39 Sadashiv Peth to the complainant for an amount of Rs.32,00,000/­ on 09.02.2016 at that time, he had assured that after expiration of leave and license agreement between accused no.1 and present applicant he can receive the possession of said property. Complainant also send a notice on 28.05.2018 to applicant to handover possession of the property to him, that time, he came to know that, the leave and license agreement has been extended further without his permission. Therefore, he lodged FIR. \r\n---argument-ends---\r\n4) It is the case of applicant that, she is running business of readymade garments at C.S.No. 39, Shop No. UG­1 Sadashiv Peth Satara which was taken from Marutrao Sahebrao Rajgude by registered leave and license agreement dated 22.07.2008 for period of 5 years on license fees of Rs.10,000/­ per month and security of Rs.20,00,000/­, which was thereafter continued till 31.08.2018. In the month of January 2014, said Marutrao demanded Rs.2,00,000/­ as additional security by agreeing to extend the leave and license for further five years. Said Marutrao executed supplementary agreement dated 13.06.2017 for further 5 years after expiry of lease period i.e. 31.08.2018 and applicant paid him additional amount of Rs.10,50,000/­. Thus, the total security deposit against the said premises which is paid to Raijgude is Rs.32,50,000/­ said period for leave and license expires on 31.08.2023. \r\n---argument-ends---\r\n5) It is further contended that, during existence of said agreement, Marutrao sold the premises to Gangaram Ghadage and Suvarna Ghadage on 09.02.2016, thereafter, they started threatening the applicant to vacate the said premises. On 04.09.2018, applicant filed complaint against Gangaram Ghadage and Naresh Jambhale who tried to forcefully enter in the premises. As leave and license agreement is in subsistence, applicant has right to enjoy the said premises for period of 5 years till 31.08.2023. Applicant has also filed suit No. 385/2018 for specific performance of contract. \r\n---argument-ends---\r\n6) It is stated that, applicant and her son were called at Dy.S.P. office where informant alongwith two others have threatened applicant\u0027s son, hence applicant\u0027s son lodged N.C. against them. Today, applicant came to know a news published in Sakal regarding crime registered against the applicant. \r\n---argument-ends---\r\n7) There is no iota of evidence against the applicant, she is being involved in the offence with malafide intention, applicant is respectable citizen having landed property at Satara, she undertakes to co­operate with investigation machinery and ready to furnish \u003d3\u003d security. Hence, the application. \r\n---argument-ends---\r\n8) It is submitted that, the applicant is in possession of premises on the basis of leave and license agreements executed in her favour time to time and the last leave and license agreement is executed in her favour is for the period till 31.08.2023. It is submitted that, in agreement which was ending in 2018, there is mention about the assurance to extend further period of leave and license, due to the reason tht, already the accused no.2 who is the landlord of the property had accepted the huge amount from this application i.e. Rs.32,50,000/­. \r\n---argument-ends---\r\n9) It is submitted that, already the applicant has filed civil suit in which the complainant and others have filed written statement, the dispute is purely of civil nature, there is no intention of deceiving the complainant of this applicant. On the contrary, this applicant is being deceived by accused no.1 and she has sought relief of civil suit about the same. It is pointed out that, if at all there is deceiving, it may be by other accused and therefore, this applicant is not concerned with the entire episode narrated in the FIR. It is pointed out that, applicant is running her garment business from this premises and the complainant was well aware about the fact that, she was in possession of premises since long. It is also pointed out that, applicant is senior citizen and she had no intention to deceive the complainant. Whatever documents are executed, those are executed by accused no.1. For no reason custodial interrogation is required and hence, she be granted interim protection under Sec. 438 of Cr.P.C. \r\n---argument-ends---\r\n10) Considering facts and the papers I find that, the prima facie dispute seems to be of civil nature, already the dispute is pending before Civil Court, the allegation in FIR can be said after thought and hence, interim protection may be granted to the applicant till filing say. Hence, I pass following order. \r\n---argument-ends---\r\nORDER 1) Application Exh. 4 is granted. 2) In the event of arrest of applicant Mangal Vishnudas Lahoti she be released on interim pre­arrest bail, in respect of the C.R.No. 122/2019 of Satara City Police Station, on her furnishing personal bond of Rs. 25,000/­ (Rs. Twenty Five Thousand), with one or more surety/ies, till filing of say by prosecution/I.O. on following terms \u0026 conditions : a) Applicant shall attend the concern police station once in a week preferably on every Saturday in between 11:00 a.m. to 12.00 noon. b) Applicant shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade them from disclosing such facts to the court or to any Police Officer. c) Applicant shall make available himself and co­operate for interrogation by Police Officer as and when required and shall co­operate in the investigation of the present C.R. d) Applicant shall not tamper any of the documents connected to the present C.R. under investigation. e) Applicant shall also produce the documents called by the I.O. during the course of his investigation. f) Issue notice to Public Prosecutor as to why interim pre­arrest bail granted to the applicants shall not be confirmed. Notice r/o.04th March, 2019. \r\n---order-ends---\r\n(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 21st February, 2019 Satara"
+}

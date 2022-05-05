@@ -1,0 +1,540 @@
+{
+  "header": "ORDER BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 110/2019 (Hiralal Parshuram Salunkhe and 2 Ors. Vs. State of Maharashtra) CNR : MHST01­000561­2019",
+  "background": {
+    "text": "1) Present bail application is preferred by the accused under section 439 of Criminal Procedure Code, 1973 seeking their release from arrest, under C.R. no. 34/2019, registered at Lonand Police Station at the instance of Shashikant Bhujangrao Kshirasagar, for alleged commission of offences punishable under sections 353 and 379 r/w. 34 of Indian Penal Code, 1860.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "353,379,34",
+          "stringMatched": "under sections 353 and 379 r/w. 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) It is contended by applicant\u0027s advocate that, present applicants/accused are falsely roped in the offence These applicants/accused are mere drivers working on JCB machine and trolley seized by the police. It is contended that, FIR is exaggerated as can be seen by the fact that allegations are of the tractor driver without stopping proceeding towards Nira direction; in such circumstances, seizure of the said tractor with trolley becomes disputed.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) It is contended by applicant\u0027s advocate that, present applicants/accused are falsely roped in the offence These applicants/accused are mere drivers working on JCB machine and trolley seized by the police.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, FIR is exaggerated as can be seen by the fact that allegations are of the tractor driver without stopping proceeding towards Nira direction; in such circumstances, seizure of the said tractor with trolley becomes disputed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is further contended that, accused are in arrest since 08/02/2019 and in MCR since 11/02/2019. No element of seizure or recovery is required to be done from these accused. Accordingly, bail is contended.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is further contended that, accused are in arrest since 08/02/2019 and in MCR since 11/02/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "No element of seizure or recovery is required to be done from these accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accordingly, bail is contended.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) Bail application is resisted by the APP by filing say at Exh. 5 on the grounds that, accused were involved in trafficking of illegally excavated sands. Inspite of warnings by the police, accused did not stop and attempted to flee away with the vehicle and illegally extracted sands. It is further contended that, investigation in the matter is continuing. Accordingly, bail application is sought to be rejected.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) Bail application is resisted by the APP by filing say at Exh. 5 on the grounds that, accused were involved in trafficking of illegally excavated sands.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Inspite of warnings by the police, accused did not stop and attempted to flee away with the vehicle and illegally extracted sands.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is further contended that, investigation in the matter is continuing.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Accordingly, bail application is sought to be rejected.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) Upon perusing FIR, the investigation papers and other documents submitted on record, hearing the APP and the accused\u0027s advocate, it appears that, accused are arrested with vehicles containing sands. Allegations are also of accused disrespecting the police command, attempted to proceed in the direction of Nira. Further, it is undisputed that, there remains no element of seizure or recovery to be done. Thus, taking into consideration the totality of circumstances, it appears that, substantial investigation also ought to be completed as yet. In such circumstances, it appears that, no much purpose will be served by keeping the accused arrested. However, APP\u0027s apprehensions are also to be taken care of. Hence, the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) Upon perusing FIR, the investigation papers and other documents submitted on record, hearing the APP and the accused\u0027s advocate, it appears that, accused are arrested with vehicles containing sands.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Allegations are also of accused disrespecting the police command, attempted to proceed in the direction of Nira.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Further, it is undisputed that, there remains no element of seizure or recovery to be done.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Thus, taking into consideration the totality of circumstances, it appears that, substantial investigation also ought to be completed as yet.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "In such circumstances, it appears that, no much purpose will be served by keeping the accused arrested.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "However, APP\u0027s apprehensions are also to be taken care of.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Hence, the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1) Criminal Bail Application no. 110/2019, is allowed. 2) Accused no. 1 Hiralal Parshuram Salunkhe, no. 2 Santosh Chandrakant Mane and no. 3 Jayram Kashinath Rathod, be released on bail, from their arrest under C.R. no. 34/2019, registered at Lonand Police Station, on their furnishing personal bond of Rs.25,000/­ each (Rs. Twenty Five Thousand each) with one or more surety/ies, to make up the bond amounts, on following terms and conditions; a) Accused shall cause their attendance thrice at the concerned police station preferably on every Monday, Wednesday and Friday at any time in between 11.00 a.m. to 2.00 p.m. till further orders. b) Accused shall not tamper with any evidence. c) Accused shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. d) Accused shall make available themselves and co­ operate for interrogation by Police Officer as and when required. e) Any default of above conditions shall render the bail to be cancelled automatically. f) Compliance before lower Court.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Y. H. Ameta) Place : Satara Addl. Sessions Judge Date : 15th February 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 110/2019 (Hiralal Parshuram Salunkhe and 2 Ors. Vs. State of Maharashtra) CNR : MHST01­000561­2019 \r\n---header-ends---\r\n1) Present bail application is preferred by the accused under section 439 of Criminal Procedure Code, 1973 seeking their release from arrest, under C.R. no. 34/2019, registered at Lonand Police Station at the instance of Shashikant Bhujangrao Kshirasagar, for alleged commission of offences punishable under sections 353 and 379 r/w. 34 of Indian Penal Code, 1860. \r\n---background-ends---\r\n2) It is contended by applicant\u0027s advocate that, present applicants/accused are falsely roped in the offence These applicants/accused are mere drivers working on JCB machine and trolley seized by the police. It is contended that, FIR is exaggerated as can be seen by the fact that allegations are of the tractor driver without stopping proceeding towards Nira direction; in such circumstances, seizure of the said tractor with trolley becomes disputed. \r\n---argument-ends---\r\n3) It is further contended that, accused are in arrest since 08/02/2019 and in MCR since 11/02/2019. No element of seizure or recovery is required to be done from these accused. Accordingly, bail is contended. \r\n---argument-ends---\r\n4) Bail application is resisted by the APP by filing say at Exh. 5 on the grounds that, accused were involved in trafficking of illegally excavated sands. Inspite of warnings by the police, accused did not stop and attempted to flee away with the vehicle and illegally extracted sands. It is further contended that, investigation in the matter is continuing. Accordingly, bail application is sought to be rejected. \r\n---argument-ends---\r\n5) Upon perusing FIR, the investigation papers and other documents submitted on record, hearing the APP and the accused\u0027s advocate, it appears that, accused are arrested with vehicles containing sands. Allegations are also of accused disrespecting the police command, attempted to proceed in the direction of Nira. Further, it is undisputed that, there remains no element of seizure or recovery to be done. Thus, taking into consideration the totality of circumstances, it appears that, substantial investigation also ought to be completed as yet. In such circumstances, it appears that, no much purpose will be served by keeping the accused arrested. However, APP\u0027s apprehensions are also to be taken care of. Hence, the following order. \r\n---argument-ends---\r\nORDER 1) Criminal Bail Application no. 110/2019, is allowed. 2) Accused no. 1 Hiralal Parshuram Salunkhe, no. 2 Santosh Chandrakant Mane and no. 3 Jayram Kashinath Rathod, be released on bail, from their arrest under C.R. no. 34/2019, registered at Lonand Police Station, on their furnishing personal bond of Rs.25,000/­ each (Rs. Twenty Five Thousand each) with one or more surety/ies, to make up the bond amounts, on following terms and conditions; a) Accused shall cause their attendance thrice at the concerned police station preferably on every Monday, Wednesday and Friday at any time in between 11.00 a.m. to 2.00 p.m. till further orders. b) Accused shall not tamper with any evidence. c) Accused shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. d) Accused shall make available themselves and co­ operate for interrogation by Police Officer as and when required. e) Any default of above conditions shall render the bail to be cancelled automatically. f) Compliance before lower Court. \r\n---order-ends---\r\n(Y. H. Ameta) Place : Satara Addl. Sessions Judge Date : 15th February 2019. Satara"
+}

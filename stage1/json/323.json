@@ -1,0 +1,853 @@
+{
+  "header": "Order below Exh.1 in Cri. Bail Application No.131 of 2019 (CNR No.MHSTO1­000666­2019)",
+  "background": {
+    "text": "This is an application taken out by the applicants/accused praying for bail in the event of arrest. 02. By filing say at Exh.9, prosecution/investigating agency strongly resisted the application. F.I.R. lodged by the wife of applicant No.4 for offence punishable under sections 323, 354, 498­A, 504, 506 r/w.34 of I.P.C. in Wai Police Station.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "I.P.C",
+          "sectionsMatched": "323,354,498,504,506,34",
+          "stringMatched": "under sections 323, 354, 498­a, 504, 506 r/w.34 of i.p.c",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "03. Heard ld. Advocate A.A.Chikane for applicants and ld. A.P.P. J.S.Diwakar for prosecution.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "03.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Heard ld.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Advocate A.A.Chikane for applicants and ld.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "A.P.P. J.S.Diwakar for prosecution.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "04. In view of the aforesaid facts, only point arises for determination is “Whether the application can be allowed ?”. My finding to this point is “partly in the affirmative” for following reasons: REASONS 05. It is submitted on behalf of applicants by their learned counsel that, they strongly apprehend arrest as Crime No.48 of 2019 has been registered against them for the F.I.R. lodged by the wife of applicant No.4 for offence punishable under sections 323, 354, 498­A, 504, 506 r/w.34 of I.P.C. in Wai Police Station.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "04.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "In view of the aforesaid facts, only point arises for determination is “Whether the application can be allowed ?”",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": ".",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "My finding to this point is “partly in the affirmative” for following reasons: REASONS 05.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "It is submitted on behalf of applicants by their learned counsel that, they strongly apprehend arrest as Crime No.48 of 2019 has been registered against them for the F.I.R. lodged by the wife of applicant No.4 for offence punishable under sections 323, 354, 498­A, 504, 506 r/w.34 of I.P.C. in Wai Police Station.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "06. The applicant No.1, 2 and 3 are father, mother and sister of the applicant No.4 respectively. The marriage between complainant and applicant No.4 is solemnized on 11/05/2018. It is alleged that, the applicants illtreated the complainant for fulfillment of their unlawful demand of Rs.1 Lac, they did not provide food to her. Applicant No.1 caught hold hand of complainant with an intention to outraging her modesty. Order below Exh.1 /2/ Cri.Bail Appln.No.131/2019",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "06.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The applicant No.1, 2 and 3 are father, mother and sister of the applicant No.4 respectively.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The marriage between complainant and applicant No.4 is solemnized on 11/05/2018.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is alleged that, the applicants illtreated the complainant for fulfillment of their unlawful demand of Rs.1 Lac, they did not provide food to her.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Applicant No.1 caught hold hand of complainant with an intention to outraging her modesty.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Order below Exh.1 /2/ Cri.Bail Appln.No.131/2019",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "07. The applicants are innocent persons. They have been falsely implicated. They are ready to abide by the terms imposed. Applicant No.1 is old aged person. There are no criminal antecedents against the applicants. 08. By filing say at Exh.9, the prosecution/investigating agency strongly resisted the application with contention that, it is alleged that the informant was subjected to cruelty by the applicants/accused physically and mentally and on account of non fulfillment of unlawful demand. There are allegations of outraging modesty against applicant No.1. The investigation is in progress. In case of bail, possibility of pressurizing witnesses can not be ruled out.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "07.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The applicants are innocent persons.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "They have been falsely implicated.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "They are ready to abide by the terms imposed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Applicant No.1 is old aged person.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "There are no criminal antecedents against the applicants.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "08.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "By filing say at Exh.9, the prosecution/investigating agency strongly resisted the application with contention that, it is alleged that the informant was subjected to cruelty by the applicants/accused physically and mentally and on account of non fulfillment of unlawful demand.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "There are allegations of outraging modesty against applicant No.1.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "The investigation is in progress.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "In case of bail, possibility of pressurizing witnesses can not be ruled out.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "09. Perusal of F.I.R. shows that, there are serious allegations against applicants. As regards rest of the applicants\u0027 custodial interrogation is not warranted. Applicant No.1 and 2 are old aged whereas applicant No.3 is married and residing at Pune. Therefore, if these applicants are arrested, certainly it will malign their reputation. Allegations against them are of general nature. Therefore, for all these reasons, I proceed to pass following order :",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "09.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Perusal of F.I.R. shows that, there are serious allegations against applicants.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "As regards rest of the applicants\u0027 custodial interrogation is not warranted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Applicant No.1 and 2 are old aged whereas applicant No.3 is married and residing at Pune.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Therefore, if these applicants are arrested, certainly it will malign their reputation.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Allegations against them are of general nature.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Therefore, for all these reasons, I proceed to pass following order :",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1. The application is partly allowed. 2. In the event of their arrest in Crime No.48 of 2019 of Wai Police Station for the offence punishable under sections 323, 354, 498­ A, 504, 506 r/w.34 of the Indian Penal Code, applicant No.1 Vilas Ramchandra Pisal, applicant No.2 Sou. Ujwala Vilas Pisal and applicant No.3 Sou.Reshma Prashant Nimbalkar, be released on their executing PR Bond of Rs.15,000/­ each with Order below Exh.1 /3/ Cri.Bail Appln.No.131/2019 one surety in the like amount on following conditions : (a) The applicants No.1 to 3 shall attend Wai Police Station on every Sunday in between 11.00 a.m. to 01.00 p.m. until further orders. (b) That they shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of accusation against him so as to dissuade them from disclosing such facts to the Court or to any police officer. (c) That they shall not threaten the informant or witnesses of prosecution in any way. 3. Failure to obey any of the conditions above, would be liable for cancellation of anticipatory bail granted to the applicants No.1 to 3. 4. Application in respect of applicant No.4 stands rejected. 5. Inform Wai Police Station accordingly. (Dictated and pronounced in open Court.)",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Satara. Date : 27.04.2019 (Varsha B. Pargaonkar) Additional Sessions Judge, Satara.",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "Order below Exh.1 in Cri. Bail Application No.131 of 2019 (CNR No.MHSTO1­000666­2019) \r\n---header-ends---\r\nThis is an application taken out by the applicants/accused praying for bail in the event of arrest. 02. By filing say at Exh.9, prosecution/investigating agency strongly resisted the application. F.I.R. lodged by the wife of applicant No.4 for offence punishable under sections 323, 354, 498­A, 504, 506 r/w.34 of I.P.C. in Wai Police Station. \r\n---background-ends---\r\n03. Heard ld. Advocate A.A.Chikane for applicants and ld. A.P.P. J.S.Diwakar for prosecution. \r\n---argument-ends---\r\n04. In view of the aforesaid facts, only point arises for determination is “Whether the application can be allowed ?”. My finding to this point is “partly in the affirmative” for following reasons: REASONS 05. It is submitted on behalf of applicants by their learned counsel that, they strongly apprehend arrest as Crime No.48 of 2019 has been registered against them for the F.I.R. lodged by the wife of applicant No.4 for offence punishable under sections 323, 354, 498­A, 504, 506 r/w.34 of I.P.C. in Wai Police Station. \r\n---argument-ends---\r\n06. The applicant No.1, 2 and 3 are father, mother and sister of the applicant No.4 respectively. The marriage between complainant and applicant No.4 is solemnized on 11/05/2018. It is alleged that, the applicants illtreated the complainant for fulfillment of their unlawful demand of Rs.1 Lac, they did not provide food to her. Applicant No.1 caught hold hand of complainant with an intention to outraging her modesty. Order below Exh.1 /2/ Cri.Bail Appln.No.131/2019 \r\n---argument-ends---\r\n07. The applicants are innocent persons. They have been falsely implicated. They are ready to abide by the terms imposed. Applicant No.1 is old aged person. There are no criminal antecedents against the applicants. 08. By filing say at Exh.9, the prosecution/investigating agency strongly resisted the application with contention that, it is alleged that the informant was subjected to cruelty by the applicants/accused physically and mentally and on account of non fulfillment of unlawful demand. There are allegations of outraging modesty against applicant No.1. The investigation is in progress. In case of bail, possibility of pressurizing witnesses can not be ruled out. \r\n---argument-ends---\r\n09. Perusal of F.I.R. shows that, there are serious allegations against applicants. As regards rest of the applicants\u0027 custodial interrogation is not warranted. Applicant No.1 and 2 are old aged whereas applicant No.3 is married and residing at Pune. Therefore, if these applicants are arrested, certainly it will malign their reputation. Allegations against them are of general nature. Therefore, for all these reasons, I proceed to pass following order : \r\n---argument-ends---\r\nORDER 1. The application is partly allowed. 2. In the event of their arrest in Crime No.48 of 2019 of Wai Police Station for the offence punishable under sections 323, 354, 498­ A, 504, 506 r/w.34 of the Indian Penal Code, applicant No.1 Vilas Ramchandra Pisal, applicant No.2 Sou. Ujwala Vilas Pisal and applicant No.3 Sou.Reshma Prashant Nimbalkar, be released on their executing PR Bond of Rs.15,000/­ each with Order below Exh.1 /3/ Cri.Bail Appln.No.131/2019 one surety in the like amount on following conditions : (a) The applicants No.1 to 3 shall attend Wai Police Station on every Sunday in between 11.00 a.m. to 01.00 p.m. until further orders. (b) That they shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of accusation against him so as to dissuade them from disclosing such facts to the Court or to any police officer. (c) That they shall not threaten the informant or witnesses of prosecution in any way. 3. Failure to obey any of the conditions above, would be liable for cancellation of anticipatory bail granted to the applicants No.1 to 3. 4. Application in respect of applicant No.4 stands rejected. 5. Inform Wai Police Station accordingly. (Dictated and pronounced in open Court.) \r\n---order-ends---\r\nSatara. Date : 27.04.2019 (Varsha B. Pargaonkar) Additional Sessions Judge, Satara."
+}

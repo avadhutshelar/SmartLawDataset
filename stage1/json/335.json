@@ -1,0 +1,414 @@
+{
+  "header": "ORDER BELOW EXH. 1 IN CRI. MISC. APPLICATION No. 147/2019 (Ajay @ Lallan Dattatraya Jadhav Vs. State of Maharashtra) CNR : MHST01-000795-2019",
+  "background": {
+    "text": "1) Application is filed by the applicant under section 439 of Criminal Procedure Code, 1973 on his arrest in C.R.No. 112 of 2019 under Sec. 307, 364A, 387, 143, 147, 148, 149, 324, 342, 504, 506 of Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) Accusation against applicant is that, when complainant Datta Bharat Udage was going to see his brother, applicant alongwith others persons stopped him and demanded money for drinking alcohol. On refusal of complainant, applicant and his associates beat him, applicant gave blow of iron rod on his head and applicant sustained bleeding injury. Thereafter, applicant and others threatened him to kill if he discloses anything about the incident.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) Accusation against applicant is that, when complainant Datta Bharat Udage was going to see his brother, applicant alongwith others persons stopped him and demanded money for drinking alcohol.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "On refusal of complainant, applicant and his associates beat him, applicant gave blow of iron rod on his head and applicant sustained bleeding injury.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Thereafter, applicant and others threatened him to kill if he discloses anything about the incident.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is stated that, applicant is falsely implicated in this case, initially complaint was filed under Sec. 324, 34 of I.P.C. however in order to raise seriousness, charge of half­murder has been levelled, there is no recovery from the applicant is ready to abide the conditions imposed by the Court if he is released on bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is stated that, applicant is falsely implicated in this case, initially complaint was filed under Sec. 324, 34 of I.P.C. however in order to raise seriousness, charge of half­murder has been levelled, there is no recovery from the applicant is ready to abide the conditions imposed by the Court if he is released on bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) Learned A.P.P has filed letter of S.D.P.O. Satara dated 06.03.2019. It is contended that, Special I.G.P. Kolhapur has sanctioned the proposal sent by S.P. Satara to initiate action against the applicant and his associates under MCOCA as they have been found to be involved in associated crime. Therefore, Special I.G.P. Kolhapur has directed to include Section 3(1)(i)(ii), 3(2), 3(4) of MCOCA against the applicant. Hence, this Court has no jurisdiction to try present application, it be rejected.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) Learned A.P.P has filed letter of S.D.P.O. Satara dated 06.03.2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, Special I.G.P. Kolhapur has sanctioned the proposal sent by S.P. Satara to initiate action against the applicant and his associates under MCOCA as they have been found to be involved in associated crime.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Therefore, Special I.G.P. Kolhapur has directed to include Section 3(1)(i)(ii), 3(2), 3(4) of MCOCA against the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Hence, this Court has no jurisdiction to try present application, it be rejected.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) As Special I.G.P. Kolhapur has sanctioned the proposal sent by S.P. Satara to initiate action against the applicant and his associates under MCOCA, hence, this Court ceased to have power to grant bail. By accepting the contention in say, application is required to be rejected. Hence, the order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) As Special I.G.P. Kolhapur has sanctioned the proposal sent by S.P. Satara to initiate action against the applicant and his associates under MCOCA, hence, this Court ceased to have power to grant bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "By accepting the contention in say, application is required to be rejected.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, the order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1) Cr.Misc. Application No.147 of 2019 is rejected.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 14th March, 2019 Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH. 1 IN CRI. MISC. APPLICATION No. 147/2019 (Ajay @ Lallan Dattatraya Jadhav Vs. State of Maharashtra) CNR : MHST01-000795-2019 \r\n---header-ends---\r\n1) Application is filed by the applicant under section 439 of Criminal Procedure Code, 1973 on his arrest in C.R.No. 112 of 2019 under Sec. 307, 364A, 387, 143, 147, 148, 149, 324, 342, 504, 506 of Indian Penal Code. \r\n---background-ends---\r\n2) Accusation against applicant is that, when complainant Datta Bharat Udage was going to see his brother, applicant alongwith others persons stopped him and demanded money for drinking alcohol. On refusal of complainant, applicant and his associates beat him, applicant gave blow of iron rod on his head and applicant sustained bleeding injury. Thereafter, applicant and others threatened him to kill if he discloses anything about the incident. \r\n---argument-ends---\r\n3) It is stated that, applicant is falsely implicated in this case, initially complaint was filed under Sec. 324, 34 of I.P.C. however in order to raise seriousness, charge of half­murder has been levelled, there is no recovery from the applicant is ready to abide the conditions imposed by the Court if he is released on bail. \r\n---argument-ends---\r\n4) Learned A.P.P has filed letter of S.D.P.O. Satara dated 06.03.2019. It is contended that, Special I.G.P. Kolhapur has sanctioned the proposal sent by S.P. Satara to initiate action against the applicant and his associates under MCOCA as they have been found to be involved in associated crime. Therefore, Special I.G.P. Kolhapur has directed to include Section 3(1)(i)(ii), 3(2), 3(4) of MCOCA against the applicant. Hence, this Court has no jurisdiction to try present application, it be rejected. \r\n---argument-ends---\r\n5) As Special I.G.P. Kolhapur has sanctioned the proposal sent by S.P. Satara to initiate action against the applicant and his associates under MCOCA, hence, this Court ceased to have power to grant bail. By accepting the contention in say, application is required to be rejected. Hence, the order. \r\n---argument-ends---\r\nORDER 1) Cr.Misc. Application No.147 of 2019 is rejected. \r\n---order-ends---\r\n(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 14th March, 2019 Satara"
+}

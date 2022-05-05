@@ -1,0 +1,2098 @@
+{
+  "header": "ORDER BELOW EXH. 1 IN CRIMINAL BAIL APPLN. No. 113/2019 (Sachin Babanrao Yadav and another Vs. State of Maharashtra) CNR : MHST01­000583­2019",
+  "background": {
+    "text": "1) Present application is filed by the applicants Sachin Babanrao Yadav and Prakash Jadhavji Khakar, under section 438 of Criminal Procedure Code, 1973 apprehending their arrest under C.R. no. 57/2019, registered at Phaltan rural police station, at the instance of Ravindra Sahdeo Sonawane, for alleged commission of offence punishable under section 447, 201 and 427 r/w. 34 of Indian Penal Code and section 3(1)(9) of the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act and hence has approached Court seeking pre­arrest bail.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "447,201,427,34",
+          "stringMatched": "under section 447, 201 and 427 r/w. 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) It is contended by the applicant\u0027s advocate that, applicants are falsely roped in F.I.R. filed after unexplained delay of about 12 days in respect of alleged incident dated 29/01/2019. It is contended that, no such incident after all, for which F.I.R. is filed. N.C.no. 01/04/2019 was lodged on 29/01/2019, in respect of alleged incident, on the same day the said N.C. was lodged only against applicant no.1 Sachin Yadav, as the informant realised that there is no substance in his complaint, informant thereafter lodged an F.I.R. against both the present applicants, improvising his version in the complaint.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) It is contended by the applicant\u0027s advocate that, applicants are falsely roped in F.I.R. filed after unexplained delay of about 12 days in respect of alleged incident dated 29/01/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, no such incident after all, for which F.I.R. is filed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "N.C.no.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "01/04/2019 was lodged on 29/01/2019, in respect of alleged incident, on the same day the said N.C. was lodged only against applicant no.1 Sachin Yadav, as the informant realised that there is no substance in his complaint, informant thereafter lodged an F.I.R. against both the present applicants, improvising his version in the complaint.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is contended that, F.I.R. even if accepted on the fact of it, is in contradiction to the facts narrated in N.C. complaint no.104/2019 filed by the informant, in respect of same incident. It is accordingly contended that, F.I.R. is not only an improvised version, but also contains false facts and false allegations, accordingly, F.I.R. is entirely false and frivolous.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is contended that, F.I.R. even if accepted on the fact of it, is in contradiction to the facts narrated in N.C. complaint no.104/2019 filed by the informant, in respect of same incident.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is accordingly contended that, F.I.R. is not only an improvised version, but also contains false facts and false allegations, accordingly, F.I.R. is entirely false and frivolous.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) It is contended that, after filing of N.C. No. 104/2019 police made inquiries from Sachin Yadav was in Bengaluru since 28/01/2019, the police did not find any material in the informant\u0027s N.C. complaint. Therefore, informant as an afterthought changing his version filed false F.I.R. against these applicants. F.I.R. is in stark contradiction to N.C. no.104/2019, both filed by the same informant in respect of same incident.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) It is contended that, after filing of N.C. No. 104/2019 police made inquiries from Sachin Yadav was in Bengaluru since 28/01/2019, the police did not find any material in the informant\u0027s N.C. complaint.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Therefore, informant as an afterthought changing his version filed false F.I.R. against these applicants.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "F.I.R. is in stark contradiction to N.C. no.104/2019, both filed by the same informant in respect of same incident.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) It is further contended that, even if F.I.R. is accepted on the fact of it, then also, no offence can be made out against applicants, as allegations are of pits been dug on 29/1/2019, but again F.I.R. mentions of the pits being filled up on or before 3/2/2019. It is contended that, in any circumstances the informant cannot have any grievances, at least after 03/02/2019 and hence, F.I.R. does not contain any substance or allegations against any of these applicants.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) It is further contended that, even if F.I.R. is accepted on the fact of it, then also, no offence can be made out against applicants, as allegations are of pits been dug on 29/1/2019, but again F.I.R. mentions of the pits being filled up on or before 3/2/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, in any circumstances the informant cannot have any grievances, at least after 03/02/2019 and hence, F.I.R. does not contain any substance or allegations against any of these applicants.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6) It is further contended that, after N.C. complaint being filed by the informant and sensing more trouble from the informant, a letter dated 07/02/2019 was written by the applicants to the S.P. Satara, expressing the fear of further false complaints to be anticipated by applicants from the informant. Eventually applicant\u0027s fear turned true resulting in present FIR as an counter blast to applicant\u0027s letter to the S.P. Satara.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) It is further contended that, after N.C. complaint being filed by the informant and sensing more trouble from the informant, a letter dated 07/02/2019 was written by the applicants to the S.P. Satara, expressing the fear of further false complaints to be anticipated by applicants from the informant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Eventually applicant\u0027s fear turned true resulting in present FIR as an counter blast to applicant\u0027s letter to the S.P. Satara.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7) It is also contended that, FIR neither reveals any of these applicant\u0027s presence at the alleged spot nor attributes any overt act to any applicant. The disputes, if at all, are entirely civil in nature and as per the informant\u0027s version, R.C.S. no. 54/2014 in respect of same land is pending between both these varying parties.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7) It is also contended that, FIR neither reveals any of these applicant\u0027s presence at the alleged spot nor attributes any overt act to any applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The disputes, if at all, are entirely civil in nature and as per the informant\u0027s version, R.C.S. no. 54/2014 in respect of same land is pending between both these varying parties.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8) It is contended that, original FIR reveals that, section 3(1)(9) of the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, is levied, whereas the said section in no circumstances could be attracted to the facts alleged in the FIR. It is also contended that, even no offence is made out under section 3(1)(g) of the said Special Act, as applicants never intended to encroach in the informant\u0027s lands or to dispossess the informant from his lands. No such act is done by any of these applicants or even at their instance merely on account of the informant belonging to \u0027Dhor\u0027 community. Therefore, there cannot be even any prima­facie allegations against any of the applicants in FIR.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8) It is contended that, original FIR reveals that, section 3(1)(9) of the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, is levied, whereas the said section in no circumstances could be attracted to the facts alleged in the FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is also contended that, even no offence is made out under section 3(1)(g) of the said Special Act, as applicants never intended to encroach in the informant\u0027s lands or to dispossess the informant from his lands.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "No such act is done by any of these applicants or even at their instance merely on account of the informant belonging to \u0027Dhor\u0027 community.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Therefore, there cannot be even any prima­facie allegations against any of the applicants in FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "9) It is contended that, even there is no seizure or recovery required to be done, disputes purely civil in nature, applicant\u0027s custodial interrogation is also not required. Applicant no. 1 is a mere employee being manager and applicant no. 2 being the owner of the company, however is 70 years old man.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "9) It is contended that, even there is no seizure or recovery required to be done, disputes purely civil in nature, applicant\u0027s custodial interrogation is also not required.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Applicant no. 1 is a mere employee being manager and applicant no. 2 being the owner of the company, however is 70 years old man.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 9,
+      "text": "10) It is also contended that, FIR no where discloses, the fact that informant\u0027s caste is recognized as \u0027Scheduled Caste\u0027. FIR is also silent about the aspect that applicants belong to communities other than those recognized as \u0027Scheduled Cate or Scheduled Tribes\u0027. Therefore also, no case is made out in FIR. Applicant\u0027s advocate has placed reliance on :­ i) Order dated 24/09/2018 passed by the Hon\u0027ble High Court Bombay (Nagpur Bench) in Cr. Appeal. no. 542/2018 in the matter of Shivaji Ramdas Sarkate and Ors.Vs. The State of Maharashtra and Anr; ii) Order dated 24/10/2018 passed by the Hon\u0027ble Bombay High Court in Cr. Appeal. No. 73/2018 in the matter of Netaji Dadarao Kashid Vs. The State of Maharashtra and Anr; iii) Order dated 09/01/2019 passed by the Hon\u0027ble Bombay High Court in Cr. Appeal. No. 965/2017 in the matter of Sapana Korde nee Ketaki A. Ghodinde Vs. The State of Maharashtra. Accordingly, interim pre­arrest bail granted vide order dated 14/02/2019 is sought to be confirmed.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "10) It is also contended that, FIR no where discloses, the fact that informant\u0027s caste is recognized as \u0027Scheduled Caste\u0027.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "FIR is also silent about the aspect that applicants belong to communities other than those recognized as \u0027Scheduled Cate or Scheduled Tribes\u0027.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Therefore also, no case is made out in FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Applicant\u0027s advocate has placed reliance on :­ i) Order dated 24/09/2018 passed by the Hon\u0027ble High Court Bombay (Nagpur Bench) in Cr.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Appeal.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "no. 542/2018 in the matter of Shivaji Ramdas Sarkate and Ors.Vs.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "The State of Maharashtra and Anr; ii) Order dated 24/10/2018 passed by the Hon\u0027ble Bombay High Court in Cr.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Appeal.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "No. 73/2018 in the matter of Netaji Dadarao Kashid Vs. The State of Maharashtra and Anr; iii) Order dated 09/01/2019 passed by the Hon\u0027ble Bombay High Court in Cr.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Appeal.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "No. 965/2017 in the matter of Sapana Korde nee Ketaki A. Ghodinde Vs. The State of Maharashtra.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Accordingly, interim pre­arrest bail granted vide order dated 14/02/2019 is sought to be confirmed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 10,
+      "text": "11) Bail application is resisted by the APP and the informant by filing say at Exhs. 7 \u0026 11 respectively on the grounds that, informant is the owner of the land, subject of the complaint. Informant belongs to Hindu \u0027Dhor\u0027 community recognized as \u0027Scheduled Caste.\u0027 Applicant know informant\u0027s caste, as there are civil disputes pending between both parties since the year 2014, therefore applicants are presumed to know informant\u0027s caste. Applicants do not belong to any community/ies recognized as \u0027Scheduled Caste or Scheduled Tribes\u0027. Accordingly contended that, section 18(A)(2) of Special Act, bars any pre­arrest bail application under section 438 of Criminal Procedure Code, 1973.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "11) Bail application is resisted by the APP and the informant by filing say at Exhs. 7 \u0026 11 respectively on the grounds that, informant is the owner of the land, subject of the complaint.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Informant belongs to Hindu \u0027Dhor\u0027 community recognized as \u0027Scheduled Caste.\u0027",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Applicant know informant\u0027s caste, as there are civil disputes pending between both parties since the year 2014, therefore applicants are presumed to know informant\u0027s caste.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Applicants do not belong to any community/ies recognized as \u0027Scheduled Caste or Scheduled Tribes\u0027.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Accordingly contended that, section 18(A)(2) of Special Act, bars any pre­arrest bail application under section 438 of Criminal Procedure Code, 1973.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 11,
+      "text": "12) Offence alleged also gets covered under section 3(1)g) of the Special Act, as applicants have interfered with informant\u0027s use of his lands. About five ditches were dug in the informant\u0027s lands at the behest of the applicants, for the purpose of constructing applicant\u0027s company employee\u0027s quarters. Applicant no. 1 is Manager and applicant no. 2 is the Owner of it.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "12) Offence alleged also gets covered under section 3(1)g) of the Special Act, as applicants have interfered with informant\u0027s use of his lands.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "About five ditches were dug in the informant\u0027s lands at the behest of the applicants, for the purpose of constructing applicant\u0027s company employee\u0027s quarters.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Applicant no. 1 is Manager and applicant no. 2 is the Owner of it.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 12,
+      "text": "13) It is contended that, inspite of civil suit R.C.S. no. 54/2014, pending, applicants involved themselves in such an illegal act. The labours digging the ditches are to be identified and arrested and interrogated.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "13) It is contended that, inspite of civil suit R.C.S. no. 54/2014, pending, applicants involved themselves in such an illegal act.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The labours digging the ditches are to be identified and arrested and interrogated.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 13,
+      "text": "14) It is also contended that, in case of applicants being protected by confirming interim pre­arrest bail order granted, it may result in pressurizing or influencing the witness and tampering the evidence, scuttling the investigation.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "14) It is also contended that, in case of applicants being protected by confirming interim pre­arrest bail order granted, it may result in pressurizing or influencing the witness and tampering the evidence, scuttling the investigation.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 14,
+      "text": "15) It is also contended that, applicants have misused the liberty granted by interimly protecting them, in the nature that informant\u0027s labour Bhongle was influenced by Hemant Khalate. Khalate had told Bhongle to give statement to the police that, those ditches were dug at the instruction of the informant only. Bhongle was induced by Khalate by offering money and also job in applicant\u0027s company. It is accordingly contended that, applicants are using their muscle and money power, to influence the witnesses. Accordingly, it is contended that, interim protection granted to the applicant cannot be confirmed and is required to be vacated.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "15) It is also contended that, applicants have misused the liberty granted by interimly protecting them, in the nature that informant\u0027s labour Bhongle was influenced by Hemant Khalate.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Khalate had told Bhongle to give statement to the police that, those ditches were dug at the instruction of the informant only.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Bhongle was induced by Khalate by offering money and also job in applicant\u0027s company.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is accordingly contended that, applicants are using their muscle and money power, to influence the witnesses.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Accordingly, it is contended that, interim protection granted to the applicant cannot be confirmed and is required to be vacated.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 15,
+      "text": "16) Upon hearing the applicant\u0027s advocate, the APP, the informant\u0027s advocate, perusing the say filed on record and also the other investigation papers produced on record, it appears that, the root dispute between both the parties is currently pertaining to boundary disputes between both the opposite parties. Allegations are that pits were dug on 29/01/2019 and in that respect NC no. 104/2019 was registered on the same day. The original boarding pass and the air ticket placed on record reveals that, applicant no.1 Sachin Yadav since 28/01/2019 was in Bengaluru. NC was directed only against Sachin. Present FIR is dated 10/02/2019, in respect of same activities dated 29/01/2019. FIR also reveals that, dug pits were refilled on or before 03/02/2019. None of these applicant\u0027s presence on 29/01/2019, at the spot is reported in the FIR. At the same time, FIR does not reveal any conversation between the informant and the applicants. Therefore, there is no case of any verbal accusation or abuses, as to the informant\u0027s caste. It further transpires that, letter dated 07/02/2019 was addressed by the applicant\u0027s company to the S.P. Satara fearing FIR at the instance of informant and present FIR is dated 10/02/2019. It also transpires that, informant has written letter to the S.P. Satara complaining that witness Bhongle has been influenced and the police investigating the matter are pressurized. Said complaint is purportedly lodged on 27/02/2019.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "16) Upon hearing the applicant\u0027s advocate, the APP, the informant\u0027s advocate, perusing the say filed on record and also the other investigation papers produced on record, it appears that, the root dispute between both the parties is currently pertaining to boundary disputes between both the opposite parties.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Allegations are that pits were dug on 29/01/2019 and in that respect NC no. 104/2019 was registered on the same day.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The original boarding pass and the air ticket placed on record reveals that, applicant no.1 Sachin Yadav since 28/01/2019 was in Bengaluru.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "NC was directed only against Sachin.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Present FIR is dated 10/02/2019, in respect of same activities dated 29/01/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "FIR also reveals that, dug pits were refilled on or before 03/02/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "None of these applicant\u0027s presence on 29/01/2019, at the spot is reported in the FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "At the same time, FIR does not reveal any conversation between the informant and the applicants.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Therefore, there is no case of any verbal accusation or abuses, as to the informant\u0027s caste.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "It further transpires that, letter dated 07/02/2019 was addressed by the applicant\u0027s company to the S.P. Satara fearing FIR at the instance of informant and present FIR is dated 10/02/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "It also transpires that, informant has written letter to the S.P. Satara complaining that witness Bhongle has been influenced and the police investigating the matter are pressurized.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Said complaint is purportedly lodged on 27/02/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 16,
+      "text": "17) Informant alongwith his say had submitted a copy of Anandrao Kondiba Bhongle\u0027s statement dated 25/02/2019, in which it is his narration that, he was induced by Hemant Khalate with job and money. The statement further reveals that, Bhongle does not have any complaint in respect of it. He further told of not being under anybody\u0027s pressure, for not lodging the complaint.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "17) Informant alongwith his say had submitted a copy of Anandrao Kondiba Bhongle\u0027s statement dated 25/02/2019, in which it is his narration that, he was induced by Hemant Khalate with job and money.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The statement further reveals that, Bhongle does not have any complaint in respect of it.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He further told of not being under anybody\u0027s pressure, for not lodging the complaint.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 17,
+      "text": "18) In such circumstances, it appears that, Khalate attempted to induce Bhongle, but Bhongle has no grievances about it and also not under anybody\u0027s pressure for not lodging complaint.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "18) In such circumstances, it appears that, Khalate attempted to induce Bhongle, but Bhongle has no grievances about it and also not under anybody\u0027s pressure for not lodging complaint.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 18,
+      "text": "19) Another surprising element which comes on record is that Bhongle\u0027s statement dated 25/02/2019, appears to be recorded by Police Station Officer, Phaltan rural police station, however, it is unknown as to how the copy of said statement falls in informant\u0027s hand. It is neither certified, nor any procedure is found where witness\u0027s statement\u0027s copy can be available to the informant. It becomes more surprising that, as per the APP, said copy of statement does not form part of the documents supplied to him by the Investigating Officer for contesting present bail application.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "19) Another surprising element which comes on record is that Bhongle\u0027s statement dated 25/02/2019, appears to be recorded by Police Station Officer, Phaltan rural police station, however, it is unknown as to how the copy of said statement falls in informant\u0027s hand.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is neither certified, nor any procedure is found where witness\u0027s statement\u0027s copy can be available to the informant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It becomes more surprising that, as per the APP, said copy of statement does not form part of the documents supplied to him by the Investigating Officer for contesting present bail application.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 19,
+      "text": "20) Without going into further details on this aspect, it bears out on record that, the dispute between both parties is civil in nature. Civil suit R.C.S. no. 54/2014 already pending between both the parties, the FIR not revealing any element of seizure or recovery to be done at the instance of these applicants, it appears that, applicants prima­facie custodial investigation is not necessary. That apart, there is no grievance by the Investigating Officer of the applicants non attendance at the police station in compliance of interim pre­arrest bail order dated 14/02/2019. There is also nothing submitted by the Investigating Officer about outcome of informant\u0027s alleged complaint dated 25/02/2019 to the S.P. Satara.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "20) Without going into further details on this aspect, it bears out on record that, the dispute between both parties is civil in nature.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Civil suit R.C.S. no. 54/2014 already pending between both the parties, the FIR not revealing any element of seizure or recovery to be done at the instance of these applicants, it appears that, applicants prima­facie custodial investigation is not necessary.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "That apart, there is no grievance by the Investigating Officer of the applicants non attendance at the police station in compliance of interim pre­arrest bail order dated 14/02/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "There is also nothing submitted by the Investigating Officer about outcome of informant\u0027s alleged complaint dated 25/02/2019 to the S.P. Satara.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 20,
+      "text": "21) In the matter of Shivaji (Supra), pre­arrest bail protection was granted observing that, there are counter complaints, no prima­facie case made out under the Special Act and the State also being unable to point out the necessity of custodial interrogation.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "21) In the matter of Shivaji (Supra), pre­arrest bail protection was granted observing that, there are counter complaints, no prima­facie case made out under the Special Act and the State also being unable to point out the necessity of custodial interrogation.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 21,
+      "text": "22) In the matter of Netaji (Supra) observing that, said applicant/accused had much before the FIR being lodged against him and raised the grievance of threat of extortion of Rs.10,00,000/­ against informant; FIR seemingly motivated and finding no prima­facie case under the Special Act to revoke bar of Section­18 of the Special Act, pre­arrest bail protection was granted.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "22) In the matter of Netaji (Supra) observing that, said applicant/accused had much before the FIR being lodged against him and raised the grievance of threat of extortion of Rs.10,00,000/­ against informant; FIR seemingly motivated and finding no prima­facie case under the Special Act to revoke bar of Section­18 of the Special Act, pre­arrest bail protection was granted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 22,
+      "text": "23) In the matter of Sapna Korde (Supra), Hon\u0027ble High Court Bombay, considering the complainant\u0027s objection under section 18­A of the Special Act, was pleased to protect the applicant accused by grant of pre­arrest bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "23) In the matter of Sapna Korde (Supra), Hon\u0027ble High Court Bombay, considering the complainant\u0027s objection under section 18­A of the Special Act, was pleased to protect the applicant accused by grant of pre­arrest bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 23,
+      "text": "24) Taking into consideration, the totality of circumstances in the case in hand, as well as the cited rulings, it appears that, custodial interrogation is not warranted therefore interim pre­arrest protection granted vide order dated 14/02/2019, can be confirmed. Hence, the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "24) Taking into consideration, the totality of circumstances in the case in hand, as well as the cited rulings, it appears that, custodial interrogation is not warranted therefore interim pre­arrest protection granted vide order dated 14/02/2019, can be confirmed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Hence, the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R 1) Criminal Bail Application no. 113/2019, is allowed. 2) Interim pre­arrest bail order dated 14th February, 2019, stands confirmed.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Y. H. Ameta) Place : Satara Special Judge Date : 01st March, 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH. 1 IN CRIMINAL BAIL APPLN. No. 113/2019 (Sachin Babanrao Yadav and another Vs. State of Maharashtra) CNR : MHST01­000583­2019 \r\n---header-ends---\r\n1) Present application is filed by the applicants Sachin Babanrao Yadav and Prakash Jadhavji Khakar, under section 438 of Criminal Procedure Code, 1973 apprehending their arrest under C.R. no. 57/2019, registered at Phaltan rural police station, at the instance of Ravindra Sahdeo Sonawane, for alleged commission of offence punishable under section 447, 201 and 427 r/w. 34 of Indian Penal Code and section 3(1)(9) of the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act and hence has approached Court seeking pre­arrest bail. \r\n---background-ends---\r\n2) It is contended by the applicant\u0027s advocate that, applicants are falsely roped in F.I.R. filed after unexplained delay of about 12 days in respect of alleged incident dated 29/01/2019. It is contended that, no such incident after all, for which F.I.R. is filed. N.C.no. 01/04/2019 was lodged on 29/01/2019, in respect of alleged incident, on the same day the said N.C. was lodged only against applicant no.1 Sachin Yadav, as the informant realised that there is no substance in his complaint, informant thereafter lodged an F.I.R. against both the present applicants, improvising his version in the complaint. \r\n---argument-ends---\r\n3) It is contended that, F.I.R. even if accepted on the fact of it, is in contradiction to the facts narrated in N.C. complaint no.104/2019 filed by the informant, in respect of same incident. It is accordingly contended that, F.I.R. is not only an improvised version, but also contains false facts and false allegations, accordingly, F.I.R. is entirely false and frivolous. \r\n---argument-ends---\r\n4) It is contended that, after filing of N.C. No. 104/2019 police made inquiries from Sachin Yadav was in Bengaluru since 28/01/2019, the police did not find any material in the informant\u0027s N.C. complaint. Therefore, informant as an afterthought changing his version filed false F.I.R. against these applicants. F.I.R. is in stark contradiction to N.C. no.104/2019, both filed by the same informant in respect of same incident. \r\n---argument-ends---\r\n5) It is further contended that, even if F.I.R. is accepted on the fact of it, then also, no offence can be made out against applicants, as allegations are of pits been dug on 29/1/2019, but again F.I.R. mentions of the pits being filled up on or before 3/2/2019. It is contended that, in any circumstances the informant cannot have any grievances, at least after 03/02/2019 and hence, F.I.R. does not contain any substance or allegations against any of these applicants. \r\n---argument-ends---\r\n6) It is further contended that, after N.C. complaint being filed by the informant and sensing more trouble from the informant, a letter dated 07/02/2019 was written by the applicants to the S.P. Satara, expressing the fear of further false complaints to be anticipated by applicants from the informant. Eventually applicant\u0027s fear turned true resulting in present FIR as an counter blast to applicant\u0027s letter to the S.P. Satara. \r\n---argument-ends---\r\n7) It is also contended that, FIR neither reveals any of these applicant\u0027s presence at the alleged spot nor attributes any overt act to any applicant. The disputes, if at all, are entirely civil in nature and as per the informant\u0027s version, R.C.S. no. 54/2014 in respect of same land is pending between both these varying parties. \r\n---argument-ends---\r\n8) It is contended that, original FIR reveals that, section 3(1)(9) of the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, is levied, whereas the said section in no circumstances could be attracted to the facts alleged in the FIR. It is also contended that, even no offence is made out under section 3(1)(g) of the said Special Act, as applicants never intended to encroach in the informant\u0027s lands or to dispossess the informant from his lands. No such act is done by any of these applicants or even at their instance merely on account of the informant belonging to \u0027Dhor\u0027 community. Therefore, there cannot be even any prima­facie allegations against any of the applicants in FIR. \r\n---argument-ends---\r\n9) It is contended that, even there is no seizure or recovery required to be done, disputes purely civil in nature, applicant\u0027s custodial interrogation is also not required. Applicant no. 1 is a mere employee being manager and applicant no. 2 being the owner of the company, however is 70 years old man. \r\n---argument-ends---\r\n10) It is also contended that, FIR no where discloses, the fact that informant\u0027s caste is recognized as \u0027Scheduled Caste\u0027. FIR is also silent about the aspect that applicants belong to communities other than those recognized as \u0027Scheduled Cate or Scheduled Tribes\u0027. Therefore also, no case is made out in FIR. Applicant\u0027s advocate has placed reliance on :­ i) Order dated 24/09/2018 passed by the Hon\u0027ble High Court Bombay (Nagpur Bench) in Cr. Appeal. no. 542/2018 in the matter of Shivaji Ramdas Sarkate and Ors.Vs. The State of Maharashtra and Anr; ii) Order dated 24/10/2018 passed by the Hon\u0027ble Bombay High Court in Cr. Appeal. No. 73/2018 in the matter of Netaji Dadarao Kashid Vs. The State of Maharashtra and Anr; iii) Order dated 09/01/2019 passed by the Hon\u0027ble Bombay High Court in Cr. Appeal. No. 965/2017 in the matter of Sapana Korde nee Ketaki A. Ghodinde Vs. The State of Maharashtra. Accordingly, interim pre­arrest bail granted vide order dated 14/02/2019 is sought to be confirmed. \r\n---argument-ends---\r\n11) Bail application is resisted by the APP and the informant by filing say at Exhs. 7 \u0026 11 respectively on the grounds that, informant is the owner of the land, subject of the complaint. Informant belongs to Hindu \u0027Dhor\u0027 community recognized as \u0027Scheduled Caste.\u0027 Applicant know informant\u0027s caste, as there are civil disputes pending between both parties since the year 2014, therefore applicants are presumed to know informant\u0027s caste. Applicants do not belong to any community/ies recognized as \u0027Scheduled Caste or Scheduled Tribes\u0027. Accordingly contended that, section 18(A)(2) of Special Act, bars any pre­arrest bail application under section 438 of Criminal Procedure Code, 1973. \r\n---argument-ends---\r\n12) Offence alleged also gets covered under section 3(1)g) of the Special Act, as applicants have interfered with informant\u0027s use of his lands. About five ditches were dug in the informant\u0027s lands at the behest of the applicants, for the purpose of constructing applicant\u0027s company employee\u0027s quarters. Applicant no. 1 is Manager and applicant no. 2 is the Owner of it. \r\n---argument-ends---\r\n13) It is contended that, inspite of civil suit R.C.S. no. 54/2014, pending, applicants involved themselves in such an illegal act. The labours digging the ditches are to be identified and arrested and interrogated. \r\n---argument-ends---\r\n14) It is also contended that, in case of applicants being protected by confirming interim pre­arrest bail order granted, it may result in pressurizing or influencing the witness and tampering the evidence, scuttling the investigation. \r\n---argument-ends---\r\n15) It is also contended that, applicants have misused the liberty granted by interimly protecting them, in the nature that informant\u0027s labour Bhongle was influenced by Hemant Khalate. Khalate had told Bhongle to give statement to the police that, those ditches were dug at the instruction of the informant only. Bhongle was induced by Khalate by offering money and also job in applicant\u0027s company. It is accordingly contended that, applicants are using their muscle and money power, to influence the witnesses. Accordingly, it is contended that, interim protection granted to the applicant cannot be confirmed and is required to be vacated. \r\n---argument-ends---\r\n16) Upon hearing the applicant\u0027s advocate, the APP, the informant\u0027s advocate, perusing the say filed on record and also the other investigation papers produced on record, it appears that, the root dispute between both the parties is currently pertaining to boundary disputes between both the opposite parties. Allegations are that pits were dug on 29/01/2019 and in that respect NC no. 104/2019 was registered on the same day. The original boarding pass and the air ticket placed on record reveals that, applicant no.1 Sachin Yadav since 28/01/2019 was in Bengaluru. NC was directed only against Sachin. Present FIR is dated 10/02/2019, in respect of same activities dated 29/01/2019. FIR also reveals that, dug pits were refilled on or before 03/02/2019. None of these applicant\u0027s presence on 29/01/2019, at the spot is reported in the FIR. At the same time, FIR does not reveal any conversation between the informant and the applicants. Therefore, there is no case of any verbal accusation or abuses, as to the informant\u0027s caste. It further transpires that, letter dated 07/02/2019 was addressed by the applicant\u0027s company to the S.P. Satara fearing FIR at the instance of informant and present FIR is dated 10/02/2019. It also transpires that, informant has written letter to the S.P. Satara complaining that witness Bhongle has been influenced and the police investigating the matter are pressurized. Said complaint is purportedly lodged on 27/02/2019. \r\n---argument-ends---\r\n17) Informant alongwith his say had submitted a copy of Anandrao Kondiba Bhongle\u0027s statement dated 25/02/2019, in which it is his narration that, he was induced by Hemant Khalate with job and money. The statement further reveals that, Bhongle does not have any complaint in respect of it. He further told of not being under anybody\u0027s pressure, for not lodging the complaint. \r\n---argument-ends---\r\n18) In such circumstances, it appears that, Khalate attempted to induce Bhongle, but Bhongle has no grievances about it and also not under anybody\u0027s pressure for not lodging complaint. \r\n---argument-ends---\r\n19) Another surprising element which comes on record is that Bhongle\u0027s statement dated 25/02/2019, appears to be recorded by Police Station Officer, Phaltan rural police station, however, it is unknown as to how the copy of said statement falls in informant\u0027s hand. It is neither certified, nor any procedure is found where witness\u0027s statement\u0027s copy can be available to the informant. It becomes more surprising that, as per the APP, said copy of statement does not form part of the documents supplied to him by the Investigating Officer for contesting present bail application. \r\n---argument-ends---\r\n20) Without going into further details on this aspect, it bears out on record that, the dispute between both parties is civil in nature. Civil suit R.C.S. no. 54/2014 already pending between both the parties, the FIR not revealing any element of seizure or recovery to be done at the instance of these applicants, it appears that, applicants prima­facie custodial investigation is not necessary. That apart, there is no grievance by the Investigating Officer of the applicants non attendance at the police station in compliance of interim pre­arrest bail order dated 14/02/2019. There is also nothing submitted by the Investigating Officer about outcome of informant\u0027s alleged complaint dated 25/02/2019 to the S.P. Satara. \r\n---argument-ends---\r\n21) In the matter of Shivaji (Supra), pre­arrest bail protection was granted observing that, there are counter complaints, no prima­facie case made out under the Special Act and the State also being unable to point out the necessity of custodial interrogation. \r\n---argument-ends---\r\n22) In the matter of Netaji (Supra) observing that, said applicant/accused had much before the FIR being lodged against him and raised the grievance of threat of extortion of Rs.10,00,000/­ against informant; FIR seemingly motivated and finding no prima­facie case under the Special Act to revoke bar of Section­18 of the Special Act, pre­arrest bail protection was granted. \r\n---argument-ends---\r\n23) In the matter of Sapna Korde (Supra), Hon\u0027ble High Court Bombay, considering the complainant\u0027s objection under section 18­A of the Special Act, was pleased to protect the applicant accused by grant of pre­arrest bail. \r\n---argument-ends---\r\n24) Taking into consideration, the totality of circumstances in the case in hand, as well as the cited rulings, it appears that, custodial interrogation is not warranted therefore interim pre­arrest protection granted vide order dated 14/02/2019, can be confirmed. Hence, the following order. \r\n---argument-ends---\r\nO R D E R 1) Criminal Bail Application no. 113/2019, is allowed. 2) Interim pre­arrest bail order dated 14th February, 2019, stands confirmed. \r\n---order-ends---\r\n(Y. H. Ameta) Place : Satara Special Judge Date : 01st March, 2019. Satara"
+}

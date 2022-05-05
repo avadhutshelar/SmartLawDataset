@@ -1,0 +1,795 @@
+{
+  "header": "ORDER BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 114/2019 (Ganesh Vitthal Gaikwad Vs. State of Maharashtra) MHST01­000593­2019",
+  "background": {
+    "text": "1) Present application is filed by applicant under section 438 of Criminal Procedure Code, 1973 apprehending arrest under C.R. no. 35/2019, registered at Lonand police station, at the instance of Arjun Popat Kavade, for alleged commission of offences punishable under sections 353, 341 r/w. 34 of Indian Penal Code, 1860 and hence has approached Court seeking pre­ arrest bail.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "353,341,34",
+          "stringMatched": "under sections 353, 341 r/w. 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) Advocate for applicant\u0027s argued that, FIR was lodged against unknown persons against four unknown persons and the FIR contain this applicant\u0027s vehicle Scopio\u0027s registration number, hence police have been frequently calling this applicant to the police station. Apprehensive of being arrested, applicant prefers protection by grant of pre­arrest bail on the grounds that, this applicant is no way concerned with the alleged incidence or the offence.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) Advocate for applicant\u0027s argued that, FIR was lodged against unknown persons against four unknown persons and the FIR contain this applicant\u0027s vehicle Scopio\u0027s registration number, hence police have been frequently calling this applicant to the police station.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Apprehensive of being arrested, applicant prefers protection by grant of pre­arrest bail on the grounds that, this applicant is no way concerned with the alleged incidence or the offence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is contended that, FIR can be seen to be false, as the informant being alleges of he \u0026 the conductor being assaulted by the unknown accused, however FIR does not contain any charge even under section 323 or 324 of Indian Penal Code, 1860.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is contended that, FIR can be seen to be false, as the informant being alleges of he \u0026 the conductor being assaulted by the unknown accused, however FIR does not contain any charge even under section 323 or 324 of Indian Penal Code, 1860.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) It is also contended that, taking into consideration the nature of FIR, no recovery or seizure is required to be done. There is no allegation of use of any weapon. Therefore, there is no necessity of any custodial investigation.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) It is also contended that, taking into consideration the nature of FIR, no recovery or seizure is required to be done.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "There is no allegation of use of any weapon.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Therefore, there is no necessity of any custodial investigation.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) It is also contended that, the police do not require to seize Scorpio vehicle, as the vehicle has been in the village and police has been continuously in the village, however has not asked for its seizure.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) It is also contended that, the police do not require to seize Scorpio vehicle, as the vehicle has been in the village and police has been continuously in the village, however has not asked for its seizure.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6) It is contended that, even if identities of the unknown accused, are to be transpired, it in no circumstances can require custodial investigation. It is contended that, applicant\u0027s vehicle is wrongly shown in the FIR, hence his custodial investigation is not required at all. Applicant undertakes to co­operate in the investigation and hence seeks protection by grant of pre­arrest bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) It is contended that, even if identities of the unknown accused, are to be transpired, it in no circumstances can require custodial investigation.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, applicant\u0027s vehicle is wrongly shown in the FIR, hence his custodial investigation is not required at all.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Applicant undertakes to co­operate in the investigation and hence seeks protection by grant of pre­arrest bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7) Bail application is resisted by APP by filing say at Exh.6 on the grounds that, the Scorpio occupants assaulted the ST driver and the conductor, being annoyed as the ST driver overtook the Scorpio car. It is contended that, accused are unknown persons, they deter the ST driver and conductor from discharging their duties. After assaulting the accused ran away from the spot with the jeep. Identities of the unknown assailants is to be investigated. Even the applicant\u0027s identity is also to be verified. Therefore, applicant\u0027s custodial investigation is necessary.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7) Bail application is resisted by APP by filing say at Exh.6 on the grounds that, the Scorpio occupants assaulted the ST driver and the conductor, being annoyed as the ST driver overtook the Scorpio car.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, accused are unknown persons, they deter the ST driver and conductor from discharging their duties.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "After assaulting the accused ran away from the spot with the jeep.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Identities of the unknown assailants is to be investigated.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Even the applicant\u0027s identity is also to be verified.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Therefore, applicant\u0027s custodial investigation is necessary.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8) It is contended that, in case of protecting the applicant by grant of pre­arrest bail, the identities of unknown assailant would not be revealed. Pressurizing the witness and repetition of similar crime is also contended. Accordingly, pre­ arrest bail application is resisted.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8) It is contended that, in case of protecting the applicant by grant of pre­arrest bail, the identities of unknown assailant would not be revealed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Pressurizing the witness and repetition of similar crime is also contended.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accordingly, pre­ arrest bail application is resisted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "9) Upon perusing FIR, hearing applicant\u0027s advocate and APP, it appears that, four unknown assailants assaulted the ST driver and conductor, being annoyed of being overtaken. This applicant\u0027s Scorpio number is reflected in FIR. In such circumstances, it becomes necessary for investigating the identities of the unknown assailants and the same could be done through this applicant, as he would be knowing the persons using his vehicle. It is highly possible that, in case of being protected by grant of pre­arrest bail, identities of the unknown accused, may remain untraced, leading the investigation to fail. Thus, it appears that, applicant has not made out any case to grant protection of pre­arrest bail. Hence, the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "9) Upon perusing FIR, hearing applicant\u0027s advocate and APP, it appears that, four unknown assailants assaulted the ST driver and conductor, being annoyed of being overtaken.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "This applicant\u0027s Scorpio number is reflected in FIR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "In such circumstances, it becomes necessary for investigating the identities of the unknown assailants and the same could be done through this applicant, as he would be knowing the persons using his vehicle.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is highly possible that, in case of being protected by grant of pre­arrest bail, identities of the unknown accused, may remain untraced, leading the investigation to fail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Thus, it appears that, applicant has not made out any case to grant protection of pre­arrest bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Hence, the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER Criminal Bail Application no. 114/2019, is rejected.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Y. H. Ameta) Place : Satara Addl. Sessions Judge Date : 25th February, 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH. 1 IN CRI. BAIL APPLICATION No. 114/2019 (Ganesh Vitthal Gaikwad Vs. State of Maharashtra) MHST01­000593­2019 \r\n---header-ends---\r\n1) Present application is filed by applicant under section 438 of Criminal Procedure Code, 1973 apprehending arrest under C.R. no. 35/2019, registered at Lonand police station, at the instance of Arjun Popat Kavade, for alleged commission of offences punishable under sections 353, 341 r/w. 34 of Indian Penal Code, 1860 and hence has approached Court seeking pre­ arrest bail. \r\n---background-ends---\r\n2) Advocate for applicant\u0027s argued that, FIR was lodged against unknown persons against four unknown persons and the FIR contain this applicant\u0027s vehicle Scopio\u0027s registration number, hence police have been frequently calling this applicant to the police station. Apprehensive of being arrested, applicant prefers protection by grant of pre­arrest bail on the grounds that, this applicant is no way concerned with the alleged incidence or the offence. \r\n---argument-ends---\r\n3) It is contended that, FIR can be seen to be false, as the informant being alleges of he \u0026 the conductor being assaulted by the unknown accused, however FIR does not contain any charge even under section 323 or 324 of Indian Penal Code, 1860. \r\n---argument-ends---\r\n4) It is also contended that, taking into consideration the nature of FIR, no recovery or seizure is required to be done. There is no allegation of use of any weapon. Therefore, there is no necessity of any custodial investigation. \r\n---argument-ends---\r\n5) It is also contended that, the police do not require to seize Scorpio vehicle, as the vehicle has been in the village and police has been continuously in the village, however has not asked for its seizure. \r\n---argument-ends---\r\n6) It is contended that, even if identities of the unknown accused, are to be transpired, it in no circumstances can require custodial investigation. It is contended that, applicant\u0027s vehicle is wrongly shown in the FIR, hence his custodial investigation is not required at all. Applicant undertakes to co­operate in the investigation and hence seeks protection by grant of pre­arrest bail. \r\n---argument-ends---\r\n7) Bail application is resisted by APP by filing say at Exh.6 on the grounds that, the Scorpio occupants assaulted the ST driver and the conductor, being annoyed as the ST driver overtook the Scorpio car. It is contended that, accused are unknown persons, they deter the ST driver and conductor from discharging their duties. After assaulting the accused ran away from the spot with the jeep. Identities of the unknown assailants is to be investigated. Even the applicant\u0027s identity is also to be verified. Therefore, applicant\u0027s custodial investigation is necessary. \r\n---argument-ends---\r\n8) It is contended that, in case of protecting the applicant by grant of pre­arrest bail, the identities of unknown assailant would not be revealed. Pressurizing the witness and repetition of similar crime is also contended. Accordingly, pre­ arrest bail application is resisted. \r\n---argument-ends---\r\n9) Upon perusing FIR, hearing applicant\u0027s advocate and APP, it appears that, four unknown assailants assaulted the ST driver and conductor, being annoyed of being overtaken. This applicant\u0027s Scorpio number is reflected in FIR. In such circumstances, it becomes necessary for investigating the identities of the unknown assailants and the same could be done through this applicant, as he would be knowing the persons using his vehicle. It is highly possible that, in case of being protected by grant of pre­arrest bail, identities of the unknown accused, may remain untraced, leading the investigation to fail. Thus, it appears that, applicant has not made out any case to grant protection of pre­arrest bail. Hence, the following order. \r\n---argument-ends---\r\nORDER Criminal Bail Application no. 114/2019, is rejected. \r\n---order-ends---\r\n(Y. H. Ameta) Place : Satara Addl. Sessions Judge Date : 25th February, 2019. Satara"
+}

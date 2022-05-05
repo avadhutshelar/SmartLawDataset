@@ -1,0 +1,715 @@
+{
+  "header": "ORDER BELOW EXH. 1 IN CRIMINAL BAIL APPLOICATION NO. 135/2019 (Amol Ramdas Pawar Vs. State of Maharashtra) CNR : MHST01­000678­2019",
+  "background": {
+    "text": "1) Present bail application is preferred by the accused Amol Ramdas Pawar, under section 439 of Criminal Procedure Code, 1973 seeking his release from arrest, under C.R. no. 189/2018, registered at Miraj Railway Police Station, for alleged commission of offence punishable under section 395 of Indian Penal Code, 1860.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "395",
+          "stringMatched": "under section 395 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) It is contended by the accused advocate that, accused is falsely implicated in present offence inspite of not being involved in any such offence. It is contended that, the offence was registered against unknown accused under section 356 \u0026 379 of Indian Penal Code, 1860, however is enhanced and aggravated by adding section 395 of Indian Penal Code, 1860.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) It is contended by the accused advocate that, accused is falsely implicated in present offence inspite of not being involved in any such offence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, the offence was registered against unknown accused under section 356 \u0026 379 of Indian Penal Code, 1860, however is enhanced and aggravated by adding section 395 of Indian Penal Code, 1860.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is contended that FIR is dated 13/07/2018, however he has been falsely arrested about 4 months thereafter on 18/01/2019. The recovery shown at the instance of this accused, are falsely shown. The name of other 6 accused are falsely added in remand report merely to aggravate the offence.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is contended that FIR is dated 13/07/2018, however he has been falsely arrested about 4 months thereafter on 18/01/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The recovery shown at the instance of this accused, are falsely shown.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The name of other 6 accused are falsely added in remand report merely to aggravate the offence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) It is contended that, FIR being filed against unknown accused, there is no material in the investigation to link this accused with the alleged offence. Even the informant has not narrated any description of the person taking away her articles, therefore, accused has been falsely arrested.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) It is contended that, FIR being filed against unknown accused, there is no material in the investigation to link this accused with the alleged offence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Even the informant has not narrated any description of the person taking away her articles, therefore, accused has been falsely arrested.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) It is further contended that, even otherwise no element of seizure or recovery is pending and investigation is completed in the offence, therefore accused\u0027s custodial presence is not required for further investigation in the offence. Accordingly, bail is contended.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) It is further contended that, even otherwise no element of seizure or recovery is pending and investigation is completed in the offence, therefore accused\u0027s custodial presence is not required for further investigation in the offence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Accordingly, bail is contended.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6) Bail application is resisted by the APP by filing say at Exh. 6 on the grounds that, accused is habitual offender, and about eight offences of similar nature are registered against him. Accused alongwith his associates have committed a dacoity of the informant\u0027s \u0027Mangalsutra\u0027 worth Rs. 50,000/­, and mobile worth Rs. 5,000/­. Informant\u0027s \u0027Mangalsutra\u0027 is recovered at the instance of this accused, under memorandum given by him to another police station. Other accused are to traced and arrested, therefore, releasing this accused on bail may lead to repetition of similar offences and the possibility of arresting the other accused may get reduced. Accordingly, bail is resisted.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) Bail application is resisted by the APP by filing say at Exh. 6 on the grounds that, accused is habitual offender, and about eight offences of similar nature are registered against him.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Accused alongwith his associates have committed a dacoity of the informant\u0027s \u0027Mangalsutra\u0027 worth Rs. 50,000/­, and mobile worth Rs. 5,000/­.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Informant\u0027s \u0027Mangalsutra\u0027 is recovered at the instance of this accused, under memorandum given by him to another police station.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Other accused are to traced and arrested, therefore, releasing this accused on bail may lead to repetition of similar offences and the possibility of arresting the other accused may get reduced.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Accordingly, bail is resisted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7) Upon perusing FIR, hearing the APP and the accused\u0027s advocate, it appears that, FIR was registered against unknown accused. FIR is dated 13/07/2018. This accused is arrested on 08/01/2019 and is in MCR since 11/01/2019. Informant\u0027s \u0027Mangalsutra\u0027 is recovered. Thus, it appears that, substantial investigation in the offence is completed. It is further settled position that, bail cannot be denied merely because other accused are yet untraced. It is uncertain as to the time, the investigation agency would take to formally complete the investigation, file charge­sheet, for the trial to initiate and to conclude. In such circumstances, it appears that, keeping the accused arrested indifinately may yield no purpose, however APP\u0027s apprehensions are also required to be taken care of. Hence, the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7) Upon perusing FIR, hearing the APP and the accused\u0027s advocate, it appears that, FIR was registered against unknown accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "FIR is dated 13/07/2018.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "This accused is arrested on 08/01/2019 and is in MCR since 11/01/2019.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Informant\u0027s \u0027Mangalsutra\u0027 is recovered.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Thus, it appears that, substantial investigation in the offence is completed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "It is further settled position that, bail cannot be denied merely because other accused are yet untraced.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "It is uncertain as to the time, the investigation agency would take to formally complete the investigation, file charge­sheet, for the trial to initiate and to conclude.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "In such circumstances, it appears that, keeping the accused arrested indifinately may yield no purpose, however APP\u0027s apprehensions are also required to be taken care of.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Hence, the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1) Criminal Bail Application no. 135/2019, is allowed. 2) Accused Amol Ramdas Pawar, be released on bail, from his arrest under C.R. no. 189/2018, registered at Miraj Railway Police Station, on his furnishing personal bond of Rs.25,000/­ (Rs. Twenty Five Thousand) with one or more surety/ies, to make up the bond amount, on following terms and conditions; a) Accused shall cause his attendance twice at the concerned police station preferably on every Wednesday and Saturday at any time in between 11.00 a.m. to 2.00 p.m., till further orders. b) Accused shall not tamper with any evidence. c) Accused shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. d) Accused shall make available themselves and co­ operate for interrogation by Police Officer as and when required. e) Any default of above conditions shall render the bail to be cancelled automatically. f) Compliance before lower Court.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Y. H. Ameta) Place : Satara Special Judge Date : 08th March, 2019. Satara",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH. 1 IN CRIMINAL BAIL APPLOICATION NO. 135/2019 (Amol Ramdas Pawar Vs. State of Maharashtra) CNR : MHST01­000678­2019 \r\n---header-ends---\r\n1) Present bail application is preferred by the accused Amol Ramdas Pawar, under section 439 of Criminal Procedure Code, 1973 seeking his release from arrest, under C.R. no. 189/2018, registered at Miraj Railway Police Station, for alleged commission of offence punishable under section 395 of Indian Penal Code, 1860. \r\n---background-ends---\r\n2) It is contended by the accused advocate that, accused is falsely implicated in present offence inspite of not being involved in any such offence. It is contended that, the offence was registered against unknown accused under section 356 \u0026 379 of Indian Penal Code, 1860, however is enhanced and aggravated by adding section 395 of Indian Penal Code, 1860. \r\n---argument-ends---\r\n3) It is contended that FIR is dated 13/07/2018, however he has been falsely arrested about 4 months thereafter on 18/01/2019. The recovery shown at the instance of this accused, are falsely shown. The name of other 6 accused are falsely added in remand report merely to aggravate the offence. \r\n---argument-ends---\r\n4) It is contended that, FIR being filed against unknown accused, there is no material in the investigation to link this accused with the alleged offence. Even the informant has not narrated any description of the person taking away her articles, therefore, accused has been falsely arrested. \r\n---argument-ends---\r\n5) It is further contended that, even otherwise no element of seizure or recovery is pending and investigation is completed in the offence, therefore accused\u0027s custodial presence is not required for further investigation in the offence. Accordingly, bail is contended. \r\n---argument-ends---\r\n6) Bail application is resisted by the APP by filing say at Exh. 6 on the grounds that, accused is habitual offender, and about eight offences of similar nature are registered against him. Accused alongwith his associates have committed a dacoity of the informant\u0027s \u0027Mangalsutra\u0027 worth Rs. 50,000/­, and mobile worth Rs. 5,000/­. Informant\u0027s \u0027Mangalsutra\u0027 is recovered at the instance of this accused, under memorandum given by him to another police station. Other accused are to traced and arrested, therefore, releasing this accused on bail may lead to repetition of similar offences and the possibility of arresting the other accused may get reduced. Accordingly, bail is resisted. \r\n---argument-ends---\r\n7) Upon perusing FIR, hearing the APP and the accused\u0027s advocate, it appears that, FIR was registered against unknown accused. FIR is dated 13/07/2018. This accused is arrested on 08/01/2019 and is in MCR since 11/01/2019. Informant\u0027s \u0027Mangalsutra\u0027 is recovered. Thus, it appears that, substantial investigation in the offence is completed. It is further settled position that, bail cannot be denied merely because other accused are yet untraced. It is uncertain as to the time, the investigation agency would take to formally complete the investigation, file charge­sheet, for the trial to initiate and to conclude. In such circumstances, it appears that, keeping the accused arrested indifinately may yield no purpose, however APP\u0027s apprehensions are also required to be taken care of. Hence, the following order. \r\n---argument-ends---\r\nORDER 1) Criminal Bail Application no. 135/2019, is allowed. 2) Accused Amol Ramdas Pawar, be released on bail, from his arrest under C.R. no. 189/2018, registered at Miraj Railway Police Station, on his furnishing personal bond of Rs.25,000/­ (Rs. Twenty Five Thousand) with one or more surety/ies, to make up the bond amount, on following terms and conditions; a) Accused shall cause his attendance twice at the concerned police station preferably on every Wednesday and Saturday at any time in between 11.00 a.m. to 2.00 p.m., till further orders. b) Accused shall not tamper with any evidence. c) Accused shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. d) Accused shall make available themselves and co­ operate for interrogation by Police Officer as and when required. e) Any default of above conditions shall render the bail to be cancelled automatically. f) Compliance before lower Court. \r\n---order-ends---\r\n(Y. H. Ameta) Place : Satara Special Judge Date : 08th March, 2019. Satara"
+}
