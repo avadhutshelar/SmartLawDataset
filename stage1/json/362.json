@@ -1,0 +1,679 @@
+{
+  "header": "1 CRI. BAIL APPN. NO. 14 OF 2019 ORDER BELOW EXH. 1 MHPU14-000075-2019",
+  "background": {
+    "text": "1] Present application is filed by the accused Aniket Dattatray Zende, with request to grant him bail, u/s. 439 of the Criminal Procedure Code against whom Crime No. 774 of 2018 is registered in the Baramati city police station ( District – Pune ), for having committed offence punishable U/ss. 363, 327, 354 of I.P.C and U/ss. 8 and 12 of the POCSO Act.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Criminal Procedure Code",
+          "sectionsMatched": "439",
+          "stringMatched": "u/s. 439 of the criminal procedure code",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "I.P.C",
+          "sectionsMatched": "363,327,354",
+          "stringMatched": "u/ss. 363, 327, 354 of i.p.c",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] It is prosecution case, the incident took place on 04/11/2018. It is prosecution case that, on 4/11/2018 victim girl went to purchase some articles, she did not come back then informant and others took her search and got information accused took away her on motorcycle. It is prosecution case, then accused forcibly took ear ring from the victim girl. Thereafter, took her to the Mumbai. They resided in the house of one of the relatives of the accused and thereafter came back. It is prosecution case, before present incident accused had taken away victim girl elsewhere on motorcycle. It is prosecution case, on getting information of the offence, case is registered against the accused.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] It is prosecution case, the incident took place on 04/11/2018.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is prosecution case that, on 4/11/2018 victim girl went to purchase some articles, she did not come back then informant and others took her search and got information accused took away her on motorcycle.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is prosecution case, then accused forcibly took ear ring from the victim girl.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Thereafter, took her to the Mumbai.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "They resided in the house of one of the relatives of the accused and thereafter came back.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "It is prosecution case, before present incident accused had taken away victim girl elsewhere on motorcycle.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "It is prosecution case, on getting information of the offence, case is registered against the accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Learned advocate Mr. Kshirsagar appearing for the accused submitted arguments in the line of application filed.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Learned advocate Mr. Kshirsagar appearing for the accused submitted arguments in the line of application filed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Per contra, learned APP Mr. Joshi submitted arguments in the line of say (Exh.4) submitted by the prosecution and strongly opposed request made.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Per contra, learned APP Mr. Joshi submitted arguments in the line of say (Exh.4) submitted by the prosecution and strongly opposed request made.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] I have given anxious thought to the arguments advanced. I have also perused police papers produced for examination.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] I have given anxious thought to the arguments advanced.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "I have also perused police papers produced for examination.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6] Nature of the offence alleged to have committed by the accused is serious. Material collected by the prosecution during the investigation supports prosecution case. It appears, against will of the victim girl, she was taken to Mumbai, her ear ring also forcibly taken away and furthermore, still investigation is not completed.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6] Nature of the offence alleged to have committed by the accused is serious.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Material collected by the prosecution during the investigation supports prosecution case.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It appears, against will of the victim girl, she was taken to Mumbai, her ear ring also forcibly taken away and furthermore, still investigation is not completed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7] Same time, it cannot be ignored majority of the investigation is over. Muddemal property ear ring is recovered, motorcycle is also recovered. Custodial interrogation of the applicant-accused is not required. No fruitful purpose would be served keeping the accused behind bar for indefinite period.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7] Same time, it cannot be ignored majority of the investigation is over.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Muddemal property ear ring is recovered, motorcycle is also recovered.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Custodial interrogation of the applicant-accused is not required.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "No fruitful purpose would be served keeping the accused behind bar for indefinite period.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8] Thus, in such circumstances it would be proper to accept request made by the applicant-accused putting stringent conditions, thereby balance between personal liberty of the accused and the investigational powers of the prosecution can be maintained. 9] In the result, following order is passed :-",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8] Thus, in such circumstances it would be proper to accept request made by the applicant-accused putting stringent conditions, thereby balance between personal liberty of the accused and the investigational powers of the prosecution can be maintained.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "9] In the result, following order is passed :-",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER i] Bail application is allowed. 3 CRI. BAIL APPN. NO. 14 OF 2019 ii] Accused Aniket Dattatray Zende, be released on bail on execution of P.B. of Rs. 30,000/- with solvent surety in the like amount. iii] Accused not to misuse the liberty given. vi] Accused to attend concerned police station as per requirement of I.O. till filing of the charge sheet. v] Accused to submit legally acceptable identity and address proof. Accordingly order is passed and the bail application stands disposed of.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Baramati ( R.B. Deshpande) 16.01.2019 Addl. Sessions Judge, Baramati CERTIFICATE “ I affirm that the contents of this PDF file Judgment are same word for word as per original Judgment. Name of Steno – Shivaji N. Patil Stenographer Grade-I Court name _ R.B. Deshpande, ASJ -1, Baramati. Date _ 16.01.2019 Judgment signed by - Presiding Officer on : 17.01.2019 Judgment uploaded on : 17.01.2019",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "1 CRI. BAIL APPN. NO. 14 OF 2019 ORDER BELOW EXH. 1 MHPU14-000075-2019 \r\n---header-ends---\r\n1] Present application is filed by the accused Aniket Dattatray Zende, with request to grant him bail, u/s. 439 of the Criminal Procedure Code against whom Crime No. 774 of 2018 is registered in the Baramati city police station ( District – Pune ), for having committed offence punishable U/ss. 363, 327, 354 of I.P.C and U/ss. 8 and 12 of the POCSO Act. \r\n---background-ends---\r\n2] It is prosecution case, the incident took place on 04/11/2018. It is prosecution case that, on 4/11/2018 victim girl went to purchase some articles, she did not come back then informant and others took her search and got information accused took away her on motorcycle. It is prosecution case, then accused forcibly took ear ring from the victim girl. Thereafter, took her to the Mumbai. They resided in the house of one of the relatives of the accused and thereafter came back. It is prosecution case, before present incident accused had taken away victim girl elsewhere on motorcycle. It is prosecution case, on getting information of the offence, case is registered against the accused. \r\n---argument-ends---\r\n3] Learned advocate Mr. Kshirsagar appearing for the accused submitted arguments in the line of application filed. \r\n---argument-ends---\r\n4] Per contra, learned APP Mr. Joshi submitted arguments in the line of say (Exh.4) submitted by the prosecution and strongly opposed request made. \r\n---argument-ends---\r\n5] I have given anxious thought to the arguments advanced. I have also perused police papers produced for examination. \r\n---argument-ends---\r\n6] Nature of the offence alleged to have committed by the accused is serious. Material collected by the prosecution during the investigation supports prosecution case. It appears, against will of the victim girl, she was taken to Mumbai, her ear ring also forcibly taken away and furthermore, still investigation is not completed. \r\n---argument-ends---\r\n7] Same time, it cannot be ignored majority of the investigation is over. Muddemal property ear ring is recovered, motorcycle is also recovered. Custodial interrogation of the applicant-accused is not required. No fruitful purpose would be served keeping the accused behind bar for indefinite period. \r\n---argument-ends---\r\n8] Thus, in such circumstances it would be proper to accept request made by the applicant-accused putting stringent conditions, thereby balance between personal liberty of the accused and the investigational powers of the prosecution can be maintained. 9] In the result, following order is passed :- \r\n---argument-ends---\r\nORDER i] Bail application is allowed. 3 CRI. BAIL APPN. NO. 14 OF 2019 ii] Accused Aniket Dattatray Zende, be released on bail on execution of P.B. of Rs. 30,000/- with solvent surety in the like amount. iii] Accused not to misuse the liberty given. vi] Accused to attend concerned police station as per requirement of I.O. till filing of the charge sheet. v] Accused to submit legally acceptable identity and address proof. Accordingly order is passed and the bail application stands disposed of. \r\n---order-ends---\r\nBaramati ( R.B. Deshpande) 16.01.2019 Addl. Sessions Judge, Baramati CERTIFICATE “ I affirm that the contents of this PDF file Judgment are same word for word as per original Judgment. Name of Steno – Shivaji N. Patil Stenographer Grade-I Court name _ R.B. Deshpande, ASJ -1, Baramati. Date _ 16.01.2019 Judgment signed by - Presiding Officer on : 17.01.2019 Judgment uploaded on : 17.01.2019"
+}

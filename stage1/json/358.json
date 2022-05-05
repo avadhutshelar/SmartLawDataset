@@ -1,0 +1,690 @@
+{
+  "header": "IN THE COURT OF SPECIAL JUDGE UNDER ATROCITIES ACT AND ADDITIONAL SESSIONS JUDGE, BARAMATI. Cri. Bail Appln. No. 10/2019. MHPU14­000049­2019. Shashikant Balu Savane Versus State of Maharashtra",
+  "background": {
+    "text": "ORDER BELOW EXHIBIT 1 This is an application for grant of regular bail under Section 439 of Cr.P.C. in Crime No.4/2019 of Bhigwan police station registered under Sections 307, 43, 147, 148, 149, 323, 504, 506 of Indian Penal Code and Sections 3(1)(r), 3(3) (2) (va) of the SC \u0026 ST (Prevention of Atrocities) Act, 1989.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "307,43,147,148,149,323,504,506",
+          "stringMatched": "under sections 307, 43, 147, 148, 149, 323, 504, 506 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] The applicant contended that there is no involvement of him in the same offence. He is not the member of unlawful assembly. He belongs to Scheduled Caste community, so Atrocity Act is no applicable to him. He is falsely involved in the crime. He is in police custody from 03.01.2019 and no purpose would be served by keeping him behind bar. He is an agriculturist and his family is dependent on him. On any condition he may be released on bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] The applicant contended that there is no involvement of him in the same offence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He is not the member of unlawful assembly.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He belongs to Scheduled Caste community, so Atrocity Act is no applicable to him.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "He is falsely involved in the crime.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "He is in police custody from 03.01.2019 and no purpose would be served by keeping him behind bar.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He is an agriculturist and his family is dependent on him.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "On any condition he may be released on bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] The I.O. filed say through the ld. APP and resisted the application and submitted that all the accused formed unlawful assembly. The main accused i.e. Nilesh Hagare has assaulted on the head of complainant by axe. All the accused have abused the complainant on his caste and also, they have beaten him by fist and kick blows. If accused is released on bail, he will abscond and will tamper the prosecution evidence and will commit similar type of offence. Hence, he may not be released on bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] The I.O. filed say through the ld.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "APP and resisted the application and submitted that all the accused formed unlawful assembly.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The main accused i.e. Nilesh Hagare has assaulted on the head of complainant by axe.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "All the accused have abused the complainant on his caste and also, they have beaten him by fist and kick blows.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "If accused is released on bail, he will abscond and will tamper the prosecution evidence and will commit similar type of offence.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Hence, he may not be released on bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] Heard both the parties counsel at length. They have argued as stated above. I have gone through the FIR and the police papers filed by ld. APP. It appears to the Court that the complainant and the present accused belongs to Scheduled Caste and so, the provisions of Atrocities Act is not applicable to the applicant. No doubt, there is a prima facie case against all the accusedunder the aforesaid sections levelled under Indian Penal Code. But, considering the fact that the main assault was made by Nilesh Hagare and the fact that the provisions of Atrocity Act is not applicable to the present accused and the fact that the nature of injury on the head of complainant is simple and the fact that the present accused is beaten the complainant by kick and fist blows. So, his role is not severe as that of the other accused. He is already in jail from past several days. Also, police does not require his PCR. In such circumstances, bail to the accused can be granted on reasonable terms and conditions. Hence, the following order.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] Heard both the parties counsel at length.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "They have argued as stated above.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "I have gone through the FIR and the police papers filed by ld.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "APP.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "It appears to the Court that the complainant and the present accused belongs to Scheduled Caste and so, the provisions of Atrocities Act is not applicable to the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "No doubt, there is a prima facie case against all the accusedunder the aforesaid sections levelled under Indian Penal Code.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "But, considering the fact that the main assault was made by Nilesh Hagare and the fact that the provisions of Atrocity Act is not applicable to the present accused and the fact that the nature of injury on the head of complainant is simple and the fact that the present accused is beaten the complainant by kick and fist blows.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "So, his role is not severe as that of the other accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "He is already in jail from past several days.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Also, police does not require his PCR.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "In such circumstances, bail to the accused can be granted on reasonable terms and conditions.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Hence, the following order.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER (1) The application is allowed. (2) The applicant Shashikant Balu Savane be released on P.B. of Rs. 15,000/­ along with one or two sureties in the like amount, on the condition that: a) He shall attend the concerned police station on every Sunday and Wednesday between 11.00 am to 2.00 pm till filing of the charge­sheet and co­operate the police in investigation. b) He shall not tamper the prosecution evidence. c) He shall not threat the prosecution witnesses and victim. d) He shall furnish his address and contact number. e) He shall not commit similar type of offence. f) He shall not leave India without permission of the Court. (3) Inform the concerned police station accordingly.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Sd/­ Baramati. [ R.R.Rathi ] Dated :16.01.2019. Additional Sessions Judge, Baramati. C E R T I F I C A T E I affirm that the contents of this P.D.F. file judgment are same word for word as per original judgment. Name of Steno : Mrs. Arya Nikam (Stenographer G­1) Court Name : Shri. R.R.Rathi, Addl. Sessions Judge, Baramati. Date : 16.01.2019. Judgment signed by P.O. On : 16.01.2019. Judgment uploaded on : 16.01.2019.",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "IN THE COURT OF SPECIAL JUDGE UNDER ATROCITIES ACT AND ADDITIONAL SESSIONS JUDGE, BARAMATI. Cri. Bail Appln. No. 10/2019. MHPU14­000049­2019. Shashikant Balu Savane Versus State of Maharashtra \r\n---header-ends---\r\nORDER BELOW EXHIBIT 1 This is an application for grant of regular bail under Section 439 of Cr.P.C. in Crime No.4/2019 of Bhigwan police station registered under Sections 307, 43, 147, 148, 149, 323, 504, 506 of Indian Penal Code and Sections 3(1)(r), 3(3) (2) (va) of the SC \u0026 ST (Prevention of Atrocities) Act, 1989. \r\n---background-ends---\r\n2] The applicant contended that there is no involvement of him in the same offence. He is not the member of unlawful assembly. He belongs to Scheduled Caste community, so Atrocity Act is no applicable to him. He is falsely involved in the crime. He is in police custody from 03.01.2019 and no purpose would be served by keeping him behind bar. He is an agriculturist and his family is dependent on him. On any condition he may be released on bail. \r\n---argument-ends---\r\n3] The I.O. filed say through the ld. APP and resisted the application and submitted that all the accused formed unlawful assembly. The main accused i.e. Nilesh Hagare has assaulted on the head of complainant by axe. All the accused have abused the complainant on his caste and also, they have beaten him by fist and kick blows. If accused is released on bail, he will abscond and will tamper the prosecution evidence and will commit similar type of offence. Hence, he may not be released on bail. \r\n---argument-ends---\r\n4] Heard both the parties counsel at length. They have argued as stated above. I have gone through the FIR and the police papers filed by ld. APP. It appears to the Court that the complainant and the present accused belongs to Scheduled Caste and so, the provisions of Atrocities Act is not applicable to the applicant. No doubt, there is a prima facie case against all the accusedunder the aforesaid sections levelled under Indian Penal Code. But, considering the fact that the main assault was made by Nilesh Hagare and the fact that the provisions of Atrocity Act is not applicable to the present accused and the fact that the nature of injury on the head of complainant is simple and the fact that the present accused is beaten the complainant by kick and fist blows. So, his role is not severe as that of the other accused. He is already in jail from past several days. Also, police does not require his PCR. In such circumstances, bail to the accused can be granted on reasonable terms and conditions. Hence, the following order. \r\n---argument-ends---\r\nORDER (1) The application is allowed. (2) The applicant Shashikant Balu Savane be released on P.B. of Rs. 15,000/­ along with one or two sureties in the like amount, on the condition that: a) He shall attend the concerned police station on every Sunday and Wednesday between 11.00 am to 2.00 pm till filing of the charge­sheet and co­operate the police in investigation. b) He shall not tamper the prosecution evidence. c) He shall not threat the prosecution witnesses and victim. d) He shall furnish his address and contact number. e) He shall not commit similar type of offence. f) He shall not leave India without permission of the Court. (3) Inform the concerned police station accordingly. \r\n---order-ends---\r\nSd/­ Baramati. [ R.R.Rathi ] Dated :16.01.2019. Additional Sessions Judge, Baramati. C E R T I F I C A T E I affirm that the contents of this P.D.F. file judgment are same word for word as per original judgment. Name of Steno : Mrs. Arya Nikam (Stenographer G­1) Court Name : Shri. R.R.Rathi, Addl. Sessions Judge, Baramati. Date : 16.01.2019. Judgment signed by P.O. On : 16.01.2019. Judgment uploaded on : 16.01.2019."
+}

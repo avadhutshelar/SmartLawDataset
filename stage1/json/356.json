@@ -1,0 +1,428 @@
+{
+  "header": "1 Cr.Bail 8/2019 IN THE COURT OF ADDITIONAL SESSIONS COURT, BARAMATI Cri. Bail Application No. 8/2019 [CNR No.MHPU140000432019] 1] Shubham Namdev More Age – 23 years, Occ­ Labour 2] Sharad Dattu Kambale Age – 35 years, Occ – Service R/at­ Tambe Nagar, MIDC, Baramati, Dist­Pune 3] Gaurav Arjun Shinde Age – 22 years, Occ – Service R/at­ Tambe Nagar, MIDC Baramati, Dist­Pune .... Applicants V/s. State of Maharashtra, Through Incharge of Baramati Taluka Police Station, Tal­Baramati, Dist­Pune. … Opponent",
+  "background": {
+    "text": "ORDER BELOW BAIL APPLICATION EXH­1 1] The applicants (accused Nos. 1, 2 and 4) have filed present bail application under section 439 of Cr.P.C. for their release on bail in C.R. No. 2/2019, registered with Baramati Taluka Police Station for the offences under section 395, 323, 504, 506 of I.P.C. The applicants/ accused arrested on 3­1­2019 and now they are in judicial custody.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "I.P.C",
+          "sectionsMatched": "395,323,504,506",
+          "stringMatched": "under section 395, 323, 504, 506 of i.p.c",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] The allegation against the applicants and two others are that on 3­1­2019 they have committed dacoity by committing robbery of cash of Rs. 2000/­ from the pocket of the informant, on account that the informant asked them to purchase the cinema tickets and then only to see the cinema where the informant was serving as a duty officer.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] The allegation against the applicants and two others are that on 3­1­2019 they have committed dacoity by committing robbery of cash of Rs. 2000/­ from the pocket of the informant, on account that the informant asked them to purchase the cinema tickets and then only to see the cinema where the informant was serving as a duty officer.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] The applicants stated that they have been falsely implicated, they are ready to abide with any conditions which may be imposed by the court.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] The applicants stated that they have been falsely implicated, they are ready to abide with any conditions which may be imposed by the court.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] The application is opposed by Investigating officer and APP on the ground that the looted amount is to be recovered and name of the unknown accused to be revealed.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] The application is opposed by Investigating officer and APP on the ground that the looted amount is to be recovered and name of the unknown accused to be revealed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] I heard advocate Akshay Mahadik for the applicants and APP Smt. S.K. Naik for the prosecution and advocate Vaibhav Bhosale for the informant. Perused police papers.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] I heard advocate Akshay Mahadik for the applicants and APP Smt.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "S.K. Naik for the prosecution and advocate Vaibhav Bhosale for the informant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Perused police papers.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6] In the present matter the informant has appeared and filed his affidavit stating that due to misunderstanding he filed the FIR and there was no dacoity, but minor quarrel. The grounds mentioned in the say by the I.O. that he has to recover remaining amount from other accused and name of absconding accused is to be revealed, are not sufficient grounds to deny the bail to the present applicants. Therefore, I am inclined to allow the application as follows :­",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6] In the present matter the informant has appeared and filed his affidavit stating that due to misunderstanding he filed the FIR and there was no dacoity, but minor quarrel.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The grounds mentioned in the say by the I.O. that he has to recover remaining amount from other accused and name of absconding accused is to be revealed, are not sufficient grounds to deny the bail to the present applicants.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Therefore, I am inclined to allow the application as follows :­",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1] Criminal Bail application No. 8/2019 is allowed. 2] The applicant/accused Shubham Namdev More, Sharad Dattu Kambale and Gaurav Arjun Shinde in C.R. No. 2/2019, registered with Baramati Taluka Police Station for the offences under section 395, 323, 504, 506 of I.P.C. be released on executing PR bond of Rs. 25000/­ each with one or more sureties of like amount. 3] The applicants are directed to remain present before investigating officer at Baramati Taluka Police Station on every 2nd and 4th Monday for a period of two months between 6.00 to 8.00 p.m. 4] Bail before Ld. Magistrate/Court.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Date : 10­01­2019 (N.B. Shinde) Addl. Sessions Judge, Baramati. Certificate I affirm that the contents of the PDF file order are same word to word as per the original order. Name of Steno : M.R. Saptarshi Court : District Judge­3, Baramati. Date : 10­01­2019 Order typed on : 10­01­2019 Order signed by : 10­01­2019 Presiding Officer on : Order uploaded on : 10­01­2019",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "1 Cr.Bail 8/2019 IN THE COURT OF ADDITIONAL SESSIONS COURT, BARAMATI Cri. Bail Application No. 8/2019 [CNR No.MHPU140000432019] 1] Shubham Namdev More Age – 23 years, Occ­ Labour 2] Sharad Dattu Kambale Age – 35 years, Occ – Service R/at­ Tambe Nagar, MIDC, Baramati, Dist­Pune 3] Gaurav Arjun Shinde Age – 22 years, Occ – Service R/at­ Tambe Nagar, MIDC Baramati, Dist­Pune .... Applicants V/s. State of Maharashtra, Through Incharge of Baramati Taluka Police Station, Tal­Baramati, Dist­Pune. … Opponent \r\n---header-ends---\r\nORDER BELOW BAIL APPLICATION EXH­1 1] The applicants (accused Nos. 1, 2 and 4) have filed present bail application under section 439 of Cr.P.C. for their release on bail in C.R. No. 2/2019, registered with Baramati Taluka Police Station for the offences under section 395, 323, 504, 506 of I.P.C. The applicants/ accused arrested on 3­1­2019 and now they are in judicial custody. \r\n---background-ends---\r\n2] The allegation against the applicants and two others are that on 3­1­2019 they have committed dacoity by committing robbery of cash of Rs. 2000/­ from the pocket of the informant, on account that the informant asked them to purchase the cinema tickets and then only to see the cinema where the informant was serving as a duty officer. \r\n---argument-ends---\r\n3] The applicants stated that they have been falsely implicated, they are ready to abide with any conditions which may be imposed by the court. \r\n---argument-ends---\r\n4] The application is opposed by Investigating officer and APP on the ground that the looted amount is to be recovered and name of the unknown accused to be revealed. \r\n---argument-ends---\r\n5] I heard advocate Akshay Mahadik for the applicants and APP Smt. S.K. Naik for the prosecution and advocate Vaibhav Bhosale for the informant. Perused police papers. \r\n---argument-ends---\r\n6] In the present matter the informant has appeared and filed his affidavit stating that due to misunderstanding he filed the FIR and there was no dacoity, but minor quarrel. The grounds mentioned in the say by the I.O. that he has to recover remaining amount from other accused and name of absconding accused is to be revealed, are not sufficient grounds to deny the bail to the present applicants. Therefore, I am inclined to allow the application as follows :­ \r\n---argument-ends---\r\nORDER 1] Criminal Bail application No. 8/2019 is allowed. 2] The applicant/accused Shubham Namdev More, Sharad Dattu Kambale and Gaurav Arjun Shinde in C.R. No. 2/2019, registered with Baramati Taluka Police Station for the offences under section 395, 323, 504, 506 of I.P.C. be released on executing PR bond of Rs. 25000/­ each with one or more sureties of like amount. 3] The applicants are directed to remain present before investigating officer at Baramati Taluka Police Station on every 2nd and 4th Monday for a period of two months between 6.00 to 8.00 p.m. 4] Bail before Ld. Magistrate/Court. \r\n---order-ends---\r\nDate : 10­01­2019 (N.B. Shinde) Addl. Sessions Judge, Baramati. Certificate I affirm that the contents of the PDF file order are same word to word as per the original order. Name of Steno : M.R. Saptarshi Court : District Judge­3, Baramati. Date : 10­01­2019 Order typed on : 10­01­2019 Order signed by : 10­01­2019 Presiding Officer on : Order uploaded on : 10­01­2019"
+}

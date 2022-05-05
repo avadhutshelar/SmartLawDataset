@@ -1,0 +1,928 @@
+{
+  "header": "1 Cri. Bail 12/2019 IN THE COURT OF ADDITIONAL SESSIONS COURT, BARAMATI Cri. Bail Application No. 12/2019 [CNR No.MHPU140000532019] Gajanan Kisan Jadhav Age – 28 years, Occ –Labourer R/at –Kalamb, Tal­Indapur, Dist­Pune. .... Applicant V/s. State of Maharashtra, Through Incharge of Yawat Police Station, Tal­Daund, Dist­Pune … Opponent",
+  "background": {
+    "text": "ORDER BELOW BAIL APPLICATION EXH­1 1] The applicant/accused filed present bail application under section 439 of Cr.P.C. for his release on bail in C.R. No. 649/2018, registered with Yawat Police Station for the offences under section 395 of I.P.C.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "439",
+          "stringMatched": "under section 439 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "I.P.C",
+          "sectionsMatched": "395",
+          "stringMatched": "under section 395 of i.p.c",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "The allegation against the applicant and other accused are that on 13­7­2018 in the night time about 2.00 a.m. on Chauphula to Supa Road, near Hotel Samrudhi at Deoulgaon Gada they stopped the Tempo of informant Ansar Shaikh, and on the point of knife committed dacoity by taking away cash of Rs. 10,200/­ and mobile of the informant and they went away. The informant in the FIR told that only three accused persons who covered their faces with cloths were on the motorcycle, therefore the initially the offence u/s 392 r/w 34 of IPC was registered. Afterwards on 8­8­2017 informant made supplementary statement stating that there were total six accused persons and they also taken away his ATM Card, PAN Card, Aadhar Card, driving license from his pocket.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "The allegation against the applicant and other accused are that on 13­7­2018 in the night time about 2.00 a.m. on Chauphula to Supa Road, near Hotel Samrudhi at Deoulgaon Gada they stopped the Tempo of informant Ansar Shaikh, and on the point of knife committed dacoity by taking away cash of Rs. 10,200/­ and mobile of the informant and they went away.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The informant in the FIR told that only three accused persons who covered their faces with cloths were on the motorcycle, therefore the initially the offence u/s 392 r/w 34 of IPC was registered.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Afterwards on 8­8­2017 informant made supplementary statement stating that there were total six accused persons and they also taken away his ATM Card, PAN Card, Aadhar Card, driving license from his pocket.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "2] The applicant/accused was arrested on 2­8­2018, and since then he is in custody. The applicant stated that he has been falsely implicated, offence u/s 395 of IPC is not applicable but police falsely added it. He is permanent resident of Kalam Tal­ Indapur, therefore he is not likely to abscond. Hence he requested to release him on bail.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] The applicant/accused was arrested on 2­8­2018, and since then he is in custody.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The applicant stated that he has been falsely implicated, offence u/s 395 of IPC is not applicable but police falsely added it.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He is permanent resident of Kalam Tal­ Indapur, therefore he is not likely to abscond.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Hence he requested to release him on bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "3] The investigating officer and APP opposed the application on the ground that the offence u/s 395 of I.P.C. is serious, accused Nos. 1 and 6 are still absconding, the applicant may repeat similar offence against the informant, similar offences are registered against the applicant.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] The investigating officer and APP opposed the application on the ground that the offence u/s 395 of I.P.C. is serious, accused Nos. 1 and 6 are still absconding, the applicant may repeat similar offence against the informant, similar offences are registered against the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "4] I heard advocate S.S. Jamdar for the applicant and APP Smt. S.K. Naik for the prosecution.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] I heard advocate S.S. Jamdar for the applicant and APP Smt.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "S.K. Naik for the prosecution.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "5] Ld. advocate Jamdar submitted that as per recitals of the FIR there were only three unknown robbers, who covered their faces with cloths, but afterwards false charge u/s 395 of IPC showing involvement of six accused has been added. He submitted that as per recitals of the FIR only cash amount of Rs. 10,200/­ and the mobile of the informant were stolen away. He submitted that the alleged cash amount and weapon i.e. knife has been seized from the applicant and other accused. He submitted that the investigating officer initially applied the provisions of MOCCA Act but afterwards those provisions are dropped and the investigating officer has filed charge­sheet before the Magistrate. He submitted that the accused is residing within jurisdiction of this court therefore he will not abscond. He submitted that in one crime which is registered with Walchandngar Police Station against the applicant, he is already released on bail, and in Sessions Case No. 2/2016 filed before Solapur Sessions Court, he is already acquitted. He has filed copy of Judgment in S.C. 2/2016 dated 26­4­2018 wherein the applicant is acquitted from the charge under section 302 of I.P.C.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] Ld. advocate Jamdar submitted that as per recitals of the FIR there were only three unknown robbers, who covered their faces with cloths, but afterwards false charge u/s 395 of IPC showing involvement of six accused has been added.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He submitted that as per recitals of the FIR only cash amount of Rs. 10,200/­ and the mobile of the informant were stolen away.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He submitted that the alleged cash amount and weapon i.e. knife has been seized from the applicant and other accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "He submitted that the investigating officer initially applied the provisions of MOCCA Act but afterwards those provisions are dropped and the investigating officer has filed charge­sheet before the Magistrate.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "He submitted that the accused is residing within jurisdiction of this court therefore he will not abscond.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He submitted that in one crime which is registered with Walchandngar Police Station against the applicant, he is already released on bail, and in Sessions Case No. 2/2016 filed before Solapur Sessions Court, he is already acquitted.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "He has filed copy of Judgment in S.C. 2/2016 dated 26­4­2018 wherein the applicant is acquitted from the charge under section 302 of I.P.C.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "6] On the other hand, APP submitted that the offence u/s 395 is very serious, there is material against the applicant as part of the stolen cash of Rs. 2,500/­ and the knife have been seized from him.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6] On the other hand, APP submitted that the offence u/s 395 is very serious, there is material against the applicant as part of the stolen cash of Rs. 2,500/­ and the knife have been seized from him.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "7] I have given anxious though to the submission. I have also gone through the copy of the charge­sheet made available by APP. On perusal of the record, it appears that the FIR was against three unknown persons and number of robbers were shown only three. All the robbers/dacoits were covered their faces with cloths, therefore, the informant and witness Shamim who were into the tempo could not identify the accused persons. The material against the applicant is only of seizure of cash of Rs. 2500/­ and one knife in pursuance to his disclosure made under section 27 of Evidence Act. This is the only material against the applicant/accused.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7] I have given anxious though to the submission.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "I have also gone through the copy of the charge­sheet made available by APP.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "On perusal of the record, it appears that the FIR was against three unknown persons and number of robbers were shown only three.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "All the robbers/dacoits were covered their faces with cloths, therefore, the informant and witness Shamim who were into the tempo could not identify the accused persons.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The material against the applicant is only of seizure of cash of Rs. 2500/­ and one knife in pursuance to his disclosure made under section 27 of Evidence Act.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "This is the only material against the applicant/accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 8,
+      "text": "8] It appears from police record that there are three offences pending against applicant i.e. CR No. 133/2015 registered with Akluj Police Station for the offence u/s 302 of IPC etc., and CR No. 232/2018 u/s 395 of IPC. Advocate for the applicant submitted that in CR No. 232/2018 registered with Walchandnagar Police Station, the accused is already released on bail, whereas in S.C. No. 2/2016 arising out of CR No. 133/2015 the Addl. Sessions Judge, Malshiras has already acquitted the applicant. As such, the accused is already acquitted for CR No. 133/2015 vide judgment and order dated 26­4­2018, and in CR No. 232/2018 he is released on bail. Therefore, pendency of CR No. 232/2018 would not come on the way to grant the bail to the applicant. The proposal send by the police to apply stringent provisions of MOCCA Act has not been sanctioned by competent authority, and after completion of investigation charge­sheet is file before the Magistrate. Thus the investigation against the applicant is over. Therefore, in my view having regard to the fact that the applicant is permanent resident of village Kalamb which is within jurisdiction of this court, it would be just and proper to release him on bail as follows :­",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8] It appears from police record that there are three offences pending against applicant i.e. CR No. 133/2015 registered with Akluj Police Station for the offence u/s 302 of IPC etc., and CR No. 232/2018 u/s 395 of IPC.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Advocate for the applicant submitted that in CR No. 232/2018 registered with Walchandnagar Police Station, the accused is already released on bail, whereas in S.C. No. 2/2016 arising out of CR No. 133/2015 the Addl.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Sessions Judge, Malshiras has already acquitted the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "As such, the accused is already acquitted for CR No. 133/2015 vide judgment and order dated 26­4­2018, and in CR No. 232/2018 he is released on bail.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Therefore, pendency of CR No. 232/2018 would not come on the way to grant the bail to the applicant.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "The proposal send by the police to apply stringent provisions of MOCCA Act has not been sanctioned by competent authority, and after completion of investigation charge­sheet is file before the Magistrate.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Thus the investigation against the applicant is over.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Therefore, in my view having regard to the fact that the applicant is permanent resident of village Kalamb which is within jurisdiction of this court, it would be just and proper to release him on bail as follows :­",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1] Criminal Bail application No. 12/2019 is allowed. 2] The applicant/accused No. 2 Gajanan Kisan Jadhav be released on executing PR bond of Rs.1,00,000/­ with one or two solvent sureties of like amount in C.R. No. 649/2018, registered with Yawat Police Station for the offences under section 395 of I.P.C. 3] The applicant is directed not to directly or indirectly pressurize the informant and the prosecution witnesses. 4] He is directed to remain present before concern Judicial Magistrate F.C. Daund on 30­1­2019 RCC No. 10/2019 arising out of present CR No. 649/2018. 5] Bail before concerned Magistrate.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Date : 22­01­2019 (N.B. Shinde) Special Judge, Baramati. Certificate I affirm that the contents of the PDF file order are same word to word as per the original order. Name of Steno : M.R. Saptarshi Court : District Judge­3, Baramati. Date : 22­1­2019 Order typed on : 22­1­2019 Order signed by : 22­1­2019 Presiding Officer on : Order uploaded on : 22­1­2019",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "1 Cri. Bail 12/2019 IN THE COURT OF ADDITIONAL SESSIONS COURT, BARAMATI Cri. Bail Application No. 12/2019 [CNR No.MHPU140000532019] Gajanan Kisan Jadhav Age – 28 years, Occ –Labourer R/at –Kalamb, Tal­Indapur, Dist­Pune. .... Applicant V/s. State of Maharashtra, Through Incharge of Yawat Police Station, Tal­Daund, Dist­Pune … Opponent \r\n---header-ends---\r\nORDER BELOW BAIL APPLICATION EXH­1 1] The applicant/accused filed present bail application under section 439 of Cr.P.C. for his release on bail in C.R. No. 649/2018, registered with Yawat Police Station for the offences under section 395 of I.P.C. \r\n---background-ends---\r\nThe allegation against the applicant and other accused are that on 13­7­2018 in the night time about 2.00 a.m. on Chauphula to Supa Road, near Hotel Samrudhi at Deoulgaon Gada they stopped the Tempo of informant Ansar Shaikh, and on the point of knife committed dacoity by taking away cash of Rs. 10,200/­ and mobile of the informant and they went away. The informant in the FIR told that only three accused persons who covered their faces with cloths were on the motorcycle, therefore the initially the offence u/s 392 r/w 34 of IPC was registered. Afterwards on 8­8­2017 informant made supplementary statement stating that there were total six accused persons and they also taken away his ATM Card, PAN Card, Aadhar Card, driving license from his pocket. \r\n---argument-ends---\r\n2] The applicant/accused was arrested on 2­8­2018, and since then he is in custody. The applicant stated that he has been falsely implicated, offence u/s 395 of IPC is not applicable but police falsely added it. He is permanent resident of Kalam Tal­ Indapur, therefore he is not likely to abscond. Hence he requested to release him on bail. \r\n---argument-ends---\r\n3] The investigating officer and APP opposed the application on the ground that the offence u/s 395 of I.P.C. is serious, accused Nos. 1 and 6 are still absconding, the applicant may repeat similar offence against the informant, similar offences are registered against the applicant. \r\n---argument-ends---\r\n4] I heard advocate S.S. Jamdar for the applicant and APP Smt. S.K. Naik for the prosecution. \r\n---argument-ends---\r\n5] Ld. advocate Jamdar submitted that as per recitals of the FIR there were only three unknown robbers, who covered their faces with cloths, but afterwards false charge u/s 395 of IPC showing involvement of six accused has been added. He submitted that as per recitals of the FIR only cash amount of Rs. 10,200/­ and the mobile of the informant were stolen away. He submitted that the alleged cash amount and weapon i.e. knife has been seized from the applicant and other accused. He submitted that the investigating officer initially applied the provisions of MOCCA Act but afterwards those provisions are dropped and the investigating officer has filed charge­sheet before the Magistrate. He submitted that the accused is residing within jurisdiction of this court therefore he will not abscond. He submitted that in one crime which is registered with Walchandngar Police Station against the applicant, he is already released on bail, and in Sessions Case No. 2/2016 filed before Solapur Sessions Court, he is already acquitted. He has filed copy of Judgment in S.C. 2/2016 dated 26­4­2018 wherein the applicant is acquitted from the charge under section 302 of I.P.C. \r\n---argument-ends---\r\n6] On the other hand, APP submitted that the offence u/s 395 is very serious, there is material against the applicant as part of the stolen cash of Rs. 2,500/­ and the knife have been seized from him. \r\n---argument-ends---\r\n7] I have given anxious though to the submission. I have also gone through the copy of the charge­sheet made available by APP. On perusal of the record, it appears that the FIR was against three unknown persons and number of robbers were shown only three. All the robbers/dacoits were covered their faces with cloths, therefore, the informant and witness Shamim who were into the tempo could not identify the accused persons. The material against the applicant is only of seizure of cash of Rs. 2500/­ and one knife in pursuance to his disclosure made under section 27 of Evidence Act. This is the only material against the applicant/accused. \r\n---argument-ends---\r\n8] It appears from police record that there are three offences pending against applicant i.e. CR No. 133/2015 registered with Akluj Police Station for the offence u/s 302 of IPC etc., and CR No. 232/2018 u/s 395 of IPC. Advocate for the applicant submitted that in CR No. 232/2018 registered with Walchandnagar Police Station, the accused is already released on bail, whereas in S.C. No. 2/2016 arising out of CR No. 133/2015 the Addl. Sessions Judge, Malshiras has already acquitted the applicant. As such, the accused is already acquitted for CR No. 133/2015 vide judgment and order dated 26­4­2018, and in CR No. 232/2018 he is released on bail. Therefore, pendency of CR No. 232/2018 would not come on the way to grant the bail to the applicant. The proposal send by the police to apply stringent provisions of MOCCA Act has not been sanctioned by competent authority, and after completion of investigation charge­sheet is file before the Magistrate. Thus the investigation against the applicant is over. Therefore, in my view having regard to the fact that the applicant is permanent resident of village Kalamb which is within jurisdiction of this court, it would be just and proper to release him on bail as follows :­ \r\n---argument-ends---\r\nORDER 1] Criminal Bail application No. 12/2019 is allowed. 2] The applicant/accused No. 2 Gajanan Kisan Jadhav be released on executing PR bond of Rs.1,00,000/­ with one or two solvent sureties of like amount in C.R. No. 649/2018, registered with Yawat Police Station for the offences under section 395 of I.P.C. 3] The applicant is directed not to directly or indirectly pressurize the informant and the prosecution witnesses. 4] He is directed to remain present before concern Judicial Magistrate F.C. Daund on 30­1­2019 RCC No. 10/2019 arising out of present CR No. 649/2018. 5] Bail before concerned Magistrate. \r\n---order-ends---\r\nDate : 22­01­2019 (N.B. Shinde) Special Judge, Baramati. Certificate I affirm that the contents of the PDF file order are same word to word as per the original order. Name of Steno : M.R. Saptarshi Court : District Judge­3, Baramati. Date : 22­1­2019 Order typed on : 22­1­2019 Order signed by : 22­1­2019 Presiding Officer on : Order uploaded on : 22­1­2019"
+}

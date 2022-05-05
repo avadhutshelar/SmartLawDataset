@@ -1,0 +1,584 @@
+{
+  "header": "1 CRI. BAIL APPLN NO. 16 OF 2019 ORDER BELOW EXH. 1 MHPU14-000087-2019",
+  "background": {
+    "text": "[1] Present application is filed by the accused namely Chhaya Balasaheb Tambe claiming anticipatory u/s. 438 of the Code of Criminal Procedure, 1973, against whom Crime No. 28 of 2018, is registered in Baramati City police station (District–Pune for having committed offences punishable U/s. 392, 411, 34 of IPC.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "438",
+          "stringMatched": "u/s. 438 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "IPC",
+          "sectionsMatched": "392,411,34",
+          "stringMatched": "u/s. 392, 411, 34 of ipc",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "[2] It is prosecution case, that the incident took place on 18/1/2018. It is prosecution case, informant was intending to go to hostel, she was waiting arrival of the ST bus at Chinchban Bus stop meantime accused no.1 and 2 came there with rickshaw, they allowed her in the rickshaw and taking undue disadvantage of the fact that she was alone, at the point of knife, took away gold ear ring weighing 2.11 gram of Rs.8,000/- and dropped her on the road. It is prosecution case, accused no.2 handed over muddemal property to the applicant-accused, though she was knowing it was stolen property, she sold it to accused no.3 who purchased having knowledge that it was stolen property. It is prosecution case, on getting information of the offence, case is registered case against the applicant-accused and others.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[2] It is prosecution case, that the incident took place on 18/1/2018.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is prosecution case, informant was intending to go to hostel, she was waiting arrival of the ST bus at Chinchban Bus stop meantime accused no.1 and 2 came there with rickshaw, they allowed her in the rickshaw and taking undue disadvantage of the fact that she was alone, at the point of knife, took away gold ear ring weighing 2.11 gram of Rs.8,000/- and dropped her on the road.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is prosecution case, accused no.2 handed over muddemal property to the applicant-accused, though she was knowing it was stolen property, she sold it to accused no.3 who purchased having knowledge that it was stolen property.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is prosecution case, on getting information of the offence, case is registered case against the applicant-accused and others.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "[3] Learned Advocate Mr. Mane appearing for the applicant-accused submitted arguments in the line of application filed.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[3] Learned Advocate Mr. Mane appearing for the applicant-accused submitted arguments in the line of application filed.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "[4] Per contra, learned APP Mr. Wadekar submitted arguments in the line of say submitted by the prosecution and strongly opposed request made.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[4] Per contra, learned APP Mr. Wadekar submitted arguments in the line of say submitted by the prosecution and strongly opposed request made.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "[5] I have given anxious thought to the arguments advanced on behalf of both the sides. I have also perused police papers produced for examination.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[5] I have given anxious thought to the arguments advanced on behalf of both the sides.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "I have also perused police papers produced for examination.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "[6] Nature of the offence alleged to have committed by the accused is serious. Though investigation is completed material collected by the prosecution shows, involvement of the applicant- accused in the commission of crime. Investigation conducted shows, applicant-accused accepted and sold stolen muddemal property. In a such situation, having custody of the applicant- accused for further investigation by the police cannot be overlooked.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[6] Nature of the offence alleged to have committed by the accused is serious.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Though investigation is completed material collected by the prosecution shows, involvement of the applicant- accused in the commission of crime.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Investigation conducted shows, applicant-accused accepted and sold stolen muddemal property.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "In a such situation, having custody of the applicant- accused for further investigation by the police cannot be overlooked.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "[7] Further it appears, for considerable period applicant- accused was absconding as a result charge-sheet is filed against her under section 299 of the Code of Criminal Procedure-1973.",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[7] Further it appears, for considerable period applicant- accused was absconding as a result charge-sheet is filed against her under section 299 of the Code of Criminal Procedure-1973.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "[8] Thus, in such situation, and on considering parameters of the section 438 of the Code of Criminal Procedure, in my considered opinion, this is not fit case to exercise discretion and to accept request made on behalf of the applicant-accused. [9] In the result, following order is passed-",
+      "argumentBy": "TBD",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "TBD"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "[8] Thus, in such situation, and on considering parameters of the section 438 of the Code of Criminal Procedure, in my considered opinion, this is not fit case to exercise discretion and to accept request made on behalf of the applicant-accused.",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "[9] In the result, following order is passed-",
+          "argumentSentenceType": "TBD",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "TBD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER Bail Application stands rejected. Accordingly order is passed and the bail application stands disposed of.",
+    "orderType": "TBD",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a3",
+        "orderType": "TBD"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "Baramati ( R.B. Deshpande) 24.01.2019 Addl. Sessions Judge, Baramati. CERTIFICATE “ I affirm that the contents of this PDF file Judgment / Order, are same word for word as per original Judgment / Order. Name of Clerk - Shivaji N. patil Stenographer Grade-I Court name - R.B. Deshpande, Addl. Sessions Judge, Baramati. Date - 24/1/2019 Judgment/Order signed - by Presiding Officer on - 25/1/2019 Judgment / Order uploaded on - 25/1/2019",
+  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE1"
+    }
+  ],
+  "processedText": "1 CRI. BAIL APPLN NO. 16 OF 2019 ORDER BELOW EXH. 1 MHPU14-000087-2019 \r\n---header-ends---\r\n[1] Present application is filed by the accused namely Chhaya Balasaheb Tambe claiming anticipatory u/s. 438 of the Code of Criminal Procedure, 1973, against whom Crime No. 28 of 2018, is registered in Baramati City police station (District–Pune for having committed offences punishable U/s. 392, 411, 34 of IPC. \r\n---background-ends---\r\n[2] It is prosecution case, that the incident took place on 18/1/2018. It is prosecution case, informant was intending to go to hostel, she was waiting arrival of the ST bus at Chinchban Bus stop meantime accused no.1 and 2 came there with rickshaw, they allowed her in the rickshaw and taking undue disadvantage of the fact that she was alone, at the point of knife, took away gold ear ring weighing 2.11 gram of Rs.8,000/- and dropped her on the road. It is prosecution case, accused no.2 handed over muddemal property to the applicant-accused, though she was knowing it was stolen property, she sold it to accused no.3 who purchased having knowledge that it was stolen property. It is prosecution case, on getting information of the offence, case is registered case against the applicant-accused and others. \r\n---argument-ends---\r\n[3] Learned Advocate Mr. Mane appearing for the applicant-accused submitted arguments in the line of application filed. \r\n---argument-ends---\r\n[4] Per contra, learned APP Mr. Wadekar submitted arguments in the line of say submitted by the prosecution and strongly opposed request made. \r\n---argument-ends---\r\n[5] I have given anxious thought to the arguments advanced on behalf of both the sides. I have also perused police papers produced for examination. \r\n---argument-ends---\r\n[6] Nature of the offence alleged to have committed by the accused is serious. Though investigation is completed material collected by the prosecution shows, involvement of the applicant- accused in the commission of crime. Investigation conducted shows, applicant-accused accepted and sold stolen muddemal property. In a such situation, having custody of the applicant- accused for further investigation by the police cannot be overlooked. \r\n---argument-ends---\r\n[7] Further it appears, for considerable period applicant- accused was absconding as a result charge-sheet is filed against her under section 299 of the Code of Criminal Procedure-1973. \r\n---argument-ends---\r\n[8] Thus, in such situation, and on considering parameters of the section 438 of the Code of Criminal Procedure, in my considered opinion, this is not fit case to exercise discretion and to accept request made on behalf of the applicant-accused. [9] In the result, following order is passed- \r\n---argument-ends---\r\nORDER Bail Application stands rejected. Accordingly order is passed and the bail application stands disposed of. \r\n---order-ends---\r\nBaramati ( R.B. Deshpande) 24.01.2019 Addl. Sessions Judge, Baramati. CERTIFICATE “ I affirm that the contents of this PDF file Judgment / Order, are same word for word as per original Judgment / Order. Name of Clerk - Shivaji N. patil Stenographer Grade-I Court name - R.B. Deshpande, Addl. Sessions Judge, Baramati. Date - 24/1/2019 Judgment/Order signed - by Presiding Officer on - 25/1/2019 Judgment / Order uploaded on - 25/1/2019"
+}
