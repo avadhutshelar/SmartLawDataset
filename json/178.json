@@ -1,0 +1,843 @@
+{
+  "header": "Cri.Bail Appln.No. 226/2019 ORDER PASSED BELOW EXH. 1 IN CRIMINAL BAIL APPLICATION NO. 226/2019.",
+  "background": {
+    "text": "1] The applicant­Yogesh Datta Lahane apprehending arrest in crime no.628/2018 registered in Nigdi Police Station in respect of offences punishable under sections­307, 326, 504, 341 of IPC, section 4 (25) (27) of Arms Act and under sections 37 (1) (3) of Maharashtra Police Act has approached to this court and prayed for anticipatory bail.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "IPC",
+          "sectionsMatched": "307,326,504,341",
+          "stringMatched": "under sections­307, 326, 504, 341 of ipc",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Arms Act",
+          "sectionsMatched": "4,25,27",
+          "stringMatched": "section 4 (25) (27) of arms act",
+          "legalAct": {
+            "actId": 8,
+            "actName": "The Arms Act",
+            "actShortNameList": "Arms Act,Indian Arms Act",
+            "actYear": "1959",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "46"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 3,
+        "legalActFound": {
+          "actNameMatched": "Maharashtra Police Act",
+          "sectionsMatched": "37,1,3",
+          "stringMatched": "under sections 37 (1) (3) of maharashtra police act",
+          "legalAct": {
+            "actId": 7,
+            "actName": "The Bombay Police Act",
+            "actShortNameList": "Bombay Police Act,Mumbai Police Act,Maharashtra Police Act,B. P.Act,B.P.Act,B.P. Act.",
+            "actYear": "1951",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "167"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2] By filing separate application, he has prayed for interim anticipatory bail.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2] By filing separate application, he has prayed for interim anticipatory bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3] Perused application, FIR, remand report and other documents. Heard learned advocate Mr. Ajinkya G. Marathe appearing on behalf of the applicant.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3] Perused application, FIR, remand report and other documents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Heard learned advocate Mr. Ajinkya G. Marathe appearing on behalf of the applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4] FIR dated 15/09/2018 is filed by the informant­ Balasaheh Ankush Kondalkar, R/o.Patil Nagar, Chikhali, Pune. The co­accused Manoj Khandagale has tea stall at Bhaji Mandai, Chikhali. On 13/09/2018 at about 11.00 p.m. there was quarrel between co­accused Manoj and the informant on account of parking of the car. At that time, co­accused threatened him.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4] FIR dated 15/09/2018 is filed by the informant­ Balasaheh Ankush Kondalkar, R/o.Patil Nagar, Chikhali, Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "The co­accused Manoj Khandagale has tea stall at Bhaji Mandai, Chikhali.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "On 13/09/2018 at about 11.00 p.m. there was quarrel between co­accused Manoj and the informant on account of parking of the car.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "At that time, co­accused threatened him.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5] On the next day i.e. on 14/09/2018 at about 12.30 p.m. when the informant along with his driver Yogseh were proceeding in Swift Dezire car across Spine Road, Chikhali, co­ accused Manoj along with 2­3 unknown persons came in another Swift Dezire car obstructed the informant, he was dragged from the car. Co­accused Manoj assaulted him by means of sickle while other two unknown persons assaulted by means of iron rods. His FIR was recorded when the informant was taking treatment at Aastha Hospital.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5] On the next day i.e. on 14/09/2018 at about 12.30 p.m. when the informant along with his driver Yogseh were proceeding in Swift Dezire car across Spine Road, Chikhali, co­ accused Manoj along with 2­3 unknown persons came in another Swift Dezire car obstructed the informant, he was dragged from the car.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Co­accused Manoj assaulted him by means of sickle while other two unknown persons assaulted by means of iron rods.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "His FIR was recorded when the informant was taking treatment at Aastha Hospital.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6] Ld. advocate for the applicant has submitted that his name has not been mentioned in the FIR. He has been falsely implicated. The principal offender i.e. co­accused Manoj has been granted regular bail by this court. Custodial interrogation of the applicant is not necessary. He, therefore, prayed for bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6] Ld. advocate for the applicant has submitted that his name has not been mentioned in the FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He has been falsely implicated.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The principal offender i.e. co­accused Manoj has been granted regular bail by this court.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Custodial interrogation of the applicant is not necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "He, therefore, prayed for bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7] It is true that name of the applicant is not mentioned in the FIR. It is specifically mentioned that co­ accused Manoj along with two unknown persons obstructed his car, he said two unknown persons assaulted him by means of rod. The applicant has produced on record copy of bail order in Cri. Bail Appln. no.3788/2018. While granting regular bail to the co­accused­Manoj in para no.8 it has been observed that the informant sustained grievous as well as simple injuries. Therefore, prima­facie offence under section 326 of IPC is made out.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7] It is true that name of the applicant is not mentioned in the FIR.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is specifically mentioned that co­ accused Manoj along with two unknown persons obstructed his car, he said two unknown persons assaulted him by means of rod.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The applicant has produced on record copy of bail order in Cri.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Bail Appln.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "no.3788/2018.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "While granting regular bail to the co­accused­Manoj in para no.8 it has been observed that the informant sustained grievous as well as simple injuries.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Therefore, prima­facie offence under section 326 of IPC is made out.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8] The remand reports show that the weapons of the offence i.e. iron rods are yet to be seized. In such circumstances, custodial interrogation of the applicant is very much necessary. The applicant is, therefore, not entitled for anticipatory bail. 9] In view of the language of section­438 (1) of the Code of Criminal Procedure, as the applicant is not entitled for anticipatory bail, there is no question of grant of interim anticipatory bail. Hence, following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8] The remand reports show that the weapons of the offence i.e. iron rods are yet to be seized.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "In such circumstances, custodial interrogation of the applicant is very much necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The applicant is, therefore, not entitled for anticipatory bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "9] In view of the language of section­438 (1) of the Code of Criminal Procedure, as the applicant is not entitled for anticipatory bail, there is no question of grant of interim anticipatory bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R Application is rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "( A.N.Sirsikar ) Dt. : 16/01/2019. Additional Sessions Judge, Pune. CERTIFICATE I affirm that the contents of this P.D.F. file Judgment are same word for word as per original Judgment. Name of Steno: Mr. Salim Y. Shaikh Steno Grade­I. Court name: Shri. A.N. Sirsikar District Judge­10 and Additional Sessions Judge, Pune. Date: 16.01.2019 Judgment signed by presiding officer on: 17.01.2019 Judgment uploaded on: 25.01.2019",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Cri.Bail Appln.No. 226/2019 ORDER PASSED BELOW EXH. 1 IN CRIMINAL BAIL APPLICATION NO. 226/2019. \r\n---header-ends---\r\n1] The applicant­Yogesh Datta Lahane apprehending arrest in crime no.628/2018 registered in Nigdi Police Station in respect of offences punishable under sections­307, 326, 504, 341 of IPC, section 4 (25) (27) of Arms Act and under sections 37 (1) (3) of Maharashtra Police Act has approached to this court and prayed for anticipatory bail. \r\n---background-ends---\r\n2] By filing separate application, he has prayed for interim anticipatory bail. \r\n---argument-ends---\r\n3] Perused application, FIR, remand report and other documents. Heard learned advocate Mr. Ajinkya G. Marathe appearing on behalf of the applicant. \r\n---argument-ends---\r\n4] FIR dated 15/09/2018 is filed by the informant­ Balasaheh Ankush Kondalkar, R/o.Patil Nagar, Chikhali, Pune. The co­accused Manoj Khandagale has tea stall at Bhaji Mandai, Chikhali. On 13/09/2018 at about 11.00 p.m. there was quarrel between co­accused Manoj and the informant on account of parking of the car. At that time, co­accused threatened him. \r\n---argument-ends---\r\n5] On the next day i.e. on 14/09/2018 at about 12.30 p.m. when the informant along with his driver Yogseh were proceeding in Swift Dezire car across Spine Road, Chikhali, co­ accused Manoj along with 2­3 unknown persons came in another Swift Dezire car obstructed the informant, he was dragged from the car. Co­accused Manoj assaulted him by means of sickle while other two unknown persons assaulted by means of iron rods. His FIR was recorded when the informant was taking treatment at Aastha Hospital. \r\n---argument-ends---\r\n6] Ld. advocate for the applicant has submitted that his name has not been mentioned in the FIR. He has been falsely implicated. The principal offender i.e. co­accused Manoj has been granted regular bail by this court. Custodial interrogation of the applicant is not necessary. He, therefore, prayed for bail. \r\n---argument-ends---\r\n7] It is true that name of the applicant is not mentioned in the FIR. It is specifically mentioned that co­ accused Manoj along with two unknown persons obstructed his car, he said two unknown persons assaulted him by means of rod. The applicant has produced on record copy of bail order in Cri. Bail Appln. no.3788/2018. While granting regular bail to the co­accused­Manoj in para no.8 it has been observed that the informant sustained grievous as well as simple injuries. Therefore, prima­facie offence under section 326 of IPC is made out. \r\n---argument-ends---\r\n8] The remand reports show that the weapons of the offence i.e. iron rods are yet to be seized. In such circumstances, custodial interrogation of the applicant is very much necessary. The applicant is, therefore, not entitled for anticipatory bail. 9] In view of the language of section­438 (1) of the Code of Criminal Procedure, as the applicant is not entitled for anticipatory bail, there is no question of grant of interim anticipatory bail. Hence, following order. \r\n---argument-ends---\r\nO R D E R Application is rejected. \r\n---order-ends---\r\n( A.N.Sirsikar ) Dt. : 16/01/2019. Additional Sessions Judge, Pune. CERTIFICATE I affirm that the contents of this P.D.F. file Judgment are same word for word as per original Judgment. Name of Steno: Mr. Salim Y. Shaikh Steno Grade­I. Court name: Shri. A.N. Sirsikar District Judge­10 and Additional Sessions Judge, Pune. Date: 16.01.2019 Judgment signed by presiding officer on: 17.01.2019 Judgment uploaded on: 25.01.2019"
+}
