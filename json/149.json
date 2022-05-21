@@ -6,9 +6,40 @@
       {
         "refNumber": 1,
         "legalActFound": {
+          "actNameMatched": "Cr.P.C.",
+          "sectionsMatched": "438",
+          "stringMatched": "under section 438 of cr.p.c.",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
           "actNameMatched": "Indian Penal Code",
-          "sectionsMatched": "438,112,2017,02,03,2017,380,420,511",
-          "stringMatched": "under section 438 of cr.p.c., the applicant / accused – naimuddin kitabullah aka musibat seeks pre­arrest protection in crime no. 112/2017, registered with wanwadi police station, pune, dated 02.03.2017 under sections 380, 420, 511 of indian penal code",
+          "sectionsMatched": "380,420,511",
+          "stringMatched": "under sections 380, 420, 511 of indian penal code",
           "legalAct": {
             "actId": 2,
             "actName": "Indian Penal Code",
@@ -18,19 +49,19 @@
             "maxSectionNumber": "511"
           }
         },
-        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
         "legalRefAcceptRejectDecisionAnnotations": [
           {
             "username": "a1",
-            "legalRefAcceptRejectDecision": "TBD"
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
           },
           {
             "username": "a2",
-            "legalRefAcceptRejectDecision": "TBD"
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
           },
           {
             "username": "a3",
-            "legalRefAcceptRejectDecision": "TBD"
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
           }
         ]
       }
@@ -40,95 +71,95 @@
     {
       "argumentNumber": 1,
       "text": "3. The learned Counsel for the applicant has submitted that cheque issued by the complainant in favour of the applicant came to be dishonoured since the funds were insufficient. Accordingly, a complaint under Section 138 of Negotiable Instruments Act, has been lodged at Uttroula State – Baramlapur, Uttar Pradesh on 06.09.2016. To get the rid from that prosecution, present FIR came to be lodged, after thought.",
-      "argumentBy": "TBD",
+      "argumentBy": "APPLICANT",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "3.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "The learned Counsel for the applicant has submitted that cheque issued by the complainant in favour of the applicant came to be dishonoured since the funds were insufficient.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "Accordingly, a complaint under Section 138 of Negotiable Instruments Act, has been lodged at Uttroula State – Baramlapur, Uttar Pradesh on 06.09.2016.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "To get the rid from that prosecution, present FIR came to be lodged, after thought.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         }
@@ -137,57 +168,57 @@
     {
       "argumentNumber": 2,
       "text": "4. Learned AGP and Counsel for the complainant have submitted that the complainant had stopped the payment of cheque lost, consequently it was dishonoured.",
-      "argumentBy": "TBD",
+      "argumentBy": "RESPONDENT",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "4.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "Learned AGP and Counsel for the complainant have submitted that the complainant had stopped the payment of cheque lost, consequently it was dishonoured.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         }
@@ -196,114 +227,114 @@
     {
       "argumentNumber": 3,
       "text": "5. On going through copy of FIR, it is evident that there was commercial transaction between the informant and the accused, since they were partners inter se. 6. In view of above, apprehension in the mind of applicant seems to be reasonable, warranting pre­arrest protection, until hearing of exh.1. Hence, the order :",
-      "argumentBy": "TBD",
+      "argumentBy": "JUDGE",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "5.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "On going through copy of FIR, it is evident that there was commercial transaction between the informant and the accused, since they were partners inter se.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "6.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "In view of above, apprehension in the mind of applicant seems to be reasonable, warranting pre­arrest protection, until hearing of exh.1.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 5,
           "text": "Hence, the order :",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "CONCLUSION",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             }
           ]
         }
@@ -312,19 +343,19 @@
   ],
   "order": {
     "text": "ORDER 1. Application stands allowed as under : 2. Interim order below exh.4 dated January 11, 2019 stands confirmed.",
-    "orderType": "TBD",
+    "orderType": "ACCEPTED",
     "orderTypeAnnotations": [
       {
         "username": "a1",
-        "orderType": "TBD"
+        "orderType": "ACCEPTED"
       },
       {
         "username": "a2",
-        "orderType": "TBD"
+        "orderType": "ACCEPTED"
       },
       {
         "username": "a3",
-        "orderType": "TBD"
+        "orderType": "ACCEPTED"
       }
     ],
     "bondAmount": "0",
@@ -374,19 +405,19 @@
     ]
   },
   "footer": "Pune. (Vikas S. Kulkarni) January 29, 2019 Additional Sessions Judge, Pune. -3­ I affirm that the contents of this P.D.F.,file judgment are same word for word as per original Judgment. Name of Steno :­ Smt. Mohini P. Rahurkar, Stenographer Gr.I Court Name :­ Shri. Vikas S. Kulkarni, Additional Sessions Judge,Pune Date :­January 29, 2019 Judgment signed by P.O. On :­January 29, 2019 Judgment PDF and uploaded on :­ January 30, 2019",
-  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStage": "STAGE2",
   "annotationProcessingStageAnnotations": [
     {
       "username": "a1",
-      "annotationProcessingStage": "STAGE1"
+      "annotationProcessingStage": "STAGE2"
     },
     {
       "username": "a2",
-      "annotationProcessingStage": "STAGE1"
+      "annotationProcessingStage": "STAGE2"
     },
     {
       "username": "a3",
-      "annotationProcessingStage": "STAGE1"
+      "annotationProcessingStage": "STAGE2"
     }
   ],
   "processedText": "Order below exh.1 in Cri. MA No. 184/2019 CNR No. MHPU01­000690—2019 \r\n---header-ends---\r\n1. Perused the application, say exch.9 and documentary evidence placed on record. Heard all the learned Counsel. 2. By this application, under Section 438 of Cr.P.C., the applicant / accused – Naimuddin Kitabullah aka Musibat seeks pre­arrest protection in Crime No. 112/2017, registered with Wanwadi Police Station, Pune, dated 02.03.2017 under Sections 380, 420, 511 of Indian Penal Code, consequent to directions under Section 156(3) of Cr.P.C. of learned JMFC Cantonment Court, Pune dated 15.02.2017 in RCC 136/2017. It is objected over ongoing investigation. \r\n---background-ends---\r\n3. The learned Counsel for the applicant has submitted that cheque issued by the complainant in favour of the applicant came to be dishonoured since the funds were insufficient. Accordingly, a complaint under Section 138 of Negotiable Instruments Act, has been lodged at Uttroula State – Baramlapur, Uttar Pradesh on 06.09.2016. To get the rid from that prosecution, present FIR came to be lodged, after thought. \r\n---argument-ends---\r\n4. Learned AGP and Counsel for the complainant have submitted that the complainant had stopped the payment of cheque lost, consequently it was dishonoured. \r\n---argument-ends---\r\n5. On going through copy of FIR, it is evident that there was commercial transaction between the informant and the accused, since they were partners inter se. 6. In view of above, apprehension in the mind of applicant seems to be reasonable, warranting pre­arrest protection, until hearing of exh.1. Hence, the order : \r\n---argument-ends---\r\nORDER 1. Application stands allowed as under : 2. Interim order below exh.4 dated January 11, 2019 stands confirmed. \r\n---order-ends---\r\nPune. (Vikas S. Kulkarni) January 29, 2019 Additional Sessions Judge, Pune. -3­ I affirm that the contents of this P.D.F.,file judgment are same word for word as per original Judgment. Name of Steno :­ Smt. Mohini P. Rahurkar, Stenographer Gr.I Court Name :­ Shri. Vikas S. Kulkarni, Additional Sessions Judge,Pune Date :­January 29, 2019 Judgment signed by P.O. On :­January 29, 2019 Judgment PDF and uploaded on :­ January 30, 2019"

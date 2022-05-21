@@ -18,11 +18,42 @@
             "maxSectionNumber": "511"
           }
         },
-        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
         "legalRefAcceptRejectDecisionAnnotations": [
           {
             "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
             "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "TBD"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Bombay Police Act",
+          "sectionsMatched": "3,1,3,2,137,135",
+          "stringMatched": "under section 3(1)(r) (s) (u), 3(2) (vehicular accident) of atrocity act and sections 137/135 of bombay police act",
+          "legalAct": {
+            "actId": 7,
+            "actName": "The Bombay Police Act",
+            "actShortNameList": "Bombay Police Act,Mumbai Police Act,Maharashtra Police Act,B. P.Act,B.P.Act,B.P. Act.",
+            "actYear": "1951",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "167"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
           },
           {
             "username": "a2",
@@ -40,11 +71,11 @@
     {
       "argumentNumber": 1,
       "text": "2] The Ld. APP and informant have filed their say and resisted the application.",
-      "argumentBy": "TBD",
+      "argumentBy": "JUDGE",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a2",
@@ -59,11 +90,11 @@
         {
           "sentenceNumber": 1,
           "text": "2] The Ld. APP and informant have filed their say and resisted the application.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
@@ -80,11 +111,11 @@
     {
       "argumentNumber": 2,
       "text": "3] Heard Ld. Counsel on behalf of applicant ­accused and Ld.APP.",
-      "argumentBy": "TBD",
+      "argumentBy": "JUDGE",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a2",
@@ -99,11 +130,11 @@
         {
           "sentenceNumber": 1,
           "text": "3] Heard Ld. Counsel on behalf of applicant ­accused and Ld.APP.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
@@ -120,11 +151,11 @@
     {
       "argumentNumber": 3,
       "text": "4] Prima­ facie from record it reveals that on 28.09.2018 at about 8.30 pm in front of ration shop, Bhimnagar, Mundhva, Pune, applicants and other co­accused have abused informant Kakasaheb Kamble on his cast and by abusing that he is not capable to run ration shop and he should open the sue shop and repair the chappels etc.",
-      "argumentBy": "TBD",
+      "argumentBy": "JUDGE",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a2",
@@ -139,11 +170,11 @@
         {
           "sentenceNumber": 1,
           "text": "4] Prima­ facie from record it reveals that on 28.09.2018 at about 8.30 pm in front of ration shop, Bhimnagar, Mundhva, Pune, applicants and other co­accused have abused informant Kakasaheb Kamble on his cast and by abusing that he is not capable to run ration shop and he should open the sue shop and repair the chappels etc.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
@@ -160,11 +191,11 @@
     {
       "argumentNumber": 4,
       "text": "5] The applicants were arrested on 07.01.2019. The police have already recovered rod from applicant no.1. There was no recovery of any weapon from applicants nor they have used any weapon. The applicants are permanent residents of Pune City and they have no criminal antecedence. The alleged offences are not punishable with imprisonment for life or death. Thus, no purpose is going to be served by keeping them behind the bar. They are entitle for the bail. Hence the order.",
-      "argumentBy": "TBD",
+      "argumentBy": "JUDGE",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a2",
@@ -179,11 +210,11 @@
         {
           "sentenceNumber": 1,
           "text": "5] The applicants were arrested on 07.01.2019.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
@@ -198,11 +229,11 @@
         {
           "sentenceNumber": 2,
           "text": "The police have already recovered rod from applicant no.1.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
@@ -217,11 +248,11 @@
         {
           "sentenceNumber": 3,
           "text": "There was no recovery of any weapon from applicants nor they have used any weapon.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
@@ -236,11 +267,11 @@
         {
           "sentenceNumber": 4,
           "text": "The applicants are permanent residents of Pune City and they have no criminal antecedence.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
@@ -255,11 +286,11 @@
         {
           "sentenceNumber": 5,
           "text": "The alleged offences are not punishable with imprisonment for life or death.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
@@ -274,11 +305,11 @@
         {
           "sentenceNumber": 6,
           "text": "Thus, no purpose is going to be served by keeping them behind the bar.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
@@ -293,11 +324,11 @@
         {
           "sentenceNumber": 7,
           "text": "They are entitle for the bail.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
@@ -312,11 +343,11 @@
         {
           "sentenceNumber": 8,
           "text": "Hence the order.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "CONCLUSION",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a2",
@@ -333,11 +364,11 @@
   ],
   "order": {
     "text": "ORDER [1] Application is allowed. [2] Applicants ­accused Yuvraj Vitthal Godse and Madhvi Ajay Godse are released on bail in CR No.245/18 registered with Mundhva 2 O in Bail Application No. 179/2019 CNR­MHPU01­000662­2019 police station, under sections 143, 147, 149, 323, 504, 506 of I.P.C., under Section 3(1)(r)(s) (u), 3(2)(va) of Atrocity Act and Sections 137/135 of Bombay Police Act on furnishing of their P.B. and S.B. of Rs. 15000/­ each. 3] The applicant­ accused no.1 shall attend concerned police station on every Monday during 12.00 noon to 2.00 pm till filing of the charge­sheet.",
-    "orderType": "TBD",
+    "orderType": "ACCEPTED",
     "orderTypeAnnotations": [
       {
         "username": "a1",
-        "orderType": "TBD"
+        "orderType": "ACCEPTED"
       },
       {
         "username": "a2",
@@ -348,11 +379,11 @@
         "orderType": "TBD"
       }
     ],
-    "bondAmount": "0",
+    "bondAmount": "15000",
     "bondAmountAnnotations": [
       {
         "username": "a1",
-        "bondAmount": "0"
+        "bondAmount": "15000"
       },
       {
         "username": "a2",
@@ -363,11 +394,11 @@
         "bondAmount": "0"
       }
     ],
-    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrence": "WEEKLY",
     "attendPoliceStationRecurrenceAnnotations": [
       {
         "username": "a1",
-        "attendPoliceStationRecurrence": "NA"
+        "attendPoliceStationRecurrence": "WEEKLY"
       },
       {
         "username": "a2",
@@ -378,11 +409,11 @@
         "attendPoliceStationRecurrence": "NA"
       }
     ],
-    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequency": "1",
     "attendPoliceStationFrequencyAnnotations": [
       {
         "username": "a1",
-        "attendPoliceStationFrequency": "0"
+        "attendPoliceStationFrequency": "1"
       },
       {
         "username": "a2",
@@ -395,11 +426,11 @@
     ]
   },
   "footer": "( S.K.Karhale ) Dt. 11.01.2019. Additional Sessions Judge, Pune. 3 O in Bail Application No. 179/2019 CNR­MHPU01­000662­2019 CERTIFICATE “I affirm that the contents of this PDF file Judgment are same word to word as per original Judgment.” Court Name : Shri.S.K.Karhale Additional Sessions Judge \u0026 District Judge­10, Pune. Date of order : 11­1­2019 Date of sign of PO : 11­1­2019 Judgment uploaded on : 19­1­2018",
-  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStage": "STAGE2",
   "annotationProcessingStageAnnotations": [
     {
       "username": "a1",
-      "annotationProcessingStage": "STAGE1"
+      "annotationProcessingStage": "STAGE2"
     },
     {
       "username": "a2",
