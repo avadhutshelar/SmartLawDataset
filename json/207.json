@@ -1,0 +1,393 @@
+{
+  "header": "ORDER BELOW EXH. 1 IN CRI. MISC. APPLICATION No. 07/2019 (State of Maharashtra Vs. Avinash Sayaji Madane and others) CNR : MHST01­000081­2019",
+  "background": {
+    "text": "1) By way of this application, prosecution is seeking cancellation of bail granted in favour of the opponents/accused by this Court on 12/09/2018. The crime No. 228/2018 has been registered against the respondents for the offences punishable under sections 384 and 504 r/w. 34 of Indian Penal Code, 1860 at Koregaon police station, Dist. Satara.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "384,504,34",
+          "stringMatched": "under sections 384 and 504 r/w. 34 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) According to the prosecution, in the said order, the respondents/accused were directed to attend Koregaon police station on every Friday and Monday in between 11.00 a.m. to 12.00 noon, till filing of the charge­sheet, but the respondents failed to comply the said directions and disobeyed the order of this Court and thereby committed the breach of conditions imposed on them.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) According to the prosecution, in the said order, the respondents/accused were directed to attend Koregaon police station on every Friday and Monday in between 11.00 a.m. to 12.00 noon, till filing of the charge­sheet, but the respondents failed to comply the said directions and disobeyed the order of this Court and thereby committed the breach of conditions imposed on them.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) Heard the Ld. Advocate APP for State and Ld. Advocate for respondents. Ld. APP submitted that, since the respondents have committed the breach of conditions imposed against them, they are not entitled to remain free on bail. Per contra, it is submitted on behalf of the respondents that, they have not disobeyed the order of this Court any time. Investigating Officer has already submitted the charge­sheet against them. There is no sufficient material placed on record by the prosecution to show that the respondents have disobeyed the order of this Court.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) Heard the Ld. Advocate APP for State and Ld. Advocate for respondents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Ld. APP submitted that, since the respondents have committed the breach of conditions imposed against them, they are not entitled to remain free on bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Per contra, it is submitted on behalf of the respondents that, they have not disobeyed the order of this Court any time.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Investigating Officer has already submitted the charge­sheet against them.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "There is no sufficient material placed on record by the prosecution to show that the respondents have disobeyed the order of this Court.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) Perused the application and the documents annexed with it. Though the prosecution contended that, the respondents did not attend the police station as per the directions of this Court, but no single documents or copy of case diary or attendance sheet are placed on record to indicate that the respondents have disobeyed the order of this Court and they are disentitled to free on bail. Now it is admitted fact that, charge­sheet has been filed against the respondents. In absence of documentary evidence, the application for cancellation of bail filed by the prosecution deserves to be rejected. Hence, order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) Perused the application and the documents annexed with it.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Though the prosecution contended that, the respondents did not attend the police station as per the directions of this Court, but no single documents or copy of case diary or attendance sheet are placed on record to indicate that the respondents have disobeyed the order of this Court and they are disentitled to free on bail.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Now it is admitted fact that, charge­sheet has been filed against the respondents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "In absence of documentary evidence, the application for cancellation of bail filed by the prosecution deserves to be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1) Criminal Bail Application No. 07/2019, stands rejected. 2) Application is disposed­of accordingly.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(N.L. More) Place : Satara Addl. Sessions Judge Date : 14th June, 2019. Satara",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH. 1 IN CRI. MISC. APPLICATION No. 07/2019 (State of Maharashtra Vs. Avinash Sayaji Madane and others) CNR : MHST01­000081­2019 \r\n---header-ends---\r\n1) By way of this application, prosecution is seeking cancellation of bail granted in favour of the opponents/accused by this Court on 12/09/2018. The crime No. 228/2018 has been registered against the respondents for the offences punishable under sections 384 and 504 r/w. 34 of Indian Penal Code, 1860 at Koregaon police station, Dist. Satara. \r\n---background-ends---\r\n2) According to the prosecution, in the said order, the respondents/accused were directed to attend Koregaon police station on every Friday and Monday in between 11.00 a.m. to 12.00 noon, till filing of the charge­sheet, but the respondents failed to comply the said directions and disobeyed the order of this Court and thereby committed the breach of conditions imposed on them. \r\n---argument-ends---\r\n3) Heard the Ld. Advocate APP for State and Ld. Advocate for respondents. Ld. APP submitted that, since the respondents have committed the breach of conditions imposed against them, they are not entitled to remain free on bail. Per contra, it is submitted on behalf of the respondents that, they have not disobeyed the order of this Court any time. Investigating Officer has already submitted the charge­sheet against them. There is no sufficient material placed on record by the prosecution to show that the respondents have disobeyed the order of this Court. \r\n---argument-ends---\r\n4) Perused the application and the documents annexed with it. Though the prosecution contended that, the respondents did not attend the police station as per the directions of this Court, but no single documents or copy of case diary or attendance sheet are placed on record to indicate that the respondents have disobeyed the order of this Court and they are disentitled to free on bail. Now it is admitted fact that, charge­sheet has been filed against the respondents. In absence of documentary evidence, the application for cancellation of bail filed by the prosecution deserves to be rejected. Hence, order. \r\n---argument-ends---\r\nORDER 1) Criminal Bail Application No. 07/2019, stands rejected. 2) Application is disposed­of accordingly. \r\n---order-ends---\r\n(N.L. More) Place : Satara Addl. Sessions Judge Date : 14th June, 2019. Satara"
+}
