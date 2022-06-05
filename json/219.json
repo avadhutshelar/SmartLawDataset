@@ -18,19 +18,19 @@
             "maxSectionNumber": "484"
           }
         },
-        "legalRefAcceptRejectDecision": "TBD",
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
         "legalRefAcceptRejectDecisionAnnotations": [
           {
             "username": "a1",
-            "legalRefAcceptRejectDecision": "TBD"
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
           },
           {
             "username": "a2",
-            "legalRefAcceptRejectDecision": "TBD"
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
           },
           {
             "username": "a3",
-            "legalRefAcceptRejectDecision": "TBD"
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
           }
         ]
       }
@@ -40,228 +40,228 @@
     {
       "argumentNumber": 1,
       "text": "2. Heard advocate Mr. Dhaigude for applicant. He submitted that, Crime No. 1066/2018 is registered against this applicant with Satara City Police Station for the offences punishable under sections 307 etc. read with section 34 of the Indian Penal Code. She is apprehending her arrest in that crime. However the FIR which is lodged by her daughter­in­law is false and concocted. She did not want to cohabit with her and her son. Applicant is innocent. Co­accused i.e. her son is already arrested by the police and since 01/12/2018 he is behind the bars. Custodial interrogation of this applicant is not required. She being the lady, she is not likely to abscond. She is ready to obey with all the conditions those may be imposed upon her by this Court.",
-      "argumentBy": "TBD",
+      "argumentBy": "APPLICANT",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "2.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "Heard advocate Mr. Dhaigude for applicant.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "He submitted that, Crime No. 1066/2018 is registered against this applicant with Satara City Police Station for the offences punishable under sections 307 etc. read with section 34 of the Indian Penal Code.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "She is apprehending her arrest in that crime.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 5,
           "text": "However the FIR which is lodged by her daughter­in­law is false and concocted.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 6,
           "text": "She did not want to cohabit with her and her son.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 7,
           "text": "Applicant is innocent.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 8,
           "text": "Co­accused i.e. her son is already arrested by the police and since 01/12/2018 he is behind the bars.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 9,
           "text": "Custodial interrogation of this applicant is not required.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 10,
           "text": "She being the lady, she is not likely to abscond.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 11,
           "text": "She is ready to obey with all the conditions those may be imposed upon her by this Court.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         }
@@ -270,133 +270,133 @@
     {
       "argumentNumber": 2,
       "text": "3. According to him, in the FIR there are incidents of 26/11/2018. However, the FIR is lodged on 01/12/2018 i.e. after the span of six days. It goes to show that it is afterthought. There is no substance in the allegations levelled against applicant in the FIR. Therefore he submitted that by imposing certain conditions, applicant may be released on anticipatory bail.",
-      "argumentBy": "TBD",
+      "argumentBy": "APPLICANT",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "3.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "According to him, in the FIR there are incidents of 26/11/2018.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "However, the FIR is lodged on 01/12/2018 i.e. after the span of six days.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "It goes to show that it is afterthought.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 5,
           "text": "There is no substance in the allegations levelled against applicant in the FIR.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 6,
           "text": "Therefore he submitted that by imposing certain conditions, applicant may be released on anticipatory bail.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "CONCLUSION",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             }
           ]
         }
@@ -405,133 +405,133 @@
     {
       "argumentNumber": 3,
       "text": "4. APP Mrs. Diwakar by filing her say at Exh.6 strongly 2/4 Criminal Misc. Application No. 21/2019 resisted the application. She submitted that applicant is the mother­in­law of informant. Applicant as well as co­accused i.e. husband of informant were demanding money from the informant for the expenses of Birthday of the son of informant. They were threatening the applicant to bring that amount from her parents.",
-      "argumentBy": "TBD",
+      "argumentBy": "RESPONDENT",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "4.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "APP Mrs. Diwakar by filing her say at Exh.6 strongly 2/4 Criminal Misc.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "Application No. 21/2019 resisted the application.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "She submitted that applicant is the mother­in­law of informant.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 5,
           "text": "Applicant as well as co­accused i.e. husband of informant were demanding money from the informant for the expenses of Birthday of the son of informant.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 6,
           "text": "They were threatening the applicant to bring that amount from her parents.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         }
@@ -540,190 +540,190 @@
     {
       "argumentNumber": 4,
       "text": "5. On 23/11/2018, 24/11/2018 and 25/11/2018 applicant and her son raised quarrels with informant and assaulted her. Her husband caught hold her hands and applicant poured Lyzol Phenol in her mouth. By latching the door from outside, they went away. Her relatives came to the spot. When they opened the door, they found that condition of informant was critical. They took her to Civil Hospital. Anyhow she was survived after medical treatment. Then she was taken to her maternal home and after she recovered somewhat, FIR came to be lodged by coming to Satara.",
-      "argumentBy": "TBD",
+      "argumentBy": "RESPONDENT",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "5.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "On 23/11/2018, 24/11/2018 and 25/11/2018 applicant and her son raised quarrels with informant and assaulted her.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "Her husband caught hold her hands and applicant poured Lyzol Phenol in her mouth.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "By latching the door from outside, they went away.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 5,
           "text": "Her relatives came to the spot.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 6,
           "text": "When they opened the door, they found that condition of informant was critical.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 7,
           "text": "They took her to Civil Hospital.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 8,
           "text": "Anyhow she was survived after medical treatment.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 9,
           "text": "Then she was taken to her maternal home and after she recovered somewhat, FIR came to be lodged by coming to Satara.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         }
@@ -732,95 +732,95 @@
     {
       "argumentNumber": 5,
       "text": "6. She lastly submitted that allegations against this applicant in the FIR are too serious. Her custodial interrogation is required by the police. If she is granted pre­arrest protection then entire investigation would be paralyzed and therefore she submitted that application may be rejected.",
-      "argumentBy": "TBD",
+      "argumentBy": "RESPONDENT",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "6.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "She lastly submitted that allegations against this applicant in the FIR are too serious.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "Her custodial interrogation is required by the police.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "If she is granted pre­arrest protection then entire investigation would be paralyzed and therefore she submitted that application may be rejected.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "CONCLUSION",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             }
           ]
         }
@@ -829,190 +829,190 @@
     {
       "argumentNumber": 6,
       "text": "7. After going through the FIR lodged by the informant, it is seen that on 15/11/2018 her son was ill. Therefore she demanded Rs.2000/­ from her husband i.e. co­accused. But he did 3/4 Criminal Misc. Application No. 21/2019 not give money to her. On 16/11/2018, she borrowed Rs.2000/­ from her brother. On 17/11/2018 her husband left her at her maternal home in Khanapur Taluka in Sangli District and he asked her to bring money from her parents for Birthday of their son. She came back to Satara on 22/11/2018, but she could not bring the money. Therefore on 23/11/2018 and 24/11/2018 there were quarrels with the informant.",
-      "argumentBy": "TBD",
+      "argumentBy": "RESPONDENT",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "7.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "After going through the FIR lodged by the informant, it is seen that on 15/11/2018 her son was ill.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "Therefore she demanded Rs.2000/­ from her husband i.e. co­accused.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "But he did 3/4 Criminal Misc.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 5,
           "text": "Application No. 21/2019 not give money to her.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 6,
           "text": "On 16/11/2018, she borrowed Rs.2000/­ from her brother.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 7,
           "text": "On 17/11/2018 her husband left her at her maternal home in Khanapur Taluka in Sangli District and he asked her to bring money from her parents for Birthday of their son.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 8,
           "text": "She came back to Satara on 22/11/2018, but she could not bring the money.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 9,
           "text": "Therefore on 23/11/2018 and 24/11/2018 there were quarrels with the informant.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "CONCLUSION",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             }
           ]
         }
@@ -1021,323 +1021,323 @@
     {
       "argumentNumber": 7,
       "text": "8. On 25/11/2018 applicant and her son i.e. co­accused drove her outside the house. Therefore she took shelter in the house of one Akkutai Pawar. When this applicant and her son i.e. co­accused realized this fact, they severely beat her with fist blows. On 26/11/2018 at about 9.00 a.m., she was taking rest in her bedroom as there were pains in her body. That time, her husband i.e. co­accused caught hold her hands and applicant poured Lyzol Phenol in her mouth. Both of them went away by latching the door from outside. She was not in a position to wake­up. After sometime, somebody opened the door and she found that her maternal aunt and maternal uncle came inside. They took her to Civil Hospital, Satara. She was in semi­conscious condition. After primary treatment, she was taken to her maternal home in Khanapur Taluka in Sangli District. She was admitted in the Shinde Hospital. On 01/12/2018, she came to Satara and lodged the FIR. 4/4 Criminal Misc. Application No. 21/2019",
-      "argumentBy": "TBD",
+      "argumentBy": "RESPONDENT",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "8.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "On 25/11/2018 applicant and her son i.e. co­accused drove her outside the house.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "Therefore she took shelter in the house of one Akkutai Pawar.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "When this applicant and her son i.e. co­accused realized this fact, they severely beat her with fist blows.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 5,
           "text": "On 26/11/2018 at about 9.00 a.m., she was taking rest in her bedroom as there were pains in her body.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 6,
           "text": "That time, her husband i.e. co­accused caught hold her hands and applicant poured Lyzol Phenol in her mouth.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 7,
           "text": "Both of them went away by latching the door from outside.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 8,
           "text": "She was not in a position to wake­up.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 9,
           "text": "After sometime, somebody opened the door and she found that her maternal aunt and maternal uncle came inside.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 10,
           "text": "They took her to Civil Hospital, Satara.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 11,
           "text": "She was in semi­conscious condition.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 12,
           "text": "After primary treatment, she was taken to her maternal home in Khanapur Taluka in Sangli District.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 13,
           "text": "She was admitted in the Shinde Hospital.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 14,
           "text": "On 01/12/2018, she came to Satara and lodged the FIR.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 15,
           "text": "4/4 Criminal Misc.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 16,
           "text": "Application No. 21/2019",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         }
@@ -1346,152 +1346,152 @@
     {
       "argumentNumber": 8,
       "text": "9. Allegations in the FIR against this applicant are too serious. When it is alleged that, this applicant poured Lyzol Phenol in her mouth and went away by latching the door from outside, her custodial interrogation is certainly warranted to seize the bottle of Lyzol Phenol and for overall investigation. Taking into consideration the nature and seriousness of accusation and gravity of offences levelled against this applicant and also the progressive stage of investigation, it would not be just and safe to grant pre­ arrest protection to her. If such pre­arrest protection is granted to her then entire investigation would be paralyzed. As such application deserves to be rejected. Hence the order follows :­",
-      "argumentBy": "TBD",
+      "argumentBy": "JUDGE",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "9.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "NA",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "Allegations in the FIR against this applicant are too serious.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "When it is alleged that, this applicant poured Lyzol Phenol in her mouth and went away by latching the door from outside, her custodial interrogation is certainly warranted to seize the bottle of Lyzol Phenol and for overall investigation.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "Taking into consideration the nature and seriousness of accusation and gravity of offences levelled against this applicant and also the progressive stage of investigation, it would not be just and safe to grant pre­ arrest protection to her.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 5,
           "text": "If such pre­arrest protection is granted to her then entire investigation would be paralyzed.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "CONCLUSION",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             }
           ]
         },
         {
           "sentenceNumber": 6,
           "text": "As such application deserves to be rejected.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "CONCLUSION",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             }
           ]
         },
         {
           "sentenceNumber": 7,
           "text": "Hence the order follows :­",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "CONCLUSION",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             }
           ]
         }
@@ -1500,19 +1500,19 @@
   ],
   "order": {
     "text": "ORDER Application is rejected.",
-    "orderType": "TBD",
+    "orderType": "REJECTED",
     "orderTypeAnnotations": [
       {
         "username": "a1",
-        "orderType": "TBD"
+        "orderType": "REJECTED"
       },
       {
         "username": "a2",
-        "orderType": "TBD"
+        "orderType": "REJECTED"
       },
       {
         "username": "a3",
-        "orderType": "TBD"
+        "orderType": "REJECTED"
       }
     ],
     "bondAmount": "0",
@@ -1562,19 +1562,19 @@
     ]
   },
   "footer": "(Order is dictated and pronounced in the open Court) Satara (R.D.Deshpande) Dt.05/02/2019. Additional Sessions Judge, Satara.",
-  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStage": "STAGE2",
   "annotationProcessingStageAnnotations": [
     {
       "username": "a1",
-      "annotationProcessingStage": "STAGE1"
+      "annotationProcessingStage": "STAGE2"
     },
     {
       "username": "a2",
-      "annotationProcessingStage": "STAGE1"
+      "annotationProcessingStage": "STAGE2"
     },
     {
       "username": "a3",
-      "annotationProcessingStage": "STAGE1"
+      "annotationProcessingStage": "STAGE2"
     }
   ],
   "processedText": "ORDER BELOW EXH.01 IN CRI. MISC. APPLN. NO. 21/2019 Suman Dnyaneshwar Jadhav Vs. State of Maharashtra CNR­MHST01­00190­2019 \r\n---header-ends---\r\nThis is an application for anticipatory bail as per section 438 of the Code of Criminal Procedure, 1973. \r\n---background-ends---\r\n2. Heard advocate Mr. Dhaigude for applicant. He submitted that, Crime No. 1066/2018 is registered against this applicant with Satara City Police Station for the offences punishable under sections 307 etc. read with section 34 of the Indian Penal Code. She is apprehending her arrest in that crime. However the FIR which is lodged by her daughter­in­law is false and concocted. She did not want to cohabit with her and her son. Applicant is innocent. Co­accused i.e. her son is already arrested by the police and since 01/12/2018 he is behind the bars. Custodial interrogation of this applicant is not required. She being the lady, she is not likely to abscond. She is ready to obey with all the conditions those may be imposed upon her by this Court. \r\n---argument-ends---\r\n3. According to him, in the FIR there are incidents of 26/11/2018. However, the FIR is lodged on 01/12/2018 i.e. after the span of six days. It goes to show that it is afterthought. There is no substance in the allegations levelled against applicant in the FIR. Therefore he submitted that by imposing certain conditions, applicant may be released on anticipatory bail. \r\n---argument-ends---\r\n4. APP Mrs. Diwakar by filing her say at Exh.6 strongly 2/4 Criminal Misc. Application No. 21/2019 resisted the application. She submitted that applicant is the mother­in­law of informant. Applicant as well as co­accused i.e. husband of informant were demanding money from the informant for the expenses of Birthday of the son of informant. They were threatening the applicant to bring that amount from her parents. \r\n---argument-ends---\r\n5. On 23/11/2018, 24/11/2018 and 25/11/2018 applicant and her son raised quarrels with informant and assaulted her. Her husband caught hold her hands and applicant poured Lyzol Phenol in her mouth. By latching the door from outside, they went away. Her relatives came to the spot. When they opened the door, they found that condition of informant was critical. They took her to Civil Hospital. Anyhow she was survived after medical treatment. Then she was taken to her maternal home and after she recovered somewhat, FIR came to be lodged by coming to Satara. \r\n---argument-ends---\r\n6. She lastly submitted that allegations against this applicant in the FIR are too serious. Her custodial interrogation is required by the police. If she is granted pre­arrest protection then entire investigation would be paralyzed and therefore she submitted that application may be rejected. \r\n---argument-ends---\r\n7. After going through the FIR lodged by the informant, it is seen that on 15/11/2018 her son was ill. Therefore she demanded Rs.2000/­ from her husband i.e. co­accused. But he did 3/4 Criminal Misc. Application No. 21/2019 not give money to her. On 16/11/2018, she borrowed Rs.2000/­ from her brother. On 17/11/2018 her husband left her at her maternal home in Khanapur Taluka in Sangli District and he asked her to bring money from her parents for Birthday of their son. She came back to Satara on 22/11/2018, but she could not bring the money. Therefore on 23/11/2018 and 24/11/2018 there were quarrels with the informant. \r\n---argument-ends---\r\n8. On 25/11/2018 applicant and her son i.e. co­accused drove her outside the house. Therefore she took shelter in the house of one Akkutai Pawar. When this applicant and her son i.e. co­accused realized this fact, they severely beat her with fist blows. On 26/11/2018 at about 9.00 a.m., she was taking rest in her bedroom as there were pains in her body. That time, her husband i.e. co­accused caught hold her hands and applicant poured Lyzol Phenol in her mouth. Both of them went away by latching the door from outside. She was not in a position to wake­up. After sometime, somebody opened the door and she found that her maternal aunt and maternal uncle came inside. They took her to Civil Hospital, Satara. She was in semi­conscious condition. After primary treatment, she was taken to her maternal home in Khanapur Taluka in Sangli District. She was admitted in the Shinde Hospital. On 01/12/2018, she came to Satara and lodged the FIR. 4/4 Criminal Misc. Application No. 21/2019 \r\n---argument-ends---\r\n9. Allegations in the FIR against this applicant are too serious. When it is alleged that, this applicant poured Lyzol Phenol in her mouth and went away by latching the door from outside, her custodial interrogation is certainly warranted to seize the bottle of Lyzol Phenol and for overall investigation. Taking into consideration the nature and seriousness of accusation and gravity of offences levelled against this applicant and also the progressive stage of investigation, it would not be just and safe to grant pre­ arrest protection to her. If such pre­arrest protection is granted to her then entire investigation would be paralyzed. As such application deserves to be rejected. Hence the order follows :­ \r\n---argument-ends---\r\nORDER Application is rejected. \r\n---order-ends---\r\n(Order is dictated and pronounced in the open Court) Satara (R.D.Deshpande) Dt.05/02/2019. Additional Sessions Judge, Satara."

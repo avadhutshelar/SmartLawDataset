@@ -26,11 +26,11 @@
           },
           {
             "username": "a2",
-            "legalRefAcceptRejectDecision": "TBD"
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
           },
           {
             "username": "a3",
-            "legalRefAcceptRejectDecision": "TBD"
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
           }
         ]
       },
@@ -57,11 +57,11 @@
           },
           {
             "username": "a2",
-            "legalRefAcceptRejectDecision": "TBD"
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
           },
           {
             "username": "a3",
-            "legalRefAcceptRejectDecision": "TBD"
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
           }
         ]
       }
@@ -79,11 +79,11 @@
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         }
       ],
       "argumentSentences": [
@@ -98,11 +98,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
@@ -117,11 +117,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
@@ -136,11 +136,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
@@ -155,11 +155,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
@@ -174,11 +174,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
@@ -193,11 +193,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             }
           ]
         }
@@ -214,11 +214,11 @@
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         }
       ],
       "argumentSentences": [
@@ -233,11 +233,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "NA"
             }
           ]
         },
@@ -252,11 +252,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
@@ -271,11 +271,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
@@ -290,11 +290,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
@@ -309,11 +309,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
@@ -328,11 +328,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
@@ -347,18 +347,18 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 8,
           "text": "As such applicant has made out prima­facie case to grant ad­interim pre­ arrest protection till filing of say by the prosecution.",
-          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
@@ -366,11 +366,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
@@ -385,11 +385,11 @@
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             }
           ]
         }
@@ -406,11 +406,11 @@
       },
       {
         "username": "a2",
-        "orderType": "TBD"
+        "orderType": "ACCEPTED"
       },
       {
         "username": "a3",
-        "orderType": "TBD"
+        "orderType": "ACCEPTED"
       }
     ],
     "bondAmount": "15000",
@@ -421,11 +421,11 @@
       },
       {
         "username": "a2",
-        "bondAmount": "0"
+        "bondAmount": "15000"
       },
       {
         "username": "a3",
-        "bondAmount": "0"
+        "bondAmount": "15000"
       }
     ],
     "attendPoliceStationRecurrence": "WEEKLY",
@@ -436,11 +436,11 @@
       },
       {
         "username": "a2",
-        "attendPoliceStationRecurrence": "NA"
+        "attendPoliceStationRecurrence": "WEEKLY"
       },
       {
         "username": "a3",
-        "attendPoliceStationRecurrence": "NA"
+        "attendPoliceStationRecurrence": "WEEKLY"
       }
     ],
     "attendPoliceStationFrequency": "1",
@@ -451,16 +451,16 @@
       },
       {
         "username": "a2",
-        "attendPoliceStationFrequency": "0"
+        "attendPoliceStationFrequency": "1"
       },
       {
         "username": "a3",
-        "attendPoliceStationFrequency": "0"
+        "attendPoliceStationFrequency": "1"
       }
     ]
   },
   "footer": "(Order is dictated and pronounced in the open Court) Satara (R.D.Deshpande) Dt.11/01/2019. Additional Sessions Judge, Satara.",
-  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStage": "STAGE2",
   "annotationProcessingStageAnnotations": [
     {
       "username": "a1",
@@ -468,11 +468,11 @@
     },
     {
       "username": "a2",
-      "annotationProcessingStage": "STAGE1"
+      "annotationProcessingStage": "STAGE2"
     },
     {
       "username": "a3",
-      "annotationProcessingStage": "STAGE1"
+      "annotationProcessingStage": "STAGE2"
     }
   ],
   "processedText": "1/3 Criminal Misc. Application No. 22/2019 Sonali Jitendra Shinde Vs. State of Maharashtra ORDER BELOW EXH.04 IN CRI. MISC. APPLN. NO.22/2019 \r\n---header-ends---\r\nThis is an application for ad­interim anticipatory bail as per section 438 of the Code of Criminal Procedure, 1973. Perused application and the documents placed on record. Heard advocate Mrs. Jadhav­Patil for applicant. She submitted that Crime No.25/2019 is registered against this applicant with Satara City Police Station for the offence punishable under section 376 etc. of the Indian Penal Code. She is having strong apprehension of his arrest in this crime. \r\n---background-ends---\r\n2. She invited my attention to the FIR lodged by informant/prosecutrix and submitted that present applicant has not at all committed any role in the commission of alleged offences. She is falsely implicated by the informant/prosecutrix. Applicant is social worker and has nothing to do with the present crime. If she is arrested on false allegations then her reputation would be maligned. Therefore she prayed that ad­interim pre­ arrest protection may be granted to this applicant. \r\n---argument-ends---\r\n4. After going through the FIR lodged by informant/ prosecutrix, it is seen that main allegations in respect of offences punishable under sections 376, 313, 318 etc. are against her husband. So far as present applicant is concerned, there are allegations that present applicant asked her to accept some amount from her husband and settle the matter. Allegations against the present applicant are not too serious. Her custodial interrogation is not at all warranted as there is nothing which is to be seized from her. She happens to be a social worker. If she is arrested then her reputation is likely to be maligned. As such applicant has made out prima­facie case to grant ad­interim pre­ arrest protection till filing of say by the prosecution. Hence the order follows :­ \r\n---argument-ends---\r\nORDER 1 Application is allowed. 2 In the event of her arrest in Crime No. 25/2019 registered with Satara City Police Station for the offence punishable under section 376 etc. of the Indian Penal Code, applicant Sonali Jitendra Shinde be released on ad­interim anticipatory bail, till filing of say by the prosecution, upon his executing P. R. Bond of Rs.15,000/­ (fifteen thousands) with one surety in the like amount, on following conditions : i. that she shall attend Satara City Police Station on every Sunday in between 11.00 a.m. to 12.00 noon without fail until further orders. ii. that she shall not directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the accusation against him so as to dissuade them from disclosing such facts to the Court or to any police officer. iii. that she shall not threaten informant or witnesses of the prosecution in any way. iv. she shall not make any contact with the informant in any manner. 3 Failure to obey any of the conditions above, would be liable to cancellation of ad­interim anticipatory bail granted to applicant. 4 Inform Satara City Police Station accordingly. \r\n---order-ends---\r\n(Order is dictated and pronounced in the open Court) Satara (R.D.Deshpande) Dt.11/01/2019. Additional Sessions Judge, Satara."

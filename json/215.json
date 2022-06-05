@@ -2,120 +2,152 @@
   "header": "ORDER BELOW EXH.1 IN CRIMINAL BAIL APPLICATION No. 15 of 2019 (Alam Sarfuddin Ansari Vs. State of Maharashtra) CNR : MHST01­000169­2019",
   "background": {
     "text": "1) This the bail application under Sec. 439 of Code of Criminal Procedure filed by accused no.5 in C.R.No. 11 of 2019 registered at Shahupuri Police Station Satara.",
-    "legalReferences": []
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "439",
+          "stringMatched": "under Sec. 439 of Code of Criminal Procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
   },
   "arguments": [
     {
       "argumentNumber": 1,
       "text": "2) Accused was arrested in above mentioned crime on 05.01.2019. The said crime is registered in respect of the offene punishable under Section 306, 504, 506 r/w 34 of Indian Penal Code and under Section 39, 45 of Bombay Money Lenders Act. Accused was in police custody till 9th January 2019 and at present, in Magisterial Custody. It is stated that, accused is no longer required for any purpose, he has no concern and involvement in alleged offence, he is permanent resident on the address mentioned, he undertakes not to abscond, not to tamper with the prosecution evidence and to abide by the conditions imposed if any. Another ground mentioned is that, his family consist of wife, two daughters and a son and old aged father and he has to look after them, he is suffering from diabetics and requires regular medicines, medical papers are annexed herewith.",
-      "argumentBy": "TBD",
+      "argumentBy": "APPLICANT",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "APPLICANT"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "2) Accused was arrested in above mentioned crime on 05.01.2019.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "The said crime is registered in respect of the offene punishable under Section 306, 504, 506 r/w 34 of Indian Penal Code and under Section 39, 45 of Bombay Money Lenders Act.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "Accused was in police custody till 9th January 2019 and at present, in Magisterial Custody.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "It is stated that, accused is no longer required for any purpose, he has no concern and involvement in alleged offence, he is permanent resident on the address mentioned, he undertakes not to abscond, not to tamper with the prosecution evidence and to abide by the conditions imposed if any.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 5,
           "text": "Another ground mentioned is that, his family consist of wife, two daughters and a son and old aged father and he has to look after them, he is suffering from diabetics and requires regular medicines, medical papers are annexed herewith.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         }
@@ -124,95 +156,95 @@
     {
       "argumentNumber": 2,
       "text": "3) The prosecution has filed common say to the bail applications no. 10/2019 and 15/2019. The case in FIR is reproduced in say. It is further stated that, the allegations against the applicant are serious. Applicant is resident of Zarkhand state, he will not attend police station for investigation and will attend the Court during trial if released on bail, accused is engaged in illegal money lending, there is possibility of indulging in same type of crime.",
-      "argumentBy": "TBD",
+      "argumentBy": "RESPONDENT",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "RESPONDENT"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "3) The prosecution has filed common say to the bail applications no. 10/2019 and 15/2019.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "The case in FIR is reproduced in say.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "It is further stated that, the allegations against the applicant are serious.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "Applicant is resident of Zarkhand state, he will not attend police station for investigation and will attend the Court during trial if released on bail, accused is engaged in illegal money lending, there is possibility of indulging in same type of crime.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         }
@@ -221,38 +253,38 @@
     {
       "argumentNumber": 3,
       "text": "4) Heard Advocate Shri.Maner and learned A.P.P.",
-      "argumentBy": "TBD",
+      "argumentBy": "JUDGE",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "4) Heard Advocate Shri.Maner and learned A.P.P.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         }
@@ -261,133 +293,133 @@
     {
       "argumentNumber": 4,
       "text": "5) Considering the submissions, I have to mention that accused was in police custody since 6th January to 9th January for the purpose of custodial interrogation. The alleged offence is abetment to commit suicide. Whether the allegations made by the informant constitute the offence of abetment, is the matter required to be concluded after evidence. Though it is submitted that the investigation is in progress in the matter, considering the allegations in FIR and the alleged role of applicant accused, he is no more require for the purpose of investigation. Applicant is the permanent resident of Satara, copy of ration­card is filed alongwith application, hence, I am of the opinion that, accused may be released on bail by imposing conditions. Hence, following order.",
-      "argumentBy": "TBD",
+      "argumentBy": "JUDGE",
       "argumentByAnnotations": [
         {
           "username": "a1",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a2",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         },
         {
           "username": "a3",
-          "argumentBy": "TBD"
+          "argumentBy": "JUDGE"
         }
       ],
       "argumentSentences": [
         {
           "sentenceNumber": 1,
           "text": "5) Considering the submissions, I have to mention that accused was in police custody since 6th January to 9th January for the purpose of custodial interrogation.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 2,
           "text": "The alleged offence is abetment to commit suicide.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 3,
           "text": "Whether the allegations made by the informant constitute the offence of abetment, is the matter required to be concluded after evidence.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 4,
           "text": "Though it is submitted that the investigation is in progress in the matter, considering the allegations in FIR and the alleged role of applicant accused, he is no more require for the purpose of investigation.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 5,
           "text": "Applicant is the permanent resident of Satara, copy of ration­card is filed alongwith application, hence, I am of the opinion that, accused may be released on bail by imposing conditions.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "PREMISE",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "PREMISE"
             }
           ]
         },
         {
           "sentenceNumber": 6,
           "text": "Hence, following order.",
-          "argumentSentenceType": "TBD",
+          "argumentSentenceType": "CONCLUSION",
           "argumentSentenceTypeAnnotations": [
             {
               "username": "a1",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a2",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             },
             {
               "username": "a3",
-              "argumentSentenceType": "TBD"
+              "argumentSentenceType": "CONCLUSION"
             }
           ]
         }
@@ -396,81 +428,81 @@
   ],
   "order": {
     "text": "O R D E R 1) Criminal Bail Application no. 15 of 2019, is allowed. 2) Applicant­accused be released on bail on furnishing P.R.Bond of Rs.25,000/­ (Rs. Twenty Five Thousand ) with solvent surety of like amount with following conditions. (a) Accused to attend Shahupuri Police Station thrice in a week on alternate day commencing from Monday till filing of charge­sheet in between 11.00 a.m. to 2.00 p.m. (b) He shall not tamper with the prosecution evidence and shall report the Investigation Officer while leaving Satara City. (c) Bail before Lower Court.",
-    "orderType": "TBD",
+    "orderType": "ACCEPTED",
     "orderTypeAnnotations": [
       {
         "username": "a1",
-        "orderType": "TBD"
+        "orderType": "ACCEPTED"
       },
       {
         "username": "a2",
-        "orderType": "TBD"
+        "orderType": "ACCEPTED"
       },
       {
         "username": "a3",
-        "orderType": "TBD"
+        "orderType": "ACCEPTED"
       }
     ],
-    "bondAmount": "0",
+    "bondAmount": "25000",
     "bondAmountAnnotations": [
       {
         "username": "a1",
-        "bondAmount": "0"
+        "bondAmount": "25000"
       },
       {
         "username": "a2",
-        "bondAmount": "0"
+        "bondAmount": "25000"
       },
       {
         "username": "a3",
-        "bondAmount": "0"
+        "bondAmount": "25000"
       }
     ],
-    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrence": "WEEKLY",
     "attendPoliceStationRecurrenceAnnotations": [
       {
         "username": "a1",
-        "attendPoliceStationRecurrence": "NA"
+        "attendPoliceStationRecurrence": "WEEKLY"
       },
       {
         "username": "a2",
-        "attendPoliceStationRecurrence": "NA"
+        "attendPoliceStationRecurrence": "WEEKLY"
       },
       {
         "username": "a3",
-        "attendPoliceStationRecurrence": "NA"
+        "attendPoliceStationRecurrence": "WEEKLY"
       }
     ],
-    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequency": "1",
     "attendPoliceStationFrequencyAnnotations": [
       {
         "username": "a1",
-        "attendPoliceStationFrequency": "0"
+        "attendPoliceStationFrequency": "3"
       },
       {
         "username": "a2",
-        "attendPoliceStationFrequency": "0"
+        "attendPoliceStationFrequency": "1"
       },
       {
         "username": "a3",
-        "attendPoliceStationFrequency": "0"
+        "attendPoliceStationFrequency": "1"
       }
     ]
   },
   "footer": "(B.S.Wavre) Place : Satara Addl. Sessions Judge Date :14th January, 2019. Satara",
-  "annotationProcessingStage": "STAGE1",
+  "annotationProcessingStage": "STAGE2",
   "annotationProcessingStageAnnotations": [
     {
       "username": "a1",
-      "annotationProcessingStage": "STAGE1"
+      "annotationProcessingStage": "STAGE2"
     },
     {
       "username": "a2",
-      "annotationProcessingStage": "STAGE1"
+      "annotationProcessingStage": "STAGE2"
     },
     {
       "username": "a3",
-      "annotationProcessingStage": "STAGE1"
+      "annotationProcessingStage": "STAGE2"
     }
   ],
   "processedText": "ORDER BELOW EXH.1 IN CRIMINAL BAIL APPLICATION No. 15 of 2019 (Alam Sarfuddin Ansari Vs. State of Maharashtra) CNR : MHST01­000169­2019 \r\n---header-ends---\r\n1) This the bail application under Sec. 439 of Code of Criminal Procedure filed by accused no.5 in C.R.No. 11 of 2019 registered at Shahupuri Police Station Satara. \r\n---background-ends---\r\n2) Accused was arrested in above mentioned crime on 05.01.2019. The said crime is registered in respect of the offene punishable under Section 306, 504, 506 r/w 34 of Indian Penal Code and under Section 39, 45 of Bombay Money Lenders Act. Accused was in police custody till 9th January 2019 and at present, in Magisterial Custody. It is stated that, accused is no longer required for any purpose, he has no concern and involvement in alleged offence, he is permanent resident on the address mentioned, he undertakes not to abscond, not to tamper with the prosecution evidence and to abide by the conditions imposed if any. Another ground mentioned is that, his family consist of wife, two daughters and a son and old aged father and he has to look after them, he is suffering from diabetics and requires regular medicines, medical papers are annexed herewith. \r\n---argument-ends---\r\n3) The prosecution has filed common say to the bail applications no. 10/2019 and 15/2019. The case in FIR is reproduced in say. It is further stated that, the allegations against the applicant are serious. Applicant is resident of Zarkhand state, he will not attend police station for investigation and will attend the Court during trial if released on bail, accused is engaged in illegal money lending, there is possibility of indulging in same type of crime. \r\n---argument-ends---\r\n4) Heard Advocate Shri.Maner and learned A.P.P. \r\n---argument-ends---\r\n5) Considering the submissions, I have to mention that accused was in police custody since 6th January to 9th January for the purpose of custodial interrogation. The alleged offence is abetment to commit suicide. Whether the allegations made by the informant constitute the offence of abetment, is the matter required to be concluded after evidence. Though it is submitted that the investigation is in progress in the matter, considering the allegations in FIR and the alleged role of applicant accused, he is no more require for the purpose of investigation. Applicant is the permanent resident of Satara, copy of ration­card is filed alongwith application, hence, I am of the opinion that, accused may be released on bail by imposing conditions. Hence, following order. \r\n---argument-ends---\r\nO R D E R 1) Criminal Bail Application no. 15 of 2019, is allowed. 2) Applicant­accused be released on bail on furnishing P.R.Bond of Rs.25,000/­ (Rs. Twenty Five Thousand ) with solvent surety of like amount with following conditions. (a) Accused to attend Shahupuri Police Station thrice in a week on alternate day commencing from Monday till filing of charge­sheet in between 11.00 a.m. to 2.00 p.m. (b) He shall not tamper with the prosecution evidence and shall report the Investigation Officer while leaving Satara City. (c) Bail before Lower Court. \r\n---order-ends---\r\n(B.S.Wavre) Place : Satara Addl. Sessions Judge Date :14th January, 2019. Satara"
