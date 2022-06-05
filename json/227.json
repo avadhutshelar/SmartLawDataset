@@ -1,0 +1,663 @@
+{
+  "header": "ORDER BELOW EXH. 1 IN CRI. MISC. APPLICATION No. 30/2019 (Samadhan Jadhav Vs. State of Maharashtra) CNR : MHST01-000218-2019",
+  "background": {
+    "text": "1) Accused Samadhan Surendra Jadhav has filed this application for anticipatory bail. It is contended that, the offence is registered against the accused in Satara City Police Station vide C.R.No. 444/2018 in respect of offence pun/u/S. 420, 465, 468 and 471 of Indian Penal Code.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "420,465,468,471",
+          "stringMatched": "u/s. 420, 465, 468 and 471 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) It is further stated that, he is innocent and falsely implicated in this crime, he has no concern whatsoever with the incident, he is the only earning member and no role is attributed to him. It is further stated that, he is permanent resident of 130, Pratapganj Peth, Satara and involved in business of selling automobile spares in the name and style as “Siddhivinayak Spares Parts” at Satara and there is no possibility of fleeing from justice. He is apprehending his arrest. Lastly he has prayed to enlarge him on bail on such terms and conditions as this Court may deem fit.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) It is further stated that, he is innocent and falsely implicated in this crime, he has no concern whatsoever with the incident, he is the only earning member and no role is attributed to him.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is further stated that, he is permanent resident of 130, Pratapganj Peth, Satara and involved in business of selling automobile spares in the name and style as “Siddhivinayak Spares Parts” at Satara and there is no possibility of fleeing from justice.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He is apprehending his arrest.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Lastly he has prayed to enlarge him on bail on such terms and conditions as this Court may deem fit.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) Application is opposed by prosecution on the ground that, applicant­accused has raised loan of Rs.3,33,720/­ from Bajaj Finance on false salary­slip, showing employee of Walchandnagar Industries Ltd. Satara­road. It is also stated that, whether applicant has borrowed loan from other institutions by providing false document, is to be investigated. Hence, custody of applicant is necessary.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) Application is opposed by prosecution on the ground that, applicant­accused has raised loan of Rs.3,33,720/­ from Bajaj Finance on false salary­slip, showing employee of Walchandnagar Industries Ltd.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Satara­road.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is also stated that, whether applicant has borrowed loan from other institutions by providing false document, is to be investigated.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Hence, custody of applicant is necessary.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) Heard learned Advocate for applicant and learned A.P.P. Perused the documents.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) Heard learned Advocate for applicant and learned A.P.P. Perused the documents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) It is submitted on behalf of the applicant that, since after sanction of loan accused has deposited every installment on repayment without fail, in fact accused is not aware about the documents submitted by the agent of bank who made proposal of loan. It is submitted that, accused is businessman in Satara City having PAN Card and other relevant documents, his PAN card will reflect turnover of his business, even the bank accounts. Accused has no reason to cheat or to submit false documents to the informant bank. It is further submitted that, whatever investigation is required, it can be conducted in absence of accused. The alleged certificate showing the employment of accused is in custody of police, as it was in custody of concerned bank. If the accused had intention to cheat the concern bank, he would not have deposited the repayment installment.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) It is submitted on behalf of the applicant that, since after sanction of loan accused has deposited every installment on repayment without fail, in fact accused is not aware about the documents submitted by the agent of bank who made proposal of loan.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is submitted that, accused is businessman in Satara City having PAN Card and other relevant documents, his PAN card will reflect turnover of his business, even the bank accounts.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Accused has no reason to cheat or to submit false documents to the informant bank.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is further submitted that, whatever investigation is required, it can be conducted in absence of accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The alleged certificate showing the employment of accused is in custody of police, as it was in custody of concerned bank.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "If the accused had intention to cheat the concern bank, he would not have deposited the repayment installment.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6) The deposited salary­slip seems to be recovered. Considering the allegations, investigation can be completed in absence of accused. The accused cannot be denied bail for the reason of detection of involvement of other persons. The fact that the customers have no direct concern with the banks and whatever submissions are made, are made through agents. Concerned bank agents may be knowing all these facts. Repayment of loan regularly in installments by the accused may be considered to draw an inference about the intention of the accused. There is process followed by banks to conduct the cross verification of the documents, hence, salary­slip must have put under cross­check, and therefore, information of accusation at late stage is required to be considered. In the circumstances, I come to the conclusion that, accused may be granted bail subject to conditions imposed at the time of interim order till filing of the charge­sheet.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) The deposited salary­slip seems to be recovered.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Considering the allegations, investigation can be completed in absence of accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "The accused cannot be denied bail for the reason of detection of involvement of other persons.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "The fact that the customers have no direct concern with the banks and whatever submissions are made, are made through agents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Concerned bank agents may be knowing all these facts.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Repayment of loan regularly in installments by the accused may be considered to draw an inference about the intention of the accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "There is process followed by banks to conduct the cross verification of the documents, hence, salary­slip must have put under cross­check, and therefore, information of accusation at late stage is required to be considered.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "In the circumstances, I come to the conclusion that, accused may be granted bail subject to conditions imposed at the time of interim order till filing of the charge­sheet.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1) Application is allowed. 2) Interim pre­arrest bail order dated 17.01.2019 passed below Exh. 4, stands confirmed. 3) Accused to follow the conditions imposed in order below Exh.4 till filing of the charge­sheet.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 30th January, 2019 Satara",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH. 1 IN CRI. MISC. APPLICATION No. 30/2019 (Samadhan Jadhav Vs. State of Maharashtra) CNR : MHST01-000218-2019 \r\n---header-ends---\r\n1) Accused Samadhan Surendra Jadhav has filed this application for anticipatory bail. It is contended that, the offence is registered against the accused in Satara City Police Station vide C.R.No. 444/2018 in respect of offence pun/u/S. 420, 465, 468 and 471 of Indian Penal Code. \r\n---background-ends---\r\n2) It is further stated that, he is innocent and falsely implicated in this crime, he has no concern whatsoever with the incident, he is the only earning member and no role is attributed to him. It is further stated that, he is permanent resident of 130, Pratapganj Peth, Satara and involved in business of selling automobile spares in the name and style as “Siddhivinayak Spares Parts” at Satara and there is no possibility of fleeing from justice. He is apprehending his arrest. Lastly he has prayed to enlarge him on bail on such terms and conditions as this Court may deem fit. \r\n---argument-ends---\r\n3) Application is opposed by prosecution on the ground that, applicant­accused has raised loan of Rs.3,33,720/­ from Bajaj Finance on false salary­slip, showing employee of Walchandnagar Industries Ltd. Satara­road. It is also stated that, whether applicant has borrowed loan from other institutions by providing false document, is to be investigated. Hence, custody of applicant is necessary. \r\n---argument-ends---\r\n4) Heard learned Advocate for applicant and learned A.P.P. Perused the documents. \r\n---argument-ends---\r\n5) It is submitted on behalf of the applicant that, since after sanction of loan accused has deposited every installment on repayment without fail, in fact accused is not aware about the documents submitted by the agent of bank who made proposal of loan. It is submitted that, accused is businessman in Satara City having PAN Card and other relevant documents, his PAN card will reflect turnover of his business, even the bank accounts. Accused has no reason to cheat or to submit false documents to the informant bank. It is further submitted that, whatever investigation is required, it can be conducted in absence of accused. The alleged certificate showing the employment of accused is in custody of police, as it was in custody of concerned bank. If the accused had intention to cheat the concern bank, he would not have deposited the repayment installment. \r\n---argument-ends---\r\n6) The deposited salary­slip seems to be recovered. Considering the allegations, investigation can be completed in absence of accused. The accused cannot be denied bail for the reason of detection of involvement of other persons. The fact that the customers have no direct concern with the banks and whatever submissions are made, are made through agents. Concerned bank agents may be knowing all these facts. Repayment of loan regularly in installments by the accused may be considered to draw an inference about the intention of the accused. There is process followed by banks to conduct the cross verification of the documents, hence, salary­slip must have put under cross­check, and therefore, information of accusation at late stage is required to be considered. In the circumstances, I come to the conclusion that, accused may be granted bail subject to conditions imposed at the time of interim order till filing of the charge­sheet. \r\n---argument-ends---\r\nORDER 1) Application is allowed. 2) Interim pre­arrest bail order dated 17.01.2019 passed below Exh. 4, stands confirmed. 3) Accused to follow the conditions imposed in order below Exh.4 till filing of the charge­sheet. \r\n---order-ends---\r\n(B.S.Wavre) Place : Satara Addl. Sessions Judge Date : 30th January, 2019 Satara"
+}

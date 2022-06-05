@@ -1,0 +1,570 @@
+{
+  "header": "ORDER BELOW EXH. 1 IN CRI. MISC. APPLICATION No. 37/2019 (Dhiraj Vijay Shelake Vs. State of Maharashtra) CNR : MHST01-000231-2019",
+  "background": {
+    "text": "1) Accused has filed this application for anticipatory bail. It is contended that, the offence is registered against the accused in Satara Taluka Police Station vide C.R.No. 521/2018 in respect of offence pun/u/S. 307 of I.P.C.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "I.P.C",
+          "sectionsMatched": "307",
+          "stringMatched": "u/s. 307 of i.p.c",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2) It is alleged that, complainant and applicant are resident of same village, on 25.11.2018, at about 12.30 a.m. the complainant was honking the horn of his motorcycle, thereupon applicant went to him asked him the reason for the same and gave one slap. It is further stated that, thereafter, at about 5.00 p.m. applicant and accused no.2 went to complainant\u0027s sister\u0027s house to ask about complainant and in that event, applicant and accused no.2 assaulted brother of complainant by sickle.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2) It is alleged that, complainant and applicant are resident of same village, on 25.11.2018, at about 12.30 a.m. the complainant was honking the horn of his motorcycle, thereupon applicant went to him asked him the reason for the same and gave one slap.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is further stated that, thereafter, at about 5.00 p.m. applicant and accused no.2 went to complainant\u0027s sister\u0027s house to ask about complainant and in that event, applicant and accused no.2 assaulted brother of complainant by sickle.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) It is stated that, the applicant has no concern with the alleged offence, he is only earning member of his family, he is innocent and falsely implicated in this crime. It is further stated that, he is having immovable property at the address given in the application and he will abide with the condition imposed on him hence, prayed for anticipatory bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) It is stated that, the applicant has no concern with the alleged offence, he is only earning member of his family, he is innocent and falsely implicated in this crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is further stated that, he is having immovable property at the address given in the application and he will abide with the condition imposed on him hence, prayed for anticipatory bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "3) Application is opposed by prosecution on the ground that, besides applicant, two more accused are involved in this crime, one of them is absconding, applicant is habitual criminal involved in C.R.No. 1084/2013, 614/2018, 356/2018, 49/2019 of Satara City Police Station for the serious offences like 354D, 307, 302 etc. and in C.R.No. 26/2016 of Shahupuri Police Station. It is stated that, in present crime, applicant was possessing a sickle. It is further stated that, vehicles used in the commission of offence are to be seized, the witness has sustained grievous injury, in case of bail, applicant will keep the absconding accused away and without custodial his interrogation, investigation cannot be completed.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) Application is opposed by prosecution on the ground that, besides applicant, two more accused are involved in this crime, one of them is absconding, applicant is habitual criminal involved in C.R.No.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "1084/2013, 614/2018, 356/2018, 49/2019 of Satara City Police Station for the serious offences like 354D, 307, 302 etc. and in C.R.No.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "26/2016 of Shahupuri Police Station.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is stated that, in present crime, applicant was possessing a sickle.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "It is further stated that, vehicles used in the commission of offence are to be seized, the witness has sustained grievous injury, in case of bail, applicant will keep the absconding accused away and without custodial his interrogation, investigation cannot be completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "4) It is submitted on behalf of the applicant that crime is registered against the accused due to previous rivalry, accused is not actually involved in crime, he is ready to abide by the conditions imposed and ready to assist investigation.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) It is submitted on behalf of the applicant that crime is registered against the accused due to previous rivalry, accused is not actually involved in crime, he is ready to abide by the conditions imposed and ready to assist investigation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "5) Learned A.P.P. has strongly resisted the application and submitted as per say and further submitted that, in the event of bail possibility of repetition of crime and pressurizing of witnesses at the hands of applicant, cannot be ruled out, applicant is habitual criminal and darer person, investigation is in progress. It is submitted that, considering criminal background and his active participation in crime, application be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) Learned A.P.P. has strongly resisted the application and submitted as per say and further submitted that, in the event of bail possibility of repetition of crime and pressurizing of witnesses at the hands of applicant, cannot be ruled out, applicant is habitual criminal and darer person, investigation is in progress.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is submitted that, considering criminal background and his active participation in crime, application be rejected.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "6) I have perused the police papers. FIR reflecting the direct involvement of the accused, alleged offence is punishable under Section 307 of I.P.C, accused has used the weapon while committing the offence. Considering the nature of the offence and the allegations against the accused, his custodial interrogation will necessarily help to the investigation and pre­arrest bail of the accused will frustrate the investigation. Hence, application is required to be rejected. I pass following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) I have perused the police papers.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "FIR reflecting the direct involvement of the accused, alleged offence is punishable under Section 307 of I.P.C, accused has used the weapon while committing the offence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Considering the nature of the offence and the allegations against the accused, his custodial interrogation will necessarily help to the investigation and pre­arrest bail of the accused will frustrate the investigation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Hence, application is required to be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "I pass following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER Application stands rejected.",
+    "orderType": "REJECTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "REJECTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "REJECTED"
+      }
+    ],
+    "bondAmount": "0",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "0"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(B.S.Wavre) Place : Satara Addl. Sessions Judge Date :1st February, 2019. Satara",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH. 1 IN CRI. MISC. APPLICATION No. 37/2019 (Dhiraj Vijay Shelake Vs. State of Maharashtra) CNR : MHST01-000231-2019 \r\n---header-ends---\r\n1) Accused has filed this application for anticipatory bail. It is contended that, the offence is registered against the accused in Satara Taluka Police Station vide C.R.No. 521/2018 in respect of offence pun/u/S. 307 of I.P.C. \r\n---background-ends---\r\n2) It is alleged that, complainant and applicant are resident of same village, on 25.11.2018, at about 12.30 a.m. the complainant was honking the horn of his motorcycle, thereupon applicant went to him asked him the reason for the same and gave one slap. It is further stated that, thereafter, at about 5.00 p.m. applicant and accused no.2 went to complainant\u0027s sister\u0027s house to ask about complainant and in that event, applicant and accused no.2 assaulted brother of complainant by sickle. \r\n---argument-ends---\r\n3) It is stated that, the applicant has no concern with the alleged offence, he is only earning member of his family, he is innocent and falsely implicated in this crime. It is further stated that, he is having immovable property at the address given in the application and he will abide with the condition imposed on him hence, prayed for anticipatory bail. \r\n---argument-ends---\r\n3) Application is opposed by prosecution on the ground that, besides applicant, two more accused are involved in this crime, one of them is absconding, applicant is habitual criminal involved in C.R.No. 1084/2013, 614/2018, 356/2018, 49/2019 of Satara City Police Station for the serious offences like 354D, 307, 302 etc. and in C.R.No. 26/2016 of Shahupuri Police Station. It is stated that, in present crime, applicant was possessing a sickle. It is further stated that, vehicles used in the commission of offence are to be seized, the witness has sustained grievous injury, in case of bail, applicant will keep the absconding accused away and without custodial his interrogation, investigation cannot be completed. \r\n---argument-ends---\r\n4) It is submitted on behalf of the applicant that crime is registered against the accused due to previous rivalry, accused is not actually involved in crime, he is ready to abide by the conditions imposed and ready to assist investigation. \r\n---argument-ends---\r\n5) Learned A.P.P. has strongly resisted the application and submitted as per say and further submitted that, in the event of bail possibility of repetition of crime and pressurizing of witnesses at the hands of applicant, cannot be ruled out, applicant is habitual criminal and darer person, investigation is in progress. It is submitted that, considering criminal background and his active participation in crime, application be rejected. \r\n---argument-ends---\r\n6) I have perused the police papers. FIR reflecting the direct involvement of the accused, alleged offence is punishable under Section 307 of I.P.C, accused has used the weapon while committing the offence. Considering the nature of the offence and the allegations against the accused, his custodial interrogation will necessarily help to the investigation and pre­arrest bail of the accused will frustrate the investigation. Hence, application is required to be rejected. I pass following order. \r\n---argument-ends---\r\nORDER Application stands rejected. \r\n---order-ends---\r\n(B.S.Wavre) Place : Satara Addl. Sessions Judge Date :1st February, 2019. Satara"
+}

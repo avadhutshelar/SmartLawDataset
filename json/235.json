@@ -1,0 +1,504 @@
+{
+  "header": "ORDER BELOW EXH.1 IN CRIMINAL BAIL APPLICATION No. 38 of 2019 (Ajit Ashok Kurane Vs. State of Maharashtra) CNR : MHST01­000232­2019",
+  "background": {
+    "text": "1) This is the bail application under Sec. 439 of Code of Criminal Procedure is filed by applicant­accused in C.R.No. 958 of 2017 registered with Satara City Police Station. 2) Accused was arrested in above mentioned crime on 04.11.2018. The said crime is registered in respect of the offence punishable under Section 385, 392, 364, 143, 147, 148, 149, 323, 504, 506 of Indian Penal Code and u/Sec. 3 and 25 of Arms Act 1959 and under Sec. 39 and 45 of Money Lending Act. Accused at present is in Magisterial Custody.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "385,392,364,143,147,148,149,323,504,506",
+          "stringMatched": "under section 385, 392, 364, 143, 147, 148, 149, 323, 504, 506 of indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Arms Act",
+          "sectionsMatched": "3,25",
+          "stringMatched": "u/sec. 3 and 25 of arms act",
+          "legalAct": {
+            "actId": 8,
+            "actName": "The Arms Act",
+            "actShortNameList": "Arms Act,Indian Arms Act",
+            "actYear": "1959",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "46"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "It is stated that, there is enormous delay which is unexplained in lodging FIR, said FIR refers the incidents since December 2007 and name of applicant came on record in the year 2014 for the first time, he is in jail since 20th June 2017, all accused in this C.R were arrested and charge­sheet is filed against them, therefore, required investigation has been completed and nothing remained. Further it is stated that, applicant undertakes to abide by the conditions imposed if any.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "It is stated that, there is enormous delay which is unexplained in lodging FIR, said FIR refers the incidents since December 2007 and name of applicant came on record in the year 2014 for the first time, he is in jail since 20th June 2017, all accused in this C.R were arrested and charge­sheet is filed against them, therefore, required investigation has been completed and nothing remained.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Further it is stated that, applicant undertakes to abide by the conditions imposed if any.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3) The prosecution has filed its say at Exh. 5. It is contended that, though the charge­sheet is submitted, investigation is still in progress, the articles are to be seized, in case of bail applicant will dispose of the said property, witnesses are under apprehension due to terrorist nature of applicant, during the course of investigation, involvement of the applicant is transpired, applicant may help to unknown accused persons to remain abscond, applicant is habitual criminal involved in MCOCA and in custody of special Court.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3) The prosecution has filed its say at Exh. 5.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is contended that, though the charge­sheet is submitted, investigation is still in progress, the articles are to be seized, in case of bail applicant will dispose of the said property, witnesses are under apprehension due to terrorist nature of applicant, during the course of investigation, involvement of the applicant is transpired, applicant may help to unknown accused persons to remain abscond, applicant is habitual criminal involved in MCOCA and in custody of special Court.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4) Heard learned Advocate for the applicant ­accused.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4) Heard learned Advocate for the applicant ­accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5) It is submitted that, there is no involvement of this accused in alleged crime, accused was arrested and on very next day, police sought his Magistrate Custody, FIR is not disclosing specific allegations against this accused, accused was arrested on suspicion as he was having other transactions with the other accused. It is pointed out that, accused is in jail since 4th November, 2018 in this crime, accused is arrested in other crime also, accused is going to file bail application one by one in other crimes. It is further submitted that in present crime other four accused have been released on bail, therefore, on the ground of parity this accused be released on bail.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5) It is submitted that, there is no involvement of this accused in alleged crime, accused was arrested and on very next day, police sought his Magistrate Custody, FIR is not disclosing specific allegations against this accused, accused was arrested on suspicion as he was having other transactions with the other accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "It is pointed out that, accused is in jail since 4th November, 2018 in this crime, accused is arrested in other crime also, accused is going to file bail application one by one in other crimes.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "It is further submitted that in present crime other four accused have been released on bail, therefore, on the ground of parity this accused be released on bail.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6) Learned A.P.P. argued as per FIR, police record and say filed on behalf of prosecution. 6) Considering the submissions and papers, I have to mention that, accused is in jail since more than one year in other crimes and he was taken in custody in present crime from 04.11.2018. FIR is not reflecting specific role of this accused, it can be said that, this accused is not required more for further investigation. Accused may be released on bail on the ground of parity. Hence, application may be allowed by imposing conditions, I proceed to pass following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6) Learned A.P.P. argued as per FIR, police record and say filed on behalf of prosecution.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "6) Considering the submissions and papers, I have to mention that, accused is in jail since more than one year in other crimes and he was taken in custody in present crime from 04.11.2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "FIR is not reflecting specific role of this accused, it can be said that, this accused is not required more for further investigation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Accused may be released on bail on the ground of parity.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Hence, application may be allowed by imposing conditions, I proceed to pass following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R 1) Criminal Bail Application no. 38 of 2019, is allowed. 2) Applicant­accused Ajit Ashok Kurane be released on bail on his furnishing P.R.Bond of Rs.25,000/­ (Rs. Twenty Five Thousand) with one or two surety / sureties of like amount with following conditions. a) Accused shall not tamper with any evidence. \u003d3\u003d b) Accused shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. c) Accused shall make available himself and co­operate for interrogation by Police Officer as and when required. d) In case, accused is released on bail in other crimes, he shall not leave Satara City without information to Investigating Officer. e) Any default of above conditions shall render the bail to be cancelled automatically. f) Compliance before lower Court.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "25000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "25000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "MONTHLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(B.S.Wavre) Place : Satara Addl. Sessions Judge Date :1st February, 2019. Satara",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH.1 IN CRIMINAL BAIL APPLICATION No. 38 of 2019 (Ajit Ashok Kurane Vs. State of Maharashtra) CNR : MHST01­000232­2019 \r\n---header-ends---\r\n1) This is the bail application under Sec. 439 of Code of Criminal Procedure is filed by applicant­accused in C.R.No. 958 of 2017 registered with Satara City Police Station. 2) Accused was arrested in above mentioned crime on 04.11.2018. The said crime is registered in respect of the offence punishable under Section 385, 392, 364, 143, 147, 148, 149, 323, 504, 506 of Indian Penal Code and u/Sec. 3 and 25 of Arms Act 1959 and under Sec. 39 and 45 of Money Lending Act. Accused at present is in Magisterial Custody. \r\n---background-ends---\r\nIt is stated that, there is enormous delay which is unexplained in lodging FIR, said FIR refers the incidents since December 2007 and name of applicant came on record in the year 2014 for the first time, he is in jail since 20th June 2017, all accused in this C.R were arrested and charge­sheet is filed against them, therefore, required investigation has been completed and nothing remained. Further it is stated that, applicant undertakes to abide by the conditions imposed if any. \r\n---argument-ends---\r\n3) The prosecution has filed its say at Exh. 5. It is contended that, though the charge­sheet is submitted, investigation is still in progress, the articles are to be seized, in case of bail applicant will dispose of the said property, witnesses are under apprehension due to terrorist nature of applicant, during the course of investigation, involvement of the applicant is transpired, applicant may help to unknown accused persons to remain abscond, applicant is habitual criminal involved in MCOCA and in custody of special Court. \r\n---argument-ends---\r\n4) Heard learned Advocate for the applicant ­accused. \r\n---argument-ends---\r\n5) It is submitted that, there is no involvement of this accused in alleged crime, accused was arrested and on very next day, police sought his Magistrate Custody, FIR is not disclosing specific allegations against this accused, accused was arrested on suspicion as he was having other transactions with the other accused. It is pointed out that, accused is in jail since 4th November, 2018 in this crime, accused is arrested in other crime also, accused is going to file bail application one by one in other crimes. It is further submitted that in present crime other four accused have been released on bail, therefore, on the ground of parity this accused be released on bail. \r\n---argument-ends---\r\n6) Learned A.P.P. argued as per FIR, police record and say filed on behalf of prosecution. 6) Considering the submissions and papers, I have to mention that, accused is in jail since more than one year in other crimes and he was taken in custody in present crime from 04.11.2018. FIR is not reflecting specific role of this accused, it can be said that, this accused is not required more for further investigation. Accused may be released on bail on the ground of parity. Hence, application may be allowed by imposing conditions, I proceed to pass following order. \r\n---argument-ends---\r\nO R D E R 1) Criminal Bail Application no. 38 of 2019, is allowed. 2) Applicant­accused Ajit Ashok Kurane be released on bail on his furnishing P.R.Bond of Rs.25,000/­ (Rs. Twenty Five Thousand) with one or two surety / sureties of like amount with following conditions. a) Accused shall not tamper with any evidence. \u003d3\u003d b) Accused shall not directly or indirectly make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the court or to any Police Officer. c) Accused shall make available himself and co­operate for interrogation by Police Officer as and when required. d) In case, accused is released on bail in other crimes, he shall not leave Satara City without information to Investigating Officer. e) Any default of above conditions shall render the bail to be cancelled automatically. f) Compliance before lower Court. \r\n---order-ends---\r\n(B.S.Wavre) Place : Satara Addl. Sessions Judge Date :1st February, 2019. Satara"
+}

@@ -1,0 +1,941 @@
+{
+  "header": "Sunil Hanmant Jadhav etc.2 Vs. State of Maharashtra",
+  "background": {
+    "text": "ORDER BELOW EXH.01 IN CRI. BAIL APPLN. NO. 35/2019 This is an application for regular bail as per section 439 of the Code of Criminal Procedure, 1973. Heard advocate Mr. Deshmukh for applicants. He submitted that in Crime No. 32/2019 registered with Satara City Police Station for the offences punishable under sections 376(f) etc. read with section 34 of the Indian Penal Code, both these applicants are behind the bars since 10/01/2019. Part of their custodial interrogation is over. Their further presence is no more required by the police. Informant who happens to be the daughter­in­law of applicant No.1, who is senior citizen has lodged false FIR against both these applicants. Both of them are innocent and have not committed any offence. Rather it was not possible for them to commit such offence especially when entire family members were in the house for the last rites of deceased son of applicant No.1. Merely to grab money, informant has lodged concocted FIR. Both the applicants are local residents. Applicant No.2 is in service. Therefore he submitted that by imposing certain conditions, both of them may be released on bail.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "439",
+          "stringMatched": "section 439 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "376,34",
+          "stringMatched": "under sections 376(f) etc. read with section 34 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2. APP Mrs. Diwakar by filing her say at Exh.5 strongly resisted the application. She submitted that applicant No.2 who happens to be the brother­in­law of informant, has committed rape on her on two occasions. Subsequently also he used to solicit sexual favours from her. But she refused. On 09/01/2019, CNR-MHST01­000229­2019 2/5 Criminal Bail Application No. 35/2019 applicant No.1 has also committed rape upon her. Informant and applicants are residing in one and the same house. If applicants are released on bail then they are likely to repeat such type of acts in future. They are also likely to pressurize and threaten the informant. Thereby entire investigation would be paralyzed. Therefore she submitted that application may be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "APP Mrs. Diwakar by filing her say at Exh.5 strongly resisted the application.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "She submitted that applicant No.2 who happens to be the brother­in­law of informant, has committed rape on her on two occasions.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Subsequently also he used to solicit sexual favours from her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "But she refused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "On 09/01/2019, CNR-MHST01­000229­2019 2/5 Criminal Bail Application No. 35/2019 applicant No.1 has also committed rape upon her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Informant and applicants are residing in one and the same house.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "If applicants are released on bail then they are likely to repeat such type of acts in future.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "They are also likely to pressurize and threaten the informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Thereby entire investigation would be paralyzed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "Therefore she submitted that application may be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3. In reply, advocate Mr. Deshmukh invited my attention to the affidavit filed by the wife of applicant No.1 in which she has stated that on 09/01/2019, the informant i.e. her daughter­in­law has gone to her maternal home at village Bhongavali, Taluka – Bhor, District – Pune and she is residing there along­with her parents. He further replied that by forging the sign of applicant No.1, informant has withdrawn an amount of Rs.7,00,000/­ from his account. By inviting my attention further to the medical certificates produced along­with list at Exh.7, he submitted that applicant No.1 is diabetic patient and is in need of regular and continuous medical treatment. Therefore he prayed for bail to both the applicants.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "In reply, advocate Mr. Deshmukh invited my attention to the affidavit filed by the wife of applicant No.1 in which she has stated that on 09/01/2019, the informant i.e. her daughter­in­law has gone to her maternal home at village Bhongavali, Taluka – Bhor, District – Pune and she is residing there along­with her parents.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He further replied that by forging the sign of applicant No.1, informant has withdrawn an amount of Rs.7,00,000/­ from his account.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "By inviting my attention further to the medical certificates produced along­with list at Exh.7, he submitted that applicant No.1 is diabetic patient and is in need of regular and continuous medical treatment.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Therefore he prayed for bail to both the applicants.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4. After going through the FIR lodged by the informant, it is seen that so far as applicant No.1 is concerned, there is single allegation against him about commission of rape upon her by him on 09/01/2019. At the same time and without touching to the merits of the case, it can be seen that applicant No.1 is an old aged 3/5 Criminal Bail Application No. 35/2019 person who is 64 years of age. From the documents produced along­with list at Exh.7, it appears that he is diabetic patient and needs regular medical treatment and follow­up. He is undergoing medical treatment with Dr. Sethia of Yeravada, Pune. He is retired person and local resident.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "After going through the FIR lodged by the informant, it is seen that so far as applicant No.1 is concerned, there is single allegation against him about commission of rape upon her by him on 09/01/2019.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "At the same time and without touching to the merits of the case, it can be seen that applicant No.1 is an old aged 3/5 Criminal Bail Application No. 35/2019 person who is 64 years of age.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "From the documents produced along­with list at Exh.7, it appears that he is diabetic patient and needs regular medical treatment and follow­up.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "He is undergoing medical treatment with Dr. Sethia of Yeravada, Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He is retired person and local resident.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5. Therefore if without touching to the merits of this case discretion is used by this Court in his favour by imposing certain conditions then purpose of the prosecution case would be served. Because applicant No.1 has undergone custodial interrogation for five days and thereafter as prayed by the police, he is in Magisterial custody. It is mentioned in the remand report dated 14/01/2019 that formality of filing of the charge­sheet is only remained. In view of the affidavit filed by the wife of applicant No.1, it is seen that right now informant is not residing with these applicants in their house. She is residing with her parents in her maternal home at village Bhongavali, Taluka – Bhor, District – Pune. Therefore if applicant No.1 is prohibited from making any contact with the informant then it would serve the purpose of prosecution.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Therefore if without touching to the merits of this case discretion is used by this Court in his favour by imposing certain conditions then purpose of the prosecution case would be served.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Because applicant No.1 has undergone custodial interrogation for five days and thereafter as prayed by the police, he is in Magisterial custody.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is mentioned in the remand report dated 14/01/2019 that formality of filing of the charge­sheet is only remained.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "In view of the affidavit filed by the wife of applicant No.1, it is seen that right now informant is not residing with these applicants in their house.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "She is residing with her parents in her maternal home at village Bhongavali, Taluka – Bhor, District – Pune.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Therefore if applicant No.1 is prohibited from making any contact with the informant then it would serve the purpose of prosecution.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6. At the same time, so far as case of applicant No.2 is concerned, it is not at par with applicant No.1. Because there are allegations against him that on 29/09/2018 he committed rape upon the informant and thereafter also he attempted to commit 4/5 Criminal Bail Application No. 35/2019 rape upon her on two occasions. Moreover he used to solicit sexual favours from her and when she refused, he used to beat her. Considering his age and progressive stage of investigation, it would not be just and safe to release him on bail at this stage. As such application deserves to be partly allowed. Hence the order follows :­",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "At the same time, so far as case of applicant No.2 is concerned, it is not at par with applicant No.1.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Because there are allegations against him that on 29/09/2018 he committed rape upon the informant and thereafter also he attempted to commit 4/5 Criminal Bail Application No. 35/2019 rape upon her on two occasions.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Moreover he used to solicit sexual favours from her and when she refused, he used to beat her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Considering his age and progressive stage of investigation, it would not be just and safe to release him on bail at this stage.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "As such application deserves to be partly allowed.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Hence the order follows :­",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1 Application is partly allowed. 2 In Crime No.32/2019 registered with Satara City Police Station for the offences punishable under sections 376(f) etc. read with section 34 of the Indian Penal Code, applicant No.1 Sunil Hanmant Jadhav, be released on bail upon his executing P.R. Bond of Rs.20,000/­ (Twenty thousands) with one solvent surety in the like amount on following conditions : i) that he shall attend Satara City Police Station on every Monday and Thursday in between 11.00 a.m. to 12.00 noon without fail till filing of the charge­sheet. ii) that he shall not directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the accusation against him so as to dissuade him from disclosing such facts to the Court or to any police officer. iii) that he shall not tamper with the evidence of prosecution in any manner. iv) that he shall not make any contact with the informant in any manner and shall not visit her maternal home. 5/5 Criminal Bail Application No. 35/2019 3 Failure to obey any of the conditions above, would be liable to cancellation of bail granted to applicant No.1. 4 Bail before the lower Court. 5 Application in respect of applicant No.2 stands rejected. 6 Inform Satara City Police Station accordingly.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "20000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "20000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "20000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "20000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "WEEKLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "2",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "2"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "2"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "2"
+      }
+    ]
+  },
+  "footer": "(Order is dictated and pronounced in the open Court). Satara (R.D.Deshpande) Dt. 31/01/2019. Additional Sessions Judge, Satara.",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "Sunil Hanmant Jadhav etc.2 Vs. State of Maharashtra \r\n---header-ends---\r\nORDER BELOW EXH.01 IN CRI. BAIL APPLN. NO. 35/2019 This is an application for regular bail as per section 439 of the Code of Criminal Procedure, 1973. Heard advocate Mr. Deshmukh for applicants. He submitted that in Crime No. 32/2019 registered with Satara City Police Station for the offences punishable under sections 376(f) etc. read with section 34 of the Indian Penal Code, both these applicants are behind the bars since 10/01/2019. Part of their custodial interrogation is over. Their further presence is no more required by the police. Informant who happens to be the daughter­in­law of applicant No.1, who is senior citizen has lodged false FIR against both these applicants. Both of them are innocent and have not committed any offence. Rather it was not possible for them to commit such offence especially when entire family members were in the house for the last rites of deceased son of applicant No.1. Merely to grab money, informant has lodged concocted FIR. Both the applicants are local residents. Applicant No.2 is in service. Therefore he submitted that by imposing certain conditions, both of them may be released on bail. \r\n---background-ends---\r\n2. APP Mrs. Diwakar by filing her say at Exh.5 strongly resisted the application. She submitted that applicant No.2 who happens to be the brother­in­law of informant, has committed rape on her on two occasions. Subsequently also he used to solicit sexual favours from her. But she refused. On 09/01/2019, CNR-MHST01­000229­2019 2/5 Criminal Bail Application No. 35/2019 applicant No.1 has also committed rape upon her. Informant and applicants are residing in one and the same house. If applicants are released on bail then they are likely to repeat such type of acts in future. They are also likely to pressurize and threaten the informant. Thereby entire investigation would be paralyzed. Therefore she submitted that application may be rejected. \r\n---argument-ends---\r\n3. In reply, advocate Mr. Deshmukh invited my attention to the affidavit filed by the wife of applicant No.1 in which she has stated that on 09/01/2019, the informant i.e. her daughter­in­law has gone to her maternal home at village Bhongavali, Taluka – Bhor, District – Pune and she is residing there along­with her parents. He further replied that by forging the sign of applicant No.1, informant has withdrawn an amount of Rs.7,00,000/­ from his account. By inviting my attention further to the medical certificates produced along­with list at Exh.7, he submitted that applicant No.1 is diabetic patient and is in need of regular and continuous medical treatment. Therefore he prayed for bail to both the applicants. \r\n---argument-ends---\r\n4. After going through the FIR lodged by the informant, it is seen that so far as applicant No.1 is concerned, there is single allegation against him about commission of rape upon her by him on 09/01/2019. At the same time and without touching to the merits of the case, it can be seen that applicant No.1 is an old aged 3/5 Criminal Bail Application No. 35/2019 person who is 64 years of age. From the documents produced along­with list at Exh.7, it appears that he is diabetic patient and needs regular medical treatment and follow­up. He is undergoing medical treatment with Dr. Sethia of Yeravada, Pune. He is retired person and local resident. \r\n---argument-ends---\r\n5. Therefore if without touching to the merits of this case discretion is used by this Court in his favour by imposing certain conditions then purpose of the prosecution case would be served. Because applicant No.1 has undergone custodial interrogation for five days and thereafter as prayed by the police, he is in Magisterial custody. It is mentioned in the remand report dated 14/01/2019 that formality of filing of the charge­sheet is only remained. In view of the affidavit filed by the wife of applicant No.1, it is seen that right now informant is not residing with these applicants in their house. She is residing with her parents in her maternal home at village Bhongavali, Taluka – Bhor, District – Pune. Therefore if applicant No.1 is prohibited from making any contact with the informant then it would serve the purpose of prosecution. \r\n---argument-ends---\r\n6. At the same time, so far as case of applicant No.2 is concerned, it is not at par with applicant No.1. Because there are allegations against him that on 29/09/2018 he committed rape upon the informant and thereafter also he attempted to commit 4/5 Criminal Bail Application No. 35/2019 rape upon her on two occasions. Moreover he used to solicit sexual favours from her and when she refused, he used to beat her. Considering his age and progressive stage of investigation, it would not be just and safe to release him on bail at this stage. As such application deserves to be partly allowed. Hence the order follows :­ \r\n---argument-ends---\r\nORDER 1 Application is partly allowed. 2 In Crime No.32/2019 registered with Satara City Police Station for the offences punishable under sections 376(f) etc. read with section 34 of the Indian Penal Code, applicant No.1 Sunil Hanmant Jadhav, be released on bail upon his executing P.R. Bond of Rs.20,000/­ (Twenty thousands) with one solvent surety in the like amount on following conditions : i) that he shall attend Satara City Police Station on every Monday and Thursday in between 11.00 a.m. to 12.00 noon without fail till filing of the charge­sheet. ii) that he shall not directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the accusation against him so as to dissuade him from disclosing such facts to the Court or to any police officer. iii) that he shall not tamper with the evidence of prosecution in any manner. iv) that he shall not make any contact with the informant in any manner and shall not visit her maternal home. 5/5 Criminal Bail Application No. 35/2019 3 Failure to obey any of the conditions above, would be liable to cancellation of bail granted to applicant No.1. 4 Bail before the lower Court. 5 Application in respect of applicant No.2 stands rejected. 6 Inform Satara City Police Station accordingly.\r\n---order-ends---\r\n(Order is dictated and pronounced in the open Court). Satara (R.D.Deshpande) Dt. 31/01/2019. Additional Sessions Judge, Satara."
+}

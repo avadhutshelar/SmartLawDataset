@@ -1,0 +1,1007 @@
+{
+  "header": "1 Cri.M.A.No.43 of 2019. Order passed below Exh.1 in Cri.M.A.No.43 of 2019. (CNR No.MHST01­000259­2019)",
+  "background": {
+    "text": "01. The applicant, namely, Chandani Mukesh Jadhav apprehending her arrest in C.R.No.10 of 2019 for the offences punishable under Sections 353, 341, 225, 504, 506 r/w 34 of the Indian Penal Code registered with Phaltan City Police Station, has filed this application for anticipatory bail.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "353,341,225,504,506,34",
+          "stringMatched": "under sections 353, 341, 225, 504, 506 r/w 34 of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "02. Perused application and say of learned A.P.P.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "02.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Perused application and say of learned A.P.P.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "03. From the contents of complaint of Ratnasinh Baban Sonwalkar in C.R.No.10 of 2019, it reveals that, the alleged incident had taken place on 13.01.2019, at about 12.50 p.m., near Swami Samarth Mandir, Maltan, Taluka Phaltan. From the contents of complaint, it further reveals that, on 12.01.2019, Sunny Manik Jadhav and Ganesh Mahadeo Telkhade were found manufacturing illicit liquor which is dangerous to cause hurt to person and after noticing police ran away. On 13.01.2019, at about 09.00 a.m., Ratnasinh Sonwalkar received information that, Sunny Manik Jadhav is present in front of his house on a cement platform. He along with other police staff went there. Sunny Manik Jadhav was found sitting on a platform of cement in front of his house. Sunny Manik Jadhav was making endeavour to run away. In such attempt he was fallen on the ground and sustained injuries. On 13.01.2019, at about 12.50 p.m., Mukesh Manik Jadhav and Chandani Mukesh Jadhav, both resident of Maltan, Taluka Phaltan, abused police and Mukesh Jadhav was armed with iron pipe rushed towards 2 Cri.M.A.No.43 of 2019. police and pushed the police. When police were taking Sunny Jadhav on their motorcycle, Mukesh Manik Jadhav and Chandani Mukesh Jadhav obstructed the police when they were discharging their duty and made resistance to police.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "03.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "From the contents of complaint of Ratnasinh Baban Sonwalkar in C.R.No.10 of 2019, it reveals that, the alleged incident had taken place on 13.01.2019, at about 12.50 p.m., near Swami Samarth Mandir, Maltan, Taluka Phaltan.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "From the contents of complaint, it further reveals that, on 12.01.2019, Sunny Manik Jadhav and Ganesh Mahadeo Telkhade were found manufacturing illicit liquor which is dangerous to cause hurt to person and after noticing police ran away.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "On 13.01.2019, at about 09.00 a.m., Ratnasinh Sonwalkar received information that, Sunny Manik Jadhav is present in front of his house on a cement platform.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "He along with other police staff went there.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Sunny Manik Jadhav was found sitting on a platform of cement in front of his house.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Sunny Manik Jadhav was making endeavour to run away.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "In such attempt he was fallen on the ground and sustained injuries.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "On 13.01.2019, at about 12.50 p.m., Mukesh Manik Jadhav and Chandani Mukesh Jadhav, both resident of Maltan, Taluka Phaltan, abused police and Mukesh Jadhav was armed with iron pipe rushed towards 2 Cri.M.A.No.43 of 2019.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "police and pushed the police.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "When police were taking Sunny Jadhav on their motorcycle, Mukesh Manik Jadhav and Chandani Mukesh Jadhav obstructed the police when they were discharging their duty and made resistance to police.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "04. According to applicant, she is falsely implicated on suspicion and she is having apprehension of arrest. She is permanent resident of address shown in the application. There is no need of her personal interrogation. The brother of husband of applicant by name Sunny is arrested by Phaltan City Police Station in Prohibition Case, at that time, police assaulted Sunny. Applicant will not directly or indirectly make any inducement, threat or promise to any person who is acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Investigating Officer. Applicant will not abscond. Applicant has no any criminal background and never previously convicted.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "04.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "According to applicant, she is falsely implicated on suspicion and she is having apprehension of arrest.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "She is permanent resident of address shown in the application.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "There is no need of her personal interrogation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The brother of husband of applicant by name Sunny is arrested by Phaltan City Police Station in Prohibition Case, at that time, police assaulted Sunny.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Applicant will not directly or indirectly make any inducement, threat or promise to any person who is acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Investigating Officer.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Applicant will not abscond.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Applicant has no any criminal background and never previously convicted.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "05. According to learned A.P.P., applicant has no care of law and as such, she is not entitled for pre­arrest protection. Applicant and her husband are criminal minded. They are involved in Crime No.179 of 2018 registered at Phaltan City Police Station for the offence punishable under Sections 39 and 45 of the Maharashtra Money Lending Act and under Section 504, 506 r/w 34 of the Indian Penal Code. Investigation is just started. Unknown person is to be arrested. Custody of applicant is essential to trace out unknown accused. Iron pipe is yet to be seized. If anticipatory bail is granted to applicant, she will abscond.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "05.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "According to learned A.P.P., applicant has no care of law and as such, she is not entitled for pre­arrest protection.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Applicant and her husband are criminal minded.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "They are involved in Crime No.179 of 2018 registered at Phaltan City Police Station for the offence punishable under Sections 39 and 45 of the Maharashtra Money Lending Act and under Section 504, 506 r/w 34 of the Indian Penal Code.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Investigation is just started.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Unknown person is to be arrested.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Custody of applicant is essential to trace out unknown accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Iron pipe is yet to be seized.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "If anticipatory bail is granted to applicant, she will abscond.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "06. Nothing is placed on record by learned A.P.P. showing that, applicant was previously convicted in any offence. At the most it can be said that, Crime No.179 of 2018 is registered at Phaltan City Police Station against applicant and same is pending. It is also not the case of prosecution that, applicant was armed with iron pipe, as such, there is no question to recover the iron pipe from applicant. I do not find any substance in the argument of learned A.P.P. that, custody of applicant is essential to trace out the unknown accused. On the basis of allegations in the complaint, at the most it can be said that, applicant abused the police and obstructed them when they were discharging their duty. In such circumstances, I am of the view that, the custody of applicant is not necessary and there is no need of custodial interrogation.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "06.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Nothing is placed on record by learned A.P.P. showing that, applicant was previously convicted in any offence.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "At the most it can be said that, Crime No.179 of 2018 is registered at Phaltan City Police Station against applicant and same is pending.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is also not the case of prosecution that, applicant was armed with iron pipe, as such, there is no question to recover the iron pipe from applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "I do not find any substance in the argument of learned A.P.P. that, custody of applicant is essential to trace out the unknown accused.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "On the basis of allegations in the complaint, at the most it can be said that, applicant abused the police and obstructed them when they were discharging their duty.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "In such circumstances, I am of the view that, the custody of applicant is not necessary and there is no need of custodial interrogation.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "07. If it is so, then in my mind, considering the role of present applicant, nature and seriousness of alleged offence, punishment provided for alleged offence, final protection to present applicant needs to be granted on certain terms and conditions so that she will not be in a position to misuse her liberty. Hence, I proceed to pass the following order.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "07.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "If it is so, then in my mind, considering the role of present applicant, nature and seriousness of alleged offence, punishment provided for alleged offence, final protection to present applicant needs to be granted on certain terms and conditions so that she will not be in a position to misuse her liberty.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Hence, I proceed to pass the following order.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "O R D E R 1. Application is allowed. 2. In the event of arrest of applicant, namely, Chandani Mukesh Jadhav in Crime Register No.10 of 2019, of Phaltan City Police Station, she be released on furnishing P.R. Bond of Rs.15,000/­ with one surety in like amount. 4 Cri.M.A.No.43 of 2019. 3. Till filing of the charge­sheet, applicant shall attend the Investigating Officer on every Wednesday and Saturday between 10.00 a.m. to 12.00 noon. 4. The applicant shall neither tamper the evidence of prosecution nor influence the witnesses and assist the Investigating Officer.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "15000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "15000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "WEEKLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "2",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "2"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "2"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "2"
+      }
+    ]
+  },
+  "footer": "Satara. Date : 30.01.2019. (N.D.Khose) Additional Sessions Judge, Satara.",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "1 Cri.M.A.No.43 of 2019. Order passed below Exh.1 in Cri.M.A.No.43 of 2019. (CNR No.MHST01­000259­2019) \r\n---header-ends---\r\n01. The applicant, namely, Chandani Mukesh Jadhav apprehending her arrest in C.R.No.10 of 2019 for the offences punishable under Sections 353, 341, 225, 504, 506 r/w 34 of the Indian Penal Code registered with Phaltan City Police Station, has filed this application for anticipatory bail. \r\n---background-ends---\r\n02. Perused application and say of learned A.P.P. \r\n---argument-ends---\r\n03. From the contents of complaint of Ratnasinh Baban Sonwalkar in C.R.No.10 of 2019, it reveals that, the alleged incident had taken place on 13.01.2019, at about 12.50 p.m., near Swami Samarth Mandir, Maltan, Taluka Phaltan. From the contents of complaint, it further reveals that, on 12.01.2019, Sunny Manik Jadhav and Ganesh Mahadeo Telkhade were found manufacturing illicit liquor which is dangerous to cause hurt to person and after noticing police ran away. On 13.01.2019, at about 09.00 a.m., Ratnasinh Sonwalkar received information that, Sunny Manik Jadhav is present in front of his house on a cement platform. He along with other police staff went there. Sunny Manik Jadhav was found sitting on a platform of cement in front of his house. Sunny Manik Jadhav was making endeavour to run away. In such attempt he was fallen on the ground and sustained injuries. On 13.01.2019, at about 12.50 p.m., Mukesh Manik Jadhav and Chandani Mukesh Jadhav, both resident of Maltan, Taluka Phaltan, abused police and Mukesh Jadhav was armed with iron pipe rushed towards 2 Cri.M.A.No.43 of 2019. police and pushed the police. When police were taking Sunny Jadhav on their motorcycle, Mukesh Manik Jadhav and Chandani Mukesh Jadhav obstructed the police when they were discharging their duty and made resistance to police. \r\n---argument-ends---\r\n04. According to applicant, she is falsely implicated on suspicion and she is having apprehension of arrest. She is permanent resident of address shown in the application. There is no need of her personal interrogation. The brother of husband of applicant by name Sunny is arrested by Phaltan City Police Station in Prohibition Case, at that time, police assaulted Sunny. Applicant will not directly or indirectly make any inducement, threat or promise to any person who is acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Investigating Officer. Applicant will not abscond. Applicant has no any criminal background and never previously convicted. \r\n---argument-ends---\r\n05. According to learned A.P.P., applicant has no care of law and as such, she is not entitled for pre­arrest protection. Applicant and her husband are criminal minded. They are involved in Crime No.179 of 2018 registered at Phaltan City Police Station for the offence punishable under Sections 39 and 45 of the Maharashtra Money Lending Act and under Section 504, 506 r/w 34 of the Indian Penal Code. Investigation is just started. Unknown person is to be arrested. Custody of applicant is essential to trace out unknown accused. Iron pipe is yet to be seized. If anticipatory bail is granted to applicant, she will abscond. \r\n---argument-ends---\r\n06. Nothing is placed on record by learned A.P.P. showing that, applicant was previously convicted in any offence. At the most it can be said that, Crime No.179 of 2018 is registered at Phaltan City Police Station against applicant and same is pending. It is also not the case of prosecution that, applicant was armed with iron pipe, as such, there is no question to recover the iron pipe from applicant. I do not find any substance in the argument of learned A.P.P. that, custody of applicant is essential to trace out the unknown accused. On the basis of allegations in the complaint, at the most it can be said that, applicant abused the police and obstructed them when they were discharging their duty. In such circumstances, I am of the view that, the custody of applicant is not necessary and there is no need of custodial interrogation. \r\n---argument-ends---\r\n07. If it is so, then in my mind, considering the role of present applicant, nature and seriousness of alleged offence, punishment provided for alleged offence, final protection to present applicant needs to be granted on certain terms and conditions so that she will not be in a position to misuse her liberty. Hence, I proceed to pass the following order. \r\n---argument-ends---\r\nO R D E R 1. Application is allowed. 2. In the event of arrest of applicant, namely, Chandani Mukesh Jadhav in Crime Register No.10 of 2019, of Phaltan City Police Station, she be released on furnishing P.R. Bond of Rs.15,000/­ with one surety in like amount. 4 Cri.M.A.No.43 of 2019. 3. Till filing of the charge­sheet, applicant shall attend the Investigating Officer on every Wednesday and Saturday between 10.00 a.m. to 12.00 noon. 4. The applicant shall neither tamper the evidence of prosecution nor influence the witnesses and assist the Investigating Officer. \r\n---order-ends---\r\nSatara. Date : 30.01.2019. (N.D.Khose) Additional Sessions Judge, Satara."
+}

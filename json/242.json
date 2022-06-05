@@ -1,0 +1,1230 @@
+{
+  "header": "ORDER BELOW EXH.01 IN CRI. BAIL APPLN. NO. 45/2019 Dattatray Ratan Bhise Vs. State of Maharashtra",
+  "background": {
+    "text": "This is an application for regular bail as per section 439 of the Code of Criminal Procedure, 1973. Heard advocate Mr.Khan for applicant. He submitted that in Crime No.503/2018 registered with Phaltan Rural Police Station for the offences punishable under sections 376 etc. of the Indian Penal Code, applicant is behind the bars since 22/11/2018. Investigation is completed and charge­sheet is filed by the police before the JMFC, Phaltan. Further presence of this applicant is not at all required by the police for investigation. He is local resident. He belongs to poor family of the scheduled caste. He is innocent. He has not committed any offence. Out of some money transactions, he is falsely implicated by the informant at the instance of her husband.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "439",
+          "stringMatched": "section 439 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "376",
+          "stringMatched": "under sections 376 etc. of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2. By inviting my attention to the documents along­with list at Exh.11, he submitted that towards money transaction, husband of the informant prosecutrix obtained blank cheques of his signs from applicant. He was informed that he should not misuse it, but by presenting those for payment, he has got those dishonoured and accordingly has issued notice under section 138 of the Negotiable Instruments Act to him. Prosecutrix and her husband want to grab huge amount from him. Allegations in the FIR about commission of rape upon the informant are totally false. Therefore he submitted that by imposing certain conditions, applicant may be released on bail as he is the sole earning member of his family. There is no question of tampering of evidence as the prosecutrix along­with her husband is residing at Bhayandar (East), District – Thane.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "By inviting my attention to the documents along­with list at Exh.11, he submitted that towards money transaction, husband of the informant prosecutrix obtained blank cheques of his signs from applicant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "He was informed that he should not misuse it, but by presenting those for payment, he has got those dishonoured and accordingly has issued notice under section 138 of the Negotiable Instruments Act to him.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Prosecutrix and her husband want to grab huge amount from him.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Allegations in the FIR about commission of rape upon the informant are totally false.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Therefore he submitted that by imposing certain conditions, applicant may be released on bail as he is the sole earning member of his family.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "There is no question of tampering of evidence as the prosecutrix along­with her husband is residing at Bhayandar (East), District – Thane.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3. APP Mrs. Diwakar by filing her say at Exh.9 strongly resisted the application. She submitted that allegations against this applicant in the FIR are serious. By taking undue advantage of the mental illness of informant, he has repeatedly committed rape upon her since 2015. He has also taken some golden ornaments and Oppo company mobile handset from her. He has given threats to her. Investigation is in progress. If applicant is released on bail then he is likely to tamper with the evidence of prosecution. Therefore she submitted that application may be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "APP Mrs. Diwakar by filing her say at Exh.9 strongly resisted the application.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "She submitted that allegations against this applicant in the FIR are serious.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "By taking undue advantage of the mental illness of informant, he has repeatedly committed rape upon her since 2015.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "He has also taken some golden ornaments and Oppo company mobile handset from her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "He has given threats to her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Investigation is in progress.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "If applicant is released on bail then he is likely to tamper with the evidence of prosecution.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "Therefore she submitted that application may be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4. Though in the say filed by the prosecution at Exh.9 it is contended that investigation is in progress, however, along­with list at Exh.11, applicant has produced on record copy of the charge­sheet filed by the police before the JMFC, Phaltan bearing RCC No. 90/2019. Thus, it is seen that investigation is totally completed. Applicant was arrested on 22/11/2018 and he was remanded in the police custody till 26/11/2018. Part of his custodial interrogation is already over. Oppo company mobile along­with motorcycle is seized at his instance.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Though in the say filed by the prosecution at Exh.9 it is contended that investigation is in progress, however, along­with list at Exh.11, applicant has produced on record copy of the charge­sheet filed by the police before the JMFC, Phaltan bearing RCC No. 90/2019.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Thus, it is seen that investigation is totally completed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Applicant was arrested on 22/11/2018 and he was remanded in the police custody till 26/11/2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Part of his custodial interrogation is already over.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Oppo company mobile along­with motorcycle is seized at his instance.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5. After going through the FIR dated 31/10/2018, it is seen that alleged incidents of rape upon the informant are of the year 2014. Last incident is of 24/01/2018. But what is important to note is that FIR came to be lodged after about ten months and on 31/10/2018. In the FIR itself, it is mentioned by informant that she was suffering from mental illness and now she is fully recovered. She has not at all explained as to why she did not lodge the FIR immediately though it is seen from the averments in the FIR that she alone used to come to village Hol, Taluka – Phaltan.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "After going through the FIR dated 31/10/2018, it is seen that alleged incidents of rape upon the informant are of the year 2014.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Last incident is of 24/01/2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "But what is important to note is that FIR came to be lodged after about ten months and on 31/10/2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "In the FIR itself, it is mentioned by informant that she was suffering from mental illness and now she is fully recovered.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "She has not at all explained as to why she did not lodge the FIR immediately though it is seen from the averments in the FIR that she alone used to come to village Hol, Taluka – Phaltan.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 5,
+      "text": "6. After going through the documents along­with list at Exh.11, it is seen that informant, her husband and this applicant are close family friends. Thus they are acquainted with each other since long. It is alleged in the notice issued by husband of informant that he advanced friendly loan of Rs.7,00,000/­ to the applicant in the year 2015. He issued two cheques i.e. one of Rs.4,00,000/­ and other of Rs.3,50,000/­ to him, but those came to be dishonoured in the month of June 2018. Accordingly notice came to be issued to applicant which he has replied through his advocate on 13/07/2018. These transactions are of the dates prior to lodging of the FIR on 31/10/2018.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "6.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "After going through the documents along­with list at Exh.11, it is seen that informant, her husband and this applicant are close family friends.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Thus they are acquainted with each other since long.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "It is alleged in the notice issued by husband of informant that he advanced friendly loan of Rs.7,00,000/­ to the applicant in the year 2015.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "He issued two cheques i.e. one of Rs.4,00,000/­ and other of Rs.3,50,000/­ to him, but those came to be dishonoured in the month of June 2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Accordingly notice came to be issued to applicant which he has replied through his advocate on 13/07/2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "These transactions are of the dates prior to lodging of the FIR on 31/10/2018.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 6,
+      "text": "7. Informant prosecutrix is the matured lady of 33 years of age. Considering the fact that there were some financial transactions in between them and both of them are family friends, applicant deserves to be released on bail subject to certain conditions. He is behind the bars since last more than three months. His presence is no more required by the police. There is no propriety in keeping him behind the bars for an inordinate period.",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "7.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Informant prosecutrix is the matured lady of 33 years of age.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Considering the fact that there were some financial transactions in between them and both of them are family friends, applicant deserves to be released on bail subject to certain conditions.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "He is behind the bars since last more than three months.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "His presence is no more required by the police.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "There is no propriety in keeping him behind the bars for an inordinate period.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 7,
+      "text": "8. Applicant is of young age and sole earning member in his family. FIR came to be lodged belatedly. Informant is resident of Bhayandar, District – Thane while applicant is resident of Hol, Taluka – Phaltan. Therefore question of tampering of evidence does not arise at all. If some stringent conditions are imposed then it would serve the purpose of prosecution. There are no antecedents against this applicant as those are not mentioned in the say filed by prosecution at Exh.9. Hence the order follows :­",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "8.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "Applicant is of young age and sole earning member in his family.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "FIR came to be lodged belatedly.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Informant is resident of Bhayandar, District – Thane while applicant is resident of Hol, Taluka – Phaltan.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Therefore question of tampering of evidence does not arise at all.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "If some stringent conditions are imposed then it would serve the purpose of prosecution.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "There are no antecedents against this applicant as those are not mentioned in the say filed by prosecution at Exh.9.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Hence the order follows :­",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1 Application is allowed. 2 In Crime No. 503/2018 registered with Phaltan Rural Police Station for the offences punishable under sections 376 etc. of the Indian Penal Code, applicant Dattatray Ratan Bhise, be released on bail upon his executing P.R. Bond of Rs.25,000/­ (Rs. Twenty five thousands) with one solvent surety in the like amount on following conditions : i) that applicant shall not in any manner make contact with the informant and her husband. 5/5 Criminal Bail Application No. 63/2019 ii) that he shall not visit their residence at Bhayandar, District – Thane. iii) that he shall attend each and every date fixed by the committal Court as well as this Court, unless his personal attendance is dispensed with on sufficient grounds. iv) that he shall not directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the accusation against him so as to dissuade him from disclosing such facts to the Court or to any police officer. v) that he shall not tamper with the evidence of prosecution in any manner. 3 Failure to obey any of the conditions above, would be liable to cancellation of bail granted to applicant. 4 Bail before the lower Court. 5 Inform Phaltan Rural Police Station accordingly.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "25000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "25000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "25000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "NA",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "NA"
+      }
+    ],
+    "attendPoliceStationFrequency": "0",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "0"
+      }
+    ]
+  },
+  "footer": "(Order is dictated and pronounced in the open Court). Satara (R.D.Deshpande) Dt. 22/02/2019. Additional Sessions Judge, Satara.",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE2"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH.01 IN CRI. BAIL APPLN. NO. 45/2019 Dattatray Ratan Bhise Vs. State of Maharashtra \r\n---header-ends---\r\nThis is an application for regular bail as per section 439 of the Code of Criminal Procedure, 1973. Heard advocate Mr.Khan for applicant. He submitted that in Crime No.503/2018 registered with Phaltan Rural Police Station for the offences punishable under sections 376 etc. of the Indian Penal Code, applicant is behind the bars since 22/11/2018. Investigation is completed and charge­sheet is filed by the police before the JMFC, Phaltan. Further presence of this applicant is not at all required by the police for investigation. He is local resident. He belongs to poor family of the scheduled caste. He is innocent. He has not committed any offence. Out of some money transactions, he is falsely implicated by the informant at the instance of her husband. \r\n---background-ends---\r\n2. By inviting my attention to the documents along­with list at Exh.11, he submitted that towards money transaction, husband of the informant prosecutrix obtained blank cheques of his signs from applicant. He was informed that he should not misuse it, but by presenting those for payment, he has got those dishonoured and accordingly has issued notice under section 138 of the Negotiable Instruments Act to him. Prosecutrix and her husband want to grab huge amount from him. Allegations in the FIR about commission of rape upon the informant are totally false. Therefore he submitted that by imposing certain conditions, applicant may be released on bail as he is the sole earning member of his family. There is no question of tampering of evidence as the prosecutrix along­with her husband is residing at Bhayandar (East), District – Thane. \r\n---argument-ends---\r\n3. APP Mrs. Diwakar by filing her say at Exh.9 strongly resisted the application. She submitted that allegations against this applicant in the FIR are serious. By taking undue advantage of the mental illness of informant, he has repeatedly committed rape upon her since 2015. He has also taken some golden ornaments and Oppo company mobile handset from her. He has given threats to her. Investigation is in progress. If applicant is released on bail then he is likely to tamper with the evidence of prosecution. Therefore she submitted that application may be rejected. \r\n---argument-ends---\r\n4. Though in the say filed by the prosecution at Exh.9 it is contended that investigation is in progress, however, along­with list at Exh.11, applicant has produced on record copy of the charge­sheet filed by the police before the JMFC, Phaltan bearing RCC No. 90/2019. Thus, it is seen that investigation is totally completed. Applicant was arrested on 22/11/2018 and he was remanded in the police custody till 26/11/2018. Part of his custodial interrogation is already over. Oppo company mobile along­with motorcycle is seized at his instance. \r\n---argument-ends---\r\n5. After going through the FIR dated 31/10/2018, it is seen that alleged incidents of rape upon the informant are of the year 2014. Last incident is of 24/01/2018. But what is important to note is that FIR came to be lodged after about ten months and on 31/10/2018. In the FIR itself, it is mentioned by informant that she was suffering from mental illness and now she is fully recovered. She has not at all explained as to why she did not lodge the FIR immediately though it is seen from the averments in the FIR that she alone used to come to village Hol, Taluka – Phaltan. \r\n---argument-ends---\r\n6. After going through the documents along­with list at Exh.11, it is seen that informant, her husband and this applicant are close family friends. Thus they are acquainted with each other since long. It is alleged in the notice issued by husband of informant that he advanced friendly loan of Rs.7,00,000/­ to the applicant in the year 2015. He issued two cheques i.e. one of Rs.4,00,000/­ and other of Rs.3,50,000/­ to him, but those came to be dishonoured in the month of June 2018. Accordingly notice came to be issued to applicant which he has replied through his advocate on 13/07/2018. These transactions are of the dates prior to lodging of the FIR on 31/10/2018. \r\n---argument-ends---\r\n7. Informant prosecutrix is the matured lady of 33 years of age. Considering the fact that there were some financial transactions in between them and both of them are family friends, applicant deserves to be released on bail subject to certain conditions. He is behind the bars since last more than three months. His presence is no more required by the police. There is no propriety in keeping him behind the bars for an inordinate period. \r\n---argument-ends---\r\n8. Applicant is of young age and sole earning member in his family. FIR came to be lodged belatedly. Informant is resident of Bhayandar, District – Thane while applicant is resident of Hol, Taluka – Phaltan. Therefore question of tampering of evidence does not arise at all. If some stringent conditions are imposed then it would serve the purpose of prosecution. There are no antecedents against this applicant as those are not mentioned in the say filed by prosecution at Exh.9. Hence the order follows :­ \r\n---argument-ends---\r\nORDER 1 Application is allowed. 2 In Crime No. 503/2018 registered with Phaltan Rural Police Station for the offences punishable under sections 376 etc. of the Indian Penal Code, applicant Dattatray Ratan Bhise, be released on bail upon his executing P.R. Bond of Rs.25,000/­ (Rs. Twenty five thousands) with one solvent surety in the like amount on following conditions : i) that applicant shall not in any manner make contact with the informant and her husband. 5/5 Criminal Bail Application No. 63/2019 ii) that he shall not visit their residence at Bhayandar, District – Thane. iii) that he shall attend each and every date fixed by the committal Court as well as this Court, unless his personal attendance is dispensed with on sufficient grounds. iv) that he shall not directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the accusation against him so as to dissuade him from disclosing such facts to the Court or to any police officer. v) that he shall not tamper with the evidence of prosecution in any manner. 3 Failure to obey any of the conditions above, would be liable to cancellation of bail granted to applicant. 4 Bail before the lower Court. 5 Inform Phaltan Rural Police Station accordingly. \r\n---order-ends---\r\n(Order is dictated and pronounced in the open Court). Satara (R.D.Deshpande) Dt. 22/02/2019. Additional Sessions Judge, Satara."
+}

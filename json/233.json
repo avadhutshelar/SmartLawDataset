@@ -1,0 +1,882 @@
+{
+  "header": "ORDER BELOW EXH.01 IN CRI. MISC. APPLN. NO.36/2019 Amrut Kisan Kshirsagar etc.4 Vs. State of Maharashtra CNR­MHST01­000230­2019",
+  "background": {
+    "text": "This is an application for anticipatory bail as per section 438 of the Code of Criminal Procedure, 1973. Perused application and the documents placed on record. Heard advocate Mr. Hutagikar for applicants. He submitted that Crime No.25/2019 is registered against these applicants with Satara City Police Station for the offences punishable under sections 376 etc. of the Indian Penal Code. They are having strong apprehension of their arrest in this crime.",
+    "legalReferences": [
+      {
+        "refNumber": 1,
+        "legalActFound": {
+          "actNameMatched": "Code of Criminal Procedure",
+          "sectionsMatched": "438",
+          "stringMatched": "section 438 of the code of criminal procedure",
+          "legalAct": {
+            "actId": 1,
+            "actName": "Code of Criminal Procedure",
+            "actShortNameList": "CrPC,Cr.PC,Cr. P. C.,Cr.P.C.,Criminal Procedure Code",
+            "actYear": "1973",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "484"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      },
+      {
+        "refNumber": 2,
+        "legalActFound": {
+          "actNameMatched": "Indian Penal Code",
+          "sectionsMatched": "376",
+          "stringMatched": "under sections 376 etc. of the indian penal code",
+          "legalAct": {
+            "actId": 2,
+            "actName": "Indian Penal Code",
+            "actShortNameList": "IPC,I.P.C.,I.P.C",
+            "actYear": "1860",
+            "minSectionNumber": "1",
+            "maxSectionNumber": "511"
+          }
+        },
+        "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION",
+        "legalRefAcceptRejectDecisionAnnotations": [
+          {
+            "username": "a1",
+            "legalRefAcceptRejectDecision": "TBD"
+          },
+          {
+            "username": "a2",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          },
+          {
+            "username": "a3",
+            "legalRefAcceptRejectDecision": "ACCEPT_SUGGESTION"
+          }
+        ]
+      }
+    ]
+  },
+  "arguments": [
+    {
+      "argumentNumber": 1,
+      "text": "2. He invited my attention to the FIR lodged by informant/prosecutrix and submitted that present applicants have not at all having any role in the commission of alleged offences. They are falsely implicated by the informant/prosecutrix. Applicants No.3 and 4 are old aged and have nothing to do with the present crime. If they are arrested on false allegations then their reputation would be maligned. According to him, this Court has already granted ad­interim pre­arrest protection to these applicants on 18/01/2019. All the applicants are marking their presence before the concerned investigation machinery. Therefore he prayed that ad­interim pre­arrest protection granted to these applicants may be confirmed.",
+      "argumentBy": "APPLICANT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "APPLICANT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "APPLICANT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "2.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "He invited my attention to the FIR lodged by informant/prosecutrix and submitted that present applicants have not at all having any role in the commission of alleged offences.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "They are falsely implicated by the informant/prosecutrix.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "Applicants No.3 and 4 are old aged and have nothing to do with the present crime.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "If they are arrested on false allegations then their reputation would be maligned.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "According to him, this Court has already granted ad­interim pre­arrest protection to these applicants on 18/01/2019.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "All the applicants are marking their presence before the concerned investigation machinery.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Therefore he prayed that ad­interim pre­arrest protection granted to these applicants may be confirmed.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 2,
+      "text": "3. APP Mrs. Diwakar by filing her say at Exh.15 strongly 2/4 Criminal Misc. Application No. 36/2019 resisted the application. She replied that the husband of informant by giving allurement of marriage to her has repeatedly committed rape upon her. Though the informant raised her grievance with these applicants, they did not pay any heed. On the contrary they threatened her. If pre­arrest protection is granted to these applicants then they are likely to pressurize the informant and witnesses. Investigation is in progress and therefore she prayed that application may be rejected.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "3.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "APP Mrs. Diwakar by filing her say at Exh.15 strongly 2/4 Criminal Misc.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Application No. 36/2019 resisted the application.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "She replied that the husband of informant by giving allurement of marriage to her has repeatedly committed rape upon her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Though the informant raised her grievance with these applicants, they did not pay any heed.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "On the contrary they threatened her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "If pre­arrest protection is granted to these applicants then they are likely to pressurize the informant and witnesses.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "Investigation is in progress and therefore she prayed that application may be rejected.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 3,
+      "text": "4. After going through the FIR lodged by informant, it is seen that she is a matured lady of thirty years. She understands what is good and what is bad for her. She came physically in contact with the main accused Prashant and according to her, he committed rape upon her on various occasions by giving allurement of marriage to her. The FIR also discloses that both of them married on 05/05/2018 and they were staying in one rental room separately from these applicants. Address of these applicants is shown in the application as \u0027Godoli, Satara\u0027 while the rental room of the prosecutrix and her husband Prashant was at \u0027Daulatnagar, Karanje Peth, Satara\u0027.",
+      "argumentBy": "RESPONDENT",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "RESPONDENT"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "RESPONDENT"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "4.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "After going through the FIR lodged by informant, it is seen that she is a matured lady of thirty years.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "She understands what is good and what is bad for her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "She came physically in contact with the main accused Prashant and according to her, he committed rape upon her on various occasions by giving allurement of marriage to her.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "The FIR also discloses that both of them married on 05/05/2018 and they were staying in one rental room separately from these applicants.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "Address of these applicants is shown in the application as \u0027Godoli, Satara\u0027 while the rental room of the prosecutrix and her husband Prashant was at \u0027Daulatnagar, Karanje Peth, Satara\u0027.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argumentNumber": 4,
+      "text": "5. FIR further discloses that the role played by these applicants is only in respect of giving abuses and threats to the informant. Allegations levelled against them are not too serious so as to warrant their custodial interrogation. There is nothing which 3/4 Criminal Misc. Application No. 36/2019 is to be seized from them. By considering these aspects and age of applicants No.3 and 4 who are too old aged persons and alleged role of applicants No.1 and 2, this Court has already granted ad­ interim pre­arrest protection to them. Nowhere it is contended by the prosecution in its say that these applicants have ever violated any of the conditions imposed upon them by an order dated 18/01/2019. 6. On the contrary during the course of hearing, advocate of these applicants brought to the notice of this Court the diaries showing the presence marked by these applicants before the concerned police station as directed by this Court. Considering the averments in the FIR against these applicants, their custodial interrogation is not at all warranted. If some conditions are imposed then it would serve the purpose of prosecution. Hence the order follows :­",
+      "argumentBy": "JUDGE",
+      "argumentByAnnotations": [
+        {
+          "username": "a1",
+          "argumentBy": "TBD"
+        },
+        {
+          "username": "a2",
+          "argumentBy": "JUDGE"
+        },
+        {
+          "username": "a3",
+          "argumentBy": "JUDGE"
+        }
+      ],
+      "argumentSentences": [
+        {
+          "sentenceNumber": 1,
+          "text": "5.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "text": "FIR further discloses that the role played by these applicants is only in respect of giving abuses and threats to the informant.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "text": "Allegations levelled against them are not too serious so as to warrant their custodial interrogation.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "text": "There is nothing which 3/4 Criminal Misc.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "text": "Application No. 36/2019 is to be seized from them.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "text": "By considering these aspects and age of applicants No.3 and 4 who are too old aged persons and alleged role of applicants No.1 and 2, this Court has already granted ad­ interim pre­arrest protection to them.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "text": "Nowhere it is contended by the prosecution in its say that these applicants have ever violated any of the conditions imposed upon them by an order dated 18/01/2019.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "text": "6.",
+          "argumentSentenceType": "NA",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "NA"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "NA"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "text": "On the contrary during the course of hearing, advocate of these applicants brought to the notice of this Court the diaries showing the presence marked by these applicants before the concerned police station as directed by this Court.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "text": "Considering the averments in the FIR against these applicants, their custodial interrogation is not at all warranted.",
+          "argumentSentenceType": "PREMISE",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "PREMISE"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "PREMISE"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "text": "If some conditions are imposed then it would serve the purpose of prosecution.",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "text": "Hence the order follows :­",
+          "argumentSentenceType": "CONCLUSION",
+          "argumentSentenceTypeAnnotations": [
+            {
+              "username": "a1",
+              "argumentSentenceType": "TBD"
+            },
+            {
+              "username": "a2",
+              "argumentSentenceType": "CONCLUSION"
+            },
+            {
+              "username": "a3",
+              "argumentSentenceType": "CONCLUSION"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "text": "ORDER 1 Application is allowed. 2 In the event of their arrest in Crime No. 25/2019 registered with Satara City Police Station for the offences punishable under sections 376 etc. of the Indian Penal Code, applicant No.1 Amrut Kisan Kshirsagar, applicant No.2 Savita Kisan Kshirsagar, applicant No.3 Kanta Kisan Kshirsagar and applicant No.4 Kisan Shankar Kshirsagar, be released on anticipatory bail, upon their executing P. R. Bonds of Rs.15,000/­ (fifteen thousands) by each with one surety in 4/4 Criminal Misc. Application No. 36/2019 the like amount by each, on following conditions : i. that they shall attend Satara City Police Station on every Sunday in between 11.00 a.m. to 12.00 noon without fail until further orders. ii. that they shall not directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the accusation against him so as to dissuade them from disclosing such facts to the Court or to any police officer. iii. that they shall not threaten informant or witnesses of the prosecution in any way. iv. they shall not make any contact with the informant in any manner. 3 Failure to obey any of the conditions above, would be liable to cancellation of anticipatory bail granted to applicants. 4 Inform Satara City Police Station accordingly.",
+    "orderType": "ACCEPTED",
+    "orderTypeAnnotations": [
+      {
+        "username": "a1",
+        "orderType": "TBD"
+      },
+      {
+        "username": "a2",
+        "orderType": "ACCEPTED"
+      },
+      {
+        "username": "a3",
+        "orderType": "ACCEPTED"
+      }
+    ],
+    "bondAmount": "15000",
+    "bondAmountAnnotations": [
+      {
+        "username": "a1",
+        "bondAmount": "0"
+      },
+      {
+        "username": "a2",
+        "bondAmount": "15000"
+      },
+      {
+        "username": "a3",
+        "bondAmount": "15000"
+      }
+    ],
+    "attendPoliceStationRecurrence": "WEEKLY",
+    "attendPoliceStationRecurrenceAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationRecurrence": "NA"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationRecurrence": "WEEKLY"
+      }
+    ],
+    "attendPoliceStationFrequency": "1",
+    "attendPoliceStationFrequencyAnnotations": [
+      {
+        "username": "a1",
+        "attendPoliceStationFrequency": "0"
+      },
+      {
+        "username": "a2",
+        "attendPoliceStationFrequency": "1"
+      },
+      {
+        "username": "a3",
+        "attendPoliceStationFrequency": "1"
+      }
+    ]
+  },
+  "footer": "(Order is dictated and pronounced in the open Court) Satara (R.D.Deshpande) Dt.14/02/2019. Additional Sessions Judge, Satara.",
+  "annotationProcessingStage": "STAGE2",
+  "annotationProcessingStageAnnotations": [
+    {
+      "username": "a1",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a2",
+      "annotationProcessingStage": "STAGE1"
+    },
+    {
+      "username": "a3",
+      "annotationProcessingStage": "STAGE2"
+    }
+  ],
+  "processedText": "ORDER BELOW EXH.01 IN CRI. MISC. APPLN. NO.36/2019 Amrut Kisan Kshirsagar etc.4 Vs. State of Maharashtra CNR­MHST01­000230­2019 \r\n---header-ends---\r\nThis is an application for anticipatory bail as per section 438 of the Code of Criminal Procedure, 1973. Perused application and the documents placed on record. Heard advocate Mr. Hutagikar for applicants. He submitted that Crime No.25/2019 is registered against these applicants with Satara City Police Station for the offences punishable under sections 376 etc. of the Indian Penal Code. They are having strong apprehension of their arrest in this crime. \r\n---background-ends---\r\n2. He invited my attention to the FIR lodged by informant/prosecutrix and submitted that present applicants have not at all having any role in the commission of alleged offences. They are falsely implicated by the informant/prosecutrix. Applicants No.3 and 4 are old aged and have nothing to do with the present crime. If they are arrested on false allegations then their reputation would be maligned. According to him, this Court has already granted ad­interim pre­arrest protection to these applicants on 18/01/2019. All the applicants are marking their presence before the concerned investigation machinery. Therefore he prayed that ad­interim pre­arrest protection granted to these applicants may be confirmed. \r\n---argument-ends---\r\n3. APP Mrs. Diwakar by filing her say at Exh.15 strongly 2/4 Criminal Misc. Application No. 36/2019 resisted the application. She replied that the husband of informant by giving allurement of marriage to her has repeatedly committed rape upon her. Though the informant raised her grievance with these applicants, they did not pay any heed. On the contrary they threatened her. If pre­arrest protection is granted to these applicants then they are likely to pressurize the informant and witnesses. Investigation is in progress and therefore she prayed that application may be rejected. \r\n---argument-ends---\r\n4. After going through the FIR lodged by informant, it is seen that she is a matured lady of thirty years. She understands what is good and what is bad for her. She came physically in contact with the main accused Prashant and according to her, he committed rape upon her on various occasions by giving allurement of marriage to her. The FIR also discloses that both of them married on 05/05/2018 and they were staying in one rental room separately from these applicants. Address of these applicants is shown in the application as \u0027Godoli, Satara\u0027 while the rental room of the prosecutrix and her husband Prashant was at \u0027Daulatnagar, Karanje Peth, Satara\u0027.\r\n---argument-ends---\r\n5. FIR further discloses that the role played by these applicants is only in respect of giving abuses and threats to the informant. Allegations levelled against them are not too serious so as to warrant their custodial interrogation. There is nothing which 3/4 Criminal Misc. Application No. 36/2019 is to be seized from them. By considering these aspects and age of applicants No.3 and 4 who are too old aged persons and alleged role of applicants No.1 and 2, this Court has already granted ad­ interim pre­arrest protection to them. Nowhere it is contended by the prosecution in its say that these applicants have ever violated any of the conditions imposed upon them by an order dated 18/01/2019. 6. On the contrary during the course of hearing, advocate of these applicants brought to the notice of this Court the diaries showing the presence marked by these applicants before the concerned police station as directed by this Court. Considering the averments in the FIR against these applicants, their custodial interrogation is not at all warranted. If some conditions are imposed then it would serve the purpose of prosecution. Hence the order follows :­ \r\n---argument-ends---\r\nORDER 1 Application is allowed. 2 In the event of their arrest in Crime No. 25/2019 registered with Satara City Police Station for the offences punishable under sections 376 etc. of the Indian Penal Code, applicant No.1 Amrut Kisan Kshirsagar, applicant No.2 Savita Kisan Kshirsagar, applicant No.3 Kanta Kisan Kshirsagar and applicant No.4 Kisan Shankar Kshirsagar, be released on anticipatory bail, upon their executing P. R. Bonds of Rs.15,000/­ (fifteen thousands) by each with one surety in 4/4 Criminal Misc. Application No. 36/2019 the like amount by each, on following conditions : i. that they shall attend Satara City Police Station on every Sunday in between 11.00 a.m. to 12.00 noon without fail until further orders. ii. that they shall not directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the accusation against him so as to dissuade them from disclosing such facts to the Court or to any police officer. iii. that they shall not threaten informant or witnesses of the prosecution in any way. iv. they shall not make any contact with the informant in any manner. 3 Failure to obey any of the conditions above, would be liable to cancellation of anticipatory bail granted to applicants. 4 Inform Satara City Police Station accordingly. \r\n---order-ends---\r\n(Order is dictated and pronounced in the open Court) Satara (R.D.Deshpande) Dt.14/02/2019. Additional Sessions Judge, Satara."
+}
